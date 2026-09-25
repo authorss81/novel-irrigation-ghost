@@ -1,14 +1,14 @@
 # Chapter 0005 — Two Professionals, One File
 
-The Memory Office in Vellum had sent for him, which was a phrase Mara Quill had always liked. Nobody in Vellum sent for anybody. Vellum received, catalogued, and declined to be hurried, and it was a considerable event when it reached out across four days of mountain road to a man it had never met and told him to be in a particular room at a particular hour.
+The Memory Office in Vellum had sent for him, which was a phrase Mara Quill had always liked. Nobody in Vellum sent for anybody. Vellum received, catalogued, and declined to be hurried, and it was a considerable event when it reached out across a day and a night of mountain road to a man it had never met and told him to be in a particular room at a particular hour.
 
-Tarin came in with a blister on his heel, an overnight bag with a bar in it, and four days of not sleeping, and he had decided on the road that he was going to lie by omission and get out.
+Tarin came in with a blister on his heel, an overnight bag with a bar in it, and a day and a night of not sleeping, and he had decided on the road that he was going to lie by omission and get out.
 
 He got as far as the second room.
 
 "You're late," said the woman at the bench.
 
-"Six hours. The coach at Ferrow had no water and then it had the wrong water."
+"Three hours. The coach at Ferrow had no water and then it had the wrong water."
 
 "Sit there. Not at the bench, at the table, the bench is a bench and not a table." She did not look up. She was reading a leaf by raking light with one hand flat on the press-glass, and she had the stillness of somebody who spends eleven hours a day making a single judgement and does not care to be interrupted between two of them. "Tarin Rusk, senior flow engineer, Cresset Water Office, four years in the lower terrace district, appointed to answer requisition eighteen of this month against folio eleven. You have an objection to any part of that?"
 
@@ -42,7 +42,7 @@ The woman looked up for the first time.
 
 "You have a notebook," she said.
 
-He had a waxed field book with a blue cover and a bar of chalk in the loop and a page he had not shown anybody. He had carried it from the intake to the arch to the warden's hut to the coach at Ferrow with his thumb worn white on the corner, and the number was on the second page, written at ten past six in the morning with a hand that had not been thinking about anything but a float.
+He had a waxed field book with a blue cover and a bar of chalk in the loop and a page he had not shown anybody. He had carried it from the intake to the arch to the warden's hut to the coach at Ferrow with his thumb worn white on the corner, and the number was on the second page, written at eleven minutes past six in the morning with a hand that had not been thinking about anything but a float.
 
 He opened it on the table and turned it round so it faced her and put his finger on the line.
 
@@ -66,7 +66,7 @@ The room was very quiet. Down the corridor somebody was calling for a second car
 
 Tarin put his hands flat on the table too, because he was about to do the thing he had come here not to do.
 
-"Then here is the rest of it," he said. "I did not put a number on that page. I did not know the page was there. There has been a head of five point eight nine on that gate for a hundred and eighty-one years, and on the first I went up to recalibrate a decommissioned float gauge and I found it and I unsealed the inspection gate with a bar at ten past six in the morning before the warden check, and the water came through the gallery and went uphill down the terrace overflow run, and I have not been able to shut it from the intake end because the head is above the gate seating and there is no crew up there and no authority."
+"Then here is the rest of it," he said. "I did not put a number on that page. I did not know the page was there. There has been a head of five point eight nine on that gate for a hundred and eighty-one years, and on the first I went up to recalibrate a decommissioned float gauge and I found it and I unsealed the inspection gate with a bar at eleven minutes past six in the morning before the warden check, and the water came through the gallery and went uphill down the terrace overflow run, and I have not been able to shut it from the intake end because the head is above the gate seating and there is no crew up there and no authority."
 
 He stopped there, because that was all of it, and because he had no idea what it was for.
 
@@ -82,7 +82,7 @@ Mara Quill sat back in her chair and put two fingers on the requisition and two 
 
 "That is not a route question," she said. "That is a complaint."
 
-"That is a complaint *with* a route in it," he said. "I have a courtyard under four inches of water and a plate across a drain and fifteen days of cistern on forty thousand people, and I have a number in my book that matches a ghost on a page in your building, and I would like to know which of those is the lie, and I have four days' travel and no authority and one bar."
+"That is a complaint *with* a route in it," he said. "I have a courtyard under four inches of water and a plate across a drain and fifteen days of cistern on forty thousand people, and I have a number in my book that matches a ghost on a page in your building, and I would like to know which of those is the lie, and I have a day and a night's travel and no authority and one bar."
 
 Mara Quill was quiet for a moment. Then she stood, and unlocked the press, and took out the volume, and set it on the table between them, and turned to the substituted leaf without finding the page number, which told him she had done it a great many times.
 
@@ -150,13 +150,13 @@ And then the thing said:
 
 Tarin Rusk took his hand off the stone and sat back on his heels on the floor of a stone cellar in Vellum and did not say anything for some time.
 
-Underneath the words there was something else. Not more words. A pressure, like a room with more air in it than the room was built for, or a hold on a rope with somebody's weight at the far end of it. He could not tell, sitting there on a cellar floor, whether that was a second thing saying something or the first thing going on behind his own ears, and he had been four days on a mountain road with no water and no sleep, and there was a perfectly good mundane explanation available for a man in his condition. He reached for it and held on to it.
+Underneath the words there was something else. Not more words. A pressure, like a room with more air in it than the room was built for, or a hold on a rope with somebody's weight at the far end of it. He could not tell, sitting there on a cellar floor, whether that was a second thing saying something or the first thing going on behind his own ears, and he had been a day and a night on a mountain road with no water and no sleep, and there was a perfectly good mundane explanation available for a man in his condition. He reached for it and held on to it.
 
 *One route*, he thought. The stone has two sets of letters and three lines and a witness hand and he had counted, in the ordinary way, at least two things that wanted saying to him, and the thing had said *one*.
 
 And it had not told the water to ask. It had told the *water*. Water does not need a witness. What was in that stone was not a channel asking for a person; it was a piece of paper with a keeper's mark on it, in a dry cellar, five and a half years past a pending slip, and it was not the water that had been waiting, it was the *record* — a thing that had been waiting a hundred and eighty-one years for somebody to be in a room with it.
 
-Or he was a man who had not slept, in a cellar, in Vellum, at the end of four days of mountain road, feeling the inside of a stone because his hand was cold and the stone was not.
+Or he was a man who had not slept, in a cellar, in Vellum, at the end of a day and a night of mountain road, feeling the inside of a stone because his hand was cold and the stone was not.
 
 That was the whole of what he had. He could not make the water go anywhere with it. He could not open the gate from a cellar in Vellum, and there was nothing whatever in that information about a courtyard in Cresset where a cistern was filling to a third and a plate of iron was taking the weight of a mountain.
 
@@ -174,11 +174,11 @@ Mara Quill was watching him from the other side of the stone.
 
 She let that sit, and then she said, in a completely different voice: "You have read a stone. Say the number out loud and tell me what it is doing, and then we will know what you are, because I have run out of categories."
 
-"It is not doing anything," Tarin said. "There is a line in that stone and I can feel where it goes, and it is wet, and it is real, and there is nothing in it that will open a gate or move a foot of water. I have a courtyard in Cresset with four inches in it and a plate across the drain and fifteen days of cistern, and this thing under my hand in this cellar cannot put a bucket down that has gone dry." He put his hands on his knees. "And it asked for a witness. Whatever it was asking, it was not asking me. I have no standing here, no office, no crew, and four days of travel already behind me. I am the wrong man for a witness and I know it."
+"It is not doing anything," Tarin said. "There is a line in that stone and I can feel where it goes, and it is wet, and it is real, and there is nothing in it that will open a gate or move a foot of water. I have a courtyard in Cresset with four inches in it and a plate across the drain and fifteen days of cistern, and this thing under my hand in this cellar cannot put a bucket down that has gone dry." He put his hands on his knees. "And it asked for a witness. Whatever it was asking, it was not asking me. I have no standing here, no office, no crew, and a day and a night of travel already behind me. I am the wrong man for a witness and I know it."
 
 "Then who is the right one?"
 
-That was the question, and he had been carrying it down from the mountain since the first, and he had been carrying it down for four days with a growing certainty that he already knew the answer and did not like it.
+That was the question, and he had been carrying it down from the mountain since the first, and he had been carrying it down for a day and a night with a growing certainty that he already knew the answer and did not like it.
 
 "You have said the volume is the only durable record of that works, and that a route has to be legible to be moved. I have known that since I was nineteen without ever once putting it in a sentence." He stood up and put the stone back in the rack in its place, because he had not asked to move it and would not. "The only people in this basin who have used that route, kept it, swept it, and argued about it for a hundred and eighty years live at the end of the run. And they are not in your catalogue, and not in the district schedule, and the warden's board says their outfall is plated and out of service with no keeper and no key, and my notice came back from the commissioner's office because there is no such row in the district schedule."
 

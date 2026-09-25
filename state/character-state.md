@@ -19,10 +19,10 @@ Updated after Batch 0001 (Volume 01, Chapters 1–10, Days 1–20). Compact and 
 
 - **Age 31.** Provenance record conservator, Municipal Memory Office, Vellum. Eleven years in service. Non-magical and stays non-magical for the series.
 - **Power:** none, and never any. Her expertise is provenance — nib cut, gum, batch stamp on the tin lid, sizing, watermark, pressure shadow, pressure of the stroke.
-- **Wants:** Glassstep's legal name, land claims, and basin share. She has not told anyone this in prose yet and does not need to.
+- **Wants:** Glassstep's legal name, land claims, and basin share. She put her own origin on the page in her own point of view in Chapter 8 and has told nobody in dialogue: born in the second house on a lane in a district that is on no sheet she has ever certified, to a mother who kept the pump books for a household of canal workers, eleven years in a building that has never once had her mother's lane to hand.
 - **Holds:** a hand-drawn one-to-one key of the substitution pattern, drawn in her own ink, **not entered in the hand-drawing register**. It is the only copy outside the restriction and she is the only person who can read it. She chose that on purpose, on condition that nobody can check her.
 - **Vulnerability:** the folio went into restricted handling on Day 3. The restriction decision she is waiting on has no date she knows. She has said nothing to Tarin, and Tarin has not asked.
-- **Relationship position:** professional respect reached in Chapter 5 and neither of them wanted it. They have not corresponded directly; her two-line answer of Day 15 was written above her and she let him know that. **No agreement to share evidence yet** — that belongs to Chapters 11–20, with conditions attached, and it is never repaired into trust.
+- **Relationship position:** professional respect reached in Chapter 5 and neither of them wanted it. They have not corresponded directly; her two-line answer of Day 15 was written above her and she let him know that. **She is the only character who has heard the word *Gauge* spoken**, in Chapter 5, and her position on it is on the page: she has never in her life been told anything by a piece of paper. **No agreement to share evidence yet** — that belongs to Chapters 11–20, with conditions attached, and it is never repaired into trust.
 - **Family complication:** the hand on both redactions is her mother's brother, **Wend Quill**, still in the acting commissioner's registry. She has not told Tarin and has not decided what to do.
 
 ## Sluice Warden Pell
@@ -44,7 +44,7 @@ Updated after Batch 0001 (Volume 01, Chapters 1–10, Days 1–20). Compact and 
 - 41. Water physician and public-health examiner. Has been coming to Glassstep since the spring, telling the row their water is bad and the city lies, and has never been able to file a case, because the row has no name.
 - Holds a written account of salt fever in four children caused by a route opened without a legitimacy condition, and follow-up she cannot fund.
 - Refuses to be Tarin's ally, refuses to let him keep a branch running past a fever curve, and made him tell her the cause before she proved it. She does not stop treating on his account.
-- She knows the word *Gauge* and the older usage of *reader*; she has read four accounts of a reader working and thinks three of them worthless.
+- She has heard the word *reader* and has no use for it. She told Tarin in Chapter 7 that the old accounts of readers working are worthless, and she does not treat any of it as evidence of anything. She is not a reader's ally and must not be written as one.
 
 ## Niko Venn
 

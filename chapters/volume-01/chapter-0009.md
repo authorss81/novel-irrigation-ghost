@@ -12,7 +12,7 @@ That was all. He had not locked the door or taken the seal off anything. He had 
 
 "Sit down. That is not a request and it is not a favour; it is a man being charged being given the chance to be sitting down when it happens." Roe was about fifty, and greying at the sides in the way of a man who had spent thirty years in a building with bad ventilation, and he had a face that gave nothing away at all, and he pushed the good paper two inches towards the empty chair. "You have a log."
 
-"I have a log." Tarin sat. "And I have the answer to requisition eighteen, which went by coach on the sixth, and I have not had an acknowledgement of either, and I have been in a cellar in Vellum for four days and half of that was a mountain road in the rain."
+"I have a log." Tarin sat. "And I have the answer to requisition eighteen, which went by coach on the fifth, and I have not had an acknowledgement of either, and I have been three days out of this district and a day and a night of that was a mountain road in the rain."
 
 "You have had neither because nobody signs for them until they are read by a person with a room," said Roe. "That is not discourtesy. It is what happens when an office is short of eleven people and one of them is a commissioner. I will read the log now. Fenn will witness."
 
@@ -86,7 +86,7 @@ Fenn looked up. Osla Vint unfolded her arms.
 
 "The figure of five point eight nine on that page is not a number that anybody invented," Tarin said. "It is the true reading of a head that has been standing on that gate since before the flood, and it is on the page because somebody took it off the record and put a clean leaf in its place so that the record would say the gate was dry. That is the work of an office, Commissioner, not of a forger, because a forger writes a number that suits him and this has a real reading lifted out of a book and a dull column of true readings left above the hole. And the word on the page is *maintained*, which means the man who did it expected to be found and wanted somebody to answer for it."
 
-"That is a great deal of accusation for a man who was in a cellar four days ago," said Roe.
+"That is a great deal of accusation for a man who was in a cellar five days ago," said Roe.
 
 "It is one accusation, and it is the only one I can make, and I am making it to your face and to Fenn's face and not to a magistrate, because I have no page, no witness and no standing, and if I wait for standing I will not make it at all." Tarin's voice had not risen and he was aware of every person in the room looking at him. "The decommissioning certificates in that folder, and the gauge certificate in your own hand, were filed by this office over the last six years, and they say there is no residual head at Ashgate. There is a residual head at Ashgate.
 
@@ -100,7 +100,7 @@ The expression on his face had not changed once since Tarin had come into the ro
 
 "You have got a piece of paper in Vellum with a real reading on it."
 
-"I have got a piece of paper in Vellum that a conservator has declined to certify and a log from an engineer who unsealed a structure, and I have got a notice with an empty box in it, and I have got a pumping noise in a building that two hundred people have slept beside for a year." He put the folder down and squared it. "And I have got a man in front of me who has known about all of it since the first of this month and who sat on it in a cellar in Vellum for three days on the road, and then came back up that hill, and posted nothing, and told nobody, and did the one thing I could not have stopped him from doing, which was to stand in my own office and say it out loud in front of witnesses."
+"I have got a piece of paper in Vellum that a conservator has declined to certify and a log from an engineer who unsealed a structure, and I have got a notice with an empty box in it, and I have got a pumping noise in a building that two hundred people have slept beside for a year." He put the folder down and squared it. "And I have got a man in front of me who has known about all of it since the first of this month and who sat on it for three days out of his own district with a day and a night of it on a mountain road, and then came back up that hill, and posted nothing, and told nobody, and did the one thing I could not have stopped him from doing, which was to stand in my own office and say it out loud in front of witnesses."
 
 He turned to Fenn.
 

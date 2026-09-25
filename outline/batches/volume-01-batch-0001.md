@@ -8,7 +8,7 @@ Expected length: 25,000–32,000 words across ten complete scenes. This is a bud
 
 - **Beginning (Ch 1–3, Day 1):** Ordinary competence, a forced gate, water that runs uphill, and a concealed decision. The protagonist's skill carries the opening; the water is not his doing and the district it reaches is his childhood.
 - **Setup (Ch 4, Day 2):** A second professional finds the paperwork crime from the other end of the same file.
-- **Midpoint (Ch 5, Day 6):** The two are locked in one room, each holding half of a physical fact. The Gauge speaks for the first time and asks for a witness. Antagonism becomes reluctant respect.
+- **Midpoint (Ch 5, Day 5):** The two are locked in one room, each holding half of a physical fact. The Gauge speaks for the first time and asks for a witness. Antagonism becomes reluctant respect.
 - **Escalation (Ch 6–9, Days 7–10):** The branch is named and opened, the water makes three children sick, the first name debt falls, the substitution pattern reaches Glassstep, and the man who falsified the log builds a case out of Tarin's own work. Pressure rotates through consequence, investigation, cost, and politics rather than repeating a chase.
 - **Climax (Ch 10, Day 20):** The naming in public, a witness who walks away, eleven hours of water, and a second formal charge the same afternoon.
 - **Aftermath (close of Ch 10):** The branch keeps running for nine hours after the warden's men remove him at 18:00 and stops at 03:00 with nobody in it. The route was never his property. See *Aftermath and handoff state* below.
@@ -35,7 +35,7 @@ Ten chapters, Days 1–20. The midsummer ration review is posted for Day 22, and
 | 2 | 1 | midday | Pell names the sealed terrace outfall. The concealment. |
 | 3 | 1 | late afternoon | Glassstep; the cistern stops at a third for the reason Chapter 2 gave. |
 | 4 | 2 | mid-morning | Mara finds the replaced leaf. |
-| 5 | 6 | mid-morning | The requisition; the first Gauge statement. Four days of delay, on purpose. |
+| 5 | 5 | mid-morning | The requisition; the first Gauge statement. Three days of delay, on purpose. |
 | 6 | 7 | dawn | The branch is named and opened. |
 | 7 | 7 | daytime | Salt fever; the first name debt. |
 | 8 | 9 | after hours | The ink, the Glassstep cousins, the empty register. Same day Glassstep's low pump goes dry. |
@@ -212,7 +212,7 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **POV:** Tarin Rusk, with Mara Quill
 
-**Location/time:** The Memory Office, provenance room, mid-morning, **Day 6** — four days after Mara's bench, and sixteen days before the review.
+**Location/time:** The Memory Office, provenance room, mid-morning, **Day 5** — three days after Mara's bench, and seventeen days before the review.
 
 **Immediate goal:** Answer the requisition with an explanation that does not require him to admit the gate is open.
 
@@ -234,7 +234,7 @@ That is the whole statement. It is incomplete because it does not say which rout
 
 Underneath the statement there is a second sound that is neither explanation nor advice. Nobody in the room hears it, nobody names it, and the chapter does not identify it. It is tracked in `state/open-threads.md`.
 
-**Continuity fact to preserve:** The Gauge never states a solution, a probability, or a future. It is a condition, and it can be wrong. It must not explain the substituted leaf to him; Mara does that with ink and pressure, the way the outline of this book says she does everything. Chapter 7's callback quotes the line above as it was spoken — "the Gauge was right that a route remembered" — so if the wording is softened in this chapter, the later chapter has nothing to refer back to.
+**Continuity fact to preserve:** The Gauge never states a solution, a probability, or a future. It is a condition, and it can be wrong. It must not explain the substituted leaf to him; Mara does that with ink and pressure, the way the outline of this book says she does everything. Chapter 7's callback quotes the line above as it was spoken — "the Gauge was right that a route remembered" — so if the wording is softened in this chapter, the later chapter has nothing to refer back to. **The mountain road is a day and a night each way, not four days.** He leaves on Day 4, is in the provenance room on the morning of Day 5, and writes his answer in the coach on the evening of Day 5 with the light going; he comes down off the watershed in the middle of the afternoon of Day 6, has the branch open by seven and the stop-gate out by dusk, hears the pump at ten that night, and digs until dawn on Day 7. Any later statement of the trip's length has to agree with that.
 
 **Ending type:** earned hook
 

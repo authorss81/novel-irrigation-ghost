@@ -57,6 +57,13 @@ Planning corrections made after review, before any prose existed. None of them c
 9. **The service window is eleven hours in both the Chapter 10 courtyard and the Chapter 46–49 Assembly.** The volume does not grow the number.
 10. **The midsummer ration review is deferred, not spent.** It is quoted as roughly three weeks away at the opening and is actually forced in Chapter 46. Chapters 1–10 run on the cistern rows instead.
 
+## Canon changes from the Batch 0001 repair pass
+
+A verification pass found Chapters 1–10 to be complete, finished, and on-card, with two continuity defects and several seams. All are fixed in place. No chapter was rewritten, no beat was moved, and no plot, ending, or antagonist change resulted.
+
+11. **The two faces of the Glassstep pump marker stone are now fixed and the contradiction is gone.** The **old weathered face** carries the route name, the date, and Roke's crooked mark under the date. The **other face is blank and stays blank all volume.** Niko now argues for the blank face and Tarin overrules him on the page with a reason, so the setup is paid off instead of ignored. This is the physical referent of the Chapter 10 Gauge line and must not be written otherwise. See `state/continuity.md`.
+12. **Chapter 5 moves to Day 5, and the mountain road is a day and a night each way.** The prose had four days of travel compressed into a return journey that began the same morning. Chapters 6, 7, 8, 9, and 10 keep their days, so the whole downstream spine is unchanged. Chapter 9's "four days"/"three days" and Chapter 8's "in four days" are reconciled to the same trip, and the Day 1 gate opening now reads **06:11 aloud** everywhere to match the log.
+
 ## Bootstrap canon
 
 See `bible/`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and `outline/batches/volume-01-batch-0001.md`. The final enemy is the already-seeded One Map, operated by Chancellor Boryn Vey; no new final threat is permitted. Boryn enters publicly in Volume 5 and must not appear as a mastermind in Volume 1.

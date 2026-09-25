@@ -26,7 +26,7 @@ Pell's pencil was already moving. "Unsealed means open."
 
 "By whom."
 
-"By a bar," Tarin said. "At ten past six this morning, which is before the check."
+"By a bar," Tarin said. "At eleven minutes past six this morning, which is before the check."
 
 Pell wrote that down. He wrote slowly, because Pell wrote everything slowly, and when he had finished the line he read it back the way he always did, and the reading-back was the moment Tarin understood that he had just put his own hand in a document.
 

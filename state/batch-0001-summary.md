@@ -2,7 +2,7 @@
 
 **Range:** Chapters 1–10, Days 1–20 of the ration.
 **Words:** ~32,900 across ten chapters. Slightly over the 25,000–32,000 budget; the overage sits in the Chapter 10 climax, which carries the public naming, a refusal, a departure, two charges and a 03:00 coda. The batch outline calls the figure a budget and forbids cutting a finished scene to hit it, so the scenes were kept.
-**Review:** one independent review pass run on the batch. All BLOCKING findings were fixed: the Chapter 10 clock, the flow arithmetic, the unused stop-log, the Chapter 6 night dig, the Chapter 7 closing image, the cistern deadline, the Chapter 8 dates, and the requisition chronology. See *Corrections applied* at the end.
+**Review:** one independent review pass run on the batch, then a second verification pass that re-read all ten chapters against the cards. All BLOCKING findings were fixed: the Chapter 10 clock, the flow arithmetic, the unused stop-log, the Chapter 6 night dig, the Chapter 7 closing image, the cistern deadline, the Chapter 8 dates, and the requisition chronology. See *Corrections applied* at the end. The verification pass then found two more continuity defects and several seams, all fixed in place — see *Verification and repair pass* below.
 
 ## What the batch proves
 
@@ -62,6 +62,19 @@
 - Niko is in the Chapter 10 yard and has named his descent. Hanne Roeg's unanswered question about Lira is answered in Chapter 10 and not accepted.
 - The "second sound" is no longer pre-sounded in Chapters 1–2 and the Chapter 10 version uses the pressure image rather than a crowd image.
 - Filler and tic passes: *held* 15 uses, *the whole of* reduced from 23 to 14, decorative *eleven* uses cut, "four hundred" varied.
+
+## Verification and repair pass
+
+A second pass re-read all ten chapters against the cards and confirmed the batch is complete: ten finished scenes, no stubs, no cut-off endings, no duplicated paragraphs, no meta leakage, both Gauge panels verbatim, the Chapter 10 clock and its flow arithmetic correct, and nine of ten cards fully covered with one partial. Two continuity defects and six seams were found and fixed. **No chapter was rewritten and no beat was moved.**
+
+- **Blocking — Chapter 7 terminology.** The upper-markets name was given as *memory bleed*, which `bible/terminology.md` forbids outright and which collides with a Volume 6 phenomenon. Corrected to *the scaling*.
+- **Blocking — the marker stone's faces.** Four descriptions of the same stone were mutually incompatible, and two of them left the Chapter 10 Gauge line — *The stone is blank. Two hands are on it* — without a physical referent. The old weathered face now carries the name, the date, and Roke's mark under the date; the other face is blank and stays blank. Niko's advice about the blank face is now overruled by Tarin **on the page, with a reason**, so the setup is paid off rather than ignored. Chapter 6's "turned the stone back" and Chapter 10's two "other side" references are corrected. The state of the stone is now written down in `state/continuity.md` so no later batch has to infer it.
+- **Travel time.** Chapter 5 had four days of mountain road and then returned the same morning. The road is now **a day and a night each way** and Chapter 5 sits on **Day 5**; Chapters 6–10 keep their days, so the spine is unchanged. Chapter 9's "four days"/"three days" for the same trip and Chapter 8's "in four days" are reconciled.
+- **Clock seam.** The Day 1 gate opening is now **06:11 spoken as well as written** (Chapters 2, 5, 6). The Day 7 branch opening stays at ten past six, because it is a different event.
+- **Chapter 10 montage** now runs 11, 12, 14, 16, 19 instead of jumping back from 16 to 14.
+- **Hanne Roeg's staging sentence** was reused almost word for word three times; the second and third are now differentiated while the establishing instance in Chapter 3 is untouched.
+- **`state/character-state.md`** credited Yara Sen with knowledge of the word *Gauge* that belongs to Mara Quill, and understated that Mara puts her own unlisted-district origin on the page in Chapter 8. Both corrected, because either error would have misled the next batch.
+- **The Chapter 8 card** asks for a career cost that the chapter pays only as anticipated consequence. The cost is deliberately scheduled for Chapter 16 by the Batch 0002 prompt, so the card was left alone rather than forcing a scene into a chapter that already works.
 
 ## Pipeline handoff
 

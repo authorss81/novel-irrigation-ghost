@@ -6,11 +6,11 @@ On the eleventh he went down the terrace road to the warden's station and asked 
 
 On the twelfth he wrote to the Municipal Memory Office in Vellum, four lines, asking for the certified discrepancy to be released so that the number in his log had a document behind it that was not a hundred and eighty-one years old. The answer came on the fifteenth and was two lines and was correct, and told him that a certified discrepancy is the property of the Office and not of the person who certified it. He read it four times and understood that she had not written it, that somebody above her had, and that she had let him know which of the two it was.
 
+On the fourteenth he was sitting on the mill wall with Niko Venn, who had been asking what was at the other end of that arch since the seventh, and who told him there was a way down into the old filter house under the works, off the quarry side, in a cut no survey in the city recorded, because his own father had run a load of water down it in a wet year when Tarin was small enough to be somebody else's problem. Tarin wrote it into the blue book with the arm that still worked and put a line under it, and sat looking at the line, because he had no authority to send anybody down a cut and no money to pay anybody who went, and neither of those facts was going to improve.
+
 On the sixteenth he asked twenty-three people to stand on a stone.
 
 Nineteen said no, and the nineteen were not cowards. Two would not put their name near a plate the warden's board said was out of service. Four had drunk from the low pump on the seventh and watched three children be carried off it. Six said they would do it if there was a window, a date and a warden present, and then said, one after another, that there was no window and no date and no warden, and he had not been able to make those three things out of anything he had.
-
-On the fourteenth he was sitting on the mill wall with Niko Venn, who had been asking what was at the other end of that arch since the seventh, and who told him there was a way down into the old filter house under the works, off the quarry side, in a cut no survey in the city recorded, because his own father had run a load of water down it in a wet year when Tarin was small enough to be somebody else's problem. Tarin wrote it into the blue book with the arm that still worked and put a line under it, and sat looking at the line, because he had no authority to send anybody down a cut and no money to pay anybody who went, and neither of those facts was going to improve.
 
 Tam Roke never said no. He said nothing at all for nine days, and on the nineteenth he came past the gatehouse where Tarin was sleeping and left a length of oak at the wall, planed, tapered, sixteen inches long, with a groove cut down one face that took his chisel cleanly, and a hole drilled at the head for a pin, and no note.
 
@@ -26,7 +26,7 @@ The courtyard cistern was at a third and had been at a third for nineteen days.
 
 He had the arithmetic on the back of a ward notice, in a hand that was getting worse. He was, at half past three on the twentieth day of a ration, the only person in the Marrow Basin who had done it, and there was no office anywhere that would check it for him, and that was the situation.
 
-There were about eighty people in the yard when he came over the wall, which was more than the yard had held in his lifetime. Bel Crale had left the dispensary open. There were four children on the flags and somebody's mother on the step with a pail on her hip, and Wick had a bar and no idea what he was for, and Hanne Roeg was on the fourth step with her cane across her knees and the mat over her shoulder, because it was afternoon and it was what she did.
+There were about eighty people in the yard when he came over the wall, which was more than the yard had held in his lifetime. Bel Crale had left the dispensary open. There were four children on the flags and somebody's mother on the step with a pail on her hip, and Wick had a bar and no idea what he was for, and Hanne Roeg was four steps up with the mat over her shoulder, and she did not look up when he came over the wall, which was a thing she had never once failed to do.
 
 Niko Venn was at the stop-gate with a gauging stick in his hands, because there was nothing else he had been useful for in nine days and Tarin had told him on the fifteenth to stand there and not to speak, and he had stood there every afternoon since and had not once spoken, and the not-speaking had cost him more than anything the Office had ever asked him for.
 
@@ -58,7 +58,7 @@ Nobody said anything. She waited the four seconds she had meant to wait.
 
 Tarin Rusk put the bar down, and took the length of planed oak out from under his arm, and put the chisel in his breast pocket, and walked to the plinth of the low house where the marker stone was set, and got it out.
 
-One face of it was cut. It said *Glassstep low pump branch*, and the date, and under that a crooked mark cut by a man who said so out loud, and the letters of it were the cleanest stone work in the lower terrace, because he had known exactly what he was cutting and had not been frightened.
+One face of it was cut. It was the old one, the weathered face, the one the pump man had put the first name into forty years before. It said *Glassstep low pump branch*, and the date, and under that a crooked mark cut by a man who said so out loud, and the letters of it were the cleanest stone work in the lower terrace, because he had known exactly what he was cutting and had not been frightened.
 
 The other face was blank.
 
@@ -82,7 +82,7 @@ It was cold and gritty and it had never been written on, and there was nothing i
 
 > **The Gauge:** The stone is blank. Two hands are on it.
 
-Beneath it was the other thing again. He had had it once, on the sixth, and not since, and here it was in a yard with eighty people in it: a weight under the sentence, a hold on a rope with somebody's weight at the far end of it, a room with more air in it than the room was built for. He had a perfectly good explanation for it this time and took it gratefully — a yard, a warden, a crowd, and his own name in the middle of it. He would rather have the crowd.
+Beneath it was the other thing again. He had had it once, on the fifth, and not since, and here it was in a yard with eighty people in it: a weight under the sentence, a hold on a rope with somebody's weight at the far end of it, a room with more air in it than the room was built for. He had a perfectly good explanation for it this time and took it gratefully — a yard, a warden, a crowd, and his own name in the middle of it. He would rather have the crowd.
 
 *Two hands*, he thought. He looked down at the stone. One hand was on it, and it was his, and the stone was blank, and there was nothing whatever on that face of it, not his name and not a witness and not a date.
 
@@ -170,7 +170,7 @@ Tarin had his hand on the stone and his forearm was not in the channel, and he f
 
 A boy of about nine was standing at the cistern with a bit of chalk and had been marking the stonework every ten minutes, because that is what his mother had told him to do with a stick when the water came, in a lane where a great many things had been done on the strength of a stick. He said, without turning round, that it had come up a finger's width since four o'clock.
 
-They stood and watched a cistern in a yard that was not on any sheet fill at the rate of a finger's width every ten minutes, and it was not a miracle, and it was not nothing either. It was a head of five point eight nine metres on a shut gate, and a hand's width of branch, and a length of oak that a man had planed in his own kitchen, and a stone with one name on it and a crooked mark on the other side, and eighty people, and a warden.
+They stood and watched a cistern in a yard that was not on any sheet fill at the rate of a finger's width every ten minutes, and it was not a miracle, and it was not nothing either. It was a head of five point eight nine metres on a shut gate, and a hand's width of branch, and a length of oak that a man had planed in his own kitchen, and a stone with a name cut on its old face and a crooked mark cut under the date, and eighty people, and a warden.
 
 Pell wrote for a long time. The right-hand column was the last thing he filled, and it said 16:00, and the twenty minutes he had stood there with the pencil off the page were the twenty minutes in which an engineer in a wet coat had laid out his terms and a yard had decided what to do about them. He wrote the names of the people who had spoken, and he wrote down that one person had left the yard during the naming, which Tarin had not expected and understood, a little later, to be the single most useful thing in the book.
 
@@ -252,7 +252,7 @@ He had cut a name into a stone once, on a lane, with a man who was free to refus
 
 It had run nine hours after he was gone.
 
-It had stopped at three in the morning, in a lane on the lower terrace of a city that had been told its reservoir was dead, and it had stopped the way a thing stops when it has finished and not the way a thing stops when somebody tells it to, and there was nobody in it. Not him, and not Tam Roke, and not the man with the crooked mark on the other face of a stone whose blank face was still blank, and nobody in Vellum with a book, and nobody in the warden's station, and nobody in the whole of the Marrow Basin.
+It had stopped at three in the morning, in a lane on the lower terrace of a city that had been told its reservoir was dead, and it had stopped the way a thing stops when it has finished and not the way a thing stops when somebody tells it to, and there was nobody in it. Not him, and not Tam Roke, and not the man whose crooked mark is cut under a date on the old face of a stone whose other face is still blank, and nobody in Vellum with a book, and nobody in the warden's station, and nobody in the whole of the Marrow Basin.
 
 He got up and went out into the lane to look at it anyway, because he was an engineer and because it was dark and because there was nothing else to do.
 

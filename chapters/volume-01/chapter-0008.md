@@ -94,7 +94,7 @@ She read it in the dark by the light off the stair window. She could make out mo
 
 And the figure it confirmed was 5·89.
 
-Mara sat on the floor of a dark lower room in Vellum with a piece of paper in her hand and understood that the number was now in two documents, and that the one in the Ashgate leaf was a hundred and eighty-one years old, and that the man who had written the second one had been on a sealed intake at six in the morning with a bar in his hands, and that in four days he would have to explain to somebody which of the two numbers had been invented.
+Mara sat on the floor of a dark lower room in Vellum with a piece of paper in her hand and understood that the number was now in two documents, and that the one in the Ashgate leaf was a hundred and eighty-one years old, and that the man who had written the second one had been on a sealed intake at six in the morning with a bar in his hands, and that in a day or two he would have to explain to somebody which of the two numbers had been invented.
 
 And there was nobody else she could show it to. Not tonight. Tonight the only person in the basin who could read what she had drawn was the woman who had drawn it, and she had signed a porter's initials into a book instead of her own, and she had an uncle in the acting commissioner's registry who had written the word *maintained* in a hand that leaned, and who had been nineteen years old at her mother's table and had been paid a half-crown a sheet.
 

@@ -52,7 +52,7 @@ She set the jar down and went to a shelf and took down a stoppered jar of her ow
 
 "What is it."
 
-"It is called salt fever in the Reach and memory bleed in the upper markets and nothing at all in the office language, because the office language will not admit there is a name for it." She put the chalk down. "It is not a miasma. It is not a curse. It is not bad water in the way that dirty water is bad water, and I want that said clearly in this room, because the moment anybody in this row hears *bad water* they will decide the answer is a closed pump and a smaller district, and the answer is not a closed pump, because the water in the jar came out of a channel that was dry on Friday and there is no dirty water in this district to have got into it."
+"It is called salt fever in the Reach and the scaling in the upper markets and nothing at all in the office language, because the office language will not admit there is a name for it." She put the chalk down. "It is not a miasma. It is not a curse. It is not bad water in the way that dirty water is bad water, and I want that said clearly in this room, because the moment anybody in this row hears *bad water* they will decide the answer is a closed pump and a smaller district, and the answer is not a closed pump, because the water in the jar came out of a channel that was dry on Friday and there is no dirty water in this district to have got into it."
 
 "Then what is it," Tarin said.
 
@@ -72,7 +72,7 @@ He had not thought it in those terms. He had thought about a plate and a head an
 
 She looked up. "What?"
 
-"In Vellum. On the sixth. I put my hand on a record stone of the Ashgate intake and something said: one route remembers. It asks for a witness. Those are the words, and that is all it said." He heard himself and understood that he had said it out loud, and that he had said it the way a man says a thing he has been turning over for a day. "It was right that a route remembered. It said nothing whatever about what it would cost, and it asked for a witness and I found one, and I got a branch of water out of it, and I did not ask the three hundred."
+"In Vellum. On the fifth. I put my hand on a record stone of the Ashgate intake and something said: one route remembers. It asks for a witness. Those are the words, and that is all it said." He heard himself and understood that he had said it out loud, and that he had said it the way a man says a thing he has been turning over for a day. "It was right that a route remembered. It said nothing whatever about what it would cost, and it asked for a witness and I found one, and I got a branch of water out of it, and I did not ask the three hundred."
 
 Yara Sen looked at him for a moment with an expression he could not read, and then she said, "I have no use at all for that and I am not going to pretend to you that I have. Get out of my room."
 

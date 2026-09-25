@@ -6,7 +6,7 @@ He wrote the answer to requisition eighteen in the low room of the coach between
 
 It was a good answer, as answers went, nearly honest, and somewhere behind it, in the exact place Mara Quill had put her finger, the number 5·89 was now in two documents written a hundred and eighty-one years apart that had no business agreeing with each other.
 
-He had known that with the pen going, and had done it anyway, because the alternative was a paragraph in a woman's careful hand beginning *I opened a sealed structure at ten past six in the morning without authority*, and because some part of him had already worked out that being right was now the expensive option and had decided to buy it.
+He had known that with the pen going, and had done it anyway, because the alternative was a paragraph in a woman's careful hand beginning *I opened a sealed structure at eleven minutes past six in the morning without authority*, and because some part of him had already worked out that being right was now the expensive option and had decided to buy it.
 
 Then the coach crossed the watershed and the valley came up out of the dark to the chalk ridge with the terraces going down it in steps, and Tarin watched the light come off the cisterns on the lower rows and stopped thinking about the answer, because there were six thousand people between him and the answer and they were the part of it he could still fix.
 
@@ -24,7 +24,7 @@ There was no water in the yard at all. There had been four inches on the first a
 
 The blue doors were all shut. Somebody had scrubbed the ring off the third step and left the stone a shade paler than the rest.
 
-Hanne Roeg was on the fourth step with her cane across her knees, and there was a queue at the pump that went down the lane and turned, and it was not a queue for water. It was a queue for the pump's cistern, which was a smaller tank further down the lane and had been all this row had for thirty years, and the row had been managing it for six days by taking turns.
+Hanne Roeg was four steps up with her cane across her knees and the mat over her shoulder, and there was a queue at the pump that went down the lane and turned, and it was not a queue for water. It was a queue for the pump's cistern, which was a smaller tank further down the lane and had been all this row had for thirty years, and the row had been managing it for six days by taking turns.
 
 He had a timber stop-log cut to size, a wedge of iron, and no valve seat, and that was the entirety of his engineering. A branch this size off a head of 5·89 metres could not be metered. It would either carry more than the pump's tank could take and put four feet of water into a lane in about nine minutes, or carry nothing at all, and he would have spent the night on a hole in the ground with a stone in his hand.
 
@@ -65,6 +65,16 @@ Niko looked up. "Off the old terrace?"
 "Bottom step, inside face, wedged in the mortar of the plinth." Niko got it without being asked, which was the entirety of what he was for and had been for eleven months. It was a slab of limestone the size of a bread loaf, one face worn to a soft grey nothing, the other plain. "Two faces, because the man who set it was a pump man, and pump men are not fools about which side faces the weather. That side's the old one. The letters are still in it — you can feel them with a thumbnail — but they're gone too soft to read. And that," he turned it over and slapped the plain face, "is blank. That's the side he left for the next thing."
 
 Tarin turned the stone over twice in the light. The blank face was smooth and pale and had never been cut.
+
+"I know what I am saying," Niko said, without any heat in it. "You would be putting a second name over the first. Somebody in eighty years with a scraper will not know which of the two the row was."
+
+"I am not cutting that one," Tarin said. "I am cutting the worn one."
+
+"Why."
+
+"Because in eighty years the man with the scraper will know there were two of them, and that is a great deal more than he has now."
+
+Niko took about as long over it as it took him to decide it was not his to argue about.
 
 "Niko."
 
@@ -172,11 +182,11 @@ Half the row wanted the blue steps, which is what they called the lane, and the 
 
 "Glassstep," said Hanne Roeg, from the fourth step, without being asked. "It is what the pumps were built on. If you cut a name on a stone put it on the one it was given."
 
-Tarin got out the borrowed chisel and the mallet and the lump of grey Ashgate limestone, and he knelt on the flags on a lane that was not on a sheet, in a district that had been erased from a survey twenty-six years earlier by men who had bolted a plate over the drain, and he cut a name into a face of a stone that had already had one on it once.
+Tarin got out the borrowed chisel and the mallet and the lump of grey Ashgate limestone, and he knelt on the flags on a lane that was not on a sheet, in a district that had been erased from a survey twenty-six years earlier by men who had bolted a plate over the drain, and he cut a name into the old face of a stone that had already had one on it once.
 
 He had cut stones before. It was the one piece of craft he had never had to be taught, and it went the way it had always gone: the set of the chisel, the drop of the right wrist at the end of the stroke so the tool bit without a hammer, and the line coming up out of the limestone in a pale curl.
 
-He cut the route name. He cut the date, and the word of the day, and then he turned the stone back and cut the line for a mark, and handed the mallet to Tam Roke and stepped back out of the way.
+He cut the route name. He cut the date, and the word of the day, and then he cut a line under the date for somebody else's mark, and handed the mallet to Tam Roke and stepped back out of the way.
 
 Roke cut his own mark, and it was crooked, and he said so, and Tarin said it was the mark of a man who does not do it every day, and Roke said that was exactly what it was.
 
