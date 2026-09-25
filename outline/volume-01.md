@@ -56,7 +56,7 @@ Stage 0, **Wrench and rule**. Tarin can survey, calculate, repair, and command a
 | Movement | Chapters | Pressure type | Core work |
 | --- | --- | --- | --- |
 | I — Rain on a Dry Channel | 1–10 | Action, first discovery | The impossible flow; Glassstep found; first public naming |
-| II — The Replaced Leaf | 11–20 | Investigation, political | Suspension, provenance, the substitution pattern |
+| II — The Replaced Leaf | 11–20 | Institutional, political | A district that files to be counted, a record volume pulled into restricted handling, a second opening attempted without a witness and failed. The substitution pattern is already known; the pressure is what happens to the only two people who know it |
 | III — Under the Terrace | 21–30 | Exploration, revelation | Midpoint reversal: Ashgate beneath a settlement |
 | IV — The Pressure Chamber | 31–40 | Crosscurrent, character | Sickness, consent refused, Tarin's old closure raised |
 | V — One Name, One Window | 41–50 | Political, climax, aftermath | The ration review, the public window, Halden exposed |
@@ -79,23 +79,42 @@ Walking the lower terrace afterward, he finds a district of occupied houses, lit
 
 He opens a narrow blind branch to Glassstep's low pump. The opening needs a physical trace, a willing witness, and a record: a resident signs as witness, and Tarin re-cuts a record stone himself with a borrowed chisel. The pump runs for a bounded window. The water is crosscurrent-tainted; Yara Sen treats three children with early salt fever, and Tarin pays the first name debt — a practiced hand motion he has used for twenty years is simply gone, and his bitter tea tastes of nothing.
 
-Mara, independently, finds that the Ashgate maintenance volume has a replaced leaf — and that the figure Roe removed was a true one, lifted off the record so a clean leaf could say the gate stood dry. Halden Roe's men convert Tarin's own calibration log into the evidence that he is the man who altered it, and a genuine head reading older than Tarin's involvement is the fact that makes the charge stick. At the end of the movement, in front of a crowd at the warden's station, Tarin names the branch aloud as a witness act. The water answers for eleven hours. The accusation becomes formal the same afternoon.
+Mara, independently, finds that the Ashgate maintenance volume has a replaced leaf — and that the figure Roe removed was a true one, lifted off the record so a clean leaf could say the gate stood dry. Halden Roe's men convert Tarin's own calibration log into the evidence that he is the man who altered it, and a genuine head reading older than Tarin's involvement is the fact that makes the charge stick. On Day 10 he is stood down from the lower terrace and charged with tampering with city records. At the end of the movement, in the Glassstep courtyard with the sluice warden standing there entitled to write it down, Tarin names the branch aloud as a witness act while already suspended, because a crowd is the only body left that will have him. The water answers from 16:00 to 03:00; the warden's men carry him out at 18:00 and the branch runs nine hours longer without him. A **second** charge is filed the same afternoon on the warden's timed entry — unauthorized opening of a sealed structure and service of water from a reservoir the ledger calls closed — which is a different charge from the Day 10 one and is not a renewal of it. Nothing said in that courtyard touches Roe's falsified figure.
 
 ### Movement II — The Replaced Leaf (Ch 11–20)
 
-Tarin is stood down from the lower terrace before the eleven-hour window has finished. The branch keeps running without him until the window closes at three in the morning, and then it does not come back on its own, and the next window he asks for never arrives. That is the point he has been avoiding: the route is not his property, and opening it once did not make it his to reopen.
+**Pressure type:** institutional, procedural, and personal. Nothing in this movement is a chase, and the antagonist's lie is never in danger. The pressure is that the only two people who know anything cannot act, are not permitted to act, and are watching a district run out of water while a petition moves at the speed of paper.
 
-Mara is instructed to close the file. Her supervisor invokes the rule that an unverified memory must never decide a public route. She builds provenance anyway, in her own time, and finds that the substituted ink is court-supply ink from a specific year. She also finds a notation in a hand she learned at her mother's kitchen table.
+**Fixed opening position,** taken from the end of Chapter 10: the branch stopped on its own at 03:00 on Day 21; the cistern rows are empty; Tarin is suspended and carries two open charges; Glassstep has a signed record stone, eleven hours of water it has already spent, and no legal existence.
 
-Niko, mapping the terrace by movement and song, describes a descent to the Ashgate works that no survey records and that he insists his father used to run. Halden offers Tarin a quiet transfer to a district that has no problems. Tarin refuses, badly, and the refusal costs him a reference he will need later.
+Three live problems carry the movement, and all three are new pressure rather than replay.
 
-The movement turns when Mara and Tarin, forced into the same room, discover that the Ashgate log's redaction and the Glassstep survey redactions use the same substitution pattern — the same hand, the same year, the same court ink.
+1. **Glassstep files for recognition.** The district asks the warden's office to enter it in the book. This is not a request for water; it is a request to be countable — a name, a ration row, a line on the district schedule. It is the first time the residents choose to be visible, and it has a price: the petition has to be signed by a named representative, which puts one household on paper where the Commissioner's office can find it. The movement must make that choice read as courage and as exposure at once, and it must not let anyone off the hook of it by being conveniently cowardly.
+
+2. **Mara's volume goes into restricted handling.** Her supervisor invokes the rule that an unverified record must never decide a public route, and the Ashgate volume is pulled into the restricted stack on a date Mara learns late. Her hand-drawn provenance map is the only copy outside the restriction and she is the only person who can read it. Her problem this time is not nerve but durability: one person's memory of a document is not a record, and a second deliberate breach would repeat Chapter 8. **She gets the durability by a legitimate route** — a second, independent copy of the same substitution pattern, taken from the Glassstep survey originals — which means going to Glassstep and handling paper in front of the people who live there, and going carelessly would mean handling it without their consent.
+
+3. **Tarin attempts a second window without a witness, and it fails.** Suspended, with empty cisterns and a petition that will take weeks, he forces the branch alone. It does not hold. He can supply neither a witness nor a record without other people's agreement, so the head goes onto the plated terrace outfall instead of into the low pump. The failure must be physical, named, and expensive on the page: the plate weeps under a floor, the district's last dry tap runs brackish, and the follow-up Yara Sen cannot fund arrives on top of the three children she already has. He learns his own limit in the worst available way, and he cannot tell afterwards whether he lost the route through the missing witness, the missing record, or his own standing.
+
+**Niko's descent survives and grows.** Niko describes a descent to the works that no survey records and that his father used to run. He is twenty-two, he is impatient, and a suspended engineer cannot authorize him, so the descent is set up in this movement and paid for in Movement III. The movement should end with him going anyway, or with Tarin unable to stop him.
+
+**The turn.** The petition is answered, and the answer is worse than a refusal: the warden's office will enter Glassstep in the book only on a route record — a named route, a documented source, a witness, and a date. No such record exists, and the only document that could supply part of one is the Ashgate leaf now inside the restricted stack. The district's legal existence and the volume's central document turn out to be the same object, and the other route to the same answer is to go and look at the physical source, which is Niko's descent. Movement III therefore begins from a choice rather than a summons.
+
+**Where the relationship lands.** Tarin and Mara agree to share evidence while continuing to distrust each other's methods. That is the volume's relationship milestone, it happens here rather than at the climax, and it must be an agreement with conditions attached, not a reconciliation.
+
+#### Already established in Batch 0001 — do not re-stage
+
+- The Day 10 stand-down and the charge Roe built out of Tarin's own calibration log (Chapter 9).
+- Roe's offer of a quiet transfer to a harmless district and Tarin's refusal of it (Chapter 9).
+- The court-supply ink, the specific year, and the hand Mara learned at her mother's kitchen table (Chapter 8).
+- The discovery that the Ashgate redaction and the Glassstep redactions share one substitution pattern — same hand, same year, same ink (Chapter 8).
+- A record stone, a signed witness, and the fact that a naming without legitimacy produces salt fever (Chapters 6–7).
+- The branch running eleven hours and stopping on its own at 03:00 with nobody in it (Chapter 10).
 
 ### Movement III — Under the Terrace (Ch 21–30)
 
 The midpoint. Tarin, Niko, and a small crew descend into the Ashgate inspection works along Niko's route. The reversal is set out above and must appear as described.
 
-The movement closes on cost. The descent damages a party member's ability to work, the return route is unstable, and the settlement above learns that its houses stand on a chamber nobody has surveyed. Halden's falsified measurements are placed in context: he is concealing illegal contractor pumping through a dead reservoir, not operating an ancient machine. He is the volume's villain and he is no more than that.
+The movement closes on cost. The descent damages a party member's ability to work, the return route is unstable, and the settlement above learns that its houses stand on a chamber nobody has surveyed. Halden's falsified measurements are placed in context: he is concealing illegal contractor pumping through a reservoir his own ledger calls dead, not operating an ancient machine. He is the volume's villain and he is no more than that.
 
 ### Movement IV — The Pressure Chamber (Ch 31–40)
 
@@ -105,19 +124,32 @@ A Guild inspection team arrives. Iven Marrow offers Tarin work, access, and the 
 
 Tarin's old flood closure — the one that saved the riverside hospital and trapped people in a lower courtyard — is raised against him at an internal hearing as evidence that he cannot be trusted with a route. Mara testifies about his competence and is asked, by Tarin's own advocate, whether his judgment is sound. She answers honestly and it costs him.
 
-The movement's real turn is a refusal, in Chapter 39. Desperate for a clean anchor, Tarin considers using a Glassstep resident's private memory of the breach. He does not. The route splits, the pressure is lost, and Glassstep's pump fails for two days while the family that hosted him keeps his tools fed and tells him plainly that he was right not to use it. The refusal costs the volume its convenient solution and buys the trust the ending will require. Chapters 6 and 10 must already have shown the pattern, so the refusal reads as a rule he lives by rather than a rule the plot introduces.
+The movement's real turn is a refusal, in Chapter 39. Desperate for a clean anchor, Tarin considers using a Glassstep resident's private memory of the breach. He does not. The route splits, the pressure is lost, and Glassstep's pump fails for two days while the family that hosted him keeps his tools fed and tells him plainly that he was right not to use it. The refusal costs the volume its convenient solution and buys the trust the ending will require. Chapters 6 and 10 must already have shown the pattern, so the refusal reads as a rule he lives by rather than a rule the plot introduces. It is also not a third performance of the naming set piece: he never gets as far as naming anything, and the event of the chapter is a door that stays shut. See *Set-piece differentiation* below.
 
 ### Movement V — One Name, One Window (Ch 41–50)
 
 The climax is political before it is hydrological. The midsummer ration review collapses. Halden releases the falsified Ashgate figures publicly and offers Tarin a confession in exchange for the lower terrace keeping its ration — the clean official story, which is a lie that keeps people alive on paper.
 
-The only real water in the district is the uphill branch. Tarin takes the route instead. He does it in public, before the Assembly, with named witnesses from Glassstep who are free to refuse and one of whom does refuse, which is what makes the rest of it credible. The service window is eleven hours, bounded, and announced as temporary — the same eleven hours the courtyard got, because the source does not grow and neither does the answer.
+The only real water in the district is the uphill branch. Tarin takes the route instead. He does it in public, before the Assembly, with named witnesses from Glassstep who are free to refuse and one of whom does refuse, which is what makes the rest of it credible. The service window is eleven hours, bounded, and announced as temporary — the same eleven hours the courtyard got, because the source does not grow and neither does the answer. It is a different scene from the courtyard rather than a larger one: posted in advance, kept by a written transcript, argued by a whole city that can read the arithmetic. See *Set-piece differentiation* below.
 
 Halden's falsified Ashgate measurements fall apart in the same proceeding, because the water that answers the Gauge is in a reservoir his own ledger declares empty. He is removed from the acting commissioner's office and becomes a cooperating witness rather than a dead man.
 
+## Set-piece differentiation
+
+The volume contains four attempts to put a name on water, and they must not read as one scene performed four times. Each differs in room, in who is allowed to walk away, in what the water is asked to do, in who pays, and in what it leaves untouched.
+
+| Chapters | Room | Who is asked to witness | What the room is doing | What the water is asked to do | Who pays, and how | What it does *not* touch |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 | Glassstep low pump, dawn, one doorway | a single resident, asked privately and told the terms before he uses them | nothing; there is no crowd, and nobody is arguing | fill one pump for a bounded window | three children sick and the first name debt, quietly | the record, the law, and Roe's arithmetic |
+| 10 | Glassstep courtyard, late afternoon, with a warden's timed entry on the spot | a crowd, and one person who walks out in the middle of it | arguing with the rule while he is stating it aloud | run a whole district for eleven hours | his access, his standing, and a second formal charge; the naming holds anyway because the crowd is larger than one departure | Roe's falsified figure, which is never mentioned in that courtyard |
+| 39 | wherever he happens to be standing when he decides | nobody, because there is nobody he is willing to ask | nothing | nothing — he does not open it | the route splits, the pressure is lost, Glassstep's pump fails for two days, and the family that hosts him tells him he was right | the easy answer, permanently |
+| 46–49 | the Basin Assembly, a posted hearing with a written transcript | named witnesses, free to refuse, and a refusal delivered into the record before the window opens | the whole city, reading the same page and the same arithmetic | run a district for eleven hours again, announced in advance and instrumented rather than improvised | Tarin's name in a public record, and a coerced confession he refuses | nothing. This is the one where the antagonist's lie falls in the same room |
+
+Three rules keep them apart. Only Chapters 10 and 46–49 have a crowd. Only Chapter 46–49 is announced before it happens and written down as it happens. Only Chapter 46–49 ends with the volume's antagonist caught by the same instrument. Chapters 6 and 10 are both improvised, both small, and both leave the city's official story exactly where it was — which is why the Assembly has to be built differently rather than simply larger.
+
 ## Volume climax
 
-Chapters 46–49. Tarin stands before the Basin Assembly and names the branch, publicly, with a witness who is allowed to walk away. The water arrives for a bounded window and Glassstep's pump runs in front of the whole city. The same hearing dissolves Halden Roe, whose falsified measurements cannot survive a gauge that reads wet. The cost is immediate and permanent: Tarin's name is now tied to the route in the record, the city knows what it is, and the whole basin can read the transcript tomorrow.
+Chapters 46–49. Tarin stands before the Basin Assembly and names the branch, publicly, with a witness who is allowed to walk away, and the water arrives for the same eleven hours the Glassstep courtyard got. The same hearing dissolves Halden Roe, whose falsified measurements cannot survive a gauge that reads wet in front of the city that was told the reservoir was dry. The cost is immediate and permanent: Tarin's name is now tied to the route in the record, the city knows what it is, and the whole basin can read the transcript tomorrow. The Chapter 10 courtyard is a smaller, improvised rehearsal of this scene, and it changes nothing about Roe's lie.
 
 ## Concrete resolution
 
@@ -125,8 +157,8 @@ Chapters 46–49. Tarin stands before the Basin Assembly and names the branch, p
 - The Water Office formally acknowledges, in a public record, that Ashgate Reservoir physically exists. It does not acknowledge who diverted it.
 - Halden Roe is removed from the acting commissioner's office, retains his knowledge as a witness, and is never redeemed.
 - Tarin reaches **Name**, and only the beginning of it. He has opened one narrow branch twice, on borrowed infrastructure, with a witness he had to ask for both times, and he has one unrepeatable minor debt. He cannot re-run the opening on his own; it requires another witness and he does not yet have a method for finding one. He has not yet reached **Bend**, which belongs to Chapters 51–150.
-- Tarin and Mara agree to share evidence and continue to distrust each other's methods.
-- Glassstep has water, a signed witness, and no legal existence whatsoever.
+- Tarin and Mara agree to share evidence and continue to distrust each other's methods. The agreement is made in Chapters 11–20, on conditions attached, and is never repaired into trust.
+- Glassstep has water, a signed witness, and no legal existence whatsoever. Its petition for recognition fails: the district cannot produce the route record the warden's office asks for, and the Water Office's acknowledgement that Ashgate Reservoir exists is an acknowledgement about a reservoir, not about the people living on top of it.
 
 ## Rules this volume must not break
 
@@ -135,6 +167,7 @@ Chapters 46–49. Tarin stands before the Basin Assembly and names the branch, p
 - The ghost is many-voiced from Chapter 24 onward. It is never Lira, and it never becomes an advisor.
 - Niko and the Glassstep residents are competent at their own practice. Tarin is not the only person who can move water, and in Movement IV a local keeper is better than he is.
 - Halden Roe is a liar with a motive, not a mage. He never uses magic and never learns to.
+- There are exactly two successful openings before the Assembly: Chapter 6 and Chapter 10. The attempt in Movement II opens nothing and fails, and Movements III and IV do not add a third. Any later window requires a new agreement, a new cost, and a new reason the route should exist at all.
 - The drought is not cured. The volume ends a season, not the drought.
 - No character is compelled to forget. Every name-debt payment in this volume is a choice or a documented accident.
 

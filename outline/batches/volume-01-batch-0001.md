@@ -10,8 +10,8 @@ Expected length: 25,000–32,000 words across ten complete scenes. This is a bud
 - **Setup (Ch 4, Day 2):** A second professional finds the paperwork crime from the other end of the same file.
 - **Midpoint (Ch 5, Day 6):** The two are locked in one room, each holding half of a physical fact. The Gauge speaks for the first time and asks for a witness. Antagonism becomes reluctant respect.
 - **Escalation (Ch 6–9, Days 7–10):** The branch is named and opened, the water makes three children sick, the first name debt falls, the substitution pattern reaches Glassstep, and the man who falsified the log builds a case out of Tarin's own work. Pressure rotates through consequence, investigation, cost, and politics rather than repeating a chase.
-- **Climax (Ch 10, Day 20):** The naming in public, a witness who walks away, eleven hours of water, and a formal charge the same afternoon.
-- **Aftermath (close of Ch 10):** The branch keeps running for nine hours after the warden's men remove him and stops at 03:00 with nobody in it. The route was never his property. See *Aftermath and handoff state* below.
+- **Climax (Ch 10, Day 20):** The naming in public, a witness who walks away, eleven hours of water, and a second formal charge the same afternoon.
+- **Aftermath (close of Ch 10):** The branch keeps running for nine hours after the warden's men remove him at 18:00 and stops at 03:00 with nobody in it. The route was never his property. See *Aftermath and handoff state* below.
 
 ## Batch goal
 
@@ -40,7 +40,7 @@ Ten chapters, Days 1–20. The midsummer ration review is posted for Day 22, and
 | 7 | 7 | daytime | Salt fever; the first name debt. |
 | 8 | 9 | after hours | The ink, the Glassstep cousins, the empty register. Same day Glassstep's low pump goes dry. |
 | 9 | 10 | mid-morning | Roe's kindness; the formal charge. Review is twelve days out. |
-| 10 | 20 | late afternoon | The public naming. Window runs 16:00 to 03:00 on Day 21. |
+| 10 | 20 | 16:00–18:00 | The public naming. Window runs 16:00 to 03:00 on Day 21; he is carried out at 18:00. |
 
 The gap between Day 10 and Day 20 is deliberate and must be felt: ten days of suspension, a charge he cannot answer, and a district running out of cisterns. The reader should arrive at Chapter 10 as exhausted as Tarin is.
 
@@ -50,7 +50,7 @@ The gap between Day 10 and Day 20 is deliberate and must be felt: ten days of su
 
 ## Batch climax
 
-**Chapter 10.** Tarin names the branch aloud, in public, before the residents of an unlisted district and a sluice warden who is entitled to write it down. The water runs for eleven hours. The accusation against him becomes formal the same afternoon.
+**Chapter 10.** Tarin names the branch aloud, in public, in the Glassstep courtyard before the residents of an unlisted district and a sluice warden who is entitled to write it down where he stands. He is ten days suspended and carries the Day 10 charge while he does it, because a crowd is the only body left that will witness him. The water runs for eleven hours. A second charge, distinct from the first, is filed the same afternoon on the warden's timed entry.
 
 ## Required character changes
 
@@ -107,6 +107,8 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 - **The falsified figure is real.** The pressure figure Mara reads in Chapter 5 is a genuine head reading taken off the original Ashgate leaf and preserved in the pressure shadow. Halden Roe's men did not invent a number to cover a dry reservoir; they took a true one off the record and closed the record around its absence. That is why the number matches what Tarin measured on Day 1, and it is the whole reason it can hang him. Nobody writes down a number a person invented days later in a private notebook.
 - **The outfall is plated.** The uphill flow cannot be shut from the Ashgate end. It reaches Glassstep and stops because the terrace overflow under the row was sealed and iron-plated when the district was written off, so the only place the water can go is one courtyard cistern. Chapter 2 names the plate; Chapter 3 shows its consequence; Chapters 6 and 10 pay it off as a pressure risk.
 - **Eleven hours, twice.** The Chapter 10 window is eleven hours. The Chapter 46–49 Assembly window is also eleven hours. The volume does not grow the number, because the source does not grow and neither does the answer.
+- **Two charges, and a fixed clock.** Charge one is filed and read on Day 10: **tampering with city records**, out of the calibration log Tarin wrote himself. Charge two is filed on Day 20, the same afternoon as the naming: **unauthorized opening of a sealed structure and service of water from a reservoir the ledger records as closed**, out of the warden's dated and timed entry. Two subjects, two dates, both open. Chapter 10 is written with him already suspended. The window opens at **16:00**, he is carried out at **18:00**, and the branch stops at **03:00** — nine hours after they take him, not "dusk."
+- **The Gauge's two statements are fixed wording.** Chapter 5: *One route remembers. It asks for a witness.* Chapter 10: *The stone is blank. Two hands are on it.* Both are conditions. Neither is a rule, a lesson, a probability, or a solution, and neither may be paraphrased into one. Chapter 7 quotes the Chapter 5 line.
 
 ## Chapter Cards
 
@@ -144,7 +146,7 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **Resistance:** Sluice warden Pell, a practical man who counts channels rather than stories, and a hydraulic problem: the head is above the gate seating, so the flow cannot be shut from this end.
 
-**Information revealed:** The flow is real, pressurized, and physically unstoppable with what is available. Its destination is a district marked unoccupied on every map Pell owns. Pell also names the reason the water cannot simply keep coming: the terrace overflow under that row was sealed and iron-plated when the row was written off, so below the unlisted district there is a shut door nobody maintains and nobody has a key to, and it is not on any sheet because the row is not on any sheet.
+**Information revealed:** In two beats, and never as one speech. **First**, Pell makes Tarin describe the flow as a channel condition before he will give anything back, because a head reading he can write down is a fact and a story about a district that is not on his sheet is not; Tarin has to ask his way into the answer, and the flow is real, pressurized, and impossible to shut from this end. When he finally says where the channel is pointed, Pell finds no receiving district on any sheet he owns. **Second**, the plate arrives as a work fact on a schedule. A closure sheet for the terrace outfalls — handed over, or read off a board on the wall — lists that row's overflow as *sealed, plated, no key issued, out of service*, dated to the same line entry that wrote the row off. Pell's whole contribution to the history is that nobody maintains it, nobody has a key, and it is on no sheet because the row is on no sheet. The reason the water cannot simply keep coming is a maintenance schedule, not folklore.
 
 **Action or decision:** He does not report the flow. Reporting it means admitting the sealed gate is open and that he is unauthorized, so he walks the line instead to see where it goes.
 
@@ -152,7 +154,7 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **Power or resource change:** He loses the option of pretending the day did not happen. He learns the head, the destination, and the plate.
 
-**Continuity fact to preserve:** The concealment is a choice, and the volume will hold him to it in Chapter 9's hearing. The plated outfall is planted here in full, in Pell's mouth, so that Chapter 3's stopping water is earned rather than mysterious.
+**Continuity fact to preserve:** The concealment is a choice, and the volume will hold him to it in Chapter 9's hearing. The plated outfall is planted here in full, but in two beats — a count and a schedule sheet — so Chapter 3's stopping water is earned rather than mysterious and this chapter does not become an information delivery. Pell is correcting a mistake he never had to check, not delivering history: he has been wrong about a place he was never required to visit, and he does not enjoy being told so.
 
 **Ending type:** cost
 
@@ -224,7 +226,15 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **Power or resource change:** **First Gauge statement, and the first reach of Stage 1, Trace.** His hand is on the vault's record stone. One panel, plain, incomplete, and slightly wrong, naming a physical condition and asking for a witness rather than offering a solution. He perceives. He still cannot open, direct, or name anything, and the scene must leave him more certain than ever and no more able.
 
-**Continuity fact to preserve:** The Gauge never states a solution, a probability, or a future. It is a condition, and it can be wrong. It must not explain the substituted leaf to him; Mara does that with ink and pressure, the way the outline of this book says she does everything.
+**The panel, fixed so it cannot drift:** the Gauge says, in full and in this wording only —
+
+> One route remembers. It asks for a witness.
+
+That is the whole statement. It is incomplete because it does not say which route or what it wants. It is slightly wrong in a way Tarin can notice on the page and cannot yet explain: the pressure in the record reads as more than one line behind the stone, and the statement counts one; and it gives the request to the route, as though a channel of water were the one asking, when what the record is actually doing is waiting for a person. He has neither the tools nor the standing in this room to say which of the two is wrong, and the scene must let him notice the discrepancy without resolving it.
+
+Underneath the statement there is a second sound that is neither explanation nor advice. Nobody in the room hears it, nobody names it, and the chapter does not identify it. It is tracked in `state/open-threads.md`.
+
+**Continuity fact to preserve:** The Gauge never states a solution, a probability, or a future. It is a condition, and it can be wrong. It must not explain the substituted leaf to him; Mara does that with ink and pressure, the way the outline of this book says she does everything. Chapter 7's callback quotes the line above as it was spoken — "the Gauge was right that a route remembered" — so if the wording is softened in this chapter, the later chapter has nothing to refer back to.
 
 **Ending type:** earned hook
 
@@ -248,7 +258,7 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **Power or resource change:** **Stage 2, Name — reached deliberately and used for the first time.** This is not Trace. Trace is what happened to him in Chapter 5, when he could see a wet line and do nothing with it; naming the branch and putting water through it is the next stage, and it costs what the next chapter charges him. The branch runs for a bounded window.
 
-**Continuity fact to preserve:** Tarin does not use anyone's private memory as an anchor. The refusal in Chapter 39 has to be a real pattern, not a surprise. He has learned a stage, not mastered one: the chapter must leave him aware that he could not do this again on his own and does not yet know why.
+**Continuity fact to preserve:** Tarin does not use anyone's private memory as an anchor. The refusal in Chapter 39 has to be a real pattern, not a surprise. He has learned a stage, not mastered one: the chapter must leave him aware that he could not do this again on his own and does not yet know why. This is the smallest of the volume's four name-on-water set pieces: one resident, one doorway, no crowd, and no record the city will honour. `outline/volume-01.md` holds the differentiation table, and Chapter 10's job is to be a different scene because a crowd can argue with him and a warden is entitled to write the entry — not a larger version of this one.
 
 **Ending type:** decision
 
@@ -264,7 +274,7 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **Resistance:** Yara Sen finds early salt fever in three children and will not accept that residual water will clear on its own. The crosscurrent is a consequence of his opening, and she says so to his face.
 
-**Information revealed:** Salt fever is physical, fast, and caused by badly addressed water rather than by bad water. Treatment exists and is not simple. The Gauge was right that a route remembered and said nothing whatever about the cost.
+**Information revealed:** Salt fever is physical, fast, and caused by badly addressed water rather than by bad water. Treatment exists and is not simple. The Gauge was right that a route remembered — its Chapter 5 statement was that a route remembered and asked for a witness — and it said nothing whatever about what it would cost.
 
 **Action or decision:** He closes the branch early to stop the spread, knowing it means the pump runs dry in two days, and he tells Yara the cause before she proves it.
 
@@ -322,33 +332,43 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 
 **Continuity fact to preserve:** Roe never uses magic, never learns to, and is not the architect of anything. He is removed, not killed. Roe's motive is arithmetic and career, and Chapter 9 must not hint at anything larger behind him; the One Map is not his creation and he does not know its name.
 
+**The first charge, fixed:** this is **charge one — tampering with city records**, built out of the recalibration log he filed himself, filed and read on **Day 10**. It carries the stand-down and the loss of the lower terrace. It is not the only charge he will face, and nothing in this chapter pre-empts the second one; there is no public naming here and nothing for a second charge to attach to yet.
+
 **Ending type:** reversal
 
-**Next-chapter pull:** He is formally stood down and charged with tampering with city records, and then he waits ten days he cannot spend, while a district he has no right to serve runs out of cisterns.
+**Next-chapter pull:** He is formally stood down and charged with tampering with city records, and then he waits ten days he cannot spend, while a district he has no right to serve runs out of cisterns. The next charge arrives on Day 20 and is a different one, and the difference is the whole of Chapter 10.
 
 ### Chapter 0010 — One Name, One Window
 
 **POV:** Tarin Rusk
 
-**Location/time:** The Glassstep courtyard and the warden's station, late afternoon, **Day 20**. This is the last day before the lower terrace's cistern rows run out, not the last day before the midsummer review, which belongs to Movement V.
+**Location/time:** The Glassstep courtyard, low pump, and the foot of the record stone, late afternoon into evening, **Day 20**. The naming happens in the courtyard; the warden's entry is written and timed there, at the foot of the low pump, in front of the same people, and the warden's men walk him out from there. The warden's station is where the file goes afterwards, not where the scene happens. This is the last day before the lower terrace's cistern rows run out, not the last day before the midsummer review, which belongs to Movement V.
+
+**The clock, fixed:** the water starts at **16:00**. The warden's men carry him out at **18:00**. The branch runs nine more hours and stops at **03:00** on Day 21. Write the times; do not write "dusk," which will land anywhere between 19:00 and 21:00 and break a number the whole volume treats as fixed.
 
 **Immediate goal:** Say the branch's name in front of witnesses before the district's cisterns run out, and be stopped.
 
-**Resistance:** Naming it in public is what makes him the man who opened a sealed reservoir, and warden Pell is entitled to write down whatever he hears. The branch is a door he has propped open with a chisel and a piece of timber, and the district's only relief is a plate he has no authority to unbolt.
+**Resistance:** He has been suspended for ten days, so he has no desk, no authority, and no standing to order a single thing — which is the point of the room he is asking for. A crowd is the only body left that will have him, and naming it in public is what makes him the man who opened a sealed reservoir, and warden Pell is entitled to write down whatever he hears. The branch is a door he has propped open with a chisel and a piece of timber, and the district's only relief is a plate he has no authority to unbolt. He is also doing this while already charged with tampering with city records, and somebody says so out loud before he gets to the stone.
 
-**Information revealed:** The Gauge states a condition and nothing else: a witness is present, and the record stone stays blank while nobody has agreed to stand on it. That is all it says. **Tarin works the rule out himself, out loud, in front of the crowd** — a witness who cannot walk away is not a witness, so the naming is only worth something if the door stays open behind it. He reaches the rule; the Gauge does not hand it to him, and the crowd is allowed to argue with it.
+**Information revealed:** The Gauge states a condition and nothing else. **The panel, fixed:** the Gauge says, in full and in this wording only —
+
+> The stone is blank. Two hands are on it.
+
+One hand is on the stone: his. It is incomplete because it does not say whose the second is or what would fill the line, and it is slightly wrong, which is how he knows a second hand belongs there at all. That is all it says. **Tarin works the rule out himself, out loud, in front of the crowd** — a witness who cannot walk away is not a witness, so the naming is only worth something if the door stays open behind it. He reaches the rule; the Gauge does not hand it to him, and the crowd is allowed to argue with it. As in Chapter 5, a second sound sits underneath the statement that is neither explanation nor advice; nobody hears it, nobody names it, and this chapter does not identify it.
 
 **Action or decision:** He asks to be recorded, in a courtyard, with the residents present and free to leave. One of them does leave, and the naming holds anyway. He takes the bounded window he can actually get, states in public that it is temporary and that the district's relief is a shut plate, and says plainly that he does not know where the water comes from.
 
 **Emotional change:** Relief and terror in the same breath. He tells the truth about the limits of his knowledge in front of a crowd for the first time and does not soften it.
 
-**Power or resource change:** Water runs. The accusation becomes formal the same afternoon, and the name is now in the record in his own hand.
+**Power or resource change:** Water runs. A second charge is filed against him, and the name is now in the record in his own hand.
 
-**Continuity fact to preserve:** The window is eleven hours. It is bounded, temporary, and insufficient, and the volume must not treat it as a solution. It is also the same eleven hours the volume will offer in Chapters 46–49; the number never grows, because the source does not grow.
+**The second charge, fixed:** this is **charge two — unauthorized opening of a sealed structure and service of water from a reservoir the ledger records as closed.** It is named and filed on **Day 20**, the same afternoon as the naming, on the strength of Pell's dated and timed entry. It is a separate charge with a separate subject, not a renewal of charge one and not an aggravation of it: charge one is about a record he wrote, charge two is about a structure he opened in front of witnesses. Both remain open. The scene must show him naming the branch *while* suspended, so that the suspension and the second charge are one decision rather than two accidents.
+
+**Continuity fact to preserve:** The window is eleven hours. It is bounded, temporary, and insufficient, and the volume must not treat it as a solution. It is also the same eleven hours the volume will offer in Chapters 46–49; the number never grows, because the source does not grow. Roe's falsified figure is not raised, hinted at, or asked about in this chapter; the water arriving is a fact in the courtyard, and who removed a number from a leaf is a question nobody here is asking.
 
 **Ending type:** cost
 
-**Next-chapter pull:** Warden's men carry Tarin out of the courtyard at dusk. The branch keeps running for nine hours after they do — and stops at three in the morning on its own, with nobody standing in it. The route was never his property, and nothing he did in Chapter 6 gives him the right to open it twice.
+**Next-chapter pull:** Warden's men carry Tarin out of the courtyard at 18:00. The branch keeps running for nine hours after they do — and stops at 03:00 on its own, with nobody standing in it. The route was never his property, and nothing he did in Chapter 6 gives him the right to open it twice.
 
 ## Aftermath and handoff state
 
@@ -357,18 +377,20 @@ The batch ends inside Chapter 10's night, not after the last ember of it. This i
 ### Where the world stands
 
 - **The branch:** Running since 16:00 on Day 20, due to end at 03:00 on Day 21. Warden's entry is dated and timed, so the window is on paper before it is over. It stops on its own, unstaffed. It does not stop because Tarin was carried out, and it does not come back when he asks for another one.
-- **Tarin:** Carried out of the courtyard at dusk on Day 20 and formally charged with tampering with city records the same afternoon. Suspended. No desk, no reference, no access to the lower terrace. He keeps his notebook and his tools. He has lost a practiced hand motion and the taste of his tea, and he cannot re-cut a record stone the way he cut the first one. He has no method for finding another witness and no way to buy one.
+- **Tarin:** Carried out of the courtyard at **18:00** on Day 20. Suspended since Day 10 under **charge one — tampering with city records**, and charged again the same afternoon under **charge two — unauthorized opening of a sealed structure and service of water from a reservoir the ledger records as closed.** Two open charges, two different subjects, one man. No desk, no reference, no access to the lower terrace. He keeps his notebook and his tools. He has lost a practiced hand motion and the taste of his tea, and he cannot re-cut a record stone the way he cut the first one. He has no method for finding another witness and no way to buy one.
 - **Glassstep:** Eleven hours of water, three children recovering from early salt fever, and cisterns that empty on Day 21. A record stone beside the low pump now carries a name, a date, and a witness signature. Nothing else has changed: no legal existence, no route right, no budget, and a plate still bolted under the row.
 - **Mara:** Holds a hand-drawn provenance map of the substitution pattern, unregistered and alone, with a restricted-handling decision approaching that she does not yet know the date of. She has not told Tarin, and Tarin has not asked.
 - **Halden Roe:** Still acting commissioner. His file on Tarin is complete, formal, and correct enough to hold. He has won the first exchange and does not yet know what he is standing next to.
 - **Yara Sen:** Holds a written account of illness caused by a route opened without a full legitimacy condition, and three patients who will need follow-up she cannot fund. She does not stop treating on Tarin's account.
 - **Niko Venn:** Knows a descent to the works that no survey records. He has not been asked to take it and has not offered.
-- **The city's position:** A district that no official document admits exists received water from a sealed reservoir for eleven hours, by a named engineer's hand, under an open charge for falsifying that reservoir's records. The lower terrace knows. The Water Office knows. The Basin Assembly has not been told, and the posted midsummer review is two days out and will slip.
+- **The city's position:** A district that no official document admits exists received water from a sealed reservoir for eleven hours, by a named engineer's hand, under two open charges — one about a record, one about a structure. The lower terrace knows. The Water Office knows. The Basin Assembly has not been told, and the posted midsummer review is two days out and will slip.
 
 ### What the next batch must open with
 
 - **Ch 11 opens on the morning of Day 21:** the branch stopped, the cisterns empty, the stand-down signed. The suspension is the first fact on the page, and it is administrative before it is dramatic.
 - **The window cannot simply be repeated.** The batch's problem is that one opening did not make the route his. He has to find a person willing to stand on a stone again, and being right about hydraulics is not a way to persuade anyone.
-- **Roe's lie is not yet in danger.** The charge is the only thing currently moving, and it is moving against Tarin. Nobody in the city is currently asking who removed the pressure figure.
+- **Three new pressures carry Chapters 11–20,** and none of them is a rerun of this batch: Glassstep files for recognition and puts a named household on paper; Mara's volume goes into restricted handling and she has to build a second copy of the pattern from Glassstep originals; and Tarin forces the branch without a witness and fails, which puts the head onto the plated outfall. See Movement II in `outline/volume-01.md`.
+- **Do not re-stage what this batch already spent:** the Day 10 stand-down, Roe's transfer offer, the court-supply ink and its year, the hand from Mara's mother's kitchen table, the shared substitution pattern, or the eleven-hour window. The full list is in Movement II.
+- **Roe's lie is not yet in danger.** The charges are the only thing currently moving, and they are moving against Tarin. Nobody in the city is currently asking who removed the pressure figure.
 - **The mystery stays behind the arithmetic.** The three questions that matter are the plate, the substituted leaf, and the hand Mara recognised. None of them is answered by anything Tarin can do to a gate.
 - **The collective voice stays unconfirmed.** No character may name the crowd, and no batch outline may state what it is. Held for Chapter 24.
