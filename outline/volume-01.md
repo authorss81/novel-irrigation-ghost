@@ -8,6 +8,12 @@ Cresset is three weeks from the midsummer ration review, the city has had no rea
 
 This volume answers its own question. The water is real, the reservoir is real, and a bounded service window can be won in public. What the volume cannot answer is where the flow comes from, why the same channel is dry upstream, or why a district full of living people has no name.
 
+## Calendar: the review keeps moving
+
+The midsummer ration review is this volume's deadline, and the city keeps deferring it. It is quoted as roughly three weeks away at the opening and is still not held when the lower terrace's cistern rows are the only pressure that matters. It is finally forced and collapses in Chapter 46. This is how a city under a posted Standing Ration behaves, and it exists so a later batch can buy two days of room by pushing the date rather than by compressing scenes.
+
+Batch 0001 covers Days 1–20 and spends the cistern rows, not the review. The currently posted review date at Day 10 is Day 22, and Chapters 11–45 are free to defer it.
+
 ## Starting state
 
 - **Cresset:** Under Standing Ration. Cistern rows measured in days, not weeks. Public fountains on a posted schedule. The Assembly is short of money and impatient.
@@ -55,6 +61,14 @@ Stage 0, **Wrench and rule**. Tarin can survey, calculate, repair, and command a
 | IV — The Pressure Chamber | 31–40 | Crosscurrent, character | Sickness, consent refused, Tarin's old closure raised |
 | V — One Name, One Window | 41–50 | Political, climax, aftermath | The ration review, the public window, Halden exposed |
 
+## Midpoint reversal
+
+**Ashgate is not an empty ruin. The reservoir is intact, and it sits beneath a newer settlement.**
+
+This is the physical turn of the volume, in Chapter 24, and it is deliberately not a conspiracy. After the official closure, people were housed on top of the sealed works, so the district of occupied houses that Tarin finds in Chapter 3 is standing on a pressurized void that nobody who lives there has been told about. The mystery stops being "is the ledger lying" and becomes "who is living on top of the truth, and who put them there." Its water is not drained; it is being pushed sideways into a pressure chamber that appears on no public survey at all.
+
+The same descent clarifies the ghost: it is a crowd, not a woman. Tarin hears a dozen voices where he expected his mother's, and none of them will tell him anything useful. This is the volume's central promise of a collective ghost, established once and without further revelation.
+
 ## Escalation sequence
 
 ### Movement I — Rain on a Dry Channel (Ch 1–10)
@@ -65,11 +79,11 @@ Walking the lower terrace afterward, he finds a district of occupied houses, lit
 
 He opens a narrow blind branch to Glassstep's low pump. The opening needs a physical trace, a willing witness, and a record: a resident signs as witness, and Tarin re-cuts a record stone himself with a borrowed chisel. The pump runs for a bounded window. The water is crosscurrent-tainted; Yara Sen treats three children with early salt fever, and Tarin pays the first name debt — a practiced hand motion he has used for twenty years is simply gone, and his bitter tea tastes of nothing.
 
-Mara, independently, finds that the Ashgate maintenance volume has a replaced leaf. Halden Roe's men convert Tarin's own calibration log into the evidence that he is the man who altered it. At the end of the movement, in front of a crowd at the warden's station, Tarin names the branch aloud as a witness act. The water answers for eleven hours. The accusation becomes formal the same afternoon.
+Mara, independently, finds that the Ashgate maintenance volume has a replaced leaf — and that the figure Roe removed was a true one, lifted off the record so a clean leaf could say the gate stood dry. Halden Roe's men convert Tarin's own calibration log into the evidence that he is the man who altered it, and a genuine head reading older than Tarin's involvement is the fact that makes the charge stick. At the end of the movement, in front of a crowd at the warden's station, Tarin names the branch aloud as a witness act. The water answers for eleven hours. The accusation becomes formal the same afternoon.
 
 ### Movement II — The Replaced Leaf (Ch 11–20)
 
-Tarin is stood down from the lower terrace. The flow stops almost at once, which proves the point he has been avoiding: the route is not his property and it does not belong to him because he opened it.
+Tarin is stood down from the lower terrace before the eleven-hour window has finished. The branch keeps running without him until the window closes at three in the morning, and then it does not come back on its own, and the next window he asks for never arrives. That is the point he has been avoiding: the route is not his property, and opening it once did not make it his to reopen.
 
 Mara is instructed to close the file. Her supervisor invokes the rule that an unverified memory must never decide a public route. She builds provenance anyway, in her own time, and finds that the substituted ink is court-supply ink from a specific year. She also finds a notation in a hand she learned at her mother's kitchen table.
 
@@ -79,11 +93,7 @@ The movement turns when Mara and Tarin, forced into the same room, discover that
 
 ### Movement III — Under the Terrace (Ch 21–30)
 
-The midpoint. Tarin, Niko, and a small crew descend into the Ashgate inspection works along Niko's route.
-
-The reversal is physical, not political: **Ashgate is not an empty ruin.** The reservoir is intact. It sits *beneath a newer settlement* — a district built on top of it after the official closure, its residents living above a pressurized void they have never been told about. Its water is not drained; it is being pushed sideways into a pressure chamber that appears on no public survey at all.
-
-The ghost's voice is clarified in the same descent. It is a crowd, not a woman. Tarin hears a dozen voices where he expected his mother's, and none of them will tell him anything useful. This is the volume's central promise of a collective ghost, established early and without revelation.
+The midpoint. Tarin, Niko, and a small crew descend into the Ashgate inspection works along Niko's route. The reversal is set out above and must appear as described.
 
 The movement closes on cost. The descent damages a party member's ability to work, the return route is unstable, and the settlement above learns that its houses stand on a chamber nobody has surveyed. Halden's falsified measurements are placed in context: he is concealing illegal contractor pumping through a dead reservoir, not operating an ancient machine. He is the volume's villain and he is no more than that.
 
@@ -101,7 +111,7 @@ The movement's real turn is a refusal. Desperate for a clean anchor, Tarin consi
 
 The climax is political before it is hydrological. The midsummer ration review collapses. Halden releases the falsified Ashgate figures publicly and offers Tarin a confession in exchange for the lower terrace keeping its ration — the clean official story, which is a lie that keeps people alive on paper.
 
-The only real water in the district is the uphill branch. Tarin takes the route instead. He does it in public, before the Assembly, with named witnesses from Glassstep who are free to refuse and one of whom does refuse, which is what makes the rest of it credible. The service window is twelve hours, bounded, and announced as temporary.
+The only real water in the district is the uphill branch. Tarin takes the route instead. He does it in public, before the Assembly, with named witnesses from Glassstep who are free to refuse and one of whom does refuse, which is what makes the rest of it credible. The service window is eleven hours, bounded, and announced as temporary — the same eleven hours the courtyard got, because the source does not grow and neither does the answer.
 
 Halden's falsified Ashgate measurements fall apart in the same proceeding, because the water that answers the Gauge is in a reservoir his own ledger declares empty. He is removed from the acting commissioner's office and becomes a cooperating witness rather than a dead man.
 
@@ -114,7 +124,7 @@ Chapters 46–49. Tarin stands before the Basin Assembly and names the branch, p
 - Cresset's lower terrace receives a bounded service window and survives the midsummer review at a reduced ration rather than at zero.
 - The Water Office formally acknowledges, in a public record, that Ashgate Reservoir physically exists. It does not acknowledge who diverted it.
 - Halden Roe is removed from the acting commissioner's office, retains his knowledge as a witness, and is never redeemed.
-- Tarin reaches **Trace**, with one incomplete and unrepeatable use of **Name**. He cannot re-run the opening on his own; it requires another witness and he does not yet have a method for finding one.
+- Tarin reaches **Name**, and only the beginning of it. He has opened one narrow branch twice, on borrowed infrastructure, with a witness he had to ask for both times, and he has one unrepeatable minor debt. He cannot re-run the opening on his own; it requires another witness and he does not yet have a method for finding one. He has not yet reached **Bend**, which belongs to Chapters 51–150.
 - Tarin and Mara agree to share evidence and continue to distrust each other's methods.
 - Glassstep has water, a signed witness, and no legal existence whatsoever.
 

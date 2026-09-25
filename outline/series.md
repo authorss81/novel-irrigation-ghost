@@ -71,8 +71,8 @@ The final solution is to break the One Map's monopoly without erasing its record
 
 ## Power progression across the series
 
-- **Chapters 1–50, Wrench and rule to Trace:** Tarin establishes his ordinary competence, survives a first route-reading failure, and learns the Gauge's limits.
-- **Chapters 51–150, Name and Bend:** He opens a narrow route, then helps redirect a real current. Name debt costs him a sensory memory and then a lasting professional association.
+- **Chapters 1–50, Wrench and rule to Name:** Tarin establishes his ordinary competence, passes through Trace on perception alone, survives a first route-reading failure, and makes one narrow opening that he cannot repeat. Name debt costs him a practiced hand motion and the taste of his tea.
+- **Chapters 51–150, Name to Bend:** He learns to redirect a real current, and his name becomes tied to a route he cannot walk away from. Name debt next costs him a lasting professional association — a crew he had begun to trust.
 - **Chapters 151–300, Bend to Braid:** He learns that a route cannot be held by one keeper. Floods, Glassstep, mountain politics, and Pale Teeth force him to share timing and information.
 - **Chapters 301–400, Braid:** The One Map's physical system and Lira's counter-map are revealed. His ability remains dependent on teams and records.
 - **Chapters 401–500, Sky braid:** He helps guide an existing weather corridor, accepts unequal consequences, and refuses a convenient lie about the weather.
@@ -85,7 +85,7 @@ Each rung represents a different answer to the same question: who should be allo
 1. **Halden Roe, acting commissioner:** hides illegal pumping behind a small lie to prevent immediate panic.
 2. **Iven Marrow, Open Channel Guild master:** believes specialized knowledge should be owned and sold by those who maintain it.
 3. **Cael Dorrin, Fair Copy magistrate:** treats legal recognition as proof of physical reality and uses forced relocation as correction.
-4. **Liora Senn, Quiet Archive keeper:** protects communities by removing dangerous or contradictory memories, allowing censorship to look like care.
+4. **Liora Tarn, Quiet Archive keeper:** protects communities by removing dangerous or contradictory memories, allowing censorship to look like care.
 5. **Boryn Vey, Meridian Compact chancellor:** knowingly sacrifices outer districts to prevent a larger famine and activates the One Map.
 6. **The One Map:** the inherited system that cannot accept plural addresses. It is the final external pressure; Boryn is its final human operator, not a surprise villain introduced at the end.
 
@@ -95,7 +95,7 @@ Each rung represents a different answer to the same question: who should be allo
 
 - **Central pressure:** Cresset has a public water deadline, a missing Ashgate Reservoir, and a first apparently impossible flow through a dry channel.
 - **Starting state:** Tarin is a respected but isolated field engineer; Mara is investigating a missing record; their relationship is professional suspicion.
-- **Power state:** Wrench and rule, moving into Trace. The first Gauge statement is incomplete and dangerous.
+- **Power state:** Wrench and rule, moving through Trace and into a first, incomplete use of Name. The first Gauge statement is incomplete, slightly wrong, and never a tutorial.
 - **Major locations:** Cresset's pump houses, the Ashgate inspection works, Glassstep terraces, the Municipal Memory Office.
 - **Major pressure:** A citywide rationing schedule creates immediate stakes, while Halden Roe's falsified readings hide a contractor scheme.
 - **Escalation:** Tarin finds an unlisted pump route; his first attempt to open it saves a neighborhood but leaves a crosscurrent and a missing sensory memory. Mara proves the official maintenance log was altered after the flood.
@@ -103,7 +103,7 @@ Each rung represents a different answer to the same question: who should be allo
 - **Climax:** A public emergency service window forces Tarin to choose between a clean official story and a dangerous but real route. He opens the narrow branch with a public witness, exposing Halden's lie and saving Glassstep's pump.
 - **Concrete resolution:** Cresset receives temporary water and the Water Office acknowledges Ashgate's existence, but the city cannot sustain the supply and upstream demand remains unexplained.
 - **Relationship change:** Tarin and Mara agree to share evidence while distrusting each other's methods.
-- **Power change:** Tarin reaches Trace and an incomplete first use of Name; he cannot repeat the opening safely without another witness.
+- **Power change:** Tarin reaches Trace by perception in Chapter 5 and makes one incomplete, unrepeatable use of Name in Chapter 6; he cannot repeat the opening safely without another witness and has no method for finding one. Bend is not reached in this volume.
 - **Next-volume question:** Why is the upstream Guild reporting a dry gate while a Sallow Reach village reports water moving uphill?
 
 ### Volume 2: The Dry Names (Chapters 51–100)
@@ -118,7 +118,7 @@ Each rung represents a different answer to the same question: who should be allo
 - **Climax:** Tarin and the village keepers open the channel for a measured service window while Cresset gives up part of its new supply. The choice prevents a crop failure and costs the city a visible reserve.
 - **Concrete resolution:** The Sallow Reach assembly gains a recognized route right and the Guild faces a public inspection. The immediate water crisis is solved, but the mountain gate remains politically closed.
 - **Relationship change:** Mara sees Tarin accept a cost he cannot personally measure; Tarin sees her refuse to falsify a village's account.
-- **Power change:** Tarin reaches Bend for a short operation and his name becomes tied to the route. He experiences a lasting loss of a trusted hand technique.
+- **Power change:** Tarin reaches Bend for a short operation and his name becomes tied to the route in a way he cannot undo. His name debt takes his standing with a Guild crew he had started to trust. The practiced hand motion lost in Volume 1 does not come back.
 - **Next-volume question:** The freed water is flooding a downstream neighborhood that official records claim has no inhabitants.
 
 ### Volume 3: The Flood Ledger (Chapters 101–150)
@@ -247,7 +247,7 @@ Each rung represents a different answer to the same question: who should be allo
 - **Starting state:** Cresset is stable but rationed, the source gate is closing, and Tarin's name debt is severe.
 - **Power state:** Open channel in theory, but not yet in practice.
 - **Major locations:** Glassstep, Vellum, Thorn Crown, Pale Teeth, the middle Sere, and the One Map's public control rooms.
-- **Major factions:** Many Rivers organizers, Liora Senn's final custodians, Compact officers, local readers, and Boryn's Clearwater command.
+- **Major factions:** Many Rivers organizers, Liora Tarn's final custodians, Compact officers, local readers, and Boryn's Clearwater command.
 - **Escalation:** Every local record is incomplete, contested, or dangerous to publish. Mara's archive is confiscated. Tarin is offered his mother's remaining route in exchange for completing the common-name version of the counter-map.
 - **Midpoint reversal:** The apparent requirement for one common name is a trap written into the One Map. A true plural counter-map can work only when no community can revise or silence the others.
 - **Climax:** The organizers open the central galleries from several directions while local assemblies maintain their records. Boryn triggers Clearwater, forcing stored water into the basin. The central anchors split, but the release creates a dangerous flood and leaves several routes physically damaged.

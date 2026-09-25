@@ -3,7 +3,7 @@
 These are bootstrap promises, not unresolved chapter events. Each should advance through the volume noted without replacing a local promise with the larger mystery.
 
 1. **Ashgate and the first Gauge:** The missing reservoir is physically present below a later settlement; the opening stream is residual pressure, not created water. Pay off the immediate water crisis in Volume 1 while leaving the larger route mystery open.
-2. **The collective ghost:** The Irrigation Ghost is the accumulated pressure of unlisted places and people, not Lira alone. Establish fragments early; answer its identity by Volume 7 without a resurrection.
+2. **The collective ghost:** The Irrigation Ghost is the accumulated pressure of unlisted places and people, not Lira alone. Hold the many-voiced reading until **Chapter 24**. A single voice may be heard earlier, but the crowd must not be identifiable as a crowd before the descent, or the reveal arrives fourteen chapters early. Answer its identity by Volume 7 without a resurrection.
 3. **The One Map and Blind Reservoir:** The system uses address plates, pressure relief, and rain shutters to make water unreachable. Reveal the physical mechanism progressively; the final answer remains the planned monopoly, not a new entity.
 4. **Boryn's hidden chronology:** Boryn reactivated the newest protocol six years before the story and expanded it afterward. Introduce his public role in Volume 5 and make the earlier, smaller operation part of his credible motive.
 5. **Glassstep and Lira:** Tarin's childhood route, mother's choices, and the unlisted neighborhood are a personal consequence of the system. Do not turn the quest into finding a returned mother.
@@ -16,5 +16,11 @@ These are bootstrap promises, not unresolved chapter events. Each should advance
 - Which sensory memories paid as name debt can be recovered, and which remain lost?
 - Which old routes can be restored, and which have been physically changed beyond repair?
 - How will communities use the freedom to disagree after the Many Rivers Charter is adopted?
+
+## Carried to Volume 2
+
+- **The second voice.** The Gauge speaks once in Chapter 5 and once in Chapter 10, plainly, and each time there is a second sound underneath the statement that is neither explanation nor advice. Volume 2 may let a reader suspect it is more than one person. Volume 1 must not confirm it, must not name it in a batch outline, and must not let a character say it aloud.
+- **Why the Guild's dry gate and the Reach's wet channel disagree.** Volume 1's final chapter image and the new-volume question both sit on this; the contradiction is upstream and must survive the first volume intact.
+- **What is behind the plated terrace outfall.** The plate that holds Glassstep's drainage shut is a named object from Chapter 2 onward. It is a pressure risk in Volume 1 and an opened question later; it is not the reservoir and must not be revealed as one.
 
 These are living-world uncertainties, not missing central-mystery answers.

@@ -125,7 +125,7 @@ Head of the Open Channel Guild, Iven controls the technicians who know how to ma
 
 A regional magistrate and keeper of the Fair Copy, Dorrin enforces the One Map Accord as though law and physical reality must agree. He closes villages, seizes records, and authorizes forced relocation under the doctrine of necessary correction. He is rigorous, public, and willing to be challenged in court. His defeat exposes the difference between legal authority and consent.
 
-### 4. Liora Senn — the careful censor
+### 4. Liora Tarn — the careful censor
 
 Leader of the Quiet Archive, Senn removes unverified and contradictory histories to prevent renewed violence. She preserves the evidence of the Ninefold Flood and genuinely protects vulnerable people. She also becomes the administrator of the archive that can erase a community without touching a single stone. She is a major ideological antagonist and later a difficult ally, never a secret final villain.
 

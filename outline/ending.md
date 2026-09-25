@@ -90,7 +90,7 @@ These open questions do not create a new plot threat. They are the future cost a
 
 ### Chapters 575–582: The common name
 
-- Tarin and Mara reach the central gallery with a small group rather than an army. Liora Senn has left a custodial record and refuses to let either side destroy the archive.
+- Tarin and Mara reach the central gallery with a small group rather than an army. Liora Tarn has left a custodial record and refuses to let either side destroy the archive.
 - The One Map offers Tarin a private common anchor. He sees the memory of Lira, the street of blue doors, and a route that appears to solve the crisis. He understands that this is the same temptation that made the first map possible.
 - Mara could provide a counter-record, but using her memory without consent would repeat the same violence. She chooses to keep the record public and incomplete.
 - Tarin releases the private anchor. The Gauge gives one final plain statement, and Tarin loses the sound of Lira's last night. The route remains connected to real people, but no longer to one keeper's private certainty.

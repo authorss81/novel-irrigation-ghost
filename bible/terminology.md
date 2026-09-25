@@ -15,6 +15,7 @@ The story favors concrete water-work language over invented magical jargon. Thes
 - **Meltwater Verge:** A downstream floodplain where excess water becomes a public and agricultural danger.
 - **Thorn Crown:** The northern and eastern source mountains, including cloud forest and high terraces.
 - **Pale Teeth:** A dry salt basin containing ruins and buried aqueducts.
+- **Terrace outfall:** The overflow that carries a terrace row's drainage away from its cisterns and into a receiving channel. On a listed row it is a public work with a keeper. Where a district has been unlisted, the outfall is sealed and iron-plated, and the plate is nobody's responsibility — so any water that arrives there has only the cisterns to fill, and every later chapter that adds pressure downstream is standing on that plate.
 
 ## Remembered hydraulics
 
