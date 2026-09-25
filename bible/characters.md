@@ -61,6 +61,16 @@ Mara and Tarin begin on opposite sides of a missing Ashgate file. She suspects h
 
 The relationship never requires Mara to become magically capable or Tarin to abandon his responsibility. It requires them to keep separate skills, separate histories, and separate permissions. They become partners without one becoming the other's cure.
 
+## Wend Quill
+
+- **Age:** Forty-one.
+- **Occupation:** Registry supervisor, Cresset Office of the Acting Commissioner.
+- **Relation to Mara Quill:** her mother's older brother. Nineteen years old and out of the registry for the season when he sat at their mother's table and did registry copywork for a half-crown a sheet; that is where Mara learned to read his hand, including the way he leans the downstroke of a *g*.
+- **What he did:** struck one hundred and four household names out of the Glassstep district survey, in court-supply ink from a batch issued twenty-six years before Volume 1, under a marginal reason of *consequential correction, terrace row removed from distribution schedule*. Within the last six years he set a clean replacement leaf into folio eleven of the Ashgate maintenance volume and wrote *maintained* under it, in a second and heavier hand.
+- **What he is not:** he is not a mastermind, not a mage, and not a final villain. He is a long-serving hand inside an institution that has a method and a habit, and he was probably nineteen and told to do it. The word *maintained* is a man expecting to be caught and wanting somebody to have to answer for it.
+- **Function:** he makes the pattern evidence of an **office** rather than of a person, which is what the volume needs in order to keep the antagonist ladder intact. He is the reason Mara's private want and her professional duty collide, and he is the one person she cannot hand her evidence to.
+- **Planned use:** he must not be the reason Roe's lie falls in Chapters 46–49. That falls to arithmetic and a gauge that reads wet in front of the city. He may be a witness, a frightened man, or a dead end.
+
 ## Supporting cast
 
 ### Orrin Sedge
@@ -97,6 +107,28 @@ The relationship never requires Mara to become magically capable or Tarin to aba
 - **Want:** Keep Glassstep's route and the names of its residents from being legally erased.
 - **Flaw:** She believed secrecy was the safest way to protect a cause and made decisions for her family without their consent.
 - **Function:** The absent moral pressure in Tarin's life. She is not a perfect guide, a ghost who can solve problems, or a resurrection promised to the reader. Her surviving notes and final deliberate record reveal that she entered the One Map's maintenance chambers to delay a purge and died there. Her final answer is incomplete: she asks Tarin to choose between a clean map and a dangerous plurality.
+
+### Sluice Warden Pell
+
+- **Occupation:** Sluice warden for the lower terrace road, nineteen years in the post. Not an engineer, not a judge. He decides what gets written down.
+- **Want:** to be a warden whose entries are never found to be made up. That is the whole of his professional want and he will not trade it.
+- **Flaw:** he counts channels and not stories, and he has spent six years being wrong about a place he was never required to visit. He does not enjoy being told so.
+- **Function:** the institutional floor. In Volume 1 he is handed a condition on Day 1, cannot act because the district is not on a sheet, posts a notice addressed to nobody, and is then made the only person entitled to write down the Chapter 10 naming. His rule that a warden records the time a condition **begins** is what fixes the 16:00 clock.
+- **Planned outcome:** he is the working proof that a public record is trustworthy without being central. He survives Volume 1 and is one of the ordinary people who will have to hold a piece of the Many Rivers network without being asked to be a keeper.
+
+### Hanne Roeg of Glassstep
+
+- **Occupation:** None on any document. Four steps, a cane across her knees, a mat over her shoulder, and she beats the mat when it is afternoon.
+- **Want:** the district to be a place her grandson can be told he came from. She does not want an apology and she is not sentimental about the old houses.
+- **Function:** she asks the questions the volume is built on and refuses to let them be answered cheaply — where the water goes, why nobody has looked for Lira, and whether Tarin is going to blame Tam Roke. She names *Glassstep* into the record stone in Chapter 6 because it is what the pumps were built on. **She is not a symbol and must never be written as one.**
+- **Planned use:** her petition and the named household she puts on paper are the movement's turn in Chapters 11–20, and she must be the one who makes that choice, not a stand-in for the district.
+
+### Tam Roke
+
+- **Age:** Forty-four. Keeps the low pump in Glassstep. White scar along one forearm from a cistern lid, 118. His mother was a Rusk out of the top end.
+- **Want:** to keep the pump and to be a man who keeps it, rather than a man who broke it.
+- **Function:** the first witness (Chapter 6) and the first refusal (Chapter 10). He is the man who cuts the crooked mark, who refuses the second hand out loud and in front of a warden, and who is entirely right to. He also planed the gauged oak stop-log and left it at the wall with no note.
+- **Planned use:** he is the standing evidence that Glassstep has been keeping its own route without an office for thirty years. His refusal is the template for the Chapter 39 refusal.
 
 ## Relationship milestones
 

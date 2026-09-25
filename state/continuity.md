@@ -2,10 +2,10 @@
 
 ## Baseline
 
-- The story opens in drought-stricken Cresset, in the Marrow Basin, before any chapter prose exists.
-- Tarin Rusk is a 33-year-old senior flow engineer and the male protagonist. He is competent with ordinary hydraulics before any memory magic.
-- Glassstep was unlisted twenty-six years before the story, when Tarin was seven. Tarin's mother Lira Rusk disappeared during the breach; she later entered the One Map's galleries as a counter-reader and died there. No resurrection or return-as-guide is planned.
-- The first opening event is residual pressurized water released from a concealed Ashgate shaft when Tarin opens an inspection gate. Tarin does not create the water.
+- The story opens in drought-stricken Cresset, in the Marrow Basin. **Chapters 1–10 exist and are canon** (see `state/chapter-summaries.md` and `state/batch-0001-summary.md`).
+- Tarin Rusk is a 33-year-old senior flow engineer and the male protagonist. He is competent with ordinary hydraulics before any memory magic, and Chapters 1–4 show it on the page with no magic present.
+- Glassstep was unlisted **twenty-six years** before the story, when Tarin was seven. Tarin's mother Lira Rusk disappeared during the breach; she later entered the One Map's galleries as a counter-reader and died there. No resurrection or return-as-guide is planned.
+- The first opening event is residual pressurized water released behind a sealed inspection gate when Tarin opens it with a bar. Tarin does not create the water. **The head is 5·89 m and it is a real pressure head; the uphill run is a channel laid at a foot in the hundred.**
 
 ## World and magic
 
@@ -21,7 +21,7 @@
 - Halden Roe is the local liar; Iven Marrow is the guild monopolist; Cael Dorrin is the legal eraser; Liora Tarn is the careful censor; Boryn Vey is the rational sacrificer and final human antagonist.
 - The One Map is the inherited final external pressure. Boryn quietly reactivated its newest function six years before the story and expanded the drought protocol afterward; this is revealed publicly in Volume 5.
 
-## Volume 1 canon (planning, not yet drafted)
+## Volume 1 canon — as drafted, Chapters 1–10
 
 - Cresset is three weeks from the midsummer ration review under a posted **Standing Ration**. Fourteen months without real rain.
 - **Halden Roe** falsified the Ashgate measurements to conceal illegal pumping by contractors through a reservoir his own ledger calls empty. He is a liar about arithmetic, never a magic user, removed from the acting commissioner's office in Volume 1, and alive thereafter as a witness.
@@ -33,7 +33,16 @@
 - Chapter 5 is the first Gauge statement and the first reach of **Trace**. Its wording is fixed: *One route remembers. It asks for a witness.* It states a physical condition, asks for a witness, is incomplete, and is slightly wrong — it counts one route where the pressure in the record reads as more than one line, and it hands the request to the route instead of to the person. It never offers a solution, it never explains the substituted leaf, and it must not be paraphrased into a rule, because Chapter 7 quotes it back as it was spoken.
 - Chapter 6 is the first deliberate route opening and the first reach of **Name**, not Trace. It requires a physical trace, a willing witness, and a record Tarin re-cuts with his own hands. Volume 1 ends at the beginning of Name; Bend belongs to Chapters 51–150.
 - The Gauge never states a rule, a lesson, or a solution. In Chapter 10 it shows only a physical condition, and its wording is also fixed: *The stone is blank. Two hands are on it.* Only one hand is on the stone. Tarin reasons out the rule about a witness being free to refuse himself, in public, where the crowd can argue with him.
-- **Four set pieces, one of them a refusal.** The naming set piece runs in Chapters 6, 10, and 46–49, and Chapter 39 is the shape of the same decision declined. `outline/volume-01.md` holds the differentiation table; the differences are room, crowd, whether the act is announced and written down as it happens, and whether the antagonist's lie falls in the same room. Only Chapter 46–49 is posted, instrumented, and fatal to Roe.
+- **Four set pieces, one of them a refusal.** Chapters 6 and 10 are drafted and are differentiated as planned: Chapter 6 is one resident, one doorway, no crowd, no record the city will honour, and Tarin cuts the name with a chisel. Chapter 10 is a crowd, a warden's timed entry, a witness who refuses in public, and a man who walks out. In Chapter 10 Tarin **cannot** cut the name — the Chapter 7 debt stops his hand — so the naming is spoken, which is the only reason the chapter has a voice. Chapter 39 is the shape of the same decision declined and Chapter 46–49 is the posted, instrumented version. `outline/volume-01.md` holds the differentiation table.
+- **The eleven hours is an engineering figure, derived on the page in Chapter 10:** 6,700 gallons of receiving vessel (a courtyard cistern ten feet across and twelve deep, standing at four, plus three tanks, plus sixty pails) at 610 gallons an hour through a gauged oak stop-log. The same number is used for the Assembly window in Chapters 46–49 because the source does not grow. Do not restate it as more or fewer.
+- **A gauged stop-log meters a branch; an ungauged one does not.** In Chapter 6 Tarin has a crude timber log and a wedge, and the flow is dangerous. In Chapter 10 he has Roke's planed oak with a groove and a pin hole, set to a setting found on Day 19. Anything Chapter 11–20 does with the branch must be throttled, or it will flood the lane.
+- **A channel stops at the balance point,** where the water in the receiving vessels is level with the head in the branch. This is why the courtyard cistern held at a third on Day 1 and why the Chapter 10 branch stopped by itself at 03:00 with nobody in it. The route is not his property and he cannot make it stop.
+- **Sluice wardens record the time a condition begins,** in a right-hand column, not the time they arrive. Pell's Day 20 entry is 16:00 and it was written on. This is the whole of the clock.
+- **Wend Quill** is the hand on both the Glassstep redactions and the Ashgate replacement leaf: Mara Quill's mother's brother, nineteen at their mother's table when she learned to read it, still in the acting commissioner's registry. **The pattern is evidence of an office, not proof of a final villain.** He must not become the volume's villain and must not be the reason Roe's lie falls.
+- **Court-supply ink is issued in dated batches stamped on the tin lid.** The Office buys by the gross and never runs out. The same batch, issued twenty-six years back, is on both documents, which is how a hand in service for twenty-six years explains the Ashgate leaf of the last six years.
+- **The Ashgate pressure log runs about a hundred and eighty years** of a shut gate with a head of 5·7 and a bit, never varying. The removed reading is the last line, the year before the flood.
+- **The record stone of a sealed works is carted to Vellum** and left on a *pending disposal* slip. Folio eleven's stone came down six years ago, cracked on a cart, with its name cut twice out of register. This is the only stone Tarin touches in Volume 1 and the only place the Gauge speaks twice.
+- **Salt fever has local names:** *salt fever* in the Reach, *the scaling* in the upper markets, and nothing in office language. Do not reuse the word *bleed* for it; `bible/terminology.md` reserves that root for community bleed and name debt.
 - **The naming in Chapter 10 happens in the Glassstep courtyard**, with the warden's entry written and timed at the foot of the low pump in front of the same people. The warden's station receives the file afterwards; it is not the scene.
 - **Two charges, both open.** Charge one, filed and read on Day 10: tampering with city records, out of the calibration log Tarin wrote himself; it carries his stand-down and the loss of the lower terrace. Charge two, filed on Day 20 in the same afternoon as the naming: unauthorized opening of a sealed structure and service of water from a reservoir the ledger records as closed, out of the warden's dated and timed entry. Different subjects, different dates. Chapter 10 is written with him already suspended, and that is why a crowd is the room available to him.
 - The Chapter 10 clock is fixed: the water starts at **16:00**, the warden's men carry him out at **18:00**, and the branch runs nine more hours before stopping on its own at **03:00** with nobody in it. Write the times. It does not stop because he is gone, and it does not come back when he asks.
@@ -44,6 +53,9 @@
 - The ration review is quoted as roughly three weeks away at the opening, is still not held when the cistern rows run out, and is finally forced in Chapter 46. Chapters 1–10 are Days 1–20 and are governed by the cistern rows. Push the review date rather than compress scenes.
 - Tarin never uses a private memory as an anchor. The Chapter 39 refusal costs the plot its convenient solution and must read as an established pattern.
 - No chapter may end on a cut-off mid-action. Each lands a completed beat and opens a question.
+- **Where the batch leaves the world on the morning of Day 21:** the branch stopped at 03:00 unstaffed and does not come back when he asks; the row's three tanks, sixty pails and the yard cistern are full of the same crosscurrent-tainted water; the municipal cistern rows for 7–12 are empty and the low pump has been dry since Day 9; the plate under the yard is ticking every ten or twelve seconds and nobody knows whether that is iron cooling or water finding a way round the bolts. The district is going to wake up wet and have to decide in the morning whether any of it can be used.
+- **The window cannot simply be repeated.** One opening did not make the route his. Twenty-three people were asked and nineteen said no; being right about hydraulics is not a way to persuade anybody. Chapter 11 opens with the suspension as an administrative fact before it is a dramatic one.
+- **Roe's lie is not yet in danger.** The only thing moving is two charges, and they are moving against Tarin. Nobody in the city is currently asking who removed the pressure figure, and Chapter 10 does not raise it.
 
 ## Ending constraints
 

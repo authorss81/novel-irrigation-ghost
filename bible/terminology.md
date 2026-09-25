@@ -7,7 +7,9 @@ The story favors concrete water-work language over invented magical jargon. Thes
 - **Sluice:** A controllable gate or channel used to admit, release, or divide water. Sluices need maintenance and a named keeper during an emergency.
 - **Weir:** A low barrier that measures or regulates flow. A weir can flood a neighborhood if its downstream channel is blocked.
 - **Head:** The vertical height of water above a point. Higher head creates more pressure and danger at a gate.
-- **Service window:** A bounded interval during which a community receives or releases water. A service window is both a physical schedule and a political promise.
+- **Service window:** A bounded interval during which a community receives or releases water. A service window is both a physical schedule and a political promise. Its length should always be derivable from a measurement already on the page — vessel, flow, and time — because the number is engineering and the volume never grows it.
+- **Stop-log:** A shaped timber set into a gate's cheeks to throttle a channel. A stop-log meters a branch; an ungauged one does not. A planed log with a groove down one face and a pin hole at the head is a gauged log, and setting the pin sets the flow. This is how a hand's-width branch off five point eight nine metres of head is made safe to run.
+- **Balance point:** The condition at which the water standing in a receiving vessel is level with the head in the channel feeding it, and the flow stops of its own accord. Not a failure and not a decision. A channel always stops here whether or not anybody is standing in it, which is why a route cannot be shut by a keeper who is not present.
 - **Route:** A connected water path from a source to a use, drain, or destination. A route includes its gates, sediment, maintenance, and human custodians.
 - **Route right:** A recognized claim to be included in decisions about a route. It does not guarantee unlimited water or automatic control.
 - **Basin:** A drainage region organized around shared water movement. The Marrow Basin is both a geography and a political argument.
@@ -25,14 +27,14 @@ The story favors concrete water-work language over invented magical jargon. Thes
 - **Name:** In practical shorthand, a route name. A name is not a possession and should not be used as one.
 - **Witness:** A person who has used, maintained, witnessed, or refused a route and accepts responsibility for speaking about it. A witness is not automatically a public official.
 - **Counter-record:** A record preserved outside the official archive to challenge omissions, substitutions, or conflicting accounts.
-- **Record stone:** A durable marker naming a route or a major junction, with dates and witnesses when available.
+- **Record stone:** A durable marker naming a route or a major junction, with dates and witnesses when available. A name is cut once; a name cut twice, out of register, means a route that was named and then renamed. When a works is sealed, its record stone is cut off the wall and sent to the record city, where it can sit on a *pending disposal* slip for a generation.
 - **Blind water:** Water without a usable social address. It may be physically present but cannot be reliably directed by remembered hydraulics.
 - **Unlisted:** A place, route, or community removed from an official or working record. Unlisting does not erase the place's people, but it makes its claims difficult to recognize.
 - **Underlisted:** A place that survives physically and socially while being increasingly invisible to official maps, budgets, and memory magic.
 - **Name debt:** The personal and communal cost of holding a route open against its proper conditions.
 - **Consent fracture:** The failure pattern caused when a private memory is used as an anchor without informed consent. The route may split, the target may suffer a crosscurrent, and the person whose memory was used may lose orientation or a sensory detail.
 - **Crosscurrent:** The dangerous result of forcing a route whose records, memory, and physical gates disagree.
-- **Salt fever:** A physical illness caused by drinking or bathing in blind or badly addressed water. Symptoms include burning skin, confusion, metallic taste, fever, and loss of orientation. It can be treated, but severe exposure leaves lasting sensory damage.
+- **Salt fever:** A physical illness caused by drinking or bathing in blind or badly addressed water. It appears in a fixed order: a metallic taste, then fever, then burning skin and confusion, then loss of orientation. The three diagnostic points are the pads of the index and middle fingers and the web between them, which show it about a day before a patient complains. It is called salt fever in the Sere Reach and **the scaling** in the upper markets, and office language will not admit there is a name for it. **It is never called a bleed**; that root belongs to community bleed and name debt. It can be treated, but severe exposure leaves lasting sensory damage.
 - **Name fracture:** A severe name-debt condition in which a practitioner can no longer serve as a dependable route anchor.
 
 ## The ghost
@@ -53,7 +55,7 @@ The story favors concrete water-work language over invented magical jargon. Thes
 
 - **Provenance:** The chain of custody of a document, established by ink, sizing, paper, watermark, pressure shadows, and handwriting. Provenance can establish that a record was altered. It cannot establish what was true, and it is not moral authority.
 - **Pressure shadow:** The impression left on the leaf beneath a page that has been removed. A pressure shadow preserves what was written above it and is routinely the only surviving copy of a deleted figure.
-- **Court-supply ink:** Standard issue issued to record offices, courts, and surveyors. Its presence on a document shows an institution did the writing, which is very different from showing who held the pen.
+- **Court-supply ink:** Standard issue issued to record offices, courts, and surveyors, bought by the gross and issued in dated batches with the year and batch stamped on the lid of the tin. It is dated three ways: by the nib cut, by the gum, and by the batch on the tin. Its presence on a document shows an institution did the writing, which is very different from showing who held the pen. Because the Office never runs out of a tin, a single hand can be in service for a generation using a batch older than the documents it writes.
 
 ## The One Map and related institutions
 
