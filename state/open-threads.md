@@ -35,3 +35,31 @@ These are bootstrap promises, not unresolved chapter events. Each should advance
 - **The keeper.** The volume's live institutional problem at the end of Batch 0003. A route with a name, a record and a keeper can be held; a route with only a man in it cannot. The stone has one name and one blank face, the date is accepted, the source is a chamber and not a document, and **the box that would make the district fileable is empty on purpose and will be read by a district examiner who has been brought forward by the district's own letter.**
 
 These are living-world uncertainties, not missing central-mystery answers.
+
+---
+
+# Open threads after Batch 0004 (Chapters 31–40)
+
+## Advanced, not closed
+
+1. **Ashgate's physical existence and its institutional silence.** The chamber is now in six documents in four buildings: Pell's condition, Tarin's engineer's statement, the Office's reply of the 16th, the return of supervision of the 21st, Yara Sen's statement of the 21st, the district's request of the 27th, and Averell's minute that a Guild team was on those works. **The Office has still made no finding and the chair of the preliminary inquiry has said in a room that a certificate is a finding and that he will not rule on it in anybody's absence.** That sentence is now load-bearing for Movement V: it means the finding exists, it is in a box, and nobody has opened the box.
+2. **The keeper box is still empty on purpose** and the district examiner is coming on the **twelfth of next month**, and the thing the district has asked for is that this district and the settlement at Ashgate be **heard together in one room by one examiner** — which is the first document in this volume in which the two are in the same clause. **What the district has refused to ask for is recorded in the same hand: a schedule, a route, water, a keeper, and the setting out of a charge.**
+3. **Nobody has asked the row at Ashgate whether it consents.** Thirty-four people put a refusal on a slate on the 17th and a woman of thirty-nine put her own name on it instead of a girl's, and on the 27th a document went up the cattle track that will put the row into a file whether the row likes it or not. **Tarin owes that hill a visit and it is the first thing Chapter 41 owes.** He also owes Nell Drust a look at the lid of a cistern at the bottom end of that row that nobody in the row has ever opened.
+4. **The well at Ashgate is at 68 gallons an hour against 103, with grit in the pail, and there is grit in it and no instrument in the basin that could say what it is.** Thirty-four people have been drinking out of a body of water that a plant is drawing from and nobody has told them, and the answer to the question of whether the well will be the same water in a month is still no.
+5. **The certificates.** Two sheets, thirty yards from a chalk board, in the acting commissioner's hand, in a deal box. Iven Marrow has now supplied the innocent explanation for the *board* — a plate of a bigger bore — in advance of being asked anything about the *certificates*, and corrected it himself in the same breath: *nobody certifies a chamber void because a plate is the wrong bore.* **That is a hint on the page from a man who is not a conspirator, and it must not be resolved by him.**
+6. **The flood closure of fourteen years ago** is in an office file with a finding that says *justified* and a schedule of **eleven names, the youngest nine, the oldest sixty-one.** Tarin told the chair that one thing in the file is incomplete, that he has known for fourteen years that it is, and that he will not say what it is because he would have to say a name. **It is not resolved in Volume 1 and it is a Volume 3 thread.** It has never been told to Mara Quill and it must not be in this volume.
+7. **Iven Marrow's offer is on the table.** Work, access to eleven thousand four hundred leaves and two hundred and thirty-nine plate specifications, and eleven weeks at a bench at Bexhill, for leaving the blue steps out of the report. **He has said it does not expire, that he will make it again, and that he will not enjoy it.** The bench book is already in Tarin's coat and cost nothing and is the reason Volume 2 is possible.
+8. **The Guild's high gate at Sallow, dry six years.** Planted in Chapter 35 by the man who runs the Guild and unanswered. **The village's wet channel is Volume 2's other half and has not been raised.**
+
+## The movement's unresolved problem, in one sentence
+
+**A district of a hundred and twenty-six people has asked in a yard, in daylight, with the doors open, to be examined next to a settlement of thirty-four people it has never spoken to — and it did that without asking the settlement, and it is going to find out in the next chapter what that costs.**
+
+## Still untouched, still unraised
+
+- **The collective ghost.** Established once, in Chapter 24, spent, unexplained, and **not used again as a sound, a pressure or an image.** Do not re-use it in Movement V. If it appears, it appears as something a person remembers and it does no work.
+- **Wend Quill.** Not spoken of in Movement IV. Mara filed two sentences that will make a registrar examine a man of forty-one, and the marginal note is still dated a Tuesday in the second month of next year and nothing happens on it.
+- **The thump under the terrace.** It has not restarted, nothing in this batch explains it, and nothing in this batch should.
+- **The marker stone's blank faces.** Neither stone is cut in Chapters 31–40 and neither is cut by the end of the volume before the Assembly.
+- **Cael Dorrin, Liora Tarn, Boryn Vey.** None of them may appear in Volume 1.
+- **Lira Rusk.** Four and not one. No later chapter decides which of the four voices was hers.
