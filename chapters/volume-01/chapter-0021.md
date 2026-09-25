@@ -1,45 +1,54 @@
 # Chapter 0021 — The Water Is Going Down
 
-The flags in the yard of the blue steps were dry on the underside by the third day, and that was how the lane knew.
+The flags in the yard of the blue steps were dry on the underside by the fourth day, and that was how the lane knew.
 
-Nobody in the blue steps had ever heard the noise. That was the thing Tarin Rusk understood about four in the afternoon of the third day of the month, standing at the throat of the lane with a stick in his hand: two days of silence under the flags, and a hundred and twenty-six people, and not one of them had noticed anything missing, because the only man in this district who had ever heard a pumping plant at three a second without variation was a twenty-two-year-old who had been sleeping in a dispensary.
+Nobody in the blue steps had ever heard the noise. That was the thing Tarin Rusk understood about four in the afternoon of the fourth day of the month, standing at the throat of the lane with a stick in his hand: two days of silence under the flags, and a hundred and twenty-six people, and not one of them had noticed anything missing, because the only man in this district who had ever heard a pumping plant at three a second without variation was a twenty-two-year-old who had been sleeping in a dispensary.
 
 They were not relieved. He wanted them to be relieved and understood, in the same quarter of an hour, that he wanted it for himself.
 
-He put the stick in the cistern and it came up wet to four feet and drawing, and the coping had a dark band round it an inch and a half wide, and the band was a week old and getting wider every day the water fell.
+He put the stick in the cistern and it came up wet at six foot three, and the coping had a dark band round it an inch and a half wide, and the band had not been there on Wednesday morning, when he had put a mark of his own on the coping a hand's width above the water with a stub of chalk, to see whether it stayed where it was.
 
 ---
 
 Bel Crale's boy came down at four with the ledger, because Bel Crale had decided in the end that a thing that had a price on it ought to be written up by a child with a good hand rather than by a woman with a spade.
 
-"Sold on the second, three hundred and forty. On the third, three hundred and forty. Yesterday, three hundred and no change, and there was a queue down past the arch before the light." The boy said it the way he said everything, which was as though it were somebody else's arithmetic. "The man with the barrow says he can get sixpence."
+"Sold on the second, three hundred and forty. On the third, three hundred and forty. Today, three hundred and forty and no change, and there was a queue down past the arch before the light." The boy said it the way he said everything, which was as though it were somebody else's arithmetic. "The man with the barrow says he can get sixpence."
 
 "The man with the barrow can get sixpence," Tarin said, "and by the end of the week he can get whatever he likes, because I am going to have to tell him the water is stopping."
 
 The boy looked at him. He was fifteen and he had been told nothing.
 
-"All of it is stopping," said Tarin Rusk. "Go and tell Bel Crale now, not in an hour. And tell her it is not the pump in the lane, there is no pump in the lane, and it is not a fault, and there is nobody who can be sent for."
+"There is one more thing going out of that cistern this afternoon that is not in that book," said Tarin Rusk. "How many pails came off the fenner road."
+
+The boy said he did not know, and looked as though he had been asked about the weather.
+
+"I counted thirty," said Tarin Rusk, "at the arch, going out, at three gallons apiece. They are not yours and they are not Bel Crale's and they are not ours, and there is nobody in this lane who would have thought to write them down. I have thought to write them down, and it is going in my book and not in his, and I would like that understood while the two of you are standing here."
+
+"The rest of it is stopping as well," said Tarin Rusk. "Go and tell Bel Crale now, not in an hour. And tell her it is not the pump in the lane, there is no pump in the lane, and it is not a fault, and there is nobody who can be sent for."
 
 ---
 
 He did the sum where he could be seen doing it, on the low house step, with a yard of people at the end of the afternoon and the sun on his back, which was the second time in a month he had done arithmetic in public and the first time it had not gone in his favour.
 
-The cistern held 4,700 gallons with eight feet of room in it, and it had been at the lip of that room on the night of the second, and since the third it had lost to three people at once: strangers with pails at a price that went up every day, a hundred and twenty-six people drinking and cooking off it, and the sun coming off an open tank in a hard dry windless heat.
+The cistern held 4,700 gallons with eight feet of room in it, and it had been at the lip of that room on the night of the second and was still at the lip on Wednesday morning when he marked it, and since Wednesday morning it has been going to three places at once: strangers with pails at a price that went up every day, a hundred and twenty-six people drinking and cooking off it, and the sun coming off an open tank in a hard dry windless heat.
 
 > *Standing, close of the 2nd: 4,700 gal (at the lip; coping wet all round).*
-> *Sold, 3rd to 9th: 340, 340, 300, 280, 240, 220, 190 = 1,910 gal.*
-> *Lane drawing, 3rd to 9th, 70 gal a day: 490 gal.*
-> *Evaporation, 50 gal a day: 350 gal.*
-> *Out: 2,750 gal.*
-> *Standing, close of the 9th: 1,950 gal.*
+> *Sold, Bel Crale's book: 3rd, 340. 4th to four o'clock, 340.*
+> *Fenner pails, 4th, from two o'clock, not in the book: 90 gal — thirty pails of three gallons, counted at the arch.*
+> *Lane drawing, two days at 70: 140 gal.*
+> *Evaporation, two days at 50: 100 gal.*
+> *Out: 1,010 gal. In: nothing.*
+> *Standing, close of the 4th: 3,690 gal, which is six foot three.*
 
 He wrote it on the back of a ward notice and read it out, and then he said the part that was the actual finding, which was not a sum.
 
 "I can tell you when it stopped," he said. "Not who stopped it and not why, and I will not pretend otherwise to a yard, because I have been wrong in this yard once already and I have it written down. But I can tell you when.
 
-"The tank was at the lip on the night of the second. It has been losing water every day since the third, in a straight line, and the only day in that week on which it lost less than the others is the fifth, which is the day Mrs. Ollan put the butt in the top end on the stand so that the lane would stop drawing out of the cistern for washing, and the day it lost more than the others is the fourth, which is the day it was raining in the fenner district and they came in with their own pails at four in the afternoon instead of in the morning.
+"The tank was at the lip on Wednesday morning and I put a mark on the coping over the water myself, and that mark is a hand's width above where the water is standing now, and it has been coming down every hour since, in a straight line, and the line does not have a hole in it.
 
-"Those are the only two facts I have. Everything in that line is weather and price. There is no gap in it. So the water stopped coming off the hill on the night of the second of this month, at some hour between sunset and midnight, and it has not come since, and it is not going to come back on its own, because it was never coming here by itself. It was being put here."
+"Wednesday I can show you gallon for gallon, because Bel Crale's boy has written them down: three hundred and forty in the book, seventy of you drawing off it, fifty going off the tank in this heat. Four hundred and sixty. Thursday has gone out at five hundred and fifty. The whole of the difference is ninety gallons, and the ninety is the fenner pails, because it rained in the fenner district this morning and they came at two o'clock instead of at six, and I counted them going out at the arch, and Bel Crale is right not to have written them down in her book, because they are not her sale and they are not yours.
+
+"Take the ninety away and Wednesday and Thursday are the same day to within a bucket. That is all I have got. Two days is two days and I am not going to stand in a yard and call two days a week. But it does not need to be a week. The tank was at the lip on Wednesday morning and it has fallen every hour since in a straight line, and there is nothing in either day except weather and price, so the water stopped coming off the hill on the night of the second, at some hour between sunset and midnight, and it has not come since, and it is not going to come back on its own, because it was never coming here by itself. It was being put here."
 
 Somebody at the back said, "Put here by who."
 
@@ -51,11 +60,11 @@ The dispensary had a slate and no clean water, and Yara Sen did the sum in front
 
 "Twenty-three gallons," she said. "That is what the money buys, and I have said so out loud on this dispensary step since the thirty-first, and I am saying it again because a fact somebody has heard once is not a fact anybody has agreed to.
 
-"Four children in my book with a fortnight on them. The fortnight ended on the fourth. It is the ninth. They are five days past a number I wrote down myself and was proud of, and I have gone back over it four times this week in case I had made it too short, and I have not."
+"Four children in my book with a fortnight on them, and today is the fourteenth day of it, and tomorrow they are a fortnight and a day past a number I wrote down myself and was proud of, and I have gone back over the column four times this week in case I had made it too short, and I have not."
 
 "How are they."
 
-"Two of them are no worse. One is no better. The fourth is at three points again, which is the third time in a fortnight, which is not a thing that happens to a child who is getting better." She put the chalk down. "I have nine with the marks. Four at three, five at two. That is the count, and the count has not moved in a month, which sounds like good news and is not, because a count that does not move in a month of this weather means the same children going nowhere, and a child who goes nowhere for a month does not come back where they were."
+"Two of them are where they were on the twenty-seventh. One is no better. The fourth is at three points again, and the last time was the twenty-eighth, and this one came three days sooner than the last one, and a mark that comes back sooner than it went away is not a mark that is standing still." She put the chalk down. "I have nine with the marks. Four at three, five at two. That is the count, and the count has not moved in a fortnight, which sounds like good news and is not, because a count that does not move in a fortnight of this weather means the same children going nowhere, and a child who goes nowhere for a fortnight does not come back where they were."
 
 "The seventy gallons a day has not moved either and I want to show you the working because it is the only number in this district anybody can check. Four children at four gallons, which is sixteen. Five at two, which is ten. A hundred and seventeen people to keep alive on a floor of three pints a head, which is forty-four. Sixteen, ten, forty-four, seventy. A fortnight of it is nine hundred and eighty and I have been rounding that to a thousand in my own head for a fortnight and I would like to stop."
 
@@ -75,15 +84,15 @@ Hanne Roeg was on the fourth step with a cane across her knees and had been on t
 
 "Yes."
 
-"Then sit down, because you have got a week of not sleeping in you and you look like the man who came down here on the seventh with a bar, and I am not going to have that on my step in daylight." She moved the cane. "Now go on then. I have been on this step since two and I have had a very quiet morning and I would like it to be over."
+"Then sit down, because you have got a week of not sleeping in you and you look like the man who came down the cattle track on Wednesday night with a bar and a lamp and nothing else, and I am not going to have that on my step in daylight." She moved the cane. "Now go on then. I have been on this step since two and I have had a very quiet morning and I would like it to be over."
 
 Tarin Rusk told her the whole of it, standing at the bottom of her four steps, in about nine minutes, in the order he had worked out on the way down, which was the order of things a person could check.
 
-The cistern's fall and its dates. The two facts that were not weather. The twenty-three gallons and the five days. The three men who had been on a ledge two miles up the mill road on the night of the second, and the coil of rope that had been cut by somebody else's knife, and the lantern that had been lit about two hours, and the man twenty feet down on a staging who had known exactly which office he was talking to and had not been surprised to see them.
+The cistern's fall and its dates. The two days of it, and the ninety gallons in the two days that were weather. The twenty-three gallons and a fortnight that comes to an end tomorrow. The three men who had been on a ledge two miles up the mill road on the night of the second, and the coil of rope that had been cut by somebody else's knife, and the lantern that had been lit about two hours, and the man twenty feet down on a staging who had known exactly which office he was talking to and had not been surprised to see them.
 
 "And I am going back down on the fifth," he said. "At dusk. With the boy and with Wick, because Wick has said he will hold a rope and be on nothing else, and I have not got a third man and I have not got money and I have not got a warden's seal and I am not going to pretend to any of them that I have."
 
-Hanne Roeg listened to all of it with her hands flat on her knees and her face going the wrong colour, and when he had finished she did not say any of the six things she had said on the first of the month, and the reason was that she had spent four days with a well in a lane and had nothing left over from the first time.
+Hanne Roeg listened to all of it with her hands flat on her knees and her face going the wrong colour, and when he had finished she did not say any of the six things she had said on the first of the month, and the reason was that she had spent three days saying no and had nothing left over from the first time.
 
 "Two things," she said. "And then I am going to bed, and I am going to be perfectly truthful with you, which is the only thing I have ever been able to do on this step.
 
@@ -95,7 +104,7 @@ Hanne Roeg listened to all of it with her hands flat on her knees and her face g
 
 "Then the second."
 
-"The second is that I am not going to stop you." She said it plainly, and put her hand out flat on the stone of the step, and it was not a blessing and it was not forgiveness and it was the sound a door makes coming off its latch. "I refused you on the first and I was right on the first and I would refuse you again this afternoon. I will not pretend I have changed my mind. What has changed is that I have been the only wall in this lane for eleven days and there is a thing happening to me that I would like somebody else to have a piece of for about a day, and you are the only person in this city who has offered, and I am not going to insult you by pretending that is a good reason.
+"The second is that I am not going to stop you." She said it plainly, and put her hand out flat on the stone of the step, and it was not a blessing and it was not forgiveness and it was the sound a door makes coming off its latch. "I refused you on the first and I was right on the first and I would refuse you again this afternoon. I will not pretend I have changed my mind. What has changed is that I have been the only wall in this lane since the first of this month, and there is a thing happening to me that I would like somebody else to have a piece of for about a day, and you are the only person in this city who has offered, and I am not going to insult you by pretending that is a good reason.
 
 "So: I do not consent, I am not asked, and I am not going to know. Not on the day, and not on the morning after, and not in a week. If you want the fourth step's door you will have to go round it, and if you come up this lane at three in the morning with a rope I will be on this step, and you will go back down it, and I will not be the one who sent you."
 
@@ -111,15 +120,15 @@ Marda Ollan had the keys to the two rooms at the top end and the district's mone
 
 "We are not going to spend it," said Tarin.
 
-"You are going to spend four shillings of it on Friday and you have been not-going-to-spend it since the thirtieth, so let us have the rest of it over with." She counted it onto the step in front of him, by twos and fives, because she was thirty-one and had been counting things on slates since she was nine. "Four shillings is the reading-day fee. It is not refundable. Pell has put the first one on his note and the district can claim it back in a quarter of a year, and a quarter of a year is the eleventh of next month, which is the day after the day we are trying to read it on, and I want that written on a slate in this lane and I want it to stay written.
+"You are going to spend four shillings of it this morning and you have been not-going-to-spend it since the thirtieth, so let us have the rest of it over with." She counted it onto the step in front of him, by twos and fives, because she was thirty-one and had been counting things on slates since she was nine. "Four shillings is the reading-day fee. It is not refundable. Pell has it on his note as a thing his office has laid out on the district's behalf, and the district can claim it back in a quarter of a year, and a quarter of a year is a long way past the morning we are trying to read it on, and I want that written on a slate in this lane and I want it to stay written.
 
 "Bel Crale will not like it. Bel Crale did not come into this lane to hand money to a building in Vellum and she is right not to want to. So here is the whole of it and I am going to say it in front of you because I have made myself the easiest person in this row to find and that was a promise and I am not going to start breaking it in a fortnight.
 
 "Four shillings buys a reading of one page in one volume on one morning. Two hundred and forty gallons of clean water buys three days and ten hours of what Doctor Sen needs for four children. Those are the two things on this step and there is not a third thing, and if somebody in this lane tells you this is a rich lane now, they are telling you a thing they heard from Bel Crale's boy and he does not know what he is carrying."
 
-Nobody said anything for a moment, and out at the wall the man with the barrow, who had come four miles with a pail and had been coming four miles with a pail for ten days, said quietly that he did not want anybody to buy anything on his account, and Marda Ollan told him to go home, and then told him to wait, and then gave him a penny out of the bucket and made him take it, which cost her nothing and was worth more than the four shillings.
+Nobody said anything for a moment, and out at the wall the man with the barrow, who had come four miles with a pail and had been coming four miles with a pail for a fortnight, said quietly that he did not want anybody to buy anything on his account, and Marda Ollan told him to go home, and then told him to wait, and then gave him a penny out of the bucket and made him take it, which cost her nothing and was worth more than the four shillings.
 
-"Friday," said Tarin Rusk. "I will be at the desk in the reading room at nine. Hanne, I need the warden's return in my hand and I need the lane's count and I need to know what a man is allowed to write in a purpose box when the thing he wants read is the source of a supply for a district that does not exist on any schedule in this city."
+"The eleventh," said Tarin Rusk. "I will be at the desk in the reading room at nine. Hanne, I need the warden's return in my hand and I need the lane's count and I need to know what a man is allowed to write in a purpose box when the thing he wants read is the source of a supply for a district that does not exist on any schedule in this city."
 
 Marda Ollan looked at him.
 
@@ -127,7 +136,7 @@ Marda Ollan looked at him.
 
 "There is nobody else. I read it. I am not a district. That is the only reason it can be done at all and it is the reason it will be in a register in Vellum with my name against the blue steps on it for the rest of my life, and I want that in front of you now, on a step, in daylight, from me, and not found in a month."
 
-"Then it is in front of us now," said Hanne Roeg, from four steps up. "Go and sleep, Rusk. You have looked like this since the seventh and I have watched a great many men look like this and none of them were doing anything useful in the first hour."
+"Then it is in front of us now," said Hanne Roeg, from four steps up. "Go and sleep, Rusk. You have looked like this since Wednesday night and I have watched a great many men look like this and none of them were doing anything useful in the first hour."
 
 ---
 
@@ -137,7 +146,7 @@ Niko carried the lamps and the second hood he had made out of a tin lid, and the
 
 Wick carried the bar and nothing else, because he had said he would hold a rope and be on nothing else, and he meant it in a way that took some working out and by the time they reached the cut he had worked it out, which was that the rope was the rope and the bar was the bar and he was not going to be a man with opinions in a place where opinions kill people.
 
-Tarin carried the pin in his pocket and the blue book and the chalk and nothing else, and his left shoulder, and about four days of a man who had not been wrong about a head in his life and had not yet been wrong about a chamber, and the two-finger press that had been gone since the seventh of the month, which he had not tried that morning and was not going to try that evening, because he had learned on the thirtieth that the trying was worse than the not having.
+Tarin carried the pin in his pocket and the blue book and the chalk and nothing else, and his left shoulder, and about four days of a man who had not been wrong about a head in his life and had not yet been wrong about a chamber, and the two-finger press that had been gone since the seventh day, which he had not tried that morning and was not going to try that evening, because he had learned on the thirtieth that the trying was worse than the not having.
 
 At the cut they found that the lantern on the nail was out and the tin of oil was gone and the coil of good hemp that had been cut by somebody else's knife was gone too, and that there was fresh spoil again, and three sets of prints going in and no sets coming out, and that the ring of iron in the wall was still holding its rope-eye, and that the rope-eye had come further through the stone than it had on the second.
 

@@ -34,7 +34,7 @@ Errol Slee was fifty-odd and he had a lantern and a face that had not slept, and
 
 "Where is it going."
 
-"Four gallons a day into a dispensary in a lane that has got a jar and a butt and a plate under the floor and nine children in it with the marks, and a woman of forty-one running the room on fifteen shillings and fourpence, and a seven-year-old at the third point for the third time in a fortnight." Wick Venn said it the way a man reads a list he has been given. "I have four pounds. I want eighty gallons at a shilling and I want you to bring it and I want to drive the second load, because I have not got another man in this lane with a cart and no one else in this lane with a cart is free."
+"Seventy gallons a day into a dispensary in a lane that has got a jar and a butt and a plate under the floor and nine children in it with the marks, and a room that was opened in the spring on forty-one pounds and has fifteen shillings and fourpence in it tonight, and a seven-year-old at the third point for the third time in a fortnight." Wick Venn said it the way a man reads a list he has been given. "I have four pounds. I want eighty gallons at a shilling and I want you to bring it and I want to drive the second load, because I have not got another man in this lane with a cart and no one else in this lane with a cart is free."
 
 "That is a shilling the gallon."
 

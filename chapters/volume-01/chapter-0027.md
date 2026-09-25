@@ -167,7 +167,7 @@ She wrote it. And then she said: "I will want the district's name, and its numbe
 
 The clerk wrote it.
 
-"One hundred and twenty-four," she said, reading it back, "and one hundred and nineteen."
+"Twenty-four houses," she said, reading it back, "and one hundred and nineteen."
 
 "Yes."
 
@@ -191,5 +191,5 @@ Then she read the whole of it back, and it went into the register, and it is thi
 
 *Consultation 34. Folio 11, Ashgate intake maintenance series. Restricted, rule nine. Eleventh day of this month, ten o'clock until twenty past one. Applicant: Rusk, T., flow engineer, Water Office, under a stand-down entered in the commissioner's registry. Second reader: Rull, S. Present: Quill, M., conservator.*
 *Purpose: to establish the recorded condition of the Ashgate intake main wheel.*
-*Remarks: applicant states that the purpose is had for a district, and requests it noted. District: the lower terrace road, the blue steps. Twenty-four houses, ~~one hundred and nineteen~~ one hundred and twenty-six persons, per the warden's return of the thirty-fourth of this month and per a count taken by the district itself. No row. No schedule entry. No keeper. Name entered in this register at the applicant's own hand and not by the office.*
-*Reader's note: no such district appears on any schedule in this jurisdiction, and the office has no power to enter one, and the warden's note of the thirty-fourth of this month in the district book of that road is the only document in this city in which the words the blue steps have appeared.*
+*Remarks: applicant states that the purpose is had for a district, and requests it noted. District: the lower terrace road, the blue steps. Twenty-four houses, ~~one hundred and nineteen~~ one hundred and twenty-six persons, per the warden's return of the thirty-fourth day and per a count taken by the district itself. No row. No schedule entry. No keeper. Name entered in this register at the applicant's own hand and not by the office.*
+*Reader's note: no such district appears on any schedule in this jurisdiction, and the office has no power to enter one, and the warden's note of the thirty-fourth day in the district book of that road is the only document in this city in which the words the blue steps have appeared.*

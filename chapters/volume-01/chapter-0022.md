@@ -38,7 +38,7 @@ The lamp was, and the tin, and a fold of oiled rag, and a boy of about fifteen a
 
 "Tarin," he said, low. "I am not going to be clever about this. I am going to say the whole of it once and then we do the work.
 
-"That boy is paid. He is paid weekly, by somebody who can afford a boy's wages out of a works that has been shut six years, and he is asleep on a staging at midnight because he has been on it every night since the second, which means he is doing our nights for us and he is fourteen and he is being paid to do it. He is not evidence and he is not a man on a staging. He is a boy.
+"That boy is paid. He is paid weekly, by somebody who can afford a boy's wages out of a works that has been shut six years, and he is asleep on a staging at midnight because he has been on it every night since the second, which means he is doing our nights for us and he is about fifteen and he is being paid to do it. He is not evidence and he is not a man on a staging. He is a boy.
 
 "Whatever is down there, nobody put it there this month. That is the whole of what I can tell you at the top of this ladder and I would like it written down somewhere before we go on."
 

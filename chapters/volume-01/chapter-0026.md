@@ -59,7 +59,8 @@ Tarin Rusk told it after that, and he told it badly, because he had told it in h
 Then the arithmetic, which he put on the slate himself, because it was his and because the last two times he had done arithmetic in a yard it had gone against him and he had decided that a man who has been wrong in public should keep doing it in public.
 
 > *Tank, evening of the 2nd: 4,700 gal, at the lip.*
-> *Sold, 3rd to 9th: 340, 340, 300, 280, 240, 220, 190 = 1,910.*
+> *Sold, Bel Crale's book, 3rd to 9th: 340, 340, 280, 250, 230, 200, 180 = 1,820.*
+> *Fenner pails, 4th, ninety gal, never in the book.*
 > *Lane drawing, 3rd to 9th, 70 a day: 490.*
 > *Evaporation, 50 a day: 350.*
 > *Out: 2,750. In: nothing.*
@@ -91,7 +92,7 @@ Then the dispensary, and it was at the end because Bel Crale made it be at the e
 
 Nobody said anything for about a minute. Somewhere down the lane a man was calling for a pail.
 
-"Eleven gallons in a stone jar," said Yara Sen, "and a butt at the top end that I am going to have to tell somebody about this evening for cleaning water, and twenty-three gallons of money, and one thousand nine hundred and fifty gallons of the other thing."
+"Eleven gallons in a stone jar," said Yara Sen, "and a butt at the top end that I told this yard about on Friday, and which a woman at the top end put on a stand that same evening so that nobody in this lane has to draw washing out of a cistern with a child in the house, and twenty-three gallons of money, and one thousand nine hundred and fifty gallons of the other thing."
 
 She shut the book and put it under her arm.
 

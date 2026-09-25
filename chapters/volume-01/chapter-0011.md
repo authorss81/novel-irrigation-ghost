@@ -156,7 +156,7 @@ It was a single sheet, printed, four boxes across the top and a ruled column dow
 > *Row no. ____ | Keeper ____ | Tanks ____ | Gallons remaining ____ | Last serviced ____*
 > *Remarks.*
 
-Four boxes. A row number, a keeper's name, a count of tanks, a count of gallons, and a date. A district return is a thing that says: on this day, this row, this keeper, this quantity of water, was the fact the city was entitled to rely on. It is a promise about the future made by a person with their name on it.
+Five boxes. A row number, a keeper's name, a count of tanks, a count of gallons, and a date. A district return is a thing that says: on this day, this row, this keeper, this quantity of water, was the fact the city was entitled to rely on. It is a promise about the future made by a person with their name on it.
 
 "There is nothing in that form for what is in this yard," Tarin said.
 
