@@ -256,3 +256,149 @@ Lira Rusk (absent, official landslide, and four indistinguishable voices in a ch
 ## Not yet on the page
 
 Lira Rusk (absent, official landslide, and four indistinguishable voices in a chamber), Orrin Sedge (absent, downstream at the Meltwater Verge, the only one who returns letters), Cael Dorrin, Liora Tarn, Boryn Vey, Hallam, and the eleven people in a courtyard on a schedule in a fourteen-year-old file. **No new final threat is permitted and none was introduced.**
+
+---
+
+# Character State — after Batch 0005 (Volume 01, Chapters 41–50, Days 59–79). VOLUME 01 IS COMPLETE.
+
+## Tarin Rusk — protagonist
+
+- **Age 33.** Senior flow engineer, under a stand-down since the 10th of the month before, sleeping in a room over the back stair of the low house at the left of the arch.
+- **Power: Stage 2, Name, at the beginning of it, and the volume ends there.** He has opened one narrow branch **three times**: a doorway at dawn on the seventh with one man and a stone; a yard with a warden and a crowd and a man walking out on the twentieth; and **at the arch in the blue steps, in the open, before the Basin Assembly, on the fifteenth of next month, with six named witnesses who were each asked and one who was not asked and refused.** Same route, same log, same pin, same setting, same division. **He cannot re-run it alone and he has no method for finding a witness. Bend has not been reached and belongs to Chapters 51–150.**
+- **Status: two charges, open, live, never joined, never merged, never resolved.** The second came off suspension on the twelfth on a district examiner's finding. **The third still has no sheet.** **There was no hearing on either charge and he did not ask for one.** He was not examined at the examination and did not offer to be; he gave the room four words — *I will show the way* — and that is all he did for four hours and fifty minutes.
+- **The permanent cost: his name is in a public record.** A Basin Assembly transcript, four times, four buildings, dated; a stone at the arch that came out of a plinth so a clerk could read the face of it; a return at a penny. He said the price out loud in a street to about nine hundred people at about two o'clock on the Friday morning and went on doing it. **He does not get his office, his district, his standing, or a single day of the water.**
+- **His rule, said three times and broken the third time in public.** *Nobody's memory goes on a piece of paper without their answer* — said to a stone in Vellum in the spring, said to a woman of seventy-one on a step in the dark, and said in a street in the blue steps on the fifteenth, and then **not followed**, because a posted hearing with a written transcript and a named clerk is the one circumstance in which a route can be held without taking anybody's memory, and **he has known the difference for about a week and had been wrong about it in a lane, and a landlord who cannot read told him he had been right.**
+- **Name debt (Chapter 7): the two-finger press and the taste of his bitter tea.** Neither has healed. **Both are shown gone once, in Chapter 50, and not used a second time**: he does not go for the chisel, and he drinks a tin pot Ondra puts in his hand at the top of the arch and it has no taste in it and he says nothing then or afterwards and is not going to.
+- **In his hands at the end:** a bar, a string, a tin pot, a folding rule, a chalk stub, **the bench book from the shed at Bexhill**, the blue book with four and not one in it, and a brass gauge plate of a larger bore that a district examiner retained out of a store and that reads wet three feet above a channel he can see is dry.
+- **The flood closure is on the page and is not resolved.** Fourteen years ago, aged nineteen, fourteen months in service, the Riverside cut, a finding that says *justified* and was made without authority, and a schedule of **eleven names, the youngest nine, the oldest sixty-one.** He told a chair on the twenty-fourth of last month that one thing in that file is incomplete and would not say what, because he would have to say a name. **He has never told Mara Quill. Volume 3. Not Volume 2.**
+- **He has not cut a stone in the volume.** The weathered face of the pump marker stone has a name in it, a date, the word of the day and Roke's crooked mark, and a white bruise he put there on the seventh. The blank face is blank. **The last mark is chalk, by somebody else, without asking him.**
+
+## Mara Quill
+
+- **Age 31.** Eleven years in service. Non-magical and stays so. **No romantic beat in Chapters 41–50 and none manufactured; no warmth of any kind.**
+- **What she did:** published a provenance note of the fourth of next month at the public desk in Vellum, four sheets, a registration number and a place on a public shelf, which established the removed leaf, the pressure shadow, a three-digit schedule reference **she did not transcribe**, and the closure schedule of the lower terrace road — **and which therefore names the district in a public record by referring to a document that covers it.** That is the exact move Tarin refused in Iven Marrow's report. **She did it on purpose, she told him first, and she filed it under the second reason.**
+- **The disagreement is on the page.** He entered it in the district book in Marda Ollan's hand, in a yard, in daylight, in both halves, under the fifth condition: *I was right about it, and I said so to a man with a satchel, and the man with the satchel was right about all three of his reasons and the third one is the only one that ever cost anybody anything* — and then the other half, and then *I still say that a reference is a way of putting a place in a document without being asked, and I would not do it to her, and I am not going to be able to un-know that I read about a girl of about fourteen on a slate this month and thought that a description is not a name.*
+- **Her last letter, of the sixteenth, is four lines.** The register entry with the struck figure and the correction in the same hand was read into the record of the hearing by name. The marginal note of a year out remains. She filed a second document and told him first and is not going to be thanked for it. **They did not agree about the reference and neither withdrew anything and condition five is satisfied.** The five conditions made at a dispensary step in the spring are on the same terms they were on the day they were made. **Neither of them has moved an inch and both of them have put something in a public record that neither can get out again.**
+
+## Halden Roe — removed, kept, and not redeemed
+
+- **Removed from the office of acting water commissioner at about eleven o'clock on the night of the fifteenth, by a chair reading two documents into one record and asking whether they can both be true.** The two certificates were referred to the registrar. **He has not been charged, is not going to be tried, and is not dead.** He is the only evidence anybody has of what anybody intended and the chair said so out loud and kept him for it.
+- **How it happened, in one sentence: the Office's own reply of the fourth agreed to open the deal box on the condition that the officer responsible for the records would produce them, and he produced his own hand in front of a minute clerk, on the twelfth, on the oath of a district examiner with a printed warrant, and the record contains the answer to the question nobody asked.**
+- **His own account of the basis of the sheets:** a gauge plate, a contractors' day-book with a column for a reading and no column for anything else, a decommissioning certificate of forty years before in the same words, and the practice of that office that a chamber certified void has no allocation standing to it. **And: *I did not go down the adit. No officer of this office has gone down that adit in six years. There is no duty requiring it and I am not going to be the first, and if I had gone down I would have found the water.*** And: *enter that I have not known for six years, in those words and not in a better one.*
+- **He released the falsified certifications himself, in public, on the ninth, in advance of being asked, with the plate-and-bore explanation in his own hand as a footnote**, because a Guild return was going into the Assembly's papers on the fourteenth and a city that discovers on the fourteenth that its own office withheld two sheets for six years does not forgive a body of water. **He was right about that and it did not save him and it is the best thing he did.**
+- **The whole of his fall is a certificate, a chamber, and a man who did not go down.**
+- **He never uses magic, never learns to, and does not know the One Map's name. He is the local liar, not a mage, and he is Volume 1's villain and no more.**
+
+## Yara Sen
+
+- **41. Water physician. She closes the movement she opened.**
+- **What a number is for, said to a room of strangers, in two chapters.** Chapter 47, to a district examiner: *It is for the person who has to hand the water out, and it is for the person who has to be told how much there is. That is the whole of what a clinical figure is for. It is not evidence, it is not a return, and it is not a claim.* Chapter 48, to a chair of the Basin Assembly: *I am not going to let you put it in the column*, and the price stated out loud — **a blank column in a return is read as a nil return, and a nil return is read as a district that does not need water, and that reading will be in a book in four buildings for thirty years with a hundred and twenty-six people under it.** She trades the figure for a sentence somebody chose to write down, and a minute clerk reads it back four times.
+- **Her requirement is 68 gallons a day**, re-derived aloud three times in this batch and once more in a yard, and **the derivation has stopped**: a child in the fourth stage does not take four gallons and there is no figure for that in this basin. **She has no instrument and says so three times in a room and once more in a yard.**
+- **She did not become a symbol of conscience and she did not become right about everything.** She was right about the classification and she was wrong about her own column, and she says so.
+- **She gave the water out in threes from the clean side of it for three hours on the Friday afternoon in front of nine hundred people and told them the truth about it while she did it.** Her book still has a column of her own invention headed *at risk* and there is no column for a child at the fourth stage.
+- **She is nobody's ally and she is still, at the end, a physician in a lane with a jar and a stick.**
+
+## Nell Drust
+
+- **39. Keeps the row at Ashgate and has for sixteen years.**
+- **What she did in Movement V:** she was told a day before the paper reached an office, and she was **still angry about it at the end of the volume and says she will be for years.** Her position, in her own hand on a slate at a bench in daylight in front of twenty-six people: a refusal in her own name on a slate on the seventeenth is **not** the same thing as a paragraph in a district's paper, and she cannot take herself out of it, and the only thing she has got to hold on to is that she is in a piece of paper instead of a piece of paper *about* her. **The four lines the district wrote about what it is not asking for are the only part of that paper about anybody and nobody in four buildings is going to read them.**
+- **She did not consent and did not refuse, and she said both of those in the row's own hand and not the district's.**
+- **She is on the witness list in her own name, and she read the slate into the record of the examination in a doorway in the rain, and she said into the record that the district came up the hill a day early and that it does not make up the other six weeks, and that she is not going to stand in a doorway and pretend that it does.**
+- **Her terms, kept:** the girl of about fourteen is taken out of the paper; a person from that row reads the paper in the room; the answer of the seventeenth is repeated in a different hand; and nobody in that row is asked for a drop of water again while the plant can be started by anybody with a horse.
+- **The cistern at the bottom end of that row is still shut.** A salt ring four inches above the frame, an original bolt, and Tarin's refusal to open a thing in a row that drinks from under the row. **She said come back on the twelfth with the man with the form. He said he is not the man with the form.**
+- **She is not a faction, not a device, and not mollified by anybody.**
+
+## Coll Preece
+
+- **About 50. Four years on the plant, paid by the can, not paid since the second, with a boy of fifteen on a staging unpaid since the second.** He started the plant at twenty past three on the Sunday of the month before with a horse out of his own pocket and told one person, and he is not a villain and he is not the man who gave the order.
+- **The name on the witness list that nobody asked him about** — written by Marda Ollan, who keeps the district's book, because the plant is the reason the water is where it is. **He said she was right, and asked for it to be written down that he said so first.**
+- **His refusal, in his own hand, on a contractor's tally counterfoil: no.** The plant has to be stopped before the water can be counted and the only somebody on that hill is him. There is one more week of wages in him and it is not a week's wages. **And: *I am not refusing the water.*** He sent the boy down the hill once already with a day and a night's warning and his own week's money in his coat, and he is not doing it a second time for this city.
+- **He read his own refusal out in a street in front of nine hundred people and made a minute clerk read all three lines, and he asked that the words *he is not refusing the water* be said, because he knows there will be people in that room who hear *no* and only hear *no*.**
+- **He cannot read and will not be shown round the lane with a slate.** He stopped the plant at six in the morning on the Friday by taking the pin out of the sweep and putting a bar through the wheel, and he is not paid for that either, and he would like that written down too.
+- **His refusal is in the record and cannot be used against him in any office of this city or in any proceeding arising out of the hearing, by standing order, and Oriel Fenn read that clause to him in a room and he asked whether the man reading it would say the third line.**
+
+## Oriel Fenn
+
+- **61. Minute clerk of the Basin Assembly, nineteen years.** Bought in on purpose because a Vellum day is a day and a night each way and Mara Quill could not be in the room twice.
+- **His whole trade, said once and then lived:** *I am going to write down what I am given and read it back before the sitting.* He opens one book, it runs to three sittings, and he reads every entry into the street as he makes it and posts it in four buildings the same night, and he says that if a figure in the copy is not the figure he read out then the copy is wrong and not the book, **and he would like somebody to come and tell him.**
+- **He read Coll Preece's third line three times in a yard before the evidence, and the declination was read a fourth time in the street on the day, and the date was read aloud four times at three o'clock in the morning because it was in the front of the book and it was the only rule he had.**
+- **He is not a hero and he is not a device. He is a man who has kept minutes for nineteen years and has wanted to see one clause of the standing orders worked for two hundred and nine years.**
+
+## Amos Trevail
+
+- **44. District examiner, eleven months in the post, with a printed warrant, a form and no power whatsoever over a person, a contract, or a works sealed before he was born.** The only thing he can do is make a district legible to somebody else.
+- **He asked three things of the Office on the second: to hold the examination on the twelfth, to open the store and produce the deal box in his presence, and to be told in writing whom the office intended to send.** **He got all three and one of them put the man who signed the two sheets in the chair to produce them.**
+- **His four questions, flat, on the form, in this order: does either sheet state the day, does either name the measurer, does either refer to a plate or a bore or a method, and is the measurement recorded anywhere with all three.** No. No. No. And the day-book has a column for a reading and no column for anything else. **He took the level himself, twice, with his own rule and string, and got nine feet four inches both times.**
+- **He wrote the number of persons in a place in a ruled margin and initialled it, because there is no box for it, and there is no form in this city on which a person can object to a sentence in a margin. That margin is how the district gets named.**
+- **He retained a brass gauge plate out of a store and read it back into the record, because it is a part and not a work.**
+- **He told the acting commissioner that Friday is not a matter of this examination, which was correct.**
+
+## Alderman Hob Tarrant
+
+- **58. Chair of the Basin Assembly, eleven years, with the reputation of a man who has never once been wrong in public and who has twice been told so by the only person in the room who could prove it, which is why he is still in the chair.**
+- **He put the hearing at the route and not in a room off the Assembly's yard, because a hearing about a route held four miles from the route is a hearing about a document, and this Assembly has had a great many of those.**
+- **He directed that the parties and the speakers be published in print in advance in accordance with standing order 114, and the second clause of that order had never been worked in two hundred and nine years.**
+- **He cancelled the review on the eleventh rather than sit on a factual conflict, and he said why in a road and not a yard: *if the review had been able to sit I would have let it sit, and I would have let it sit with a chamber under a street, because I have done that twice before in this basin and both times I have been glad, and I am not doing it a third time with a Guild return in my papers that says the chamber has eleven feet of water in it.***
+- **He removed the acting commissioner by arithmetic and refused to pretend otherwise.** *I am not going to sit in a street and decide whether a man altered two sheets of paper. That is not a chair's job.* He also said out loud why the two certificates were being kept rather than destroyed: *He is the only evidence in this matter of what anybody intended, and I am not going to have it destroyed by a man in a hurry.*
+- **He is not a villain and he is not a rescuer. He is a chair who did the one thing a chair can do.**
+
+## Sluice Warden Pell
+
+- Counting channels, not stories. Nineteen years in the post. **Five chapters of his own across the volume and four of them in this batch.**
+- **He read four other people's documents in a yard in daylight in this batch** — the Office's reply of the fourth, the Guild return, the circular of the ninth, the confession form — and he read his **own** weekly return out in a yard at about four o'clock on the Saturday, including the five boxes with two filled and *keeper, none held* in the empty one, in a book with four copies of it in this city.
+- **His remark in this batch is the best thing he has said:** a district with no row that has refused a form, a form, a box, a date and a schedule for six weeks has left the office with nothing to do, and *that is not a victory and I am not going to stand in this yard and let anybody make it one.* He also told a yard that a description of a person is a person.
+- **He entered Coll Preece's declination in the warden's book on the Friday afternoon, in a fair hand, with the hour, against a condition of his own**, and that entry is the only route by which a man with no row and no reading got a refusal into a hearing in a city four miles away. He has not been threatened and he has not been offered anything and nothing he has written has ever been found to be made up.
+
+## Hanne Roeg of Glassstep
+
+- **71. Four steps, a cane across her knees, a mat over her shoulder, a cough.**
+- **She paid the last of it and she is not comfortable.** She filled the *matters wished examined* box she had argued for two days to leave empty, because the third line of the Office's reply was the only thing in this city that would ever put a piece of paper in front of the man who wrote one — and she said out loud in a yard that she had been arguing for an empty box and was wrong to be proud of it, and Marda Ollan said the rest of it herself.
+- **Her grandson is ten and at a school in the fenner district.** On the sixteenth a letter came from him in his own hand and it was four lines and three of them were about a boy of nine at the top end of a lane and a pump that had been shut for two days, and the fourth was a question: *Granny — is the water in your yard the same water as the water that made the children ill. You never say. Mother says not to ask you.* **She answered it in a yard with the doors open, in one line, and said she would rather there were one thing in this lane's life he had been told before he had to ask anybody.**
+- **She is named in a transcript whether she liked it or not**, as *the named representative of a district of one hundred and twenty-six persons which holds no row, no schedule entry and no keeper*, and she read the warden's return out loud in a yard on the Saturday evening because she wanted to, and then went inside.
+- **She was right on the seventeenth and wrong on the twenty-seventh and it is on the record**, and on the night of the twenty-fifth of last month she told a man standing at the bottom of her steps at half past three in the morning that if he had asked she would have said yes, so that he would not spend the week telling himself he had done the right thing. **He has not asked. Nobody has asked.**
+
+## Marda Ollan and Bel Crale
+
+- **Marda Ollan, 31.** Holds the keys and the ledger. **She worked the cistern's two histories out loud in a yard on the eleventh and neither of them smooths it.** She argued on the Sunday for an empty box and said out loud on the Thursday that she was part of the reason it was not empty. **She wrote a name on a witness list that nobody had asked about, and said so in a yard before anybody had accused her of anything, and nobody let her off it.** And she wrote the disagreement between Tarin and Mara Quill into the district book in her own hand, which is the fifth condition performed.
+- **Bel Crale, 59.** Argued against putting anything in the examiner's box, was outvoted, and said so, and then handed her arm to somebody. **The sentence that ends the volume's political argument is hers: the form kept it, and the man was right about all three of his reasons and the third one is the only one that has ever cost anybody anything.** She also says a fifth off a ration is the correct thing to say, twice, to two people.
+
+## Niko Venn
+
+- **22. Not an apprentice, and there is still no clause in the world for what he is.**
+- **He is the reason there is a list, and he worked it out in a dispensary and it is the engine of the last four chapters:** the six who said yes on the twenty-fifth of the month before did not say yes to a route, they said yes to *a window, and a date, and a warden present* — and nobody in this lane has ever been asked about a route, and the only thing in this basin that gets an examiner here faster is somebody who asks in a way that costs that office something.
+- **He is not given a route and is not on the witness list and is not asked for anything and is thanked by nobody.** He carried the district's request up the hill on the 27th, read a four-sheet provenance note twice to Ondra, who cannot read, and held a lamp over a stop-gate for eleven minutes on the Friday afternoon while nine hundred people watched a boy with a stick become the only instrument in the district.
+- **He has five pence, a debt at a chandler's paid to the penny, and four pebbles in a tin on a shelf in his aunt's old room, and he has stopped trying to find out what they are for.**
+- **He said out loud in a yard that he is not going to chase the Water Office and he did not, and nobody gave him anything for it.**
+
+## Wick Venn
+
+- **38. His trade is a third of what it was in June and he is competent in it.**
+- **Engaged on the Friday as a day-labourer at four shillings a day for the works about the branch, out of the Assembly's witness fund and not out of the district's three pounds and sixteen, for three days, and he took twelve shillings and refused a shilling of it offered as a bonus.**
+- **His left hand is mentioned once, by him, in a lane, to one person, and by nobody else ever.** Full thickness off the heel and the base of the thumb, no feeling in the outer two fingers, cannot hold a bar, a pipe, a rail or a rope, and can tie a bowline with his knee on the line and the tail in his teeth. **Nobody in the blue steps thanked him and nobody will.**
+- **He is not a symbol and he is not a hero. He is a man who was paid four shillings a day and said out loud that he was not going to be thanked for it.**
+
+## Tam Roke
+
+- **44. Keeps the low pump. Two hands, the crooked mark cut under the date on the weathered face of the marker stone, and the blank face he was never the reason for.**
+- **He reopened the pump on the Friday of next month's first week and said, to a yard, that if a review ever asks him how much water a district used he will give them the number, because the number is the only true thing he has got and he has never had anything else.**
+- **At the hearing he is not on the witness list and was not asked to be, and he says so out loud: *I will draw it if it needs drawing. I have not agreed to open it and I am not going to. If that yard is full at seven o'clock on Friday evening, somebody is going to have to take that log out, and it will be me, and I am not on your list and I have not signed anything.*** He stood at the gate from four o'clock until it stopped and did not touch the log once, and answered the same question the same way about eleven times in front of four hundred people. **It did not need drawing.**
+- **His refusal of Chapter 10 is not reversed and is not required to be. In Movement V he declines the record and accepts the responsibility, and he is the only man in the volume who can stop the route.**
+
+## Iven Marrow
+
+- **54. Second rung of the ladder. Not a mage, does not know the name of anything, not caught out, patient.**
+- **He keeps every word he said in Chapter 36 and gains nothing and loses nothing.** The offer does not expire, he will make it again, and he will not enjoy it.
+- **Nobody broke his price. The form kept it.** A Guild return has a field for a supply district and there was nothing to put in the field, so a report that is the best document about that chamber in the basin **names no district at all** — and that is his third reason, *a district's water supply on a schedule is a thing that can be closed*, being the only one of the three that has ever cost anybody anything.
+- **He is not thanked, not blamed, not in a room, and does not press.** A copy of the transcript of the fifteenth went down a mountain road to Bexhill on a cart because public documents go where they go, and nobody sent it, and nobody thought about it, and it arrived.
+- **His high gate at Sallow has read dry for six years and he cannot put a number on it, and no character in the blue steps can help him, and it is the Volume 2 problem.** The village that reports water moving uphill under a channel the Guild says is solid **has not been raised.**
+
+## New in this batch, named
+
+- **Oriel Fenn, 61**, minute clerk of the Basin Assembly, nineteen years.
+- **Amos Trevail, 44**, district examiner, eleven months.
+- **Alderman Hob Tarrant, 58**, chair of the Basin Assembly, eleven years.
+- **Tenna Sagg, 14**, the girl at the well-head at Ashgate, who wrote the measurement, wrote the slate, wrote the row's answer, and whose name is not in the district's paper and who is in it anyway.
+
+## Not yet on the page, and not to be
+
+Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge (absent, and the only one who returns letters), Cael Dorrin, Liora Tarn, Boryn Vey, Hallam, the eleven people on a schedule in a fourteen-year-old file, and the village two days west of Sallow. **No new final threat is permitted and none was introduced.**

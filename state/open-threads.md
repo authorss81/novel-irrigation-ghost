@@ -63,3 +63,40 @@ These are living-world uncertainties, not missing central-mystery answers.
 - **The marker stone's blank faces.** Neither stone is cut in Chapters 31–40 and neither is cut by the end of the volume before the Assembly.
 - **Cael Dorrin, Liora Tarn, Boryn Vey.** None of them may appear in Volume 1.
 - **Lira Rusk.** Four and not one. No later chapter decides which of the four voices was hers.
+
+---
+
+# Open threads after Batch 0005 (Chapters 41–50) — the end of Volume 01
+
+## Paid in this batch
+
+1. **Ashgate's physical existence in a public record.** The Office now says, in a district examiner's finding of the twelfth and in a Basin Assembly transcript of the fifteenth, that there is standing water at the works: **eleven feet one inch above the outside ground at the door of Ashgate**, two instruments, two hands, three months, one number. **It does not say who diverted it and it does not say that thirty-four people live on the roof of it.** The chapter 37 chair's sentence is paid: *a certificate is a finding, it is in a deal box in a store this office has never opened, and he will not rule on it in anybody's absence* — and the box is opened, in front of a minute clerk, by the man who signed the sheets, at his own office's direction.
+2. **The falsified certificates.** **Nobody asks who falsified them.** The certificates answer the question themselves, because the only lawful way to open the box was for the officer responsible for the records to produce them, and he produced his own hand. He is suspended, referred to the registrar, kept as the evidence of what anybody intended, and is **not redeemed**: *enter that I have not known for six years, in those words and not in a better one.*
+3. **The midsummer review.** Posted four times, then **cancelled on the eleventh** and replaced by the hearing of the fifteenth, which must set the ration or there is no ration. On the sixteenth the lower terrace road is set at **a ration cut by a fifth**, and the district of 126 gets no ration and a name in a finding.
+4. **A refusal delivered into the record.** Coll Preece, named on the witness list by the district's own instrument without being asked, refused in his own hand, and said it into a transcript in a street before the window opened: *I am not refusing the water.* **It reaches the record through a warden's book, which is the only way a person with no row gets a thing into a hearing in that city.**
+5. **The keeper box.** Still empty, on purpose, and now read by a district examiner and written into a finding in a ruled margin in four buildings. **It is the fifth box of five and it is the only thing in the volume nobody has ever been able to fill without somebody else's hand on it.**
+6. **The district's name.** It is in Vellum by a reference (Chapter 44), in a warden's book (Chapter 45), in a finding as a place and not a supply district (Chapter 47), in a transcript (Chapters 48 and 49), and on a return as a nil return (Chapter 50). **It is on a schedule nowhere and it will not be.**
+
+## Still open, and it must stay open
+
+1. **The eleven-hour window is not repeatable and is not promised.** The notice on the hoarding says so in four buildings and no date has been entered. **The source does not grow, the number was eleven because 6,700 of room at 610 an hour is eleven hours, and the next time the room is smaller or the setting is the same or better.**
+2. **The collective ghost.** Established once, in Chapter 24, unexplained, spent, and **not used as a sound, a pressure or an image anywhere in Chapters 41–50.** Answer its identity by Volume 4 without a resurrection. **Ashgate on top of the chamber is the same method as Glassstep and got no more explanation in this volume than Glassstep did.** Who put those people there and why is not said anywhere and must not be said in Volume 2 either.
+3. **Wend Quill.** Not spoken of in Movement V. Two certificates have been filed against the hand in the commissioner's registry, the marginal note is still dated a Tuesday in the second month of next year, and nothing happens on it.
+4. **The flood closure of fourteen years ago.** **Eleven names, the youngest nine, the oldest sixty-one, a finding that says *justified* and was made without authority, and one thing in the file that is incomplete.** **Mara Quill has not been told and must not be told in Volume 2.** It is a Volume 3 thread.
+5. **The Guild's dry gate at Sallow, six years, and the village that reports water moving uphill under a channel the Guild says is solid.** **The Guild's half is planted and unanswered; the village's half has not been raised.** Both belong to Volume 2 and the contradiction must survive Volume 1 intact, which it has.
+6. **The thump under the terrace.** Has not restarted, is not explained, and was not mentioned in Movement V.
+7. **What is behind the plated terrace outfall.** Answered in Chapter 18 as a closed drainage system with a full shaft. It is not the reservoir and is not a mystery any more; it is a public-health problem.
+8. **The well at Ashgate.** 68 gallons an hour against 103, grit in the pail, never tested, and thirty-four people who are now, for the first time, **on the record as living over a chamber they were not told about and were told about in a doorway by a woman of thirty-nine who was angry about it and said so.**
+9. **The cistern at the bottom end of that row.** An iron lid in a frame with a salt ring four inches above the frame, an original bolt that has not been turned, and Tarin's refusal to open a thing in a row that drinks from under the row. **Nell Drust said come back on the twelfth with the man with the form, and he said he is not the man with the form.** It is still shut.
+10. **The third charge.** Still a conversation. Still no sheet. Three written requests and one answer in a corridor and the document does not exist.
+11. **Tarin's own route.** He has three openings behind him and no method for finding a witness, and the only person who has ever offered to be one without being asked is a man he did not ask, on a hill, with a wedge he cut himself.
+12. **The office has no acting commissioner.** The chair has asked for a list and no name on it has ever been heard of in the blue steps, and Tarin Rusk's name is not on it and could not be.
+13. **Who diverted Ashgate.** Not asked, not answered, and not to be answered in Volume 2.
+
+## What Volume 02 must not do
+
+- It must not resolve the water's origin, the One Map, the unlisting, or the settlement on the chamber.
+- It must not heal the Chapter 7 name debt or pay a second one.
+- It must not put Glassstep on a schedule, and it must not open a window that the numbers in `state/continuity.md` do not support.
+- It must not make Iven Marrow a villain. He is the second rung of an existing ladder, he gains nothing in Volume 1, and he is the Volume 2 problem.
+- It must not tell Mara Quill about the eleven names.

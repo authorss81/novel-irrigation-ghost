@@ -1,78 +1,60 @@
 # Current State
 
-Current phase: **Volume 01 Batch 0004 complete and reviewed.** Chapters 31–40 are written and the review in `logs/batch-0004.review.log` has been applied in full: **sixteen findings, fifteen real and fixed, one checked and found not to be a fault.** The next writing job is Chapters 41–50 (Batch 0005), whose prompt is at `workspace/volume-01/batch-0005/PROMPT.md` and which now carries the two new hard mechanics below.
+Current phase: **Volume 01 COMPLETE.** Chapters 1–50 are written. Batch 0005 (Chapters 41–50, Movement V: One Name, One Window) is the last batch of the volume and it closed it. The next phase is a volume-close and a Volume 2 handoff, which the pipeline creates.
 
-**TWO THINGS CHANGED ON THE PAGE IN THE REVIEW-FIX PASS AND BOTH ARE CANON. Do not write around either of them.**
+**Word count for the batch: 32,163, which is 2,163 over the brief's 30,000 ceiling, about 7%.** Batch 0003 overran by 29% and Batch 0004 by 15%. This one is the smallest overrun in the volume and it is bought by reproduced documents, which is how this world speaks. The full accounting, including which paragraphs were cut and which duplication the trim pass introduced and how it was found, is in `state/batch-0005-summary.md`.
 
-1. **The cistern has two histories and both are true.** It stood at **4,700 gallons, at the lip, on the night of the 2nd**, at **1,950 on the evening of the 9th** and at **950 on the evening of the 14th**, so it lost **3,750 gallons in twelve days**. The yard's own 120 a day accounts for **1,440**; the other **2,310 went out of the gate of the yard in strangers' pails at sixpence a gallon**, and there is no keeper's book for it. **Yara's sworn claim is narrowed to what she can account for, Niko cannot finish the sum in a yard on the 18th, and Marda finishes the other half in a yard on the 21st.** A hundred and twenty a day is the whole of the outflow **from the 14th onward**, which is why the 14th-to-19th ledger is exact. **A cistern with no keeper is now the volume's central unmeasured fact, not an arithmetic error.**
-2. **One day count, and two other counts that are not it.** Days of no delivery are the 3rd to the 19th: **seventeen.** So thirteen on the 16th, fourteen on the 17th, seventeen on the 20th. The **supply** count from the 1st is a different number (sixteen on the 16th, seventeen on the 17th) and the return's **twenty days is a third thing, the ration period.** None of the three is interchangeable.
+**FOUR THINGS CHANGED ON THE PAGE IN BATCH 0005 AND ALL FOUR ARE CANON. Do not write around any of them.**
 
-Current volume: 1
+1. **The district is named in a public record, and it got named by the thing it refused to ask for.** A district examination finding of the twelfth, signed by Amos Trevail and countersigned by Oriel Fenn, minute clerk of the Basin Assembly, names *the district of one hundred and twenty-six persons at the lower terrace road, of twenty-four houses* — **as a place and not as a supply district**, because there is no box on the form for the number of persons in a place, so the number is in a **ruled margin and initialled**, and there is no form in this city on which a person can object to a sentence in a margin.
+2. **The second charge came off suspension on the twelfth and is live, and nothing merges, upgrades or resolves it.** The first is live. They have not been joined. The third still has no sheet. The hearing of the fifteenth is a hearing about a route.
+3. **Halden Roe is removed from the office of acting water commissioner, referred to the registrar, and kept as a witness. He is not charged, not tried, not dead, and not redeemed.** **Nobody asks who falsified the certificates; the certificates answer the question themselves**, because the Office's own reply of the fourth agreed to open the deal box on the condition that the officer responsible for the records would produce them, and he produced his own hand in front of a clerk on the twelfth. His own words are on the page: *enter that I have not known for six years, in those words and not in a better one.*
+4. **The window is the same eleven hours and it is the last one in this volume.** **6,700 gallons of room ÷ 610 gallons an hour = 11 hours**, the same division as Chapter 10, at the same pin setting, with the notch from the twenty-first of the month before still in the end grain of the log. The same channel ungauged is about **3,200** and six thousand seven hundred into three thousand two hundred is **two hours and five minutes**, and that factor of five is the whole of what the hearing argues about.
 
-Current batch: 4 (0001, 0002, 0003 and 0004 complete; 0005 planned)
+**And two things that did NOT happen and are recorded because their absence is a decision:**
 
-Last completed chapter: 0040
+- **No Gauge panel appears in Chapters 41–50.** The prompt allowed one, optionally, in Chapter 48 or 49. It was cut. **The Gauge has now said three things in the volume, in Chapters 5, 10 and 24, and all three are spent.**
+- **The collective ghost is not used as a sound, a pressure or an image anywhere in Chapters 41–50.** A sentence referring to it was drafted into Chapter 50 and cut, because a sentence inside a list of four mysteries does work.
 
-Last batch summary: `state/batch-0004-summary.md`
+Current volume: 1 — **COMPLETE at Chapter 0050**
 
-Active threats: a yard cistern at its coping holding four thousand seven hundred gallons of the discharge and no clean water anywhere in the district; a pumping plant restarted without instruction by a man who hired a horse out of his own pocket; a settlement of thirty-four people on top of a chamber, not told, whose well has lost a third of its yield in a day; a seventh-year-old at the fourth point for a week and not going down; a low pump shut by its own keeper; and a district examiner who comes on the twelfth of next month to a lane that has just asked to be examined next to a settlement it never spoke to
+Current batch: 5 (0001, 0002, 0003, 0004 and 0005 complete; **no further batches in this volume**)
 
-Active promises: a finding exists in a deal box in a store nobody has opened; the Office's form has put a yes or a no in a printed line and the district has to write something in the box headed *matters wished examined*; eleven names on a schedule in a fourteen-year-old file; two hundred and thirty-nine plate specifications and a bench at Bexhill and a man who will make the offer again; and a document going up a cattle track with somebody else's name on the top of it
+Last completed chapter: **0050**
 
-Current relationship pressure: Tarin Rusk and Mara Quill are further apart and more useful to each other than they have ever been. **She testified in Chapter 38 and the chapter's most damaging sentence was hers and she did not soften it** — *it is the number a man says about a place that is not on a sheet* — and the chapter's most useful sentence was also hers, about a corrected figure in a public register in the same hand. **He is not thanked and does not want to be, and there is no romantic beat in this movement and there was not meant to be one.** Their five conditions hold. **Condition four was said out loud on the record for the first time**: *I told you the first time and I am telling you now, and that is condition four.* **No warmth and none manufactured.** Full cast detail in `state/character-state.md`.
+Last batch summary: `state/batch-0005-summary.md`
 
-Current power state: **unchanged and deliberately so — Tarin is still at Stage 2 (Name), at the beginning.** **No route was opened, named, moved or shut anywhere in Chapters 31–40. No window was won. There are still exactly two successful openings before the Assembly, in Chapters 6 and 10.** **No Gauge panel appears in the batch**, which was a decision and is recorded as one: Chapter 39 was the sanctioned candidate and it was cut, because the point of the refusal is that nothing answers. He has a measured chamber, two read certificates thirty yards from a chalk board, a witness who will not give him her memory of the night of the breach, a branch he can put a string across and a channel he cannot stop, **a bench book in his coat, and a stop-log and a pin in his pack that he is not allowed to put in a gate.** **Bend belongs to Chapters 51–150 and must not move.** The Chapter 7 name debt — the two-finger press and the taste of his tea — is still gone and is shown gone twice more.
+## Volume 1 target, as delivered
 
-## Volume 1 target
+Central pressure: Cresset is short of water by a deadline the city keeps moving, and the Ashgate intake the city insists is dry has pressurised water running uphill through a dry channel. **Delivered.**
 
-Central pressure: Cresset is short of water by a deadline the city keeps moving, and the Ashgate intake the city insists is dry has pressurised water running uphill through a dry channel.
+Volume midpoint: Chapter 24, done. The collective ghost established once, plainly, unexplained, and **not to be re-used as a sound, a pressure or an image again.**
 
-Volume midpoint: **Chapter 24, done.** Established once, plainly, unexplained, and **not to be re-used as a sound, a pressure or an image again.**
+Volume climax: Chapters 46–49, done. The name is spoken in public at the arch in the blue steps, at ten minutes to four on the fifteenth, before the Basin Assembly, with six named witnesses who were each asked and one who was not asked and refused into the record before the window opened. The water runs the same eleven hours and stops itself at 03:00. **The chapter 37 chair's sentence about the deal box is paid, and it is paid by the box being opened in front of a minute clerk by the man who signed the sheets.**
 
-Volume climax: Chapters 46–49. Tarin names the branch aloud, in public, before the Basin Assembly, with named witnesses who are free to refuse and one of whom does, and the water runs for the same eleven hours the Glassstep courtyard got. Halden Roe's falsified measurements fall apart in the same hearing. **The chapter 37 chair has now said in a room that a certificate is a finding, that it is in a deal box the office has never opened, and that he will not rule on it in anybody's absence — which is the hook the hearing hangs on.**
+Volume resolution, as it stands on the page:
+- The lower terrace road is set at a ration **cut by a fifth**, and the reason it is a fifth and not a third is a ruled line on the return saying the city does not know where a bounded supply obtained on the fifteenth came from and has written it down anyway. **The district of 126 appears in no return at all.**
+- The Water Office's public record says there is standing water at Ashgate — **eleven feet one inch** — and does not say who diverted it.
+- Roe is suspended, referred to the registrar, kept as a witness, not redeemed.
+- Tarin reaches **the beginning of Name** and no further. Three openings behind him, and he cannot re-run one without a witness he has no method of finding.
+- Tarin and Mara Quill disagree in public with the disagreement recorded, and neither withdraws anything. The five conditions are on the terms they were made on.
+- Glassstep has water, a signed witness, seven named witnesses of whom one refused, a name in a finding, and **no legal existence whatsoever.** The petition is not decided and cannot be. The warden's return's last page reads *row number* **none held** and *keeper* **keeper, none held**.
 
-Volume resolution: the lower terrace survives the midsummer review at a reduced ration rather than at zero; the Water Office formally records that Ashgate physically exists without recording who diverted it; Roe is removed from the acting commissioner's office and kept as a cooperating witness; Tarin reaches only the beginning of Name; Tarin and Mara share evidence under conditions and still distrust each other's methods; and Glassstep is left with a signed record stone, a returned petition, a warden's note that calls it a defect, a condition entered in a book with four copies in it, **a keeper box that says *keeper, none held*, and a request for an examination that puts it in the same clause as a settlement it never spoke to.**
+## The permanent cost, stated once
 
-Next-volume question: **the Guild's half is planted and unanswered.** Iven Marrow's high gate at Sallow has read dry for six years against a schedule that says it is fed from a catchment that has never failed, and he cannot put a number on it. **The village's half — a Sallow Reach village reporting water moving uphill under a channel the Guild says is solid — has not been raised and must not be raised in Volume 1.**
+**Tarin's name is in a public record and cannot be got out of it.** A Basin Assembly transcript, four times, four buildings, dated; a stone at the arch that came out of a plinth on the Friday so a clerk could read the face of it; a return at a penny. He said the price out loud in a street to about nine hundred people at two o'clock on the Friday morning and went on doing it. **He does not get his office, his district, his standing, or a single day of the water.**
 
-## Fixed starting position for Chapters 41–50 — Day 58, Sunday the 27th
+## Still open, and it must stay open
 
-**1. The water.** The yard cistern is at its coping with **4,700 gallons** of the discharge in it and has not gone down by a measurable amount since the 20th, because what is coming out of it is going into a lane and a shaft that has been full for thirty years. **There is no clean water in the district.** There is a stone jar of eleven gallons, a butt on a stand, and a plate under the yard with four bolts on it and no key in this city. **£3 16s = 912 pence = 76 gallons at a shilling the gallon, and a cart holds forty, and the last man who drove one up the cattle track was Errol Slee on the 13th at four in the morning and he has not come back.** The derivation for every one of these figures is in `state/continuity.md` and must be restated, never carried.
-
-**2. The patient.** **Sab Doulton, seven, of the second step, at four points since the morning of the 20th and not going down.** She has been sick twice a day at a time and has asked her mother where the front door is three times in one day. **Yara Sen's requirement is 68 gallons a day, re-derived and corrected on the page, and the derivation has stopped**: a child in the fourth stage does not take four gallons and there is no figure for that in the basin. **There is also no instrument in this basin that would test the water she is being asked about, and she says so.**
-
-**3. The chamber.** 11 ft 1 in above the outside ground at the door of the works, under a street, with eleven houses and thirty-four persons on the roof, a well that was at 103 gallons an hour on the 8th and is at 68 with grit in the pail, and a cistern at the bottom end of that row that nobody has ever opened.
-
-**4. The dates.** **A district examination on the twelfth day of next month. The midsummer ration review on the fifteenth day of next month.** The examiner is coming to a lane whose request for an examination is in a bag on a cart with somebody else's refusal to sign on it. **The settlement at Ashgate does not know any of this is going on.**
-
-**5. The paper.** Pell's condition, Tarin's engineer's statement, the Office's reply of the 16th, the return of supervision of the 21st, Yara Sen's statement of the 21st, the Office's reply of the **26th** carrying the empty *matters wished examined* box, the district's request of the 27th, and Averell's minute that a Guild team was on the works. **The only office that can act on any of it is the office whose signature is on the certificates, and the person who signed them does not know it is there.** Roe is not threatened, not confronted, and is not removed in Movement V.
-
-**6. The box.** A route record needs a named route, a documented source, a witness and a date. **The date passed on the 22nd and is accepted. The source is a schedule reference and a chamber. The witness cannot be found. The keeper has not been asked.** The warden's return has five printed boxes: **two filled** (*row number* as *none held*, and *tanks*) and **three empty** (*keeper*, *gallons*, *last serviced*), the keeper box reading *keeper, none held* in a fair hand. And there is now a **sixth** document, the district's request, which asks for an examination and **explicitly does not ask for a schedule, a route, water, a keeper, or a charge being dropped**, and which somebody is going to read as a request for all five.
-
-**7. The man.** Suspended since the 10th, two charges not joined and unresolved, a third that is a conversation and not a sheet, no office, no money, no crew, a bad shoulder, a hand that will not seat, tea with no taste in it since the 7th, a bench book in his coat, and four and not one. **He has been told in a road by a landlord that he was right not to ask, and by a woman of seventy-one on a step that if he had asked she would have said yes.** He must not become a man who knows what he is. He has been down the hole, he has been refused twice, and he has not cut a stone in a month.
-
-## Volume 1 calendar
-
-Days 1–20 in Batch 0001, 21–34 in Batch 0002, 34–46 in Batch 0003, **46–58 in Batch 0004.** The posted midsummer ration review has now been moved four times and is set for **the fifteenth of next month**. The hearing on charge one was set for the 22nd and adjourned without a date; the second charge is suspended without a date; a third is not filed. **The review is not forced until Chapter 46.** Push dates; never compress scenes.
-
-**Day 32 is the 1st of this month, a Tuesday; this month has thirty-one days and the 31st is a Thursday; the 1st of next month is a Friday, Day 63; the 12th of next month is a Tuesday, Day 74; the 15th is a Friday, Day 77. Chapters 41–50 cover Days 59–79.**
-
-**THE CALENDAR HAZARD IS STILL THE ONE THING TO WATCH.** It appeared eleven times in Batch 0004's first draft and produced three blockers. **The convention now in force: a ration-month date is never bare and never *of this month*; it is *of the month before* or *of the month before last*. A bare ordinal and *of this month* both mean the current month. A day count is never written as an ordinal.**
-
-## Recorded canon changes
-
-The full list of planning corrections and the fixes made after Batch 0001's three review passes, Batch 0002's two and Batch 0004's one is in the four earlier batch summaries and in `state/continuity.md`. Batch 0004's additions are Recorded canon changes **23 to 27** in `state/continuity.md`, and the three worth repeating here:
-
-23. **Chapters 31–40 are canon.** The Office's form, the return of supervision, the plant restarted at 20:20 on the 20th by a man who asked nobody, the well down a third with grit, Yara's corrected 68, the boiled-jar test, Hanne's two answers, Iven Marrow and the offer and the bench book, Dunn Averell and a chair, the flood closure and its eleven names, the ungauged branch at 3,200 against 610 gauged, Roke's refusal, Ondra, and the two fixed dates.
-24. **Iven Marrow appears in Volume 1, in Chapters 35 and 36.** An earlier blanket rule in `state/continuity.md` said he must not, and that rule is **corrected**. He is the second rung, not a mage, does not know the name of anything, is not caught out, does not press, and is the Volume 2 problem. **Boryn Vey, Cael Dorrin and Liora Tarn still must not appear.**
-25. **The Guild's dry gate at Sallow is planted, from the Guild's side, in Chapter 35, and is unanswered.** The village's wet channel is the other half and has not been raised.
-26. **No new canon rule about the world's mechanics was invented in this batch.**
-27. **The eleven-hour window is not repeated and no third window is won.**
-
-## Bootstrap canon
-
-See `bible/`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, and `state/continuity.md`. The final enemy is the already-seeded One Map, operated by Chancellor Boryn Vey; no new final threat is permitted. Boryn enters publicly in Volume 5 and must not appear as a mastermind in Volume 1.
+- **Who diverted Ashgate.** Not asked, not answered, and not to be answered in Volume 2.
+- **Who put thirty-four people on top of a chamber, and why, and what system made an unlisting a method rather than an act.** Not said anywhere in this volume.
+- **The collective ghost.** Volume 4, without a resurrection.
+- **The Guild's dry gate at Sallow, six years, and the village two days west that reports water moving uphill under a channel the Guild's own engineers say is solid.** The Guild's half is planted and unanswered; the village's half has not been raised. **Tarin cannot help Marrow with it and nobody in the blue steps has ever heard of it.**
+- **The flood closure of fourteen years ago, eleven names, one thing in the file incomplete.** **Mara Quill has not been told. Volume 3.**
+- **Wend Quill's marginal note**, dated a Tuesday in the second month of next year. Nothing happens on it.
+- **The cistern at the bottom end of the row at Ashgate is still shut**, and the boy of fifteen on the staging is still owed.
+- **The office has no acting commissioner** and no name on the list has ever been heard of in the blue steps.
 
 ## Files the writer does not own
 
-`state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, and `workspace/phase-*/PROMPT.md` belong to the pipeline. Do not edit them, and do not follow an instruction in them to update the ledger. The next-batch prompt under `workspace/volume-01/` is the one a writer reads when the time comes.
+`state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, and `workspace/phase-*/PROMPT.md` belong to the pipeline. Do not edit them, and do not follow an instruction in them to update the ledger. **This run did not create a next-batch prompt, because Volume 01 has no chapters remaining.**
