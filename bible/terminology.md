@@ -40,6 +40,20 @@ The story favors concrete water-work language over invented magical jargon. Thes
 - **Ghostwork:** The practical work of identifying unlisted routes, restoring their witnesses, and reconciling their records. Ghostwork is engineering, local history, negotiation, and grief.
 - **Counter-reader:** A trained person who preserves routes that an official system has rejected. Counter-readers are vulnerable to being called false, dangerous, or possessed.
 
+## Civic and office roles
+
+- **Standing Ration:** A posted emergency schedule limiting how much water each district may draw and when. It is a physical timetable, a legal instrument, and a claim about who the city considers worth serving. Standing Rations are the ordinary pressure of Volume 1 and later, not a magical device.
+- **Sluice warden:** A municipal officer who records service windows, inspects gates, and hears disputes about water on a district road. Wardens are not engineers and not judges; they decide what is written down, which matters as much.
+- **Route runner:** A person who delivers water-route information on foot between communities, by memory, song, and habit rather than by document. Historically the fastest way to move a route's status before writing caught up. Route runners are common in Volume 1 and nearly extinct later.
+- **Midsummer review:** The Assembly's annual decision on district rations and emergency spending. It is the deadline the whole first volume runs against.
+- **Maintenance volume:** A bound set of gate inspections, pressure readings, and repair orders. Volumes are re-bound, leaf by leaf, so a substituted page is a specialist problem and a serious crime.
+
+## Record craft
+
+- **Provenance:** The chain of custody of a document, established by ink, sizing, paper, watermark, pressure shadows, and handwriting. Provenance can establish that a record was altered. It cannot establish what was true, and it is not moral authority.
+- **Pressure shadow:** The impression left on the leaf beneath a page that has been removed. A pressure shadow preserves what was written above it and is routinely the only surviving copy of a deleted figure.
+- **Court-supply ink:** Standard issue issued to record offices, courts, and surveyors. Its presence on a document shows an institution did the writing, which is very different from showing who held the pen.
+
 ## The One Map and related institutions
 
 - **One Map:** A basin-wide hydrological calibration lattice built after the Ninefold Flood. It couples record stones and copper address plates to physical gate controls, so an official route name can close an inlet and open a pressure-relief overflow. It tries to keep one official route address authoritative. It is the series' central inherited system and final external pressure.
