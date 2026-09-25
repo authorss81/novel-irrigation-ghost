@@ -46,7 +46,7 @@ He had a waxed field book with a blue cover and a bar of chalk in the loop and a
 
 He opened it on the table and turned it round so it faced her and put his finger on the line.
 
-*06:06. Ashgate intake, main wheel shut and chained, six years. Stilling tube live, pressure from below, source not gate. Head above gate seat 5·89 m. Floats pin at top stop, pulse on the tube ~2 a minute.*
+*06:11. Ashgate intake, main wheel shut and chained, six years. Stilling tube live, pressure from below, source not gate. Head above gate seat 5·89 m. Floats pin at top stop, pulse on the tube ~2 a minute.*
 
 Mara Quill read it twice as well. She read it the way she read leaves, which was slowly, and with a place kept clear in her attention for the possibility that she was being shown something chosen.
 
@@ -82,7 +82,7 @@ Mara Quill sat back in her chair and put two fingers on the requisition and two 
 
 "That is not a route question," she said. "That is a complaint."
 
-"That is a complaint *with* a route in it," he said. "I have a courtyard under four inches of water and a plate across a drain and fifteen days of cistern on forty thousand people, and I have a number in my book that matches a ghost on a page in your building, and I would like to know which of those is the lie, and I have a day and a night's travel and no authority and one bar."
+"That is a complaint *with* a route in it," he said. "I have a courtyard under four inches of water and a plate across a drain and sixteen days of cistern on forty thousand people, and I have a number in my book that matches a ghost on a page in your building, and I would like to know which of those is the lie, and I have a day and a night's travel and no authority and one bar."
 
 Mara Quill was quiet for a moment. Then she stood, and unlocked the press, and took out the volume, and set it on the table between them, and turned to the substituted leaf without finding the page number, which told him she had done it a great many times.
 
@@ -174,7 +174,7 @@ Mara Quill was watching him from the other side of the stone.
 
 She let that sit, and then she said, in a completely different voice: "You have read a stone. Say the number out loud and tell me what it is doing, and then we will know what you are, because I have run out of categories."
 
-"It is not doing anything," Tarin said. "There is a line in that stone and I can feel where it goes, and it is wet, and it is real, and there is nothing in it that will open a gate or move a foot of water. I have a courtyard in Cresset with four inches in it and a plate across the drain and fifteen days of cistern, and this thing under my hand in this cellar cannot put a bucket down that has gone dry." He put his hands on his knees. "And it asked for a witness. Whatever it was asking, it was not asking me. I have no standing here, no office, no crew, and a day and a night of travel already behind me. I am the wrong man for a witness and I know it."
+"It is not doing anything," Tarin said. "There is a line in that stone and I can feel where it goes, and it is wet, and it is real, and there is nothing in it that will open a gate or move a foot of water. I have a courtyard in Cresset with four inches in it and a plate across the drain and sixteen days of cistern, and this thing under my hand in this cellar cannot put a bucket down that has gone dry." He put his hands on his knees. "And it asked for a witness. Whatever it was asking, it was not asking me. I have no standing here, no office, no crew, and a day and a night of travel already behind me. I am the wrong man for a witness and I know it."
 
 "Then who is the right one?"
 

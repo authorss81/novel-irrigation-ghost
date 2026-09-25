@@ -138,6 +138,6 @@ It was hot. It went down the way water goes down. It had no taste of any kind, a
 
 He put the cup away.
 
-It was going to be a long dry stretch, and he had six days of it before the cisterns went, and he had a stone at a pump with one cut face and one blank one, and he had a notice in his coat with an empty box in it, and he had a requisition answer in a coach driver's hands with a number in it that matched a page a hundred and eighty-one years old, and he had eleven days of nothing but his own arithmetic.
+It was going to be a long dry stretch, and he had fourteen days of it before the cisterns went, and he had a stone at a pump with one cut face and one blank one, and he had a notice in his coat with an empty box in it, and he had a requisition answer in a coach driver's hands with a number in it that matched a page a hundred and eighty-one years old, and he had the same fourteen days of nothing but his own arithmetic.
 
 And there was exactly one person in the whole of the Marrow Basin who had put a mark on a piece of stone in the last four years and would do it again, and she was asleep in a room at the end of the row with a basin of water that was going to have to be boiled four times before anybody could put it near a child's skin.

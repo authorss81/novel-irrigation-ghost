@@ -1,8 +1,8 @@
 # Batch 0001 Summary — Volume 01, Chapters 1–10
 
-**Range:** Chapters 1–10, Days 1–20 of the ration.
-**Words:** ~32,900 across ten chapters. Slightly over the 25,000–32,000 budget; the overage sits in the Chapter 10 climax, which carries the public naming, a refusal, a departure, two charges and a 03:00 coda. The batch outline calls the figure a budget and forbids cutting a finished scene to hit it, so the scenes were kept.
-**Review:** one independent review pass run on the batch, then a second verification pass that re-read all ten chapters against the cards. All BLOCKING findings were fixed: the Chapter 10 clock, the flow arithmetic, the unused stop-log, the Chapter 6 night dig, the Chapter 7 closing image, the cistern deadline, the Chapter 8 dates, and the requisition chronology. See *Corrections applied* at the end. The verification pass then found two more continuity defects and several seams, all fixed in place — see *Verification and repair pass* below.
+**Range:** Chapters 1–10, Days 1–20 of the ration, with the Day 21 coda.
+**Words:** 33,062 across ten chapters (`wc -w`). Slightly over the 25,000–32,000 budget; the overage sits in the Chapter 10 climax, which carries the public naming, a refusal, a departure, two charges and a 03:00 coda. The batch outline calls the figure a budget and forbids cutting a finished scene to hit it, so the scenes were kept.
+**Review:** three passes, all finding work still to do. The first found the Chapter 10 clock, the flow arithmetic, the unused stop-log, the Chapter 6 night dig, the Chapter 7 closing image, the cistern deadline, the Chapter 8 dates, and the requisition chronology. The second was a verification pass and found the Chapter 7 terminology breach, the marker-stone face contradiction, and several seams. The third was a review of the repair itself and found that the repair had *reintroduced* two errors — a stale `06:06` in the quoted log line and an off-by-one in Chapter 5's cistern figure — plus a countdown that had been wrong all along in Chapter 7. **All three passes found real defects; the last one found errors created by the second.** See *Corrections applied*, *Verification and repair pass*, and *Third pass — review of the repair* below.
 
 ## What the batch proves
 
@@ -54,8 +54,8 @@
 - The eleven hours is now derived on the page from 6,700 gallons of vessel at 610 gallons an hour, and the oak stop-log is set in the gate before the stone, so the opening has a named physical cause.
 - The water no longer needs a warden to stay: it stops at the balance point, which is the same physics as the Day 1 cistern.
 - Chapter 6's dig now follows his arrival on the afternoon of Day 6; the pumping plant under the terrace is seeded there for the Chapter 9 accusation.
-- The cistern deadline is Day 21 throughout (twenty days on the Day 1 board, twelve in the Day 9 return, eleven on Day 10).
-- The requisition of Day 1 exhibits the clean page; the discrepancy reaches the Water Office on Day 3; the folio went into restricted handling on Day 3.
+- The cistern deadline is Day 21 throughout: twenty days on the Day 1 board, sixteen in Chapter 5 (Day 5), fourteen in Chapter 7 (Day 7), twelve in the Day 9 district return, eleven on Day 10, and Chapter 10's "on the twenty-first there would be nothing in them at all." The Chapter 5 and Chapter 7 figures were re-derived in the third pass — see below.
+- The clean page is **exhibited on Day 1**; Mara's requisition carrying the discrepancy is **written on Day 2** and reaches the Water Office on Day 3; the folio went into restricted handling on Day 3.
 - Chapter 8 dates the substitution to twenty-six years and reads the Ashgate log as a hundred and eighty years long.
 - Chapter 7's closing image now has a referent (Tam Roke), its legitimacy lecture is cut back to three sentences so Chapter 10 can earn the rule aloud, and the Chapter 5 wording is quoted exactly.
 - Chapter 8 no longer signs the register in another man's name. Mara simply does not enter the sheet, which is worse for her and keeps the Chapter 8 card.
@@ -75,6 +75,20 @@ A second pass re-read all ten chapters against the cards and confirmed the batch
 - **Hanne Roeg's staging sentence** was reused almost word for word three times; the second and third are now differentiated while the establishing instance in Chapter 3 is untouched.
 - **`state/character-state.md`** credited Yara Sen with knowledge of the word *Gauge* that belongs to Mara Quill, and understated that Mara puts her own unlisted-district origin on the page in Chapter 8. Both corrected, because either error would have misled the next batch.
 - **The Chapter 8 card** asks for a career cost that the chapter pays only as anticipated consequence. The cost is deliberately scheduled for Chapter 16 by the Batch 0002 prompt, so the card was left alone rather than forcing a scene into a chapter that already works.
+
+## Third pass — review of the repair
+
+A third pass reviewed the second pass's fixes rather than the batch, and found that the repair had carried two errors forward or created one. **Two words, two figures, and three seams were changed. No chapter was rewritten, no beat was moved, and no plot, ending, or antagonist changed.**
+
+- **Blocking — the quoted log line still said `06:06`.** The second pass converted every *spoken* instance of the Day 1 gate opening to 06:11 and missed the field-book line in Chapter 5, which is the artifact itself and the only place the reader is shown the reading rather than told about it — so the most visible instance was the one that dissented from the other five. Now `06:11`, and `state/continuity.md` names that line specifically so it cannot be missed again.
+- **Blocking — the Day 5 shift pushed Chapter 5's cistern figure out by one.** Moving the chapter from Day 6 to Day 5 for the travel fix left "fifteen days of cistern" landing on Day 20 instead of Day 21, in both occurrences. Now **sixteen**, twice.
+- **Non-blocking — Chapter 7's countdown was wrong on both numbers, and always had been.** Chapter 7 is Day 7, so the honest figure against a Day 21 deadline is fourteen; the sentence gave six and then eleven, contradicting itself and the canon. It is ambiguous whether the original "six" was reaching for the low pump's own two-day tank, so the figure was decided rather than swapped: the sentence says *before the cisterns went*, which is unambiguously the municipal rows, so both figures are the cistern span. Both are now **fourteen**, and the second is written as *the same fourteen days* so that a deliberate rhyme — the span he has and the span he has to fill it with are one number — does not read as a repetition slip.
+- **Non-blocking — the pressure image was duplicated near-verbatim across the two Gauge chapters.** Chapter 10 had reordered Chapter 5's three images rather than written new ones, so a reader five chapters apart meets the same rope-and-room simile twice. Chapter 5 is the establishing instance and keeps its wording. Chapter 10 is rewritten to share the register and the rope without reusing a string: a weight under the sentence, a thickening under the breastbone the way a room goes thick when a door is shut on a wind, and a rope out in the dark with something heavy on the end of it. `state/open-threads.md` quoted the old Chapter 10 wording and the old four-day journey, and was corrected to match the prose.
+- **Non-blocking — Chapter 10's read-back of the stone omitted an element the state files mandate.** Chapter 6 cuts four things — the route name, the date, the word of the day, and a line under the date for Roke's mark. Chapter 10 inventoried three, which matters because the whole point of the second pass was to make the stone's face-state authoritative. The read-back now carries **the word of the day**.
+- **Non-blocking — the stated word count was stale.** Both this file and the review file said "~32,900"; the true figure after the second pass was 33,045, and after this pass is **33,062**. Now exact, with the command to reproduce it.
+- **Non-blocking — a doc conflict on the requisition's date.** The first pass recorded "the requisition of Day 1 exhibits the clean page," which conflated the Day 1 exhibition with the Day 2 requisition and disagreed with `state/continuity.md`. Corrected in both files.
+
+The lesson worth carrying: **the second pass asserted that the cistern deadline was reconciled without re-deriving the numbers after it moved a chapter on the calendar.** `state/continuity.md` now lists all six Day 21 figures explicitly and instructs any future calendar change to re-derive them rather than carry them.
 
 ## Pipeline handoff
 

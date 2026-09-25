@@ -58,7 +58,7 @@ Nobody said anything. She waited the four seconds she had meant to wait.
 
 Tarin Rusk put the bar down, and took the length of planed oak out from under his arm, and put the chisel in his breast pocket, and walked to the plinth of the low house where the marker stone was set, and got it out.
 
-One face of it was cut. It was the old one, the weathered face, the one the pump man had put the first name into forty years before. It said *Glassstep low pump branch*, and the date, and under that a crooked mark cut by a man who said so out loud, and the letters of it were the cleanest stone work in the lower terrace, because he had known exactly what he was cutting and had not been frightened.
+One face of it was cut. It was the old one, the weathered face, the one the pump man had put the first name into forty years before. It said *Glassstep low pump branch*, and the date, and the word of the day, and under the date a crooked mark cut by a man who said so out loud, and the letters of it were the cleanest stone work in the lower terrace, because he had known exactly what he was cutting and had not been frightened.
 
 The other face was blank.
 
@@ -82,7 +82,7 @@ It was cold and gritty and it had never been written on, and there was nothing i
 
 > **The Gauge:** The stone is blank. Two hands are on it.
 
-Beneath it was the other thing again. He had had it once, on the fifth, and not since, and here it was in a yard with eighty people in it: a weight under the sentence, a hold on a rope with somebody's weight at the far end of it, a room with more air in it than the room was built for. He had a perfectly good explanation for it this time and took it gratefully — a yard, a warden, a crowd, and his own name in the middle of it. He would rather have the crowd.
+Beneath it was the other thing again. He had had it once, on the fifth, and not since, and here it was in a yard with eighty people in it: a weight under the sentence, and a thickening under the breastbone the way a room goes thick when a door is shut on a wind, and a rope out in the dark with something heavy on the end of it. He had a perfectly good explanation for it this time and took it gratefully — a yard, a warden, a crowd, and his own name in the middle of it. He would rather have the crowd.
 
 *Two hands*, he thought. He looked down at the stone. One hand was on it, and it was his, and the stone was blank, and there was nothing whatever on that face of it, not his name and not a witness and not a date.
 

@@ -2,7 +2,7 @@
 
 Reviewed against `AGENTS.md`, `outline/batches/volume-01-batch-0001.md`, and `outline/volume-01.md`.
 
-**Status: PASS after repair.** Two passes were run. The first reviewed the batch after it was drafted and its findings were fixed before the batch was marked complete. The second was a verification pass that re-read all ten chapters in full against the cards. It found two blocking continuity defects and six seams. All are fixed. No chapter was rewritten; no beat was moved; the ending, the antagonist ladder, and the volume direction are untouched.
+**Status: PASS after repair, three passes.** The first reviewed the batch after it was drafted and its findings were fixed before the batch was marked complete. The second was a verification pass that re-read all ten chapters in full against the cards; it found two blocking continuity defects and six seams. The third reviewed the second pass's own fixes, and found two blocking defects — one of which the second pass had *created* — and four seams. All are fixed. No chapter was rewritten; no beat was moved; the ending, the antagonist ladder, and the volume direction are untouched.
 
 ---
 
@@ -14,8 +14,8 @@ All findings fixed before this batch was signed off.
 - The eleven hours is derived on the page from 6,700 gallons of vessel at 610 gallons an hour, and the oak stop-log is set in the gate before the stone, so the opening has a named physical cause.
 - The water no longer needs a warden to stay: it stops at the balance point, which is the same physics as the Day 1 cistern.
 - Chapter 6's dig follows his arrival on the afternoon of Day 6; the pumping plant under the terrace is seeded there for the Chapter 9 accusation.
-- The cistern deadline is Day 21 throughout (twenty days on the Day 1 board, twelve in the Day 9 return, eleven on the Day 10 return).
-- The requisition of Day 1 exhibits the clean page; the discrepancy reaches the Water Office on Day 3; the folio went into restricted handling on Day 3.
+- The cistern deadline is Day 21 throughout. As re-derived in Pass 3, the six fixed instances are twenty days on the Day 1 board, sixteen in Chapter 5, fourteen in Chapter 7, twelve in the Day 9 district return, eleven in Chapter 9, and "on the twenty-first there would be nothing" in Chapter 10.
+- The clean page is exhibited on Day 1; Mara's requisition carrying the discrepancy is written on Day 2 and reaches the Water Office on Day 3; the folio went into restricted handling on Day 3.
 - Chapter 8 dates the substitution to twenty-six years and reads the Ashgate log as a hundred and eighty years long.
 - Chapter 7's closing image gained a referent, its legitimacy lecture was cut back so Chapter 10 can earn the rule aloud, and the Chapter 5 line is quoted exactly.
 - Chapter 8 no longer signs the register in another man's name. Mara simply does not enter the sheet, which is worse for her and keeps the card.
@@ -65,4 +65,48 @@ Fixed without cutting anything: the **old weathered face** now carries the route
 | No new final threat; Bend not reached | pass |
 | Card coverage | 9 full, 1 partial (Chapter 8, see above) |
 
-~32,900 words. Slightly over the 25,000–32,000 budget, all of it in the Chapter 10 climax, which the outline explicitly protects.
+33,062 words (`wc -w chapters/volume-01/*.md`). Slightly over the 25,000–32,000 budget, all of it in the Chapter 10 climax, which the outline explicitly protects.
+
+---
+
+## Pass 3 — review of the repair
+
+This pass reviewed the second pass's fixes rather than the batch. It found that the repair had left one contradiction standing and created a new one, plus four seams. Two of the seven were blocking. **Two words and two figures in the prose changed; everything else was a doc correction.**
+
+### Blocking
+
+- **The quoted field-book line in Chapter 5 still read `06:06`.** Pass 2 converted every *spoken* instance of the Day 1 gate opening to 06:11 and left the artifact itself untouched, so the one place the reader is shown the reading rather than told about it was the sole dissenter among six occurrences. Twenty lines later Tarin says *eleven minutes past six* in the same scene. Now `06:11`; `state/continuity.md` names that line so it is a checked item rather than an assumed one.
+- **The Day 5 shift left Chapter 5's cistern figure a day short of the deadline.** Moving the chapter from Day 6 to Day 5 for the travel fix carried "fifteen days of cistern" with it, which now lands on Day 20 rather than Day 21, in both occurrences. A carried-over figure, not a fresh error — Pass 2 asserted the deadline was reconciled without re-deriving it. Now **sixteen**, twice.
+
+### Non-blocking, fixed
+
+- **Chapter 7's countdown was wrong on both numbers and predated the repair.** Day 7 against a Day 21 deadline is fourteen; the sentence gave six and then eleven, contradicting itself and the canon. The ambiguity was that "six" may have meant the low pump's own two-day tank, so the fix was a decision rather than a swap: the sentence says *before the cisterns went*, which is unambiguously the municipal rows. Both figures are **fourteen**, and the second reads *the same fourteen days*, making the rhyme — one span serving as both the deadline and the only resource — intentional rather than a slip.
+- **The pressure image was duplicated near-verbatim across the two Gauge chapters.** Chapter 10 reused two of Chapter 5's three images as identical strings, merely reordered, which Pass 1's crowd-image fix had made more conspicuous rather than less. Chapter 5 keeps the establishing wording; Chapter 10 now shares the register and the rope without repeating a string. `state/open-threads.md` quoted the superseded Chapter 10 text and the superseded four-day journey, and was corrected.
+- **Chapter 10's stone read-back omitted the word of the day.** Chapter 6 cuts four elements; the read-back inventoried three. The read-back now matches the cut.
+- **Stale documentation.** The word count was ~32,900 against an actual 33,045 (now 33,062), and Pass 1's "requisition of Day 1 exhibits the clean page" conflated the Day 1 exhibition with the Day 2 requisition, disagreeing with `state/continuity.md`. Both corrected here and in the batch summary.
+
+### Accepted, not changed
+
+- **The Glassstep geography seam** carried over from Pass 2 and is still a real discrepancy rather than a defect: the low pump is half a mile down the lane in Chapter 6 and shares a scene with the courtyard in Chapter 10. Flagged, not rewritten, for the reason given in Pass 2.
+
+### Verification results after Pass 3
+
+| Check | Result |
+| --- | --- |
+| Ten finished scenes, no stubs or outlines | pass |
+| No chapter ends mid-action | pass |
+| No duplicated paragraphs | pass |
+| No repeated simile strings across the two Gauge chapters | pass (was fail) |
+| Day 1 gate opening 06:11 in all six instances, artifact included | pass (was fail) |
+| Cistern deadline Day 21 in all six instances | pass (was fail) |
+| Marker stone inventory matches the cut in Chapter 6 | pass (was fail) |
+| No meta or plan language in prose | pass |
+| Gauge panels verbatim, Chapters 5 and 10 only | pass |
+| Gauge never stated as a rule, lesson, or solution | pass |
+| Chapter 10 clock 16:00 / 18:00 / 03:00 | pass |
+| Eleven-hour flow arithmetic checks out on the page | pass |
+| Two charges distinct, dated, unjoined, unresolved | pass |
+| Head fixed at 5·89; no water created | pass |
+| Collective voice unconfirmed, no character names it | pass |
+| No new final threat; Bend not reached | pass |
+| Card coverage | 9 full, 1 partial (Chapter 8, see above) |
