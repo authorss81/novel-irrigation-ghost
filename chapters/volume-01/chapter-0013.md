@@ -12,7 +12,7 @@ She did not touch anything. She looked at the shelf-marker — a small strip of 
 
 The marker said: **ASHGATE INTAKE, MAINTENANCE SERIES, FOLIO 11. WITHDRAWN. R. QUE.**
 
-And a small strip under it in a different ink said **17/4**, which was the seventeenth of the fourth month, which was six days ago.
+A small strip under it in a different ink said **17/4**, which was the seventeenth of the fourth month, which was six days ago.
 
 Mara Quill put the bundle of slips down on the bench, because her hands were doing something she had not authorised, and stood there, and then did the thing she had been trained since she was nineteen to do, which was to establish provenance before she had an opinion.
 
@@ -100,7 +100,7 @@ She got out a sheet of paper at about two in the morning and wrote out what a se
 
 *2 and 3 were the pattern. 1 was the trick that had actually been used on the Ashgate leaf, because whoever did it had removed figures rather than struck them, and a second copy of a strike-through list did not prove a second leaf-removal.*
 
-And then she wrote the fifth line, which she had known was coming since about the eleventh of the month and had been not writing down.
+Then she wrote the fifth line, which she had known was coming since about the eleventh of the month and had been not writing down.
 
 > *The only survey originals of the blue steps in the basin are in the blue steps.*
 

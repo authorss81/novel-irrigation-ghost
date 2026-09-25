@@ -17,7 +17,7 @@ Read these first, in this order:
 
 ## Length
 
-**Target 24,000–30,000 words across ten chapters, averaging 2,400–3,000 a chapter.** Batch 0002 came in at 39,661 and overran its budget by 27%. This batch has fewer institutional set pieces and one big physical movement, so it should be the leaner of the two halves. Let scenes end when they are finished. Do not let a dialogue scene that is finished run on for an extra page because a chapter feels short.
+**Target 24,000–30,000 words across ten chapters, averaging 2,400–3,000 a chapter.** Batch 0002 came in at 40,142 and overran its budget by 29%. This batch has fewer institutional set pieces and one big physical movement, so it should be the leaner of the two halves. Let scenes end when they are finished. Do not let a dialogue scene that is finished run on for an extra page because a chapter feels short.
 
 ## The job
 
@@ -33,13 +33,13 @@ Everything below is already on the page. Do not re-establish it; start inside it
 
 - **The petition was returned on Day 34.** The warden's office will enter the blue steps in the distribution schedule only on a route record: a named route, a documented source, a witness, and a date. The date passed. The other three cannot be filed by anybody. The refusal is on a form with four grounds and a warden's note, and the note is the first city document in which the words *the blue steps* appear, and it says there is no row, no keeper, no schedule entry, and that the plate is weeping.
 - **Two ways forward, both named in a yard in front of two hundred people:**
-  - **The paper.** A restricted volume may be consulted by a named applicant on a scheduled reading day with a second reader's countersignature. The next one is the **4th of the next month, a Thursday**, in the public reading room in Vellum, nine until two. Mara Quill's own initials are on the shelf-marker. She is the only person who can read the pressure shadow on the removed leaf.
+  - **The paper.** A restricted volume may be consulted by a named applicant on a scheduled reading day with a second reader's countersignature. The next one is **the eleventh day of the next month, a Friday — Day 42, eight days from where this batch starts.** The month has thirty-one days: Day 33 is Wednesday the 2nd, Day 34 is Thursday the 3rd. It is in the public reading room in Vellum, nine until two. Mara Quill's own initials are on the shelf-marker. She is the only person who can read the pressure shadow on the removed leaf.
   - **The place.** The quarry cut off the mill road. A rope-eye in an iron ring rusted nearly through, fresh spoil a week old, four size-nine prints going in and one set coming out, a lantern lit for about two hours, an open tin of lamp oil, and a coil of good hemp **cut by somebody else's knife.** A man was on a staging twenty feet down with a lamp of his own and said *get the ladder, and tell Hallam to bring the other can, we are running her dry,* and then *you will be the Water Office, and you will be the wrong week.*
 - **Tarin cannot authorise the descent and cannot pay for it.** No seal, no district reference, no crew, no money. He said in a yard that he will not try to stop Niko a third time. Wick has agreed to hold the rope and to be on nothing else. Niko owes a chandler on the first of the next month.
 - **Hanne Roeg refused the descent and was right,** on grounds Tarin could not argue with: a district that is under examination cannot also be the site of an unauthorised descent, or the petition dies and the water goes with it. She also said the second time that a promise Tarin cannot keep is the only kind anybody in that lane has ever got. **The batch must not quietly reverse her.** If the crew goes, it goes without the lane's permission, and it pays for that.
-- **The condition of the district:** 24 houses, 126 persons, £86 in coin it cannot spend, the cistern selling itself to strangers at 3d a gallon, the lowest room's floor out with Ondra's boy sleeping in a chair, nine children with the marks, four in a physician's book with a fortnight that ends about the 4th, a saturated lane and terrace, a plate that has stopped ticking, and a district examiner due before the 27th.
-- **The condition of the man:** two open charges and never joined, a bad left shoulder, a hand that will not cut stone, a cup of tea that has had no taste in it since the ninth of the month, and a blue book containing three candidate explanations for the worst morning of his life with a refusal to guess between them.
-- **The thump** under the terrace is three a second, without variation, and has never stopped. That is a pump making up for a head it has lost. Nobody in Movement II or III is currently asking who owns it, and the only document that might say is being filed on the 4th and produces a note saying *no further action is proposed at present*, dated a year out.
+- **The condition of the district:** 24 houses, 126 persons, **£8** in coin it cannot spend, the cistern selling itself to strangers at 3d a gallon, the lowest room's floor out with Ondra's boy sleeping in a chair, nine children with the marks, four in a physician's book with a fortnight that ends about the 4th, a saturated lane and terrace, a plate that has stopped ticking, and a district examiner due before the 27th of next month.
+- **The condition of the man:** two open charges and never joined, a bad left shoulder, a hand that will not cut stone, a cup of tea that has had no taste in it since the seventh of the month, and a blue book containing three candidate explanations for the worst morning of his life with a refusal to guess between them.
+- **The thump** under the terrace ran three a second, without variation, and never stopped at any hour, right up until it stopped. **It stopped on the night of the 2nd**, in the middle of Niko's hand on a coil of somebody else's rope, and Chapter 19 ends on that. Nothing since has restarted it and nothing in this batch should explain it. A pump making up for a head it has lost is not a mystery. Nobody in Movement II or III is currently asking who owns it, and the only document that might say is being filed on the 4th and produces a note saying *no further action is proposed at present*, dated a year out.
 
 ## Dated spine
 
@@ -47,8 +47,8 @@ The calendar is elastic inside roughly Days 34–50. Push dates rather than comp
 
 | Chapter | Day | Beat |
 | --- | --- | --- |
-| 21 | 34–35 | The choice is made without the lane's permission, and the crew goes up the mill road. |
-| 22 | 35–36 | The cut, the staging, and the plant. The men below are contractors, not magicians, and they are not frightened. |
+| 21 | 34–35 | The choice is made without the lane's permission, and the three of them go back to a cut they are already standing at the bottom of. |
+| 22 | 35–36 | Past the staging: the ladder, the lamp, and the plant. The men below are contractors, not magicians, and they are not frightened. |
 | 23 | 37 | The return route is unstable. Somebody's ability to work is damaged on the way out. |
 | 24 | 38 | **The midpoint.** The chamber, the settlement above it, and the many-voiced reading. Once, plain, unexplained. |
 | 25 | 39 | What the settlement above has been living on. Halden's measurements placed in context. |
@@ -65,7 +65,7 @@ The calendar is elastic inside roughly Days 34–50. Push dates rather than comp
 - **Tarin** has to come back from Chapter 17 with something other than certainty. He cannot be the man who knows what he is. He should be the man who has been down a hole and cannot yet say what the hole is for, and who finds that his private certainty about his mother was the least reliable instrument he brought with him.
 - **Niko** goes down and must come back changed. He is twenty-two and this is still partly a test of his worth, and the batch must not let him off that. Whatever goes wrong should be the sort of thing that happens to a competent young man in the dark, not a punishment.
 - **Wick** goes as a man holding a rope. What he does with his hands in the dark is the chapter's action, and he is not an engineer and does not become one.
-- **Yara Sen** has nine children with the marks and a fortnight that ends about the 4th, and £7 16s. The descent's effect on the lane's water is a public-health problem before it is an engineering one, and she should be the one who says so first.
+- **Yara Sen** has nine children with the marks and a fortnight that ends about the 4th, and **15s 4d**. The descent's effect on the lane's water is a public-health problem before it is an engineering one, and she should be the one who says so first.
 - **Hanne Roeg** is not a symbol and must not be written as one. She refused the descent and was right. She is also the custodian of a record now, in her own hand, and that fact should do work in this batch.
 - **Mara Quill** may or may not be on the 4th. If she is, her hand-drawn key is still unlogged and still the only copy nobody can check, and the agreement's second condition — nothing on paper with one name on it — should be under pressure. If she is not, her absence should cost something.
 - **Halden Roe** is placed in context and is not removed. He falsified arithmetic to permit illegal abstraction through a reservoir he certified dead. He is not an architect of anything and does not know the One Map's name. He survives to be a witness in Movement V.
@@ -73,7 +73,7 @@ The calendar is elastic inside roughly Days 34–50. Push dates rather than comp
 ## Required power changes
 
 - Volume 1 remains at **Stage 2, Name.** Tarin has a trace, a cut record, a stone he cannot cut, and no method for finding a witness. Bend belongs to Chapters 51–150.
-- **The midpoint is a perception, not an operation.** The descent shows him a place. It does not open a route. If anything is moved, moved, or held in this batch, it is by a gate, a wheel, a ladder, a rope and a body — ordinary work, in the dark, with people in it.
+- **The midpoint is a perception, not an operation.** The descent shows him a place. It does not open a route. If anything is moved, turned or held in this batch, it is by a gate, a wheel, a ladder, a rope and a body — ordinary work, in the dark, with people in it.
 - **The Chapter 7 name debt does not heal.** The two-finger press and the taste of his tea stay gone. Volume 2's debt is a different thing, a professional association, not a second lost hand technique.
 - **Maximum one Gauge panel in the whole batch, and it belongs to Chapter 24.** The first many-voiced reading happens there and nowhere else. It is a condition, it is plain, it is not a rule, and it is not a solution. If the scene can carry itself on what people say to each other, cut the panel and keep the voices.
 
@@ -88,7 +88,7 @@ The calendar is elastic inside roughly Days 34–50. Push dates rather than comp
 - **The Ashgate maintenance log runs about a hundred and eighty years** of a shut gate at 5·7 and a bit. The removed reading is the last line, the year before the flood.
 - **The substituted leaf is twenty-six years old; the reading on it is a hundred and eighty-one years old.**
 - **The marker stone's other face is blank and stays blank for the whole volume.** Chapter 17's second chisel attempt cut nothing and the book entry says *Blank face not cut.* Do not write it as cut, and do not put the crooked mark on it.
-- **Every cistern figure is counted forward from Day 21.** The municipal cistern rows for 7–12 have been empty since Day 21 and **no municipal supply is restored in this movement.** Glassstep's own branch water, the yard cistern, the butt in the top end, the dispensary's eleven gallons and whatever this batch earns are the only water. All current figures are in `state/continuity.md` — 6,700 gallons of vessel, 610 gallons an hour at the pin, 270 gallons a day of evaporation, 70 gallons a day of clinic need, 680 gallons sold for £86, £7 16s in hand.
+- **Every cistern figure is counted forward from Day 21.** The municipal cistern rows for 7–12 have been empty since Day 21 and **no municipal supply is restored in this movement.** Glassstep's own branch water, the yard cistern, the butt in the top end, the dispensary's eleven gallons and whatever this batch earns are the only water. All current figures are in `state/continuity.md` and every one of them is now derived on the page and checkable — **6,700 gallons of vessel; 610 gallons an hour at the pin; 50 gallons a day of evaporation, so 6,700 over 50 is 134 days; 70 gallons a day of clinic need (16 + 10 + 44); 680 gallons sold for £8; 15s 4d in hand, which buys 23 gallons.** If you restate any of them, restate the derivation, not the total.
 - **Nothing in this batch may be described as the reservoir, the Blind Reservoir, the One Map, or Boryn Vey by those names.** Tarin has been up the hill four times and is about to go down it. What he can name is a gate, a head, a channel, a plate, a chamber, a settlement, a shaft, a stair and a filter house.
 - **Roe is not threatened in this movement.** Nobody is currently asking who removed the pressure figure.
 
@@ -98,9 +98,11 @@ The calendar is elastic inside roughly Days 34–50. Push dates rather than comp
 
 ## Do not re-stage — Batch 0001 and 0002 already spent these
 
-The Day 10 stand-down. Roe's North Sallow transfer offer. The court-supply ink and its twenty-six-year batch. The hand from Mara's mother's kitchen table. The shared substitution pattern. The empty cause box. The eleven-hour window. The 16:00 / 18:00 / 03:00 clock. Pell's timed entry. Roke's refusal in the yard. The man who walked out. The Gauge's two Batch 0001 statements. The two-finger press and the tea. The fourth child's salt fever. The night pump under the terrace. Niko's descent *as named*.
+The Day 10 stand-down. Roe's North Sallow transfer offer. The court-supply ink and its twenty-six-year batch. The hand from Mara's mother's kitchen table. The shared substitution pattern. The empty cause box. The eleven-hour window. The 16:00 / 18:00 / 03:00 clock. Pell's timed entry. Roke's refusal in the yard. The man who walked out. The Gauge's two Batch 0001 statements. The two-finger press and the tea. The fourth child's salt fever. The night pump under the terrace. Niko's descent *as named* — meaning the naming of it, in a yard, in Chapter 10. **The going down itself is not named yet and is this batch.**
 
-**And from Batch 0002:** the four grounds of the return and the warden's note. The signing of the application. The count on the slate. The hundred and four names read aloud. The collation and the two tracings. The five conditions on the dispensary step. The drained cistern, the floor coming up, and the stop-log lifted out with a bar. The spade in the lane, the silver spoon, and the brackish tap. The 680 gallons and the £86. The bottom of the quarry cut, the fresh spoil, the cut rope, and the man on the staging.
+**And from Batch 0002:** the four grounds of the return and the warden's note. The signing of the application. The count on the slate. The hundred and four strokes read aloud off the survey folio. The collation and the two tracings. The five conditions on the dispensary step. The drained cistern, the floor coming up, and the stop-log lifted out with a bar. The spade in the lane, the silver spoon, and the brackish tap on the terrace road main. The 680 gallons and the £8.
+
+**And the one thing below that list that is not spent.** Chapter 19 spent *the mouth of the cut*: the walk up the mill road, the switchback, the fresh spoil, the four prints in and one set out, the lit lantern, the open tin of oil, the coil of rope cut by somebody else's knife, and the man on the staging twenty feet down. It did **not** spend **going down past that staging**, and that is this batch's threshold beat. Do not re-walk the mill road as if for the first time; open where they already are.
 
 ## Ending and canon constraints
 
@@ -108,7 +110,7 @@ The Day 10 stand-down. Roe's North Sallow transfer offer. The court-supply ink a
 - Do not let anybody be compelled to forget. Every name-debt payment in this volume is a choice or a documented accident.
 - Water is restored in Volume 1 for **eleven hours, twice**, and not otherwise.
 - Record any new canon rule in `bible/` **and** `state/continuity.md` in the same run. Do not silently invent a fact that changes how the world works.
-- The settlement above the works is a **published fact by the end of this batch.** That has consequences through Volume 4, which is the volume where Glassstep turns out to be alive and uncounted, and Movement III must not spend the reveal it needs.
+- The settlement above the works is a **published fact by the end of this batch.** What Movement III must not spend is the *identity* behind it, which is a later volume's business: the series reveal schedule puts *Glassstep is a living community, not a ghost town* in **Volume 4**, and the collective ghost's identity there as well. Here it is a fact about a place — a settlement, a chamber, a pressure — and it is not explained. Do not say who put those people there, and do not say why.
 
 ## After the batch
 

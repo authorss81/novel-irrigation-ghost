@@ -78,7 +78,7 @@ He had his forearm in to the elbow. He felt the bed.
 
 *Not a route*, he thought. *A hole with a head on it.*
 
-And then, because he was a man who had run out of other ideas at four in the morning and because the offer was sitting in him ready to go, he did the thing that the whole of the twenty days had been about.
+Then, because he was a man who had run out of other ideas at four in the morning and because the offer was sitting in him ready to go, he did the thing that the whole of the twenty days had been about.
 
 He stood in a channel with five point eight nine metres behind it and put the lane in his hands — the stones under the arch, the sills worn hollow, the low step you put your hand on at six in the morning with a full pail — his own, given to him, nobody else's, the cheapest anchor in the world.
 
@@ -98,7 +98,7 @@ He tried the stone again at a quarter past six, because the stone was where the 
 
 He got the chisel out of his breast pocket and set it on the blank face, and took the mallet in his left hand, and knelt.
 
-The two fingers of his right hand came down onto the fore-edge of the stone to feel whether it was seated, which is not a thing that you do to a stone, and which he had done every working day since he was thirteen years old, and which was not there any more, and which he had watched not be there on the twentieth of the month in front of eighty people, and which he had apparently been hoping, somewhere, for nine days, might come back.
+The two fingers of his right hand came down onto the fore-edge of the stone out of forty years of habit, and were not there.
 
 The stone took a white bruise a quarter of an inch from where he had set it. That was all it did.
 

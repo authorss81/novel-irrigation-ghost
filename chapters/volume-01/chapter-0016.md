@@ -38,9 +38,9 @@ Then she read the difference aloud, both sides, in plain words, in the way she r
 
 The fair copy said: *Sheet 214. Terrace row, blue steps, lower fold. Two hundred and thirty properties, of which two hundred and thirty retained. Schedule entry of the following date: consequential correction, terrace row removed from distribution schedule.*
 
-The field book said: *Surveyed, the eleventh day of the fourth month. Two hundred and thirty properties numbered, of which one hundred and nine returned for closure, thirty-one returned for exclusion, and ninety retained. The list of the one hundred and forty so returned is set out in the folio tied at the back.*
+The field book said: *Surveyed, the eleventh day of the fourth month. Two hundred and thirty properties numbered, of which one hundred and nine returned for closure, thirty-one returned for exclusion, and ninety retained. The list of the one hundred and forty so returned is begun in the folio tied at the back.*
 
-And the folio tied at the back, with a bootlace, after twenty-six years under a floor, was a single sheet with a hundred and four short horizontal strokes on it.
+The folio tied at the back, with a bootlace, after twenty-six years under a floor, was a single sheet with a hundred and four short horizontal strokes on it, which is thirty-six short of the hundred and forty the field book promises, and which is the first thing in twenty-six years that anybody in this lane has been in a position to notice.
 
 ---
 
@@ -98,7 +98,7 @@ Mara Quill: "I can certify a claim about a house. I cannot check it. And an unch
 
 Old Marden, from the step: "Then make it checkable with one."
 
-And Hanne Roeg said, before anybody had argued for it, in the voice of somebody who has decided:
+Hanne Roeg said it before anybody had argued for it, in the voice of somebody who has decided:
 
 "The fourth step."
 
@@ -136,7 +136,7 @@ After the twenty-seventh stroke nobody was able to identify anything, because a 
 
 The work took until four o'clock: the collation against the fair copy, sheet by sheet, property by property, ninety retained against ninety retained, which is nine thousand separate little agreements between a fair copy and an original made in a winter a century and a quarter ago by men who expected to be right. Mara Quill checked all of it in the open, in a yard, and twice somebody in the crowd told her she had a house number wrong and she was wrong both times.
 
-And then she made the two tracings.
+Then she made the two tracings.
 
 She made hers first, at one to one, in her own ink, on good stock, with the batch and the date and the margin and the stroke characteristics and the schedule reference, and no names beyond the two that had been identified in the yard by the people they belonged to, which she entered as identifications and not as transcriptions.
 
@@ -146,7 +146,7 @@ The old woman wrote the hundred and four strokes as a list of numbers, because a
 
 At the foot of it she wrote, in the space Mara left her: *Copied by the fourth step, of this lane, out of the survey book of this lane, on the twenty-eighth day of the month, in the presence of M. Quill, conservator, and of the persons of this lane.*
 
-And Mara Quill certified both, in one hand, in one sentence, in front of the yard, and the certification said that both tracings were made from one original, in one room, in one sitting, by two named hands, and that where the two tracings agreed they were two independent attestations of the same thing, and that where they did not agree the original was the authority and not either of them.
+Mara Quill certified both, in one hand, in one sentence, in front of the yard, and the certification said that both tracings were made from one original, in one room, in one sitting, by two named hands, and that where the two tracings agreed they were two independent attestations of the same thing, and that where they did not agree the original was the authority and not either of them.
 
 "Well," said Marda Ollan, looking at the two sheets. "There is a thing in this lane nobody can take."
 

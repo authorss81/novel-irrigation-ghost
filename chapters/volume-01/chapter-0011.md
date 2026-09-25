@@ -98,7 +98,7 @@ Yara Sen was sitting on the dispensary step with a slate on her knees and three 
 
 "I have emptied the headroom out of every vessel in this yard."
 
-"You have not done anything of the kind. Nothing has emptied anything. The branch ran eleven hours and stopped itself at three o'clock this morning, and the vessels are exactly as full as they were when it stopped, and they have been losing about a quarter of an inch a day to the air since, which in nine days is two inches, which is four hundred gallons, which is nothing." She turned the slate round. "The row is not short of water. The row is short of water it is allowed to give anybody."
+"You have not done anything of the kind. Nothing has emptied anything. The branch ran eleven hours and stopped itself at three o'clock this morning, and the vessels are exactly as full as they were when it stopped, and they have been losing water to the air every hour since, which on a yard this size in this heat with no wind on it is about fifty gallons a day, and which in nine days is four hundred and fifty gallons, which is nothing." She turned the slate round. "The row is not short of water. The row is short of water it is allowed to give anybody."
 
 That is the sentence he would carry for the next thirteen days, and he did not know it yet.
 
@@ -118,13 +118,13 @@ Tam Roke put it first, and put it plainly.
 
 Old Marden, from the top step, said the thing that turned the yard over.
 
-"A quarter of an inch a day," he said. "You are all sitting in a yard listening to a physician talk about a quarter of an inch a day, and the cistern is at the lip of the wall, and there is a boy standing on the coping with a bit of chalk. Say the number out loud. How many days has the cistern got left in it if nobody drinks any of it at all?"
+"It is a quarter of an inch a day and none of you can taste it," he said. "You are all sitting in a yard listening to a physician talk about what a jar of it does when you boil it, and the cistern is at the lip of the wall, and there is a boy standing on the coping with a bit of chalk. Say the number out loud. How many days has the cistern got left in it if nobody drinks any of it at all?"
 
 Nobody wanted to be the one to say it.
 
-"About a hundred and forty," said Tarin. "Two hundred and seventy gallons a day off a cistern that size in this heat, and the pails the same, and it does not matter who is thirsty, it is going whether it is drunk or not. A hundred and forty days, and then there is nothing in this yard at all and the tanks will have gone in a month."
+"About a hundred and thirty," said Tarin. "Six thousand seven hundred gallons in this yard and fifty gallons a day going out of it whatever anybody does. Cistern, tanks and forty-four open pails; the pails make it worse and not better, and it does not matter who is thirsty, it is going whether it is drunk or not. Six thousand seven hundred over fifty is a hundred and thirty-four days, and then there is nothing in this yard at all and the tanks will have gone in a month."
 
-"A hundred and forty days," said Marda Ollan, from the wall, "of the water that will put my children in a bowl. Thank you. That is a great deal of comfort and I would like it in writing."
+"A hundred and thirty days," said Marda Ollan, from the wall, "of the water that will put my children in a bowl. Thank you. That is a great deal of comfort and I would like it in writing."
 
 "That is fair," Tarin said, and it cost him something to say it in a yard, and he said it anyway, because the alternative was to stand in a yard and be a man who thought the arithmetic was the answer.
 
@@ -200,7 +200,7 @@ He stood in the middle of the yard the way a man stands in the middle of a room 
 
 He stopped.
 
-"There is a thing I can do that you will not like," he said. "I can file a return about the blue-step lane with the boxes empty and the remark filled in. And that return goes into the district book on the twenty-second, and it is a city document, and it is dated, and it will say in a warden's hand that on the twenty-first there was water in the blue-step lane and that there is no row and no keeper and no schedule entry against it. Which is a true sentence, and which is on paper, and which will be in the file for as long as anybody keeps a file."
+"There is a thing I can do that you will not like," he said. "I can file a return about the blue-step lane with the boxes empty and the remark filled in. And that return goes into the district book on the twenty-third, and it is a city document, and it is dated, and it will say in a warden's hand that on the twenty-first there was water in the blue-step lane and that there is no row and no keeper and no schedule entry against it. Which is a true sentence, and which is on paper, and which will be in the file for as long as anybody keeps a file."
 
 "And what will that do?"
 
@@ -224,13 +224,11 @@ He made a list. He did it in the blue book, on the page after the one with the a
 
 *Keeper.* Have it. Tam Roke, forty-four, who keeps the pump, and who said no to me in this yard in front of eighty people and a warden, and who was right to, and who has said no to nothing since because he has been too busy.
 
-*Witness.* Have it. One, the same man, refused, in public, in front of a warden, on the grounds that a route with a man on it stops when the man stops.
-
 *Standing.* Have none of it. Two charges, both open, no seal, no keys, no reference, no crew, and a regulation about a gatehouse.
 
-He read that page from the top and understood, sitting against a wall in a yard that was full of unusable water in the ninth-best light of his life, that six of the seven lines had a tick against them and that he was not short of a route. He had had a route since the seventh of the month. What he could not make, and had no purchase on whatever, was the thing that turns a route into a service, and the thing was a name in a book.
+He read that page from the top and understood, sitting against a wall in a yard that was full of unusable water in the ninth-best light of his life, that five of the six lines had a tick against them and that he was not short of a route. He had had a route since the seventh of the month. What he could not make, and had no purchase on whatever, was the thing that turns a route into a service, and the thing was a name in a book.
 
-He could solve for water. He had done it twice in twenty days with a chisel and a length of oak and a man who was entitled to refuse, and it had worked both times and cost him both times. He could not solve for a name, and as of the morning of the twenty-first a name was the binding constraint on every single thing he could do, including the one thing he was best at.
+He could solve for water. He had done it twice in twenty days with a chisel and a length of oak, and it had worked both times and cost him both times. He could not solve for a name, and as of the morning of the twenty-first a name was the binding constraint on every single thing he could do, including the one thing he was best at.
 
 Hanne Roeg got up off the step. It took her a while and she did it without a hand on the cane, which Tarin noticed and would remember.
 

@@ -50,7 +50,7 @@ She did the round at two o'clock and the four names in her book had gone the wro
 
 The Tall boy was at two points, which was where he had been on the twenty-sixth, and he had been sick in the night. The second child, the one under the arch, was at three points for the second time in nine days and had burning skin on the palms and was nine years old and could not stop putting his hands in his mouth, which is the third stage, which is the stage that comes next, and she had four days of clean water in the world and a fortnight of it to give him.
 
-And the room.
+Then the room.
 
 The lowest room on the left of the arch had water standing a hand deep in it and had had it since yesterday morning, and the flag at the corner was up about half an inch, and the boy who slept on the bed frame had slept in a chair in the low house, and Ondra had taken his frame apart and leaned it against the outside wall because there was nowhere else for it to be, and the whole of that household's belongings were stacked on the flags of the top end under a tarpaulin that had not been a tarpaulin in its life and had come from Wick's cart.
 
@@ -70,25 +70,29 @@ The money came in on the afternoon of the thirty-first, and it was the single wo
 
 It came in on a barrow, and then on two more barrows, and it came in because on the afternoon of the twenty-seventh a man from the Fenner district had walked four miles down a dry road and been given a pail of water he had not paid for, and had come back on the twenty-eighth with four men and two carts, and had been told, by a physician standing in a yard, in plain words, what was in it.
 
-He had bought it anyway. Of course he had bought it. He had four miles of dry track and a cistern with a hole in the bottom and a family in it, and a woman in the blue steps had told him in front of nine people that it would not be drinking water, and he had weighed that against eight children at home, and he had weighed it and had bought it, and he had not come and asked anybody's blessing, and he was not a villain, and there was nothing anybody could have done.
+He had bought it anyway. Of course he had bought it. He had four miles of dry track and a cistern with a hole in the bottom and a family in it, and a woman in the blue steps had told him in front of a yard full of people that it would not be drinking water, and he had weighed that against eight children at home, and he had weighed it and had bought it, and he had not come and asked anybody's blessing, and he was not a villain, and there was nothing anybody could have done.
 
 By the afternoon of the thirty-first the blue steps was selling water.
 
 Bel Crale had stopped it on the second day, for about an hour, by standing in the lane with her arms out, and then had been asked to move by a woman from the third step whose own barrel was low, and had moved, because Bel Crale was a woman who could not stand in a lane being told by a person with a barrel when a person without a barrel was thirsty. It was the correct decision and she did not sleep that night.
 
-They sold it at a penny the gallon on the twenty-eighth and twopence on the twenty-ninth, because that is what a thing nobody can use is worth when somebody has just been told in a yard that it cannot be used, and it went to threepence on the thirtieth and stayed there, out of a cistern that a physician had certified in front of eighty people as unfit for human consumption. By the evening of the thirty-first six hundred and eighty gallons had gone up the terrace road in somebody else's pails, and there were eighty-six pounds in the lane in coin and small silver.
+They sold it at a penny the gallon on the twenty-eighth and twopence on the twenty-ninth, because that is what a thing nobody can use is worth when somebody has just been told in a yard that it cannot be used, and it went to threepence on the thirtieth and stayed there, out of a cistern that a physician had certified in front of a hundred and twenty people as unfit for human consumption.
+
+Forty gallons went on the twenty-eighth and forty more on the twenty-ninth, and then it came in earnest — three hundred on the thirtieth and three hundred on the thirty-first — and by the evening of the thirty-first six hundred and eighty gallons had gone up the terrace road in somebody else's pails.
+
+Eighty gallons at a penny and then at twopence, which is ten shillings. Six hundred at threepence, which is seven pounds and ten. **Eight pounds** in the lane in coin and small silver, in a bucket that had held chalk that morning.
 
 And that was where the water for the clinic came apart.
 
 The cart that had been coming up from the Sallow road twice a week with clean water at twopence the gallon stopped coming on the morning of the thirtieth, because the driver was a man with a name and a row of his own, and a man with a name cannot be seen selling water to the blue steps. Nobody had told him to stop. Nobody had threatened him. He simply had a row, and his row had begun to hear about a man selling to the Fenner district out of a cistern on the terrace road, and he had a wife.
 
-The second cart came on the thirtieth, from a different direction, and charged eightpence, and would not come into the lane at all — would only come as far as the cattle track, three hundred yards short, and would not have it known that it was the dispensary.
+The second cart came on the thirtieth, from a different direction, and charged ninepence, and would not come into the lane at all — would only come as far as the cattle track, three hundred yards short, and would not have it known that it was the dispensary.
 
-The third came on the thirty-first at sevenpence and would not come into the lane.
+The third came on the thirty-first at eightpence and would not come into the lane.
 
-So: seventy gallons a day of clean water, of which the dispensary had eleven in a stone jar under the bench and a butt in the top end, and the dispensary had held fourteen pounds and sixpence on the first of the month, which is what was left of forty-one after the room and the kettle and the bin and Bel Crale's wages, and by the evening of the thirty-first it had seven pounds and sixteen shillings.
+So: seventy gallons a day of clean water, of which the dispensary had eleven in a stone jar under the bench and a butt in the top end, and the dispensary had held fourteen pounds and sixpence on the first of the month, which is what was left of forty-one after the room and the kettle and the bin and Bel Crale's wages, and by the evening of the thirty-first it had fifteen shillings and fourpence.
 
-Seven pounds and sixteen shillings at the price of clean water on the third of the month buys twenty-two gallons. Twenty-two gallons is a third of one day, and the day after that is the first of the next month, and a child in the second stage needs his four gallons whether the first of the month has arrived or not.
+Fifteen shillings and fourpence at the price of clean water on the third of the month buys twenty-three gallons. Twenty-three gallons is a third of one day, and the day after that is the first of the next month, and a child in the second stage needs his four gallons whether the first of the month has arrived or not.
 
 And the money to fix it was in the lane, in a bucket, in silver, and the silver could not buy it, because everything for sale in the blue steps on the evening of the thirty-first was the one thing in the basin that nobody could use.
 
@@ -110,7 +114,7 @@ Hanne Roeg did not answer that for a moment.
 
 Hanne Roeg sat on her own step and looked at the lane, where a man was loading a pail into a barrow for the fourth time that day.
 
-"Then write it down," she said. "Write the two hundred gallons down in your book, and put the fourth step against it, because I have been un-findable for seventy-one years and I signed a form on Saturday and I am findable now, and I would rather be found with nothing than not found at all. And write this beside it, and I want it in your own hand, not anybody's: *offered freely by the fourth step, and the water is not fit to drink, and Doctor Sen has said so in this yard in front of eighty people, and we are giving it away anyway.*"
+"Then write it down," she said. "Write the two hundred gallons down in your book, and put the fourth step against it, because I have been un-findable for seventy-one years and I signed a form on Saturday and I am findable now, and I would rather be found with nothing than not found at all. And write this beside it, and I want it in your own hand, not anybody's: *offered freely by the fourth step, and the water is not fit to drink, and Doctor Sen has said so in this yard in front of a hundred and twenty people, and we are giving it away anyway.*"
 
 Yara Sen wrote it down, and read it back, and got it right, and sat on the step for a moment afterwards with the book shut on her knees.
 
@@ -124,9 +128,9 @@ Yara Sen wrote the two hundred gallons down, and it went in at two hundred, and 
 
 At the end of the day she made the entry in the book, and the book has three columns and the entry went in the third, which is *hands*, and then she went back and put one line in under the date, above the ruled line, in the small writing she used for things that were not clinical.
 
-> *31st day. Six hundred and eighty gallons sold out of a cistern of which I certify the water is unfit for human consumption, at one, two and three pence the gallon on successive days, to persons not of this district, two days after that fact was stated in this yard in the presence of eighty people. Eighty-six pounds taken.*
-> *The price of clean water in this district has gone from twopence the gallon to eightpence the gallon in three days, for the reason above.*
-> *There are now more pounds of coin in this lane than there have been since the flood year, and not one of them can be spent on a child, because everything they have to sell is the one thing nobody is able to buy a use for.*
+> *31st day. Six hundred and eighty gallons sold out of a cistern of which I certify the water is unfit for human consumption, at one, two and three pence the gallon on successive days, to persons not of this district, two days after that fact was stated in this yard in the presence of a hundred and twenty people. Eight pounds taken: ten shillings on the first eighty gallons, and seven pounds ten on the remaining six hundred.*
+> *The price of clean water in this district has gone from twopence the gallon to ninepence on the thirtieth and eightpence on the thirty-first.*
+> *There is now more money in this lane than there has been since the flood year, and not one of it can be spent on a child, because everything they have to sell is the one thing nobody is able to buy a use for.*
 > *A sale is a fact. A fact with a price on it is a record. Nobody has to believe me about it. I have put it here where the next physician can find it, and I have put it here because the book is the only thing in this district that is not going to be lost, and because the next physician is going to arrive in this lane in about four weeks and find a well, a pump, a plate and a cistern, and is going to be asked by somebody in an office what this place is, and is going to want to know why there is money in it.*
 
 She shut the book and put it under the bench, and there were nine children in the blue steps with the marks, and four of them were in a book with a fortnight on it that ran out on the fourth day of the next month, and in the yard the water in the lane was an inch and a quarter deep and was not going down, and on the step outside the low house a boy of nine was sitting with a bit of chalk in his hand, marking a cistern coping that he was not going to have to mark again until somebody filled it.

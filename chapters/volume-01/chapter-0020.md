@@ -36,7 +36,7 @@ Hanne Roeg said, "Who did?"
 
 "Right."
 
-"**Three.** The applicant offers witnesses. The office has before it a sheet of paper in an unstated hand carrying four names and no signatures of an officer, no countersignature, and no keeper of the works to whom the witnesses may be answerable. A witness is entered against a route. There is no route, and so there is nowhere to enter a witness, and the four names in your district are four people who have put their names on a piece of paper in your own lane, which is a thing worth having and is not a thing I can file."
+"**Three.** The applicant offers witnesses. The office has before it a sheet of paper in an unstated hand carrying three names and two refusals written under a rule, and no signature of an officer, no countersignature, and no keeper of the works to whom the witnesses may be answerable. A witness is entered against a route. There is no route, and so there is nowhere to enter a witness, and the three names in your district are three people who have put their names on a piece of paper in your own lane, which is a thing worth having and is not a thing I can file."
 
 "**Four.** The applicant gives a date from which the supply has been maintained continuously. That is accepted."
 
@@ -46,13 +46,13 @@ He turned the sheet back over and squared it on his knee.
 
 ---
 
-Then he took out a second sheet, which was thinner and older, and which he had kept folded in the inside pocket of his coat for eleven days.
+Then he took out a second sheet, which was thinner and older, and which he had kept folded in the inside pocket of his coat for twelve days.
 
-"Now the other thing," he said, "and this is the warden's note, and I am going to read it in the yard, and I would like Marda Ollan to come over, because the second thing is about the seventeenth of this month and it has got her name on the return."
+"Now the other thing," he said, "and this is the warden's note, and I am going to read it in the yard, and I would like Marda Ollan to come over, because the second thing is about the twenty-second of this month and it has got her name on the return."
 
 He read it out, in a flat voice, with the timing of a man reading an instrument.
 
-> *Return of cisterns and taps, blue steps, lower terrace, seventeenth day of the month. Boxes for row number, keeper, tanks, gallons and last serviced: all blank. Remark entered by the sluice warden:*
+> *Return of cisterns and taps, blue steps, lower terrace, twenty-second day of the month. Boxes for row number, keeper, tanks, gallons and last serviced: all blank. Remark entered by the sluice warden:*
 > *Six thousand seven hundred gallons standing in the district, fit for no use for which water is used. The source is unnamed on this office's records. The plate over the terrace outfall of this row, closure entry one hundred and eighteen, is weeping, and the district's supply is at risk. There is no row, no keeper and no schedule entry for this district, and the water in it is not on any return in this office except this one. This return is entered under the standing discretion of the sluice warden, in the absence of a row, and it is the first document in the district book in which the words "the blue steps" have appeared.*
 > *S. Pell, sluice warden, lower terrace road.*
 
@@ -66,7 +66,7 @@ He stopped.
 
 "That is exactly what a name in a book is," said Pell. "I am sorry. I would have preferred to bring you the other kind."
 
-He put the sheet down and straightened up and did the thing he had walked down the hill deciding to do, which was to give them the whole of it, including the part he had no business giving, because he had been thinking since the seventeenth about the fact that a whole city had spent eleven days being extremely careful not to say a sentence out loud, and that the sentence was three lines long and would fit on the warden's note.
+He put the sheet down and straightened up and did the thing he had walked down the hill deciding to do, which was to give them the whole of it, including the part he had no business giving, because he had been thinking since the twenty-first about the fact that a whole city had spent thirteen days being extremely careful not to say a sentence out loud, and that the sentence was three lines long and would fit on the warden's note.
 
 "Here is what I am not going to put in writing," he said, "and I am going to say it to you once, and you will do with it what you like.
 
@@ -74,38 +74,38 @@ He put the sheet down and straightened up and did the thing he had walked down t
 
 "But the second one is the whole of it. The only document in the basin that could supply a source for the Ashgate intake is a folio in a strong room in Vellum, and it is locked there on a rule that says an unverified record may not decide a public route. And that rule was applied to it *because* it is contested, and it is contested *because* of what somebody did to it, and the thing somebody did to it is a *record*, and it is the reason the works is what it is. So your district's legal existence and one leaf of paper in Vellum are the same object. If the leaf can be read, you have a source. If you have a source, the leaf can be read. Neither of them can be got first, and the city is not going to notice, and I am the only man in this city who is in a position to be in that position twice in one career."
 
-Nobody said a word. Two hundred people in a yard and nobody said a word.
+Nobody said a word. A hundred and twenty people in a yard and nobody said a word.
 
 "Now the warden's note," said Pell, "which I *am* going to put in writing. A man who only writes down the parts of a thing that are comfortable with is not a keeper of records. He is a keeper of opinions, and I have never in nineteen years wanted to be one of those."
 
-He took out the return and turned it to the foot of the sheet, and took out a pencil, because a warden's note is a note and not a minute, and then he wrote, in a slow, level, unhurried hand, on good paper, in a yard, with two hundred people standing in it:
+He took out the return and turned it to the foot of the sheet, and took out a pencil, because a warden's note is a note and not a minute, and then he wrote, in a slow, level, unhurried hand, on good paper, in a yard, with a hundred and twenty people standing in it:
 
 > *Note of the sluice warden, added on the return of the thirty-fourth day of the month, read aloud in the yard of the blue steps before the applicant and in the presence of the district.*
 > *Grounds one and three above are declined for want of an office record and an entry, and the office is aware that the absence of both is a consequence of the same schedule entry of twenty-six years as ground two.*
-> *The volume relied on in box five of the application is restricted at Vellum under rule nine. A restricted volume may be consulted by a named applicant on a scheduled reading day, with a second reader's countersignature, and the schedule of reading days for the quarter is posted in the reading room and is a public document. The next day is the fourth day of the next month. The applicant may apply. The fee is four shillings and is not refundable, and the first fee of four shillings has been spent.*
+> *The volume relied on in box five of the application is restricted at Vellum under rule nine. A restricted volume may be consulted by a named applicant on a scheduled reading day, with a second reader's countersignature, and the schedule of reading days for the quarter is posted in the reading room and is a public document. The next day is the eleventh day of the next month. The applicant may apply. The fee is four shillings and is not refundable, and the first fee of four shillings has been spent.*
 > *Grounds one to four above are the whole of the warden's office's power in this matter. This office has no power to enter a district, to amend a schedule, to inspect a sealed works, to certify a source, or to answer a question about the works at Ashgate. A question about the works at Ashgate is a question for the Office of the acting commissioner, and that office is in possession of two open charges against a named engineer, and this warden is not going to say one word about those charges in a return on a district application, and will not be asked.*
-> *I record, because it is a condition and conditions are what this office exists to record, that on the seventeenth day of the month a named engineer of this city, who is not the keeper of any works, and who is under two charges and neither of them joined to the other, stated in a public yard that he did not know the source of the water in the district's vessels, and that the district drank it anyway, and that this warden wrote that down.*
+> *I record, because it is a condition and conditions are what this office exists to record, that on the twenty-first day of the month a named engineer of this city, who is not the keeper of any works, and who is under two charges and neither of them joined to the other, stated in a public yard that he did not know the source of the water in the district's vessels, and that the district drank it anyway, and that this warden wrote that down.*
 > *I further record that the hearing on the first of those two charges was set for the twenty-second day of this month and adjourned without a date entered, and that the midsummer ration review for this district was set for the same day and has been set for three other days since. Nothing in this note is a finding in either matter, and this warden has no power to make one.*
 
 He put the pencil in his pocket and squared the sheet on his knee and gave it to her.
 
-"Four shillings," he said, "which I know is money, and I have thought about that for twelve days and I have decided that the office is not going to be the thing that stops a poor person's paper, so I have put the fee on the note, where the district can claim it back, and it will take a quarter and it is a quarter of a shilling and it is not nothing in a lane like this."
+"Four shillings," he said, "which I know is money, and I have thought about that for twelve days and I have decided that the office is not going to be the thing that stops a poor person's paper, so I have put the fee on the note, where the district can claim it back. A claim takes a quarter of a year to answer, and four shillings is not nothing in a lane like this."
 
 ---
 
 Tarin Rusk pushed off the low house wall for the first time in an hour, and said:
 
-"Pell. The fourth day of next month."
+"Pell. The eleventh day of next month."
 
-"It is posted. I have read it. It is a Thursday, and it is a reading day, and the reading room is public from nine until two, and to consult a restricted volume you give a name at the desk and a second reader signs for it, and the second reader is a named officer of the building, and they will not do it for a district, and they will do it for a man who is not a district and who has a purpose they can write down." Pell looked at him. "I have not said that because it is not my business, Rusk. I have said it because it is a fact about a schedule and I am a man who reads schedules."
+"It is posted. I have read it. It is a Friday, and it is a reading day, and the reading room is public from nine until two, and to consult a restricted volume you give a name at the desk and a second reader signs for it, and the second reader is a named officer of the building, and they will not do it for a district, and they will do it for a man who is not a district and who has a purpose they can write down." Pell looked at him. "I have not said that because it is not my business, Rusk. I have said it because it is a fact about a schedule and I am a man who reads schedules."
 
 "Then you have said it."
 
 "I have said it."
 
-"Then there are two of them," said Tarin Rusk, "and I have got twelve days, and I want to say the second one out loud in this yard so that it is not a secret in my coat when somebody finds it in a week and says I planned it.
+"Then there are two of them," said Tarin Rusk, "and I have got eight days, and I want to say the second one out loud in this yard so that it is not a secret in my coat when somebody finds it in a week and says I planned it.
 
-"The volume will tell me what the head was. It will not tell me where the water is. It will not tell me what is on the other side of that wheel, and it will not tell me what has been running a pump on that head at night for a year, and it will not tell me whose name is on the six hundred and eighty gallons we have been selling to the Fenner district at threepence the gallon. Every one of those is a question about a place, and a volume is not a place." He put his hand flat on the wall behind him. "The second way is to go and look at the works. Which is a warden's seal and a crew I cannot pay and a descent that no survey in this city records, and which a man of twenty-two who is not my wage and is not on your sheet has already offered to do twice, and who I have not been able to stop, and I am standing in a yard telling two hundred people that I am not going to try to stop him a third time."
+"The volume will tell me what the head was. It will not tell me where the water is. It will not tell me what is on the other side of that wheel, and it will not tell me what has been running a pump on that head at night for a year, and it will not tell me whose name is on the six hundred and eighty gallons we have been selling to the Fenner district at threepence the gallon. Every one of those is a question about a place, and a volume is not a place." He put his hand flat on the wall behind him. "The second way is to go and look at the works. Which is a warden's seal and a crew I cannot pay and a descent that no survey in this city records, and which a man of twenty-two who is not my wage and is not on your sheet has already offered to do twice, and who I have not been able to stop, and I am standing in a yard telling a hundred and twenty people that I am not going to try to stop him a third time."
 
 "You are not the keeper of anything," said Pell.
 
@@ -115,15 +115,15 @@ Tarin Rusk pushed off the low house wall for the first time in an hour, and said
 
 Hanne Roeg read the warden's note twice, all of it, including the part about the reading day, and she did not ask Tarin Rusk a single question about the descent, and Marda Ollan noticed that she did not, and understood why about four minutes later and was angry about it for a week.
 
-"Right," she said at last. "Then here is where we are, and I am going to say it slowly because there are two hundred people here and I am seventy-one and I have not slept properly since Saturday.
+"Right," she said at last. "Then here is where we are, and I am going to say it slowly because there are a hundred and twenty people here and I am seventy-one and I have not slept properly since Saturday.
 
-"On the twenty-second I signed a piece of paper to be counted, and I have paid for it, and I would sign it again tomorrow, and I am not going to pretend to anybody in this yard that the two hundred people who watched me do it have all been paid for, because thirty of them have watched a man come up this lane every day with a pail and they have not been paid for anything at all, and that is not a fair thing to have done to them without asking. So I am asking now, in front of all of you, and I am not asking for a show of hands and I am not asking for a vote. I am asking whether anybody in this lane wants to say something about a paper that is coming to this yard on the fourth day of next month, and everybody in this yard knows how to leave."
+"On the twenty-second I signed a piece of paper to be counted, and I have paid for it, and I would sign it again tomorrow, and I am not going to pretend to anybody in this yard that the hundred and twenty who watched me do it have all been paid for, because thirty of them have watched a man come up this lane every day with a pail and they have not been paid for anything at all, and that is not a fair thing to have done to them without asking. So I am asking now, in front of all of you, and I am not asking for a show of hands and I am not asking for a vote. I am asking whether anybody in this lane wants to say something about a paper that is coming to this yard on the eleventh day of next month, and everybody in this yard knows how to leave."
 
 Nobody left.
 
-That was the whole of it, and it took about two seconds, and it was not an agreement and it was not a mandate and it was not even, quite, a silence of consent. It was two hundred people declining to leave a yard, and a woman on four steps reading a warden's note to them, and it was the first thing in twenty-six years that had happened in the blue steps which the city had not put there.
+That was the whole of it, and it took about two seconds, and it was not an agreement and it was not a mandate and it was not even, quite, a silence of consent. It was a hundred and twenty people declining to leave a yard, and a woman on four steps reading a warden's note to them, and it was the first thing in twenty-six years that had happened in the blue steps which the city had not put there.
 
-"Then we will be here on the fourth," said Hanne Roeg. "And Rusk, you will tell me what the two ways are, in plain words, in this yard, and then you will go and talk to the boy, and then I want the lane quiet for a day, because we have a physician in it and nine children in it and the water in the ground is not going down until the second of the month at the earliest, and I would like one day in this lane where nothing happens."
+"Then we will be here on the eleventh," said Hanne Roeg. "And Rusk, you will tell me what the two ways are, in plain words, in this yard, and then you will go and talk to the boy, and then I want the lane quiet for a day, because we have a physician in it and nine children in it and the water in the ground is not going down until the sixth of the month at the earliest, and I would like one day in this lane where nothing happens."
 
 Pell put the return in his coat and looked at the cistern and the pails and the barrow at the wall and the twenty-four blue doors with the washing out on them, which is a thing a yard does when it is not a street.
 
@@ -131,4 +131,4 @@ Pell put the return in his coat and looked at the cistern and the pails and the 
 
 "Write it," said Hanne Roeg. "We will be here when you have written it."
 
-He went up the cattle track on the morning of the thirty-fourth with a return in his coat and a reading day in his head, and the eleven days of the month left a reader in Vellum who could not read a page that a woman on four steps had spent four shillings and everything else she had on the twenty-second, and a hole in a quarry wall two miles up the mill road with a coil of somebody else's rope on the ledge, and a warden's note in a district book in a language nobody in the blue steps could read, saying that the water in the yard had a man in it who did not know where it came from, and that the yard had drunk it anyway.
+He went up the cattle track on the morning of the thirty-fourth day with a return in his coat and a reading day in his head, and the eight days left in the month left a reader in Vellum who could not read a page that a woman on four steps had spent four shillings and everything else she had on the twenty-second, and a hole in a quarry wall two miles up the mill road with a coil of somebody else's rope on the ledge, and a warden's note in a district book in a language nobody in the blue steps could read, saying that the water in the yard had a man in it who did not know where it came from, and that the yard had drunk it anyway.

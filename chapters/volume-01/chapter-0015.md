@@ -8,7 +8,7 @@ She had forty-one names in it. That was the number that had made the book necess
 
 She came in on the morning of the twenty-seventh at seven and did the round before she did anything else, because the round was twenty minutes and the round did not care what else the day had in it.
 
-Nine names had the marks. Four had them at all three points. Eleven had them at two. The rest were in the *at risk* column with a date, which was a column she had added herself and which was not a medical category.
+Nine names had the marks. Four had them at all three points. Five had them at two. The rest were in the *at risk* column with a date, which was a column she had added herself and which was not a medical category.
 
 The Tall boy had gone from two points to three on the twenty-sixth, and had been sick once and had kept it down twice, and had asked her, in a voice with nothing in it, whether he was going to die, and she had said no, and had not put anything in the book about the way she had said it.
 
@@ -16,7 +16,7 @@ The dispensary had eleven gallons in a stone jar under the bench, which was rain
 
 At nine o'clock she put a jar of the cistern water on the fire, and at half past eleven she took it off, and at noon she carried it out to the yard and put it on the low house step with the lid off.
 
-Two hundred people came. Not because a thing was happening. Because a thing was happening.
+A hundred and twenty-odd came, which in a lane of a hundred and twenty-six is everybody who could get out of a door. Not because a thing was happening. Because a thing was happening.
 
 "Listen to me first," she said. "I have been asked what we are going to do with it and I am going to answer it, and I have never in my life been wrong about water and I am not going to start on a Thursday."
 
@@ -24,13 +24,13 @@ Two hundred people came. Not because a thing was happening. Because a thing was 
 
 The answer took forty minutes and she gave it in pieces, in the order she had worked out, and the yard argued at her the entire way and she let it.
 
-**The first piece was the crust.**
+The first piece was the crust.
 
 She put her hand flat on the jar and turned the lid so everybody at the front could see the inside of it.
 
 "Eleven gallons of the cistern boiled down this morning to about one, and what is left in the bottom of that jar is a white ring you could write a name in. That is the salt. Boiling does not take salt out of water. Boiling takes water out of it and leaves the salt behind and makes what is left *worse per gallon* than what you started with." She set it down. "I know what half of you have already worked out, because I have watched people get a pan of it on a stove and think they have solved something. You have not. You have made a stronger version of the same thing."
 
-**The second piece was the skin.**
+Then the skin.
 
 "Touch it. Do not drink it. Touch the wet stone inside the lid and then look at the pads of your fingers."
 
@@ -38,7 +38,7 @@ Four or five people at the front did it, and then stopped, and one woman wiped h
 
 "That is a day early. That is what I mean by *a day early*. It shows in the hand before the person knows anything is wrong, and it is the same three points I have been checking in your children since the seventh of the month, and there is no argument on this terrace that gets past it." She put the lid down. "So there is no washing in it. There is no bathing in it. There is not a mouthful of it for anybody in this yard who is not already in my book, and the four at the top of the book are not having a mouthful of it either, they are having clean water and a great deal of my time."
 
-**The third piece was cooking, and it was the only one, and she made them take it seriously.**
+Then cooking, and it was the only one of the three she made them take seriously.
 
 "Boiled, and used for cooking only, and kept out of anybody's cup, it is the best thing we have got, and the row has been living on it for six days without anybody being worse off than they were." She put a hand up before the argument started. "I know what I am saying. I said on the seventh of the month, in this yard, that the water was making your children ill, and I was right, and I would like it on the record that I am now telling you to keep drinking it, because the arithmetic has changed and the arithmetic is the only thing I have ever respected."
 
@@ -46,19 +46,19 @@ Four or five people at the front did it, and then stopped, and one woman wiped h
 
 **The fourth piece was the arithmetic, and it took her the longest, and it was the one they did not argue with, because it was the one that could be checked by anybody in the yard with a stick and a string.**
 
-"Six thousand seven hundred gallons," she said. "Three tanks, the courtyard cistern, and every vessel in this lane, and the cistern has lost about two inches to the air since the twenty-first and it will lose another two before the month turns."
+"Six thousand seven hundred gallons," she said. "Three tanks, the courtyard cistern, and every vessel in this lane, and it is going out of them at the same fifty gallons a day it was going on the twenty-first, because nothing has happened to the weather."
 
 "That is nothing," said Old Marden. "That is a hundred days."
 
-"That is a hundred and forty days, and I will be delighted to be checked on it." She uncapped the slate. "Here is what the district needs. Not wants. Needs.
+"That is a hundred and thirty days, and I will be delighted to be checked on it. Six thousand seven hundred over fifty is a hundred and thirty-four, and I am going to say a hundred and thirty, because I do not want anybody in this yard telling me afterwards that I said a hundred and thirty-four." She uncapped the slate. "It is not a lot of days. It is a hundred and thirty days of water that four children in this lane cannot drink. Here is what the district needs. Not wants. Needs.
 
-"A child in the second stage needs four gallons a day of clean water for the pads and the hands and the mouth, and there are four of them, and they will need it for a fortnight, and the fortnight is not a number I am inventing, it is the number of days the marks stay up, and the last of the four cleared the marks on the twenty-second day, so the fortnight ends about the fourth day of the next month. That is fifty-six gallons.
+"A child in the third stage needs four gallons a day of clean water for the pads and the hands and the mouth, and there are four of them, one for each name I gave all three marks to at seven o'clock this morning, and they will need it for a fortnight, and the fortnight is not a number I am inventing, it is the number of days the marks stay up, and the last of the four cleared the marks on the twenty-second day, so the fortnight ends about the fourth day of the next month. Four gallons, four children, fourteen days. That is two hundred and twenty-four gallons.
 
-"A child in the first stage needs a gallon. There are eleven. That is eleven gallons a day.
+"A child in the second stage needs two gallons, and there are five of them, which is the rest of the nine, and two gallons is drinking and washing and nothing else. That is ten gallons a day.
 
-"The rest of this lane needs to be alive. That is a hundred and fourteen people, and I am not going to put a figure on it because I do not have one, and I have been in this row for three years and I have watched men put figures on things they have no business putting figures on.
+"The rest of this lane needs to be alive. That is a hundred and seventeen people, and I am not going to put a careful figure on it, because I do not have one, and I have been in this row for three years and I have watched men put figures on things they have no business putting figures on. What I will put down is a floor, because a floor can be argued with. Three pints a head to drink, to wash with, and to boil, and three pints a head over a hundred and seventeen people is forty-four gallons a day.
 
-"So: about seventy gallons a day of clean water, for a fortnight, to keep four children out of the fourth stage. Seventy gallons a fortnight is five hundred. Call it six hundred and be safe. Six hundred gallons."
+"Sixteen, and ten, and forty-four. That is seventy gallons a day of clean water, and a fortnight of it is nine hundred and eighty gallons. Call it a thousand and be safe. A thousand gallons, and it is the first time in twenty years I have asked a yard for a thing I could not put on a slate."
 
 She looked round the yard.
 
@@ -66,13 +66,13 @@ She looked round the yard.
 
 "That is the whole of the reason those four children are where they are. Not a mystery. A cart, twice a week, at twopence, and a woman doing arithmetic in the morning and making it come out at seventy."
 
-"We have got a hundred and forty days of cistern," said Old Marden.
+"We have got a hundred and thirty days of cistern," said Old Marden.
 
-"You have got a hundred and forty days of *that*," said Yara Sen, "and a fortnight's shortage is a fortnight's shortage whether the cistern is a third or full to the coping. Do the sum in your own head, Master Marden. I have done mine."
+"You have got a hundred and thirty days of *that*," said Yara Sen, "and a fortnight's shortage is a fortnight's shortage whether the cistern is a third or full to the coping. Do the sum in your own head, Master Marden. I have done mine."
 
 She looked round the yard again.
 
-"We have six thousand seven hundred. We have eleven times what we need, and we cannot touch one drop of it, and that is the arithmetic, and I have never in twenty years had a number that behaved like that and I do not like it, and I have stopped pretending that not liking a thing is a reason."
+"We have six thousand seven hundred and we need a thousand, which is nearly seven times the fortnight, and we cannot touch one drop of it. That is the arithmetic, and I have never in twenty years had a number that behaved like that and I do not like it, and I have stopped pretending that not liking a thing is a reason."
 
 The silence went on long enough that Wick said, "Then what is it for."
 
@@ -80,17 +80,17 @@ The silence went on long enough that Wick said, "Then what is it for."
 
 That was the question, and it took the rest of the morning.
 
-They went through it the way a crew goes through a fault, and Yara answered in the same voice she had used on them all, which is the reason any of it got done.
+They went through it the way a crew goes through a fault — one thing at a time, out loud, in front of witnesses — and Yara answered in the same voice she had used on them all, which is the reason any of it got done.
 
-*Sell it.* No. A man who sells water he cannot use is a man selling a lie, and there is no version of the sale where the buyer is not ill in a week, and a dispensary that sells sick water is not a dispensary.
+Sell it. That one took four seconds. "A man who sells water he cannot use is a man selling a lie, and there is no version of the sale where the buyer is not ill in a week, and a dispensary that sells sick water is not a dispensary."
 
-*Give it to a house on this lane that has a well.* The four households with water and a well: Roeg's butt, Marda's — she has none, Roke's mother's butt, and the dispensary's jar. Giving it to a household makes that household's water sick, and there are eleven children in this lane with marks and two of them sleep over the road from one of those four doors.
+Give it to a house on this lane that has a well. Wick counted the wells out loud from the step and got three: Roeg's butt, Roke's mother's butt, and the dispensary's jar. He started a fourth and had to be talked out of it, because Marda Ollan does not have a well and never has. That cost the yard a minute and cost Wick the room. "It makes that household's water sick," said Yara Sen, "and there are nine children in this lane with the marks and two of them sleep over the road from one of those three doors."
 
-*Run it into the ground.* And Bel Crale, from the awning, said the sentence that ended the whole line of argument: "We have been running it into the ground since the twenty-first and it is the only water in this lane, and I have watched the last dry tap on the terrace road go brackish in three days. It is not free. It is going somewhere and it is coming back up through the same ground we are standing on, and if I could put a spade in the lane I would show you, and I will put a spade in the lane, but not today."
+Run it into the ground. Bel Crale said it from under the awning, in the sentence that ended the whole line of argument: "We have been running it into the ground since the twenty-first and it is the only water in this lane, and I have watched the last dry tap on the terrace road get slower every day this week. It is not free. It is going somewhere and it is coming back up through the same ground we are standing on, and if I could put a spade in the lane I would show you, and I will put a spade in the lane, but not today."
 
-*Dig the old well.* Old Marden: "There is a well under the row that has been dry since before I was born and it is dry because of the plate, and I am eighty-one and I am not going to argue with a man about a well I have not seen."
+Dig the old well. Old Marden got as far as it and shut it down himself before anybody else could. "There is a well under the row that has been dry since before I was born and it is dry because of the plate, and I am eighty-one and I am not going to argue with a man about a well I have not seen."
 
-And then a woman at the back, whom Tarin did not know and did not ask about afterwards, said the thing that the rest of the month was built on.
+Then a woman at the back, whom Tarin did not know and did not ask about afterwards, said the thing that the rest of the month was built on.
 
 "Then it is not a cistern," she said. "It is a cistern with a hose on it. If you cannot drink it and you cannot wash in it, then it is not drinking water, it is *water*, and there are forty houses on this terrace road that have not got any."
 
@@ -144,7 +144,7 @@ The man from the Fenner district came up the cattle track at five o'clock in the
 
 He was about fifty. He said his name and it was not a name any of them had heard. He said his cistern had been dry since the second week of the month, and that he had walked four miles, and that he had heard on the terrace road that there was water in the blue steps, and that he was not asking for charity, he was asking what there was for.
 
-Tarin Rusk had a bar in his hand and the standing of a man with no office, and there was nothing whatever he could say to that, and he said it.
+The man had a bar in his hand and the standing of a man with no office, and there was nothing whatever he could say to that, and he said it.
 
 They gave him water. That was the end of the difficulty and the beginning of the difficulty: they gave him a pail of the cistern water and a pail of the pails' water and he took it away down a mile of dry track to a house that had been dry for a fortnight, because it was the only thing in four miles, and nobody in the yard said stop.
 

@@ -2,7 +2,7 @@
 
 He had made a list, and the list was the first thing he had built in a month that he believed in.
 
-It was in the blue book on two facing pages, and he had ruled the pages himself with the straight edge, because a ruled column that wanders is a document people stop believing. Left column, the name. Middle column, in his own hand, exactly what the person would be agreeing to — not what they would be *helping*, which is a word that means nothing, but what they would be answerable for. Right column, the date, and then a line ruled under it for a mark, which he had left blank on all nineteen of them.
+It was in the blue book on two facing pages, and he had ruled the pages himself with the straight edge, because a ruled column that wanders is a document people stop believing. Left column, the name. Middle column, in his own hand, exactly what the person would be agreeing to — not what they would be *helping*, which is a word that means nothing, but what they would be answerable for. Right column, the date, and then a line ruled under it for a mark, which was blank on every one of them, because a name in a left-hand column is a thing you have decided to ask a man for and not a thing he has agreed to.
 
 At the top of the left-hand page he had written the heading he meant to read out to each of them, and he had rewritten it four times.
 
@@ -84,7 +84,7 @@ Tarin wrote it and the boy's spelling of *occasionally* was wrong and he left it
 
 ---
 
-And then there was the boy of nine, who came up off the coping with his bit of chalk and asked whether he could put his name on the end of the list, and Tarin said no.
+Then there was the boy of nine, who came up off the coping with his bit of chalk and asked whether he could put his name on the end of the list, and Tarin said no.
 
 He said it quickly, and then he said it again slowly, and he said it in front of Marda Ollan and the Tall boy and, unforgivably, in front of the boy's mother, who had come out of the door at the sound of her son's name.
 
@@ -102,9 +102,9 @@ The boy's mother said, "You have been in this lane a month and you have just tol
 
 ---
 
-He was on the step outside the dispensary at dusk on the twenty-fifth with four names in a book and a fifth, the boy, in brackets with a line through it, and the book open on his knees, and he did the sum, and the sum was not the sum he had made on the cattle track.
+He was on the step outside the dispensary at dusk on the twenty-fifth with three names in a book, two more with a rule written against them, and the boy in brackets with a line through him, and the book open on his knees, and he did the sum, and the sum was not the sum he had made on the cattle track.
 
-Twenty-two households. Two had said no to the petition outright. He had asked twelve. Nine had said no to a witness, and every one of them had said it for a reason that was better than Tarin's reason for asking, and three had said yes with conditions, which is not the same thing as yes.
+Twenty-four households, and nineteen of them had said no to the petition outright, and he was not going up the lane that day to ask those nineteen a second question. He had asked eighteen in the other houses. Fifteen had said no to a witness, and every one of them had said it for a reason that was better than Tarin's reason for asking, and three had said yes with conditions, which is not the same thing as yes, and those three are the three names in the book.
 
 He wrote it up the way he would have written up a fault, because that was the only shape he had.
 
@@ -118,7 +118,7 @@ He wrote it up the way he would have written up a fault, because that was the on
 
 Then he wrote the condition, and it came out of him without his having decided to write it, which was how the true things got written.
 
-> *The condition on all four, stated five ways and not one of them by accident, is: I will not be the second hand for a route I cannot stop.*
+> *The condition on all three is the same, and I heard it five times on the way up this lane today, and not one of the five was mine: I will not be the second hand for a route I cannot stop.*
 
 And underneath it, because he had been an engineer for nineteen years and could not help the last two lines:
 
