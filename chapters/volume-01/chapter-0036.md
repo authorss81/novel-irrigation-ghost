@@ -70,7 +70,7 @@ Tarin Rusk sat on a packing case in a store above a chamber of water with eleven
 
 "And I have a rule and I have had it since the sixth of the month before and I am going to say it out loud, because I say rules out loud, which is one of the faults I have and Doctor Sen has one as well.
 
-"Nobody's memory goes on a piece of paper without their answer. And a report is a piece of paper. And so is a lease, and so is a register, and so is a plate, and so is a schedule entry, and I have a stone with a name cut on it five weeks ago and a face that has stayed blank because my hand will not seat, and a second stone a hundred and eighty-one years old under a chamber with the same blank face on it, and I am not going to be the man who writes a district out of a document and calls it procedure."
+"Nobody's memory goes on a piece of paper without their answer. And a report is a piece of paper. And so is a lease, and so is a register, and so is a plate, and so is a schedule entry, and I have a stone at the top of that lane with a name cut on it on the seventh of the month before and a face that has stayed blank because my hand will not seat, and a second stone a hundred and eighty-one years old under a chamber with the same blank face on it, and I am not going to be the man who writes a district out of a document and calls it procedure."
 
 "Would you be on the other side of the table," said Iven Marrow. "If the district had a row."
 
@@ -96,7 +96,7 @@ He did not press. He picked up the lamp and stood up, and then he sat down again
 
 He put his hand on the small book on the table and pushed it four inches across the wood towards Tarin Rusk.
 
-"That is not the counting-house," he said. "That is the bench book out of the shed at Bexhill. It is a working book. It is meant to be written in by whoever is at the bench, which is the whole of how the Guild teaches and the reason the Guild is worth anything at all. Nothing in it is restricted and nothing in it is a record and nothing in it is for sale, and I am not asking you for anything for it, and if I put it in a report you can take it back and I would deserve to be told about it.
+"That is not the counting-house," he said. That is the bench book out of the shed at Bexhill. It is a working book. It is meant to be written in by whoever is at the bench, which is the whole of how the Guild teaches and the reason the Guild is worth anything at all. Nothing in it is restricted and nothing in it is a record and nothing in it is for sale, and I am not asking you for anything for it, and if I put it in a report you can take it back and I would deserve to be told about it.
 
 "Anything I know, I will teach you in a shed. Anything I hold, I will sell you. That is the difference and I have never pretended it is a small one, and you have just spent a fortnight refusing to take the second half off a man, and you were right, and I would be a poor teacher if I could not see that you were right."
 

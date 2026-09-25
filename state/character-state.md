@@ -210,7 +210,7 @@ Lira Rusk (absent, official landslide, and four indistinguishable voices in a ch
 - **There is a cistern at the bottom end of that row, filled once in the year before the flood, never opened since, standing in the ground under eleven houses with a lid on it, and the plant is drawing off the same water it is standing in. She has asked for a man with a bar to come and look at the lid of it before anybody in that row is thirsty, and has not been answered.**
 - **Coll Preece, about 50**, four years on the plant, paid by the can, started it at twenty past three on Sunday morning with a horse out of his own pocket and told one person about it. He is not a villain and he is not the man who gave the order, and the yard knows both of those things.
 - **Nobody in this row has consented to anything. A document went up a cattle track on the 27th that will put them in a file. Chapter 41 owes them a visit.**
-- **The boy on the staging, about fifteen, never named**, has been sent home with four days' warning and his own wages in his coat, and Coll Preece held the horse himself.
+- **The boy on the staging, about fifteen, never named**, has been sent home on the Friday evening at eight with **a day and a night** of warning and his own wages for the week in Coll Preece's coat, and Coll Preece walked the horse up the mill road himself on the Saturday evening and started the plant himself at twenty past three on the Sunday. **He is owed weekly, on the staging every night since the 2nd, unpaid since the 2nd, not evidence, and the person in this batch most harmed by an office.**
 
 ## Ondra, 51 — new, and he hosts him
 
@@ -237,7 +237,7 @@ Lira Rusk (absent, official landslide, and four indistinguishable voices in a ch
 - 44. Keeps the low pump. White scar down one forearm from a cistern lid in 118. A boy of nine at the top end.
 - **Two hands, and the Chapter 6 crooked mark cut under the date on the weathered face of the marker stone, and the blank face he was not the reason for.**
 - **He refused in Chapter 10 in front of eighty people and a warden and was entirely right, and he has now refused again in Chapter 39, in front of forty people, on the pump, on the morning of the 26th — and the reason is not his hand and is not Tarin's failure. It is that the bed of the channel filling his tank is a quarter of an inch down in six hours, the water is five times what Tarin said he would put in it, there is a boy of nine drinking out of that tank and a man in a chair in the low house, and he cannot see the bottom of the channel.** *Not for a day. Not for two days. Not for you with a bar and a book, and not for a physician, and not in November.*
-- **He is the standing evidence that Glassstep has kept its own route for thirty years, and in this batch he is the one who closes it, and the pump is shut on the 26th and the 27th.**
+- **He is the standing evidence that Glassstep has kept its own route for thirty years, and in this batch he is the one who closes it. He shut the pump at seven on the morning of Saturday the 26th and keeps it shut on the 27th and the 28th.** The 26th is the day he shut it; the 27th and the 28th are the days he holds it shut.
 
 ## Bel Crale, Marda Ollan, Old Marden, Nell Drust, Coll Preece
 

@@ -14,7 +14,7 @@ He told the girl at the well-head at about eight o'clock, and he told her becaus
 
 "You can say what you like," said Coll Preece. "I have told you because there are thirty-four of you and a horse on a works that the city sealed, and if you do not know about it then somebody who should have told you did not, and I would rather you heard it from a man who fills cans than from a form."
 
-He led the horse up the mill road himself on the Friday, and at twenty past three in the morning of the twentieth he started the plant with a lamp on the beam and his own hand on the horse, because the boy had not been paid since the second and was not going out in the dark again to hold a horse for a plant that had not run for seventeen days, and he had sent him home on the Friday at eight with four days' warning in his own mouth and the boy's wages for the week in his coat.
+He led the horse up the mill road himself on the Saturday, in the evening, behind the animal, and at twenty past three in the morning of the twentieth he started the plant with a lamp on the beam and his own hand on the horse, because the boy had not been paid since the second and was not going out in the dark again to hold a horse for a plant that had not run for seventeen days, and he had sent him home on the Friday at eight with a day and a night of warning in his own mouth and the boy's wages for the week in his coat.
 
 The four-bar sweep came off its pinion at a quarter past four with a noise like a cart reversing off a bank of shingle, and the walking beam began to lift, and the pump rod went down into a bore that had been standing full since the second, and the column came up, and the rising main took it, and at about twenty to five the first of it arrived in the blue steps.
 
@@ -38,7 +38,7 @@ She boiled a pint of each of them down in a glazed jar on a ring on the step out
 
 "Both of them are salt," she said, when the ring had gone cold. "Both of them are salt enough to write with on a glazed jar and let it dry, and I have had a basin boiled down twice a week since the second of this month and it has been salt every time.
 
-"And here is what I want said in a yard. This is the eighteenth. This is this morning. Look at them. I am not going to give you a number, because I have not got an instrument that gives me a number, and I am not going to invent one to be impressive in front of nine children. Both crusts are white. The one on the right has more of it, and it has run up the glaze in a ridge where the other has not, and I would not stake a child's dinner on that with a pint and a ring and an hour's boiling in it.
+"And here is what I want said in a yard. This is the twentieth. This is this morning. Look at them. I am not going to give you a number, because I have not got an instrument that gives me a number, and I am not going to invent one to be impressive in front of eight children. Both crusts are white. The one on the right has more of it, and it has run up the glaze in a ridge where the other has not, and I would not stake a child's dinner on that with a pint and a ring and an hour's boiling in it.
 
 "What I will stake a child's dinner on is this. Four days ago, on the sixteenth, I stood in this yard and told a hundred and forty people that the salt in this tank is not being used up, it is being left, because the water goes out of the top of it fifty gallons a day and the sun takes the water and not the salt. And I told them that a fortnight of that is a fortnight of a tank getting stronger, and that on the ninth it was one thing and on the sixteenth it was a different thing out of the same hole.
 
@@ -122,7 +122,7 @@ She looked at the pads of the index and middle fingers and the web between them 
 
 "It is four," she said, "and it has not gone down since this morning, and that is the finding. Not that she is worse. That she is not better. A mark that is not going away is a mark that has stopped being an early thing and started being part of a child, and I have not got a word in this basin for what comes after that, and I am not going to invent one for a room.
 
-"And I have got one thing to say about the window and I am going to say it now. She will ask again. She asked three times today and she will ask tomorrow and she may ask for a month, and that is the fourth thing this sickness does and it is not the last, and it does not come back by itself. She needs to be able to find that door in the dark, and so do you, and so does every other person in that house, and I am going to give you three things to say to her and I am going to say them twice, and I am going to make you say the third one back to me before you leave this room."
+And I have got one thing to say about the window and I am going to say it now. She will ask again. She asked three times today and she will ask tomorrow and she may ask for a month, and that is the fourth thing this sickness does and it is not the last, and it does not come back by itself. She needs to be able to find that door in the dark, and so do you, and so does every other person in that house, and I am going to give you three things to say to her and I am going to say them twice, and I am going to make you say the third one back to me before you leave this room."
 
 She said the three things. The third one was the name of the step outside the door.
 

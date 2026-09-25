@@ -71,7 +71,7 @@ Tarin Rusk had been standing at the wall since eleven and had not said anything,
 > *5. I cannot make water come to this district. There is no head I can increase, no gate I have authority to open, and the only supply this district has had since the first of this month has been the discharge of a plant on a works two miles up the mill road, and that plant is a contractor's, and it has been stopped by a person I have not met, and I do not know whether it will be started again.*
 > *6. I have a record stone at the low pump with one name cut on it and one face blank, and I cannot cut the blank one, and I have not cut it in a month. I have asked four people in this lane to put a hand on a route and all four of them said no, and I wrote down every one of their reasons at the time, and I still think three of them were right, and I am not going to argue with the fourth either.*
 
-He read it out. Then he signed it, at the foot, on the step, in front of a hundred and forty people, and it was the first document he had signed since the tenth day of the month and it was thirty-six days.
+He read it out. Then he signed it, at the foot, on the step, in front of a hundred and forty people, and it was the first document he had signed since the tenth day of the month, when they stood him down, and it was signed in a yard.
 
 Pell took it, and read it, and put it in the satchel with the letter, and did not ask for it back, and did not offer to certify it, and said:
 

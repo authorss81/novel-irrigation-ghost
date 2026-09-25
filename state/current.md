@@ -1,6 +1,11 @@
 # Current State
 
-Current phase: **Volume 01 Batch 0004 complete.** Chapters 31–40 are written. The next writing job is Chapters 41–50 (Batch 0005), whose prompt is at `workspace/volume-01/batch-0005/PROMPT.md`.
+Current phase: **Volume 01 Batch 0004 complete and reviewed.** Chapters 31–40 are written and the review in `logs/batch-0004.review.log` has been applied in full: **sixteen findings, fifteen real and fixed, one checked and found not to be a fault.** The next writing job is Chapters 41–50 (Batch 0005), whose prompt is at `workspace/volume-01/batch-0005/PROMPT.md` and which now carries the two new hard mechanics below.
+
+**TWO THINGS CHANGED ON THE PAGE IN THE REVIEW-FIX PASS AND BOTH ARE CANON. Do not write around either of them.**
+
+1. **The cistern has two histories and both are true.** It stood at **4,700 gallons, at the lip, on the night of the 2nd**, at **1,950 on the evening of the 9th** and at **950 on the evening of the 14th**, so it lost **3,750 gallons in twelve days**. The yard's own 120 a day accounts for **1,440**; the other **2,310 went out of the gate of the yard in strangers' pails at sixpence a gallon**, and there is no keeper's book for it. **Yara's sworn claim is narrowed to what she can account for, Niko cannot finish the sum in a yard on the 18th, and Marda finishes the other half in a yard on the 21st.** A hundred and twenty a day is the whole of the outflow **from the 14th onward**, which is why the 14th-to-19th ledger is exact. **A cistern with no keeper is now the volume's central unmeasured fact, not an arithmetic error.**
+2. **One day count, and two other counts that are not it.** Days of no delivery are the 3rd to the 19th: **seventeen.** So thirteen on the 16th, fourteen on the 17th, seventeen on the 20th. The **supply** count from the 1st is a different number (sixteen on the 16th, seventeen on the 17th) and the return's **twenty days is a third thing, the ration period.** None of the three is interchangeable.
 
 Current volume: 1
 
@@ -40,7 +45,7 @@ Next-volume question: **the Guild's half is planted and unanswered.** Iven Marro
 
 **4. The dates.** **A district examination on the twelfth day of next month. The midsummer ration review on the fifteenth day of next month.** The examiner is coming to a lane whose request for an examination is in a bag on a cart with somebody else's refusal to sign on it. **The settlement at Ashgate does not know any of this is going on.**
 
-**5. The paper.** Pell's condition, Tarin's engineer's statement, the Office's reply of the 16th, the return of supervision of the 21st, Yara Sen's statement of the 21st, the district's request of the 27th, and Averell's minute that a Guild team was on the works. **The only office that can act on any of it is the office whose signature is on the certificates, and the person who signed them does not know it is there.** Roe is not threatened, not confronted, and is not removed in Movement V.
+**5. The paper.** Pell's condition, Tarin's engineer's statement, the Office's reply of the 16th, the return of supervision of the 21st, Yara Sen's statement of the 21st, the Office's reply of the **26th** carrying the empty *matters wished examined* box, the district's request of the 27th, and Averell's minute that a Guild team was on the works. **The only office that can act on any of it is the office whose signature is on the certificates, and the person who signed them does not know it is there.** Roe is not threatened, not confronted, and is not removed in Movement V.
 
 **6. The box.** A route record needs a named route, a documented source, a witness and a date. **The date passed on the 22nd and is accepted. The source is a schedule reference and a chamber. The witness cannot be found. The keeper has not been asked.** The warden's return has five printed boxes: **two filled** (*row number* as *none held*, and *tanks*) and **three empty** (*keeper*, *gallons*, *last serviced*), the keeper box reading *keeper, none held* in a fair hand. And there is now a **sixth** document, the district's request, which asks for an examination and **explicitly does not ask for a schedule, a route, water, a keeper, or a charge being dropped**, and which somebody is going to read as a request for all five.
 

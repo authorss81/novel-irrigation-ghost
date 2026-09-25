@@ -48,7 +48,7 @@ He unfolded it.
 
 There is no box headed *time* on a warden's form, and Pell said once in a yard on Tuesday that it was the only box he had ever wanted in one, and there is no box headed *cause* on a warden's form either, and the cause had been on this one since about half past four in the afternoon of the sixteenth day of this month, printed on the paper of a man's office four miles away, in a hand that did not hurry, and it said that the plant was not running.
 
-Nobody in the yard said anything for a while. A hundred and forty people and a pump that had not run for fourteen days and a well that had never been tested and thirty-four people on top of a chamber, and the cause of it was a shut plant, and the shut plant was correct, and somebody was right, and it was not any of them.
+Nobody in the yard said anything for a while. A hundred and forty people and a pump that had not run for thirteen days and a well that had never been tested and thirty-four people on top of a chamber, and the cause of it was a shut plant, and the shut plant was correct, and somebody was right, and it was not any of them.
 
 Then Old Marden, from his own step, in the voice of a man of eighty-one:
 
@@ -88,13 +88,13 @@ She came back to it at about half past five with the sun off the coping, and it 
 
 "Here is what happens when a stopped pump is started again. I have been asked by three people this week what happens if that plant starts up. I have the answer to two thirds of it, I have a gap on the third, and I am going to give you the two thirds and say plainly where the gap is.
 
-"First. A plant stopped under a head for fourteen days is not an empty pipe. Every inch of that rising main and of the covered channel that comes down this terrace has been standing full and still for a fortnight, and the first water out of it is the water that has been lying in the pipe, and that water is the worst of it. Not a different water. The same water, standing, in an iron main, in a heat like this. Everything that has come off the inside of a pipe in a fortnight comes off it at once when you start moving it again.
+"First. A plant stopped under a head for thirteen days is not an empty pipe. Every inch of that rising main and of the covered channel that comes down this terrace has been standing full and still since the night of the second, and the first water out of it is the water that has been lying in the pipe, and that water is the worst of it. Not a different water. The same water, standing, in an iron main, in a heat like this. Everything that has come off the inside of a pipe in thirteen days comes off it at once when you start moving it again.
 
 "Second, and this is the one that matters for the ninth and the sixteenth and the twenty-second. I am going to say it as arithmetic and not as a feeling, because I have no instrument for it and I am not going to pretend I have one.
 
 > *The tank in this yard loses a hundred and twenty gallons a day and every drop of that hundred and twenty is water. Seventy goes out of the door and fifty goes off the surface. The seventy carries with it whatever is dissolved in it, because a child drinking it drinks the whole of it. The fifty carries nothing, because the sun takes the water and leaves the salt where it is standing.*
 
-"So the salt in that tank is not being used up, it is being left, and a fortnight of that is not a fortnight of the same water. It is a fortnight of a tank getting stronger. On the ninth it was one thing. On the sixteenth it is a different thing out of the same hole. And nobody in this lane has ever tasted them side by side, because there has never been a second sample of anything in this district in thirty years."
+"So the salt in that tank is not being used up, it is being left, and thirteen days of that is not thirteen days of the same water. It is a tank getting stronger, day on day, out of the same hole. On the ninth it was one thing. On the sixteenth it is a different thing. And nobody in this lane has ever tasted them side by side, because there has never been a second sample of anything in this district in thirty years."
 
 She stopped, and picked up the slate, and put it down again without writing on it, which was a thing Tarin Rusk noticed and Hanne Roeg noticed and nobody else did.
 
@@ -126,7 +126,7 @@ Yara Sen had the chalk in her hand and did not put it down for about four second
 
 Yara Sen looked at the fourth column of the book, and then went back three lines with her thumb, and then went back three lines again from the other end, and then shut it, and held it against her chest with both arms, and stood in a yard in a lane of a hundred and twenty-six people and did not say anything for long enough that somebody at the back said *well?*
 
-"Then I have had five in that column who was four," she said. "Since the twenty-eighth. The sixth day. The ninth. The sixteenth. Four times, in my hand, on four days, with the same four children and me, and one of them has been in it since the spring with lime in the water of a hard spring, and the reason she is in it is that she is a child with bad hands and I have been counting bad hands."
+"Then I have had five in that column at two points," she said. "Since the twenty-eighth. The sixth day. The ninth. The sixteenth. Four times, in my hand, on four days, with the same four children and me, and one of them has been in it since the spring with lime in the water of a hard spring, and the reason she is in it is that she is a child with bad hands and I have been counting bad hands."
 
 Somebody said, "It is only one."
 

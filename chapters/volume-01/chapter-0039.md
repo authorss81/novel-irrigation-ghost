@@ -10,7 +10,7 @@ He got the blue book out at about eleven and put it on his knee and went through
 > *Well at the row, 8th: 6 gal in 3 min 30 sec = 103 gal/hr, twice, never tested, no instrument in this basin that would test it. Well at the row, 20th: 6 gal in 5 min 20 sec = 68 gal/hr, and grit in the bottom of the pail.*
 > *Two certificates in a deal box in the store at the works, in the acting commissioner's hand, certifying the chamber void at decommissioning and four years ago, with *maintained* under the second. Thirty yards from a board reading 5·9.*
 > *Return of supervision, 21st. Immediate cause, a plant resumed at 20:20 on the twentieth without instruction. No man named. No measurement named.*
-> *Physician's statement, 21st. Two pages, a jar, and a corrected sum: 4 at 4 = 16, 4 at 2 = 8, 118 at 3 pints = 44. Sixty-eight a day, and it was seventy for three weeks and it was mine.*
+> *Physician's statement, 21st. Two pages, a jar, and a corrected sum: 4 at 4 gal = 16, 4 at 2 gal = 8, 118 at 3 pints = 44. Sixty-eight a day, and it was seventy for three weeks and it was mine.*
 > *Guild team at the works, 22nd to the 24th. Their report names the works. It does not name the district. Offered on the 23rd: a place, a wage below mine, the counting-house, a bench at Bexhill. Price: the blue steps is not in the report. Refused.*
 
 He read it and shut it and sat in the dark with his hands on the covers, and the thing that came up out of him at half past one in the morning on the Saturday was the one he had been not-thinking since Thursday.
@@ -157,7 +157,7 @@ He looked at the ground for a while.
 
 "Right," he said. "I am going to say two things and then I am going to open the low house and get the flags up, because they will be under water again before the end of the week and there is nothing else for anybody to do.
 
-"The first is that I have had four men through that door this month and three of them wanted something. One came with a rope on the first and I would have had him in my house till the sun came up, and that is the same man who took my door frame off its hinges and stood it in my yard, and I have not forgiven him and I am not going to, and it is Wick Venn, and it does not make us even. One came on the fifth with a lamp and he was right to be on my hill. And the one that went up at half past three this morning and did not knock came down at ten past four in a lane where I have not slept since the sixth of the month before, and he went away again with nothing.
+"The first is that I have had four men through that door this month and three of them wanted something. One came with a rope on the first and I would have had him in my house till the sun came up, and that is the same man who took my door frame off its hinges and stood it in my yard, and I have not forgiven him and I am not going to, and it is Wick Venn, and it does not make us even. One came on the fifth with a lamp and he was right to be on my hill. And the one that went up at half past three this morning and did not knock came down at ten past four in a lane where I have not slept since the thirtieth of the month before, and he went away again with nothing.
 
 "And the second is the one I have been turning over since six o'clock this morning with a lamp in my hand instead of a bar, and I am going to say it plainly because I have not got the way round it and I am fifty-one.
 

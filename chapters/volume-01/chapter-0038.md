@@ -54,7 +54,7 @@ Mara Quill looked at the table for about three seconds.
 
 "In eleven years I have never had a person from that office sit at my bench and hand me a figure I did not have to check. I have had two. One of them is a woman who does the fenner returns and who is not here. The other one was him, on the eleventh, and he put a corrected figure in a public register in the same hand in the same book, with a note that it was so entered at the applicant's correction, applicant present, and he asked for that, and I want the chair to understand that no clerk in nineteen years had ever done it for anybody. He did it because he had worked out that a register is read by comparing its lines, and a line that has been struck with nothing beside it is a line nobody can check.
 
-"And he filed his own certificate and refused to have mine transcribe the reference, and he put three names on the desk list and not one on the document, and he wrote six numbered paragraphs and signed them on the fifteenth of this month in a yard in front of a hundred and forty people, which is the first thing he has signed in forty-five days, and I have read all six, and four of them are against his own interest, and I would like the chair to have that in the record as well as the rest of it."
+"And he filed his own certificate and refused to have mine transcribe the reference, and he put three names on the desk list and not one on the document, and he wrote six numbered paragraphs and signed them on the fifteenth of this month in a yard in front of a hundred and forty people, which is the first document he has signed since the tenth of this month, when he was stood down, and I have read all six, and four of them are against his own interest, and I would like the chair to have that in the record as well as the rest of it."
 
 "And the second part," said Averell.
 
@@ -62,7 +62,7 @@ Mara Quill looked at the table for about three seconds.
 
 "Miss Quill—"
 
-"Consultation thirty-four," said Mara Quill. "Register of restricted consultations, quarter, folio eleven, the eleventh day of this month, nine o'clock until twenty past one. Purpose, eleven words, and then a remark in which the applicant stated that the purpose was had for a district, and the clerk asked for the district's name and its number of houses and its number of persons, because a name in a register with nothing under it is a thing people say is a joke.
+"Consultation thirty-four," said Mara Quill. "Register of restricted consultations, quarter, against folio eleven of the Ashgate intake maintenance series, the eleventh day of this month, ten o'clock until twenty past one. Purpose, eleven words, and then a remark in which the applicant stated that the purpose was had for a district, and the clerk asked for the district's name and its number of houses and its number of persons, because a name in a register with nothing under it is a thing people say is a joke.
 
 "He said twenty-four houses and one hundred and nineteen persons. The count is twenty-four and one hundred and twenty-six. It was taken on a slate on the twenty-second by the district itself, by door, by a woman who had made herself the easiest person in the row to find on purpose. The one hundred and nineteen is not a clerical error. It is the number a man says about a place that is not on a sheet, and he had it in his mouth before he had the true one in his mouth, in a public room, with a clerk waiting, and he did not know he had done it until I read it back to him.
 
