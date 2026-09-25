@@ -4,6 +4,15 @@ Chapter range: 1–10
 
 Expected length: 25,000–32,000 words across ten complete scenes. This is a budget for pacing, not a quota. Never pad, and never cut a finished scene short to hit the number.
 
+## Batch shape
+
+- **Beginning (Ch 1–3, Day 1):** Ordinary competence, a forced gate, water that runs uphill, and a concealed decision. The protagonist's skill carries the opening; the water is not his doing and the district it reaches is his childhood.
+- **Setup (Ch 4, Day 2):** A second professional finds the paperwork crime from the other end of the same file.
+- **Midpoint (Ch 5, Day 6):** The two are locked in one room, each holding half of a physical fact. The Gauge speaks for the first time and asks for a witness. Antagonism becomes reluctant respect.
+- **Escalation (Ch 6–9, Days 7–10):** The branch is named and opened, the water makes three children sick, the first name debt falls, the substitution pattern reaches Glassstep, and the man who falsified the log builds a case out of Tarin's own work. Pressure rotates through consequence, investigation, cost, and politics rather than repeating a chase.
+- **Climax (Ch 10, Day 20):** The naming in public, a witness who walks away, eleven hours of water, and a formal charge the same afternoon.
+- **Aftermath (close of Ch 10):** The branch keeps running for nine hours after the warden's men remove him and stops at 03:00 with nobody in it. The route was never his property. See *Aftermath and handoff state* below.
+
 ## Batch goal
 
 Prove the series promise in ten chapters: the drought is a lie about infrastructure rather than a natural failure, the power is real but cannot create water, and Tarin's competence is what makes the first miracle survivable. Establish the Standing Ration deadline, the Ashgate anomaly, Glassstep as a living unlisted district, the Gauge's limits, the Tarin–Mara friction, one small victory, and one permanent cost.
@@ -340,3 +349,26 @@ The collective voice of the ghost is **not** on this list. The crowd in the Gaug
 **Ending type:** cost
 
 **Next-chapter pull:** Warden's men carry Tarin out of the courtyard at dusk. The branch keeps running for nine hours after they do — and stops at three in the morning on its own, with nobody standing in it. The route was never his property, and nothing he did in Chapter 6 gives him the right to open it twice.
+
+## Aftermath and handoff state
+
+The batch ends inside Chapter 10's night, not after the last ember of it. This is the fixed starting position for Batch 0002 (Chapters 11–20), which opens on the morning of Day 21.
+
+### Where the world stands
+
+- **The branch:** Running since 16:00 on Day 20, due to end at 03:00 on Day 21. Warden's entry is dated and timed, so the window is on paper before it is over. It stops on its own, unstaffed. It does not stop because Tarin was carried out, and it does not come back when he asks for another one.
+- **Tarin:** Carried out of the courtyard at dusk on Day 20 and formally charged with tampering with city records the same afternoon. Suspended. No desk, no reference, no access to the lower terrace. He keeps his notebook and his tools. He has lost a practiced hand motion and the taste of his tea, and he cannot re-cut a record stone the way he cut the first one. He has no method for finding another witness and no way to buy one.
+- **Glassstep:** Eleven hours of water, three children recovering from early salt fever, and cisterns that empty on Day 21. A record stone beside the low pump now carries a name, a date, and a witness signature. Nothing else has changed: no legal existence, no route right, no budget, and a plate still bolted under the row.
+- **Mara:** Holds a hand-drawn provenance map of the substitution pattern, unregistered and alone, with a restricted-handling decision approaching that she does not yet know the date of. She has not told Tarin, and Tarin has not asked.
+- **Halden Roe:** Still acting commissioner. His file on Tarin is complete, formal, and correct enough to hold. He has won the first exchange and does not yet know what he is standing next to.
+- **Yara Sen:** Holds a written account of illness caused by a route opened without a full legitimacy condition, and three patients who will need follow-up she cannot fund. She does not stop treating on Tarin's account.
+- **Niko Venn:** Knows a descent to the works that no survey records. He has not been asked to take it and has not offered.
+- **The city's position:** A district that no official document admits exists received water from a sealed reservoir for eleven hours, by a named engineer's hand, under an open charge for falsifying that reservoir's records. The lower terrace knows. The Water Office knows. The Basin Assembly has not been told, and the posted midsummer review is two days out and will slip.
+
+### What the next batch must open with
+
+- **Ch 11 opens on the morning of Day 21:** the branch stopped, the cisterns empty, the stand-down signed. The suspension is the first fact on the page, and it is administrative before it is dramatic.
+- **The window cannot simply be repeated.** The batch's problem is that one opening did not make the route his. He has to find a person willing to stand on a stone again, and being right about hydraulics is not a way to persuade anyone.
+- **Roe's lie is not yet in danger.** The charge is the only thing currently moving, and it is moving against Tarin. Nobody in the city is currently asking who removed the pressure figure.
+- **The mystery stays behind the arithmetic.** The three questions that matter are the plate, the substituted leaf, and the hand Mara recognised. None of them is answered by anything Tarin can do to a gate.
+- **The collective voice stays unconfirmed.** No character may name the crowd, and no batch outline may state what it is. Held for Chapter 24.

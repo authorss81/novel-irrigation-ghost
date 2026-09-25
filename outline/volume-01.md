@@ -105,7 +105,7 @@ A Guild inspection team arrives. Iven Marrow offers Tarin work, access, and the 
 
 Tarin's old flood closure — the one that saved the riverside hospital and trapped people in a lower courtyard — is raised against him at an internal hearing as evidence that he cannot be trusted with a route. Mara testifies about his competence and is asked, by Tarin's own advocate, whether his judgment is sound. She answers honestly and it costs him.
 
-The movement's real turn is a refusal. Desperate for a clean anchor, Tarin considers using a Glassstep resident's private memory of the breach. He does not. The route splits, the pressure is lost, and Glassstep's pump fails for two days while the family that hosted him keeps his tools fed and tells him plainly that he was right not to use it. The refusal costs the volume its convenient solution and buys the trust the ending will require.
+The movement's real turn is a refusal, in Chapter 39. Desperate for a clean anchor, Tarin considers using a Glassstep resident's private memory of the breach. He does not. The route splits, the pressure is lost, and Glassstep's pump fails for two days while the family that hosted him keeps his tools fed and tells him plainly that he was right not to use it. The refusal costs the volume its convenient solution and buys the trust the ending will require. Chapters 6 and 10 must already have shown the pattern, so the refusal reads as a rule he lives by rather than a rule the plot introduces.
 
 ### Movement V — One Name, One Window (Ch 41–50)
 
