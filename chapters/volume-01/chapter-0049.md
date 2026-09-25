@@ -1,10 +1,10 @@
 # Chapter 0049 — The Same Eleven Hours
 
-They came up out of the rain into the arch about nine hundred strong, and by a quarter past three there was nowhere left to stand. Oriel Fenn opened the book on the folding table at four minutes to four, asked whether the street could hear him, was told *go on*, and read the entry for the fourteenth day of this month out in full, which took eleven minutes and included a wet yard, a count of four thousand one hundred and eighty gallons, and a man's name, and then read the ninety-first hour of the book backwards, which is a thing minute clerks do, and said the date aloud four times, in the way of a man putting a mark in a book.
+They came up out of the rain into the arch about nine hundred strong, and by a quarter past three there was nowhere left to stand. Oriel Fenn opened the book on the folding table at about ten past three, asked whether the street could hear him, was told *go on*, and read the entry for the fourteenth day of this month out in full, which took eleven minutes and included a wet yard, a count of four thousand one hundred and eighty gallons, and a man's name, and then read the ninety-first hour of the book backwards, which is a thing minute clerks do, and said the date aloud four times, in the way of a man putting a mark in a book.
 
 Then he read the figure into the record, because Alderman Tarrant had entered at the previous sitting that it should be read at the opening, and he read it as a number, twice, and did not read anything under it.
 
-"Sixty-eight gallons a day," said Oriel Fenn. "The column in the midsummer return for that district stands empty and under it stands the reason, and the reason is in the record, and the figure is in the record, and I am instructed by the chair to read the figure and not the column, and I have done so, and it is now the fourteenth time it has been said in a document in this city and the first time it has been said in one that anybody chose to write down on purpose."
+"Sixty-eight gallons a day," said Oriel Fenn. "The column in the midsummer return for that district stands empty and under it stands the reason, and the reason is in the record, and the figure is in the record, and I am instructed by the chair to read the figure and not the column, and I have done so, and it is now the fourteenth time it has been said in a document in this city, and the first of those fourteen that was not written down because a person wanted something out of the woman who said it."
 
 And then Coll Preece stood up in the middle of the street.
 
@@ -14,7 +14,7 @@ He had come down the mill road at ten o'clock in the morning with a horse and a 
 
 "I am not refusing the water.
 
-I have carried that water a hundred and forty yards and set it in a yard a hundred and forty times in four years and I have never once asked where it goes and I am not going to start now. I stopped that pump at six o'clock this morning because I said in a document I wrote in my own hand that I would, and I would like it read that I have not been paid since the second of the month and that I have not been paid for stopping it, and that there is a boy of fifteen on a staging on that hill who has not had a wage since the second either, and that I sent him down the hill once already with a day and a night's warning and his own week's money out of my own coat, and that I am not going to do it a second time for this city.
+"I have carried that water a hundred and forty yards and set it in a yard a hundred and forty times in four years and I have never once asked where it goes and I am not going to start now. I stopped that pump at six o'clock this morning because I said in a document I wrote in my own hand that I would, and I would like it read that I have not been paid since the second of the month and that I have not been paid for stopping it, and that there is a boy of fifteen on a staging on that hill who has not had a wage since the second either, and that I sent him down the hill once already with a day and a night's warning and his own week's money out of my own coat, and that I am not going to do it a second time for this city.
 
 "And I would like the first line read as well, and the second, and I would like a man from that table to read the whole of it, because I cannot read and I want to know what is being said about me in a book that is in four buildings tomorrow."
 
@@ -40,13 +40,13 @@ And then he said his rule, out loud, for the third time in six weeks, in a stree
 
 "The rule is about memory. Not about wood. It says that a thing nobody agreed to is a thing nobody is answerable for, and a private thing written on paper is a thing that a person can be held to for the rest of their life without ever having been asked, and that is true and I would not have anybody in this street unlearn it in one afternoon.
 
-But it is a rule about *memory*, and there is not one person's memory in this arch. Not mine and not Hanne Roeg's and not on the slate in Nell Drust's hand. There is a piece of oak sixteen inches long that a man planed in his own kitchen for nothing, a pin in a hole in the end of it, a setting found on the twenty-first of the month before with a pail and a watch in a yard and a warden writing, a number, a division, and six named people on a printed list who were each asked and each told what they were agreeing to, and one man of them who was not asked and has stood up in this street and read his own refusal out twice.
+"But it is a rule about *memory*, and there is not one person's memory in this arch. Not mine and not Hanne Roeg's and not on the slate in Nell Drust's hand. There is a piece of oak sixteen inches long that a man planed in his own kitchen for nothing, a pin in a hole in the end of it, a setting found on the twenty-first of the month before with a pail and a watch in a yard and a warden writing, a number, a division, and six named people on a printed list who were each asked and each told what they were agreeing to, and one man of them who was not asked and has stood up in this street and read his own refusal out twice.
 
-That is a piece of paper. It has got nobody's memory on it. A clerk is writing down what nine hundred people have said in the open this afternoon and he is reading it back at them as he goes, and tomorrow it is in four buildings and any person may come and stand where I am standing and read it and check every figure on the board against every figure in the book.
+"That is a piece of paper. It has got nobody's memory on it. A clerk is writing down what nine hundred people have said in the open this afternoon and he is reading it back at them as he goes, and tomorrow it is in four buildings and any person may come and stand where I am standing and read it and check every figure on the board against every figure in the book.
 
 "I have not known the difference between those two things until about a week ago. I have been wrong about it in a lane and I have been told I was right about it by a landlord who cannot read, and I have not told either of those men what I have learned this week, because one of them cannot hear it and the other one is seventy-one and does not make promises in the dark."
 
-He knelt down at the stop-gate and got the log out of the groove and turned it so the notch in the end grain was at the top, where Oriel Fenn could see it from four feet away with the lamp, and a man of twenty-two held the lamp over it and did not put it down for eleven minutes.
+He knelt down at the stop-gate and picked the log up off the flags where it had lain since the night before, with the pin beside it, and turned it so the notch in the end grain was at the top, where Oriel Fenn could see it from four feet away with the lamp, and a man of twenty-two held the lamp over it and did not put it down for eleven minutes.
 
 "That is the notch," said Tarin Rusk. "The pin made that on the twenty-first day of the month before and nobody has touched it since. The same oak, the same groove, the same pin, the same hole, the same setting. Six hundred and ten gallons an hour. I am not improving on any of it and I am not adding to it."
 
@@ -54,7 +54,7 @@ He set the log, put the pin through, and drove it with the heel of his hand and 
 
 ---
 
-The water came into the yard cistern at a hand's width every ten minutes, and about nine hundred people watched a tank in a lane that is on no map in this city fill at a rate that a boy with a stick and a piece of chalk could check, and the cistern has a line cut round its coping and a date beside it and it came up to the line at about ten o'clock and to the lip at a quarter past eleven, and nobody had to be told anything.
+The water came into the yard cistern at a hand's width every ten minutes, and about nine hundred people watched a tank in a lane that is on no map in this city fill at a rate that a boy with a stick and a piece of chalk could check, and there is a line cut round that cistern an inch under the coping with a date cut beside it, and it came up to the line at about half past ten and to the coping at about twenty to twelve, and nobody had to be told anything, and the two thousand gallons that were left over went into the three tanks and into thirty-eight pails and were still going in at three o'clock in the morning.
 
 Niko Venn's chalk went on the coping every ten minutes from four o'clock, and he could not read, and he read the figures out to the woman from the top end with the slate, and she wrote them, and the two of them had done that on and off since the ninth day of the month before, and about four hundred people in that arch watched a boy with a stick become the only instrument in the district, and none of them said a word about it and a physician had said in a yard that he was not one.
 
@@ -82,13 +82,13 @@ Oriel Fenn read the two sheets of the twelfth day of this month out again in the
 
 "I am not going to sit in a street and decide whether a man altered two sheets of paper," said the chair. "That is not a chair's job and I have no more power over a person in this arch than Mr Trevail had on Tuesday, and I want that said in this record because in a month somebody will say that a chair of this Assembly convicted the acting water commissioner of forgery in a street at midnight, and I did not, and I would not have done it if I could.
 
-"What I am going to do is the only thing a chair can do. I am going to read two documents into one record and ask whether they can both be true, and they cannot, and that is not a judgment about a man. That is arithmetic.
+"What I am going to do is the only thing a chair can do. I am going to read two documents into one record and ask whether they can both be true, and they cannot, and that is not a judgment about a man. That is arithmetic."
 
 A certificate of condition says the chamber at the end of that adit is void, that there is no residual head, and that there is no standing water. A finding of a district examiner, made on Tuesday, with a warrant and two instruments and a minute clerk of this Assembly, says that chamber carries eleven feet and one inch of standing water above the ground at the door of those works, and that it has not moved in four months.
 
 Tarin Rusk asked for the floor to be given to him for two minutes and Oriel Fenn gave it to him, and the arch listened while a man with no authority read four lines off the back of a ward notice onto a board that was still standing in the road.
 
-"I am not going to argue with a certificate," he said. "I am going to put a number beside it. That gate at the top of the mill road is shut and chained and it has five point eight nine metres of head behind it. In Office notation that figure is 5·89, and it is on a document I signed six days ago in a yard in front of a hundred and forty people, and that document went past the office of the acting commissioner. The contractors' own board in the store at that works has read 5·9 in their own hand for two years, and a Guild surveyor wrote on the fourteenth that the plate in that store is of a larger bore than the plate it replaced, and that the board is a day-book and not an instrument.
+"I am not going to argue with a certificate," he said. "I am going to put a number beside it. That gate at the top of the mill road is shut and chained and it has five point eight nine metres of head behind it. In Office notation that figure is 5·89, and it is on a document I signed on the fifteenth day of the month before, in a yard, in front of a hundred and forty people, and that document went past the office of the acting commissioner. The contractors' own board in the store at that works has read 5·9 in their own hand for two years, and a Guild surveyor wrote on the fourteenth that the plate in that store is of a larger bore than the plate it replaced, and that the board is a day-book and not an instrument.
 
 "And I am going to say the two other numbers, because they are the whole of what this afternoon is about. A gauge plate of a bigger bore reads a bigger number, and a man paid by the can writes down what the plate says, and that is a true sentence and it is in a return anybody can buy for a penny. And there is no bore in a certificate. A certificate is a document, and a document takes a hand and a decision and a reason.
 
@@ -108,6 +108,27 @@ Nobody asked the acting commissioner anything, because about two hundred people 
 
 "Entered," said Oriel Fenn, "in those words."
 
-And that is the whole of the fall of Halden Roe, of the acting water commissioner of the city of Cresset: a certificate, and a chamber, and a man who did not go down.
+Then the chair did the only other thing a chair can do, which is to write to somebody.
+
+He said it in the street, with about two hundred people in it and a clerk's pen going, and he said it twice, because he wanted it in the book in his own words and not improved on.
+
+"Clerk. Enter that, at about half past eleven on the night of the fifteenth, I, being a member of this Assembly and a member of the council of this city, do requisition the commissioners of water and channels to determine the appointment of Halden Roe, acting commissioner, held under a temporary instrument, upon the two documents this chair has just read into this record; and enter that it has gone by the boy on the horse at the second gatehouse; and enter, because I am going to be asked, that I am not suspending him, because I have no such power and have said so twice tonight, and that a requisition is not a suspension and a suspension is not a removal, and that he is out of that office the moment the instrument is determined and not one minute before; and enter that nobody in this street is to go home tonight and say that a chair of this Assembly put a man out of his office in the rain."
+
+"Entered," said Oriel Fenn, "in those words, and I am going to read them back twice."
+
+He read them back twice, and about a hundred people who had been getting their coats out of the rain stayed where they were, and that was the whole of the crowd's decision, and it took about four minutes.
+
+The answer came back at twenty past two in the morning, on the back of the requisition, in a clerk's hand and not in the commissioner's, and Oriel Fenn read it into the street to the forty-odd people still standing there, and read it again at four, because by four there were a hundred and twenty of them and a lamp and a bench.
+
+> *Commissioners of water and channels, in session upon a requisition by the standing rule, sixteenth day of this month.*
+> *1. That the appointment of Halden Roe, acting commissioner, be determined, and that he be not re-appointed, and that the office stand vacant from the hour of the requisition and from no other hour.*
+> *2. That the two certificates be delivered to the registrar, and that the said Halden Roe be not discharged from the service of this city, and be required to remain at the disposal of any person having a lawful authority to take his account of them.*
+> *3. That nothing in this determination is a finding of any offence against any person, and that no person is charged by it, and that the said Halden Roe is a competent witness and not a relieved one.*
+
+"Then it is at half past eleven," said Oriel Fenn.
+
+"No," said the chair. "It is at half past eleven tonight, in a book in a building, on the back of a piece of paper a boy carried down four miles in the rain, and a man of forty-four is standing in a wet coat in a street at four in the morning who is out of his office and is not out of his city, and I have not in nineteen years in this Assembly seen that done by arithmetic, and I am not going to stand here and pretend to anybody that I liked doing it."
+
+And that is the whole of the fall of Halden Roe, of the acting water commissioner of the city of Cresset: a certificate, and a chamber, and a man who did not go down, and a sheet of paper that took two hours and fifty minutes to go four miles and come back.
 
 The route was named in the record at ten minutes to four in the afternoon, and the name is in the book, and it is *Glassstep low pump branch*, and it is the last name cut into anything in this city in six years, and it was cut with a pen into a transcript by a minute clerk of the Basin Assembly at the arch in the blue steps, and it is in four buildings, and there is no version of the next eleven minutes of that book that anybody can get it out of, and Tarin Rusk stood in the road at three o'clock in the morning in a lane with nine inches of water in it and knew that, and had known it since about two o'clock, and did not go to bed.

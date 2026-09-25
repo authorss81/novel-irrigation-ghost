@@ -36,7 +36,7 @@ Then Old Marden said, from about the middle, in a voice that carried without him
 
 ---
 
-The argument about what to do about that was had in four places over two days and it was had badly, and the reason it was had badly is that everybody in the lane had spent a month learning how to read a form, and a form that agrees with you is much harder to fight than a form that refuses you.
+The argument about what to do about that was carried on in four places over the three days that followed it and it was carried badly, and the reason it was carried badly is that everybody in the lane had spent a month learning how to read a form, and a form that agrees with you is much harder to fight than a form that refuses you.
 
 Hanne Roeg got it first and said so, on the step, to nobody in particular, in a yard of about thirty.
 
@@ -50,29 +50,29 @@ She read out the line twice and then Niko Venn wrote it on the slate and she mad
 
 > *That the two certificates in the deal box at the store at Ashgate, both in the acting commissioner's hand, both certifying the chamber of that works void, of no residual head, of no standing water, and requiring no maintenance, and neither naming the day it was made, nor the person who made any measurement, nor the plate, the bore, or the method, be read aloud in full into the record of the examination, and be produced to the examiner, and be minuted as produced and as read.*
 > *This is a matter. It is not a charge, and it does not ask that any charge be brought or withdrawn, and it does not ask for a schedule, a route, water, or a keeper, and the district asks for nothing it asked for on the twenty-seventh day of last month except this one line.*
-> *H. Roeg. The fourth step. The fourth day of this month.*
+> *H. Roeg. The fourth step. The seventh day of this month.*
 
 Marda Ollan wrote it out in her own hand, and then wrote the two charges standing against Tarin Rusk beneath it with their dates on them, because a request that costs a man something ought to carry what it costs, and then she said the sentence she had to say.
 
 "I argued on Sunday for an empty box," she said. "I said an empty box that a hundred and forty people looked at was worth more to us than a full one that one woman wrote. And the box has a line in it and I am not going to stand in this yard and pretend that I am not part of the reason it is not empty.
 
-It is one line and it asks for a piece of paper to be read out loud. If anybody in this yard has a better sentence I will copy that one instead and I will not feel anything about it at all, and I am going to be in this yard until about six."
+"It is one line and it asks for a piece of paper to be read out loud. If anybody in this yard has a better sentence I will copy that one instead and I will not feel anything about it at all, and I am going to be in this yard until about six."
 
 Nobody had a better sentence, and she copied it, and Marda Ollan was right about the empty box on Sunday and the full box on Thursday and neither of those things cancels the other, and that is a thing about boxes that everybody in this lane now knows and did not know a fortnight ago.
 
 ---
 
-On the afternoon of the same day, at the public desk in Vellum, a conservator of the Municipal Memory Office published a document.
+On the afternoon of the fourth, at the public desk in Vellum, a conservator of the Municipal Memory Office published a document.
 
 The document was four sheets and it had a provenance head on it and a registration number and a place on the public shelf where anybody could stand and read it, and it concerned a bound volume of one hundred and eighty-one years, seven hundred and twenty-four leaves, four entries a year, and one leaf at the end of it.
 
 Mara Quill established, in eleven hundred words and without raising her voice once, that the last entry in that leaf had been removed and replaced by a leaf of later stock in sizing and in ink; that the pressure of the same pen making the same shape was carried on the leaf beneath; that at the end of the last line of the removed leaf the shadow carried a schedule reference of three digits, which she did not transcribe; that the closure schedule of the lower terrace road, entry 118, dated twenty-six years ago, records the plating of the terrace outfalls of rows seven to twelve and the removal of that row from the distribution schedule; and that the schedule is a public document in the warden's office of that road, and that any person might go and compare the two.
 
-And then, in the fourteenth paragraph, she named the document's subject by referring to it, and the document's subject was a schedule, and the schedule was the **lower terrace road**, and the lower terrace road is the road the blue steps is on.
+And then, in the fourteenth paragraph, she named the document's subject by referring to it, and the document's subject was a schedule, and the schedule was the *lower terrace road*, and the lower terrace road is the road the blue steps is on.
 
-It went out on the Friday. Mara Quill filed a second copy at the warden's office on the terrace road by the ordinary course of the document, and Pell entered it in his book in a fair hand, and by the Saturday morning a copy was nailed to the door of the dispensary with a wet corner, and about nine people read it standing in the lane and compared the same lines in the same order.
+It went out on the fourth. Mara Quill filed a second copy at the warden's office on the terrace road by the ordinary course of the document, and Pell entered it in his book in a fair hand, and by the Saturday morning a copy was nailed to the door of the dispensary with a wet corner, and about nine people read it standing in the lane and compared the same lines in the same order.
 
-Nobody in that lane had any way of knowing that the blue steps had just been put into a public record in the record city by a reference, and no row, and no schedule entry, and no name, by a woman who had been told four months ago by a man with a bar that he was not going to be the one who writes a place into a document by pointing at a document that covers it.
+Nobody in that lane knew what had been done. Nine people had read the copy standing up in the rain and compared the same lines, and every one of them thought it was a page about a leaf, because that is what it looked like, and what it was instead was the first line ever written in a building in this city that put the blue steps in a public record by a reference, and no row, and no schedule entry, and no name, by a woman who had been told four months ago by a man with a bar that he was not going to be the one who writes a place into a document by pointing at a document that covers it.
 
 Tarin Rusk found out about it on the Saturday afternoon, in a lane, from a woman with a slate who had read it out twice on a step, and he walked up the lane to the fourth step and said four sentences to Hanne Roeg, and then he went down to the dispensary and had a conversation with Yara Sen in a doorway that lasted about two minutes and that neither of them would repeat.
 
@@ -80,7 +80,7 @@ Then he did the thing that condition five requires.
 
 He wrote it out. He wrote it in the blue book, and then Marda Ollan copied it into the district book in her own hand, in the yard, in daylight, with both their names at the foot of it and the date, because they had agreed in a room in Vellum in the spring that they would disagree in public with the disagreement recorded, and neither of them had ever imagined for a second that the first time would be about a place.
 
-> *From the engineer named in the charges standing against him, the fourth day of this month, in the yard of the blue steps, and entered in the district book in the hand of M. Ollan, as required by the fifth condition of an agreement made at a dispensary step and of which the whole of the fifth condition is that they disagree in public with the disagreement recorded.*
+> *From the engineer named in the charges standing against him, the ninth day of this month, in the yard of the blue steps, and entered in the district book in the hand of M. Ollan, as required by the fifth condition of an agreement made at a dispensary step and of which the whole of the fifth condition is that they disagree in public with the disagreement recorded.*
 > *I told the woman of this lane in a road on the twenty-third day of last month that I would not be the man who writes a district out of a document by referring to a document that covers it, and she put it in her own book in her own hand, and I have not been asked to take it back and I am not asking her to.*
 > *She has done it. A schedule reference is a reference and she did not transcribe it, and the district is in the record city in a public document because a road is named in a public schedule. That is exactly the thing I said. I was right about it, and I said so to a man with a satchel, and the man with the satchel was right about all three of his reasons and the third one is the only one that ever cost anybody anything.*
 > *And I am going to say the other half of it, because a record of a disagreement that has only one side in it is a document about somebody instead of a document about a thing.*

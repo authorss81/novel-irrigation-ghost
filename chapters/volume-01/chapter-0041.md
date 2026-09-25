@@ -40,7 +40,7 @@ Then he put his hand flat on the paper and said the other thing.
 
 Nobody shouted.
 
-He had said on the seventeenth of the month before that a row of thirty-four people who have drawn their water out of a hole in a kitchen floor for thirty years is not a row that has ever had a reason to be frightened of what is under the houses, and it turned out to be a row that has had plenty of reasons to be angry about a great many other things, and about half of those reasons were in that yard.
+He had said on the seventeenth of this month that a row of thirty-four people who have drawn their water out of a hole in a kitchen floor for thirty years is not a row that has ever had a reason to be frightened of what is under the houses, and it turned out to be a row that has had plenty of reasons to be angry about a great many other things, and about half of those reasons were in that yard.
 
 Nell Drust let about twenty people get a sentence out before she stood up off the step, and when she did she did not raise her voice, and every word of it was accurate, and by the end of it Tarin Rusk had to put his hand on the back of a chair.
 
@@ -70,15 +70,13 @@ The girl spoke last, and she was the worst affected person in that yard and the 
 
 "That is what I mean," she said. "It is not my name, and it is going to be me. When somebody in a room four miles down a hill says *the girl of about fourteen*, there is going to be one, and everybody in this row is going to know it, and there is not one of them going to say it out loud, and it is going to be me for the next thirty years and there is not a single line in that paper I can object to.
 
-"I wrote the slate because Nell told me to and I would write it again. And I am not saying that to be brave, I am saying it because it is true and because it is the only part of this I am able to be calm about. But nobody has asked me whether I want to be in a piece of paper. I am fourteen. I have been in this row since I was six. And a man I have met four times read a sentence out to twenty-six people on Friday and it had me in it and I did not know until Saturday morning when he gave it to me on a track and told me to read it on the way up."
+"I wrote the slate because Nell told me to and I would write it again. And I am not saying that to be brave, I am saying it because it is true and because it is the only part of this I am able to be calm about. But nobody has asked me whether I want to be in a piece of paper. I am fourteen. I have been in this row since I was six. And a man I have met four times read a sentence out to twenty-six people on Friday and it had me in it and I did not know about any of it until this morning, two miles up a track, when he handed me a copy of it and told me to read it on the way up."
 
 "Nobody asked you," said Tarin Rusk. "And I wrote the sentence, and I did not come up here on Saturday, and I have not got anything better than that to put in front of you this morning, and if you want me to say it in a form I will say it in a form."
 
 ---
 
 The answer went on a slate, and it took forty minutes and two versions, and the girl with the good hand wrote both and struck the first herself. Nell Drust dictated it and did not soften one word of it, and Tenna Sagg wrote it, and then she made Tarin Rusk read it back, because that is a rule in that row and he was not going to be let off it.
-
-Nell Drust dictated it and did not soften one word of it, and Tenna Sagg wrote it, and then she made Tarin Rusk read it back, because that is a rule in that row and he was not going to be let off it.
 
 > *Ashgate, the twenty-eighth day of this month, at a bench, in daylight, twenty-six of us present.*
 > *1. We have read the request of the district of the lower terrace road. It is headed not written, not signed, and not asked for by the engineer named in the charges standing against him. We have noticed that.*
@@ -87,7 +85,7 @@ Nell Drust dictated it and did not soften one word of it, and Tenna Sagg wrote i
 > *4. A person from this row will read that paper in that room, aloud, and it will be this slate, and it will be read before anybody fills in anything, and a woman of thirty-nine will read it, and she is not a district and she has not consented to be one.*
 > *5. Nobody in this row will be asked for a drop of water again, by anybody, for as long as the plant can be started by anybody with a horse. That is not new. It is the seventeenth of this month again and it is in a different hand and it is a different piece of paper and it is the same answer.*
 > *6. And we will come to that room. Because a thing that is written down has to be answered, and it has been written down, and we are not going to be the only people in this city who have never been asked anything and can prove it.*
-> *N. Drust, of this row, keeper of it for sixteen years. The twenty-eventh day of this month. I have put my own name here and not anybody else's.*
+> *N. Drust, of this row, keeper of it for sixteen years. The twenty-eighth day of this month. I have put my own name here and not anybody else's.*
 
 ---
 

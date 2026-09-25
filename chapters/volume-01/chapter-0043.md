@@ -10,11 +10,11 @@ Marda Ollan worked it out twice in a yard in daylight, got it the same way both 
 
 "Eleven hundred and some people on the schedule below us," said Marda Ollan. "We have looked at the board. Six rows and a half on this road, and a part of the seventh that is on the next road, and every one of them has a number against it and a row and a tank and a keeper except the last one, which has a keeper's name struck through.
 
-The review takes a ration off the schedule or it leaves the schedule alone. That is the whole of what a ration review is. It is a list, and a list is cut, and you are either on it or you are not.
+"The review takes a ration off the schedule or it leaves the schedule alone. That is the whole of what a ration review is. It is a list, and a list is cut, and you are either on it or you are not.
 
-We are not on it. We cannot lose a ration because we do not have one, and we have not had one since the first of the month before, and there is no line in this district's future where anybody takes anything off us, because there is nothing to take it off.
+"We are not on it. We cannot lose a ration because we do not have one, and we have not had one since the first of the month before, and there is no line in this district's future where anybody takes anything off us, because there is nothing to take it off.
 
-And that is not a victory and I am not going to stand in this yard and let anybody make it one, because the same fact says we cannot be given one either. To be given a ration, the review would have to put us on a list. To be on a list we would have to be a row. And we are not going to be a row on the fourteenth of next month at six in the morning because there is a form, and I have read the form, and the box is called *district*."
+"And that is not a victory and I am not going to stand in this yard and let anybody make it one, because the same fact says we cannot be given one either. To be given a ration, the review would have to put us on a list. To be on a list we would have to be a row. And we are not going to be a row on the fourteenth of next month at six in the morning because there is a form, and I have read the form, and the box is called *district*."
 
 The yard argued with that for a while, and the argument was not about the arithmetic.
 
@@ -26,19 +26,19 @@ The third thing was said in the dispensary at about eleven o'clock and it was sa
 
 Nobody in the dispensary wanted to hear about a chandler and he said it anyway.
 
-"On the twenty-fifth of the month before there was a list," he said. "That is the only thing anybody did in this lane all month that anybody could be shown afterwards, and it is the reason we are not drinking out of a cistern with a plate under it and nothing coming, and it is the reason we are drinking out of a cistern with a plate under it and something coming, which is a distinction that has cost us more than anything else in this book.
+"I have been turning a slate over since the eighteenth," he said. "That is the only thing anybody did in this lane this month that anybody could be shown afterwards, and it is the reason we are not drinking out of a cistern with a plate under it and nothing coming, and it is the reason we are drinking out of a cistern with a plate under it and something coming, which is a distinction that has cost us more than anything else in this month.
 
-Twenty-three people were asked to put a hand on a route. Nineteen said no and they were not cowards and I will not have anybody in this room call them cowards. Two would not put their name near a plate the warden's board said was out of service. Four had drunk off the low pump and watched three children carried off it.
+"I went round the lane with it on the eighteenth and again on the nineteenth, and I asked one question, and I wrote the answer down in front of the person who gave it, and I did not sign anything, and there is no name on that slate but mine.
 
-And six said they would do it *if there was a window, and a date, and a warden present*. Six. And then every one of the six said, one after another, that there was no window and no date and no warden, and he had not been able to make those three things out of anything he had.
+"Twenty-nine people answered me. Nineteen said no, and they wrote down why, and I read the reasons back to them, and they were not cowards and I will not have anybody in this room call them cowards. Four would not put their name near a plate the warden's board says is out of service. And six said they would do it *if there was a window, and a date, and a warden present*. Six. And then every one of those six said, one after another, that there was no window and no date and no warden, and I could not make those three things out of anything I had.
 
-Eleven days later he put water in a tank in a yard with a warden and a book and a time on it, and six people who had said no were standing in that yard, and four of them had said no on the sixteenth of the month before and two of them were there on the twentieth having walked out through the arch and up the track, and not one of them was on a stone, and not one of them had been asked to be."
+"And on the twentieth I stood in a yard at the arch with a warden writing in a book and a time on it and about eighty people in it, and all six of them were in that yard, and not one of them was on a stone, and not one of them had been asked to be."
 
 He put the candle end on the table, which he did not do to make a point, and which Tarin Rusk noticed and did not say anything about.
 
 "Nobody in this lane has ever been asked about a route. Not once, in thirty years, not by anybody, not by a conservator or a warden or a man with a bar. The thing this lane has been asked about is *water* — do you want water, will you take water, will you sign for water — and everybody in here says yes to that and then it turns into a thing with a schedule on it.
 
-"And I have been turning over for four days that the six did not say yes to a route. They said yes to a date. They said yes to a book. They said yes to somebody in a uniform writing down the time it started and the time it stopped, in a place where anybody could come and read the book.
+"And I have been turning over for a fortnight that the six did not say yes to a route. They said yes to a date. They said yes to a book. They said yes to somebody in a uniform writing down the time it started and the time it stopped, in a place where anybody could come and read the book.
 
 "That is a smaller thing than a route. That is much smaller. And I have been to three offices in six weeks with papers about chambers and certificates and a deal box, and I have watched every one of them go into a building, and not one of them has ever had a date on it that a man in this lane could stand next to."
 
@@ -46,7 +46,7 @@ He put the candle end on the table, which he did not do to make a point, and whi
 
 They argued it in three rooms, which is how a thing gets decided in a lane with no row, and the three rooms were the yard, the dispensary, and the top of the lane at the pump, and they argued it from the Friday morning to the Sunday night, and the yard is where the thing that was decided was decided.
 
-Roke had the pump open on the Friday. He had it shut on the sixth, the seventh and the eighth of this month, and he opened it on the ninth at about two in the afternoon and he did not make a speech about it and nobody asked him to, and there is a record in the district book that he was entirely right to shut it and that he did not claim otherwise afterwards.
+Roke had the pump open on the Friday. He had it shut on the sixth, the seventh and the eighth of the month before, and he opened it on the ninth of the month before at about two in the afternoon and he did not make a speech about it and nobody asked him to, and there is a record in the district book that he was entirely right to shut it and that he did not claim otherwise afterwards.
 
 What the top of the lane had to say was about the fourth thing, and the fourth thing was that the district had three days to decide what it would say in public and that whatever it said would be said in a room full of strangers who could check it.
 
@@ -66,33 +66,33 @@ Bel Crale argued for eleven minutes against putting anything at all in it and wa
 
 "So we are going to say four things. And we are going to say them in a room where people can check them, because the only thing we have that a chamber and a certificate and a return have not got is that we are here and they are not.
 
-*One.* This district holds no row, no schedule entry and no keeper, and the last two things in a book about us are a warden's condition of the fifteenth of this month with the cause box left empty and a warden's return of the twenty-second in which two of five boxes are filled and the box headed *keeper* reads, in a fair hand, *none held*.
+*One.* This district holds no row, no schedule entry and no keeper, and the last two things in a book about us are a warden's condition of the fifteenth of the month before with the cause box left empty and a warden's return of the twenty-second of the month before in which two of five boxes are filled and the box headed *keeper* reads, in a fair hand, *none held*.
 
-*Two.* There is a district examination of the ground beneath this district on the twelfth of next month, and a request made in a yard in daylight on the twenty-seventh of this month that the works at Ashgate and the ground beneath this district be treated as one matter and heard together in one room by one examiner. That request went up a cattle track and has not been answered. It asks for a schedule, a route, water, a keeper and the setting out of a charge, and it asks for none of the five, and it says so on the face of it in the hand of the woman who wrote it.
+*Two.* There is a district examination of the ground beneath this district on the twelfth of next month, and a request made in a yard in daylight on the twenty-seventh of the month before that the works at Ashgate and the ground beneath this district be treated as one matter and heard together in one room by one examiner. That request went up a cattle track and has not been answered. It asks for a schedule, a route, water, a keeper and the setting out of a charge, and it asks for none of the five, and it says so on the face of it in the hand of the woman who wrote it.
 
-*Three.* There is no clean water in this district and there has been none since the nineteenth of this month. There is a tank at its coping holding four thousand seven hundred gallons of a contractor's discharge, a stone jar of eleven gallons of the last rain there has been, and a butt on a stand. A man at the top of this lane shut his own pump on the sixth of this month and has not pretended since that he can see the bottom of the channel that fills it.
+*Three.* There is no clean water in this district and there has been none since the nineteenth of the month before. There is a tank at its coping holding four thousand seven hundred gallons of a contractor's discharge, a stone jar of eleven gallons of the last rain there has been, and a butt on a stand. A man at the top of this lane shut his own pump on the sixth of this month and has not pretended since that he can see the bottom of the channel that fills it.
 
-*Four.* A girl of seven in the second step has been at the fourth point since the morning of the twentieth of this month and has not gone down, and a physician's requirement for this district is sixty-eight gallons a day, and there is no instrument in this basin that would test the water she is being asked about, and a physician has said so in a yard three times.
+*Four.* A girl of seven in the second step has been at the fourth point since the morning of the twentieth of the month before and has not gone down, and a physician's requirement for this district is sixty-eight gallons a day, and there is no instrument in this basin that would test the water she is being asked about, and a physician has said so in a yard three times.
 
 "And that is the four.
 
 "And the refusal is this, and it is the only part of it I have had to be talked into, and I want the yard to hear it in the form it is going to be read in a room.
 
-We are not going to say that there is a chamber. We are not going to say there is a route. We are not going to say that anybody in this city has done anything wrong to anybody. And we are not going to say the name of a single man, including the one standing at the back of this yard with the book, because a district that has spent a month refusing to put a name to anybody is not going to begin on the fourteenth of next month by putting a name in a return.
+"We are not going to say that there is a chamber. We are not going to say there is a route. We are not going to say that anybody in this city has done anything wrong to anybody. And we are not going to say the name of a single man, including the one standing at the back of this yard with the book, because a district that has spent a month refusing to put a name to anybody is not going to begin on the fourteenth of next month by putting a name in a return.
 
-And the reason is not pride and it is not a sulk and I will not have it written down as one. A thing said in that room on a Friday morning, in front of a clerk, is a thing a man in an office can act on, and we do not know what any of them are going to act on, and a district with no row has got exactly one weapon, and the weapon is that nobody can find us to do anything to us, and I am not spending it in a paragraph.
+"And the reason is not pride and it is not a sulk and I will not have it written down as one. A thing said in that room on a Friday morning, in front of a clerk, is a thing a man in an office can act on, and we do not know what any of them are going to act on, and a district with no row has got exactly one weapon, and the weapon is that nobody can find us to do anything to us, and I am not spending it in a paragraph."
 
 ---
 
 They wrote it out in Marda Ollan's hand and it went down the cattle track in a satchel on the Sunday night by a route runner, which is a man who carries water news on foot because it outran paper for three hundred years, and there is a name on him this time and it is not Niko Venn's, and Tarin Rusk did not go and did not offer.
 
-Yara Sen read the four things out in the dispensary at about six o'clock on the Sunday evening with Sab Doulton's mother sitting on a stool by the door, and she read them twice, and then she said the thing that was going to be said in a room in the city four days later, and she said it in a yard first because she has been saying things in this yard since the ninth day of the month before and is not going to stop now for a chandler's shop.
+Yara Sen read the four things out in the dispensary at about six o'clock on the Sunday evening with Sab Doulton's mother sitting on a stool by the door, and she read them twice, and then she said the thing that was going to be said in a room in the city nine days later, and she said it in a yard first because she has been saying things in this yard since the ninth day of the month before and is not going to stop now for a chandler's shop.
 
 "Sixty-eight is a number for two people," she said. "It is for the person who has to hand the water out, and it is for the person who has to be told how much there is. That is all it is for. It is not for a return and it is not for a review and it is not for a form, and every single time this month that anybody has asked me for that number in a document I have wanted to hand it over and I have not, and I would like the yard to know that I have wanted to.
 
-"And I will tell you the other half of it so that nobody in that room thinks I am a woman who holds a figure back out of some kind of stubbornness. Sixty-eight is a number I derived on a step in this yard on the twenty-first day of this month out of four children in the third stage at four gallons a head, four in the second at two, and a hundred and eighteen at three pints, and it was seventy for three weeks and it came down when I checked it, and a figure that goes down when you check it is a figure you check twice.
+"And I will tell you the other half of it so that nobody in that room thinks I am a woman who holds a figure back out of some kind of stubbornness. Sixty-eight is a number I derived on a step in this yard on the twenty-first day of the month before out of four children in the third stage at four gallons a head, four in the second at two, and a hundred and eighteen at three pints, and it was seventy for three weeks and it came down when I checked it, and a figure that goes down when you check it is a figure you check twice.
 
-And a child in the fourth stage does not take four gallons and there is no figure for that in this basin. So the derivation has stopped, and I have said that out loud in a yard four times and I am going to say it in a room, and I am not going to be asked to put a number where the fourth stage goes, and the day somebody puts one there I will be the woman who did it.
+"And a child in the fourth stage does not take four gallons and there is no figure for that in this basin. So the derivation has stopped, and I have said that out loud in a yard four times and I am going to say it in a room, and I am not going to be asked to put a number where the fourth stage goes, and the day somebody puts one there I will be the woman who did it.
 
 "That is what the number is for. It is not an argument. It is a hand on a handle, and the handle is in this yard and the water is not."
 

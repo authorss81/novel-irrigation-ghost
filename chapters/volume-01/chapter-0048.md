@@ -6,17 +6,26 @@ He convened the hearing at eleven o'clock on the morning of Wednesday the thirte
 
 He had directed on the Tuesday evening that the hearing be taken by evidence on the thirteenth and stand adjourned to four o'clock on the fifteenth, because the vessel at the arch had to be emptied first and a vessel cannot be emptied in front of a hearing and argued about at the same time.
 
-Oriel Fenn opened a book. It was one book and it ran to three sittings, and the first thing he did with it was read the direction, the list of speakers, the seven entries against the list, and the standing order.
+Oriel Fenn opened a book. It was one book and it ran to three sittings, and the first thing he did with it was read the direction, the list of speakers, and what had come back from the list, and the standing order.
 
 "Everything I write in this book after this sentence is read out where the whole street can hear it, and it is copied out and posted in four buildings tonight, and any person may come and read the copy, and if a figure in the copy is not the figure I read out this morning then the copy is wrong and not the book, and I would like somebody to come and tell me."
 
 Nobody in that arch had ever heard anything like that said anywhere, and about nine hundred people found out at the same moment that the thing they had come for was not a speech.
 
+He read the list of speakers, and then he read what had come back from it, because a list of seven is not a list of seven until a clerk has said in a street what became of the other five.
+
+"Five of the seven were in the arch or on the flags," said Oriel Fenn. "The sixth is C. Preece, of Ashgate, whose declination was received on the Monday morning and is read after this. The seventh is N. Drust, of Ashgate, keeper of a settlement of eleven houses and thirty-four persons which holds no row, no schedule entry and no keeper, and she sent four lines on the Thursday, and I am going to read them out, because she is on the list and a person does not come off a list by writing a letter."
+
+> *I will not stand in a street. I stood in a doorway in the rain at the top of my own row on the Tuesday and I will do it once. Bring the slate. It is a slate and not a witness, and I know the difference now and so do you, and if anybody in that room wants a witness out of this row they can go and ask the thirty-four of us and be told what we will say.*
+> *N. Drust, of Ashgate. The seventh day of this month.*
+
+"Entered," said Oriel Fenn, "and I am going to record that five of the seven are here, that one has declined in writing before anything at all was asked of him, that the seventh has declined a street in her own hand, that the slate she is talking about was read into the record of a district examination on the twelfth by the person who dictated it, and that in this letter she has told me a slate is not a witness, and I am not going to argue with a person about her own paper." found out at the same moment that the thing they had come for was not a speech.
+
 ---
 
 He read the list, and the fourth entry in it — because Coll Preece had been moved up, at the clerk's discretion and at Marda Ollan's written request, so that the refusal would be read before the man it was about rather than after — was this.
 
-> *Declined. C. Preece, of Ashgate, keeper of the plant. Received by this clerk on the Monday, the tenth day of this month, and entered. Third line:*
+> *Declined. C. Preece, of Ashgate, keeper of the plant. Received by this clerk on the Monday morning, the eleventh day of this month, and entered. Third line:*
 > *I am not refusing the water.*
 
 "I am going to read that three times," said Oriel Fenn, "because that is what a minute clerk does, and because in about four minutes a man in this street is going to stand up there and say something to this arch that is not evidence and I would like the third line of that paper to be the last thing heard before he does it."
@@ -29,24 +38,25 @@ The route was put to the room by a man with no authority in it, and he put it in
 
 "I am the engineer named in the charges," said Tarin Rusk. "I am stood down. I have two charges and they have not been joined and nothing in this hearing has joined them, and the second one came off suspension yesterday afternoon on a finding made by a man with a warrant, and I have not had a hearing on either of them and I am not asking for one.
 
-I am not able to give this district a water supply. There is no such thing in this basin. I have said that in a yard and in a document and in a store on a hill and I am not going to say it a fifth time in a street, and I am not going to be softened by a chair and four hundred people, because the chair would not be able to give it to me either.
+"I am not able to give this district a water supply. There is no such thing in this basin. I have said that in a yard and in a document and in a store on a hill and I am not going to say it a fifth time in a street, and I am not going to be softened by a chair and four hundred people, because the chair would not be able to give it to me either.
 
-What there is, is a gate at the top of a mill road, shut and chained six years, with five point eight nine metres of head behind it, which is the number in Office notation and is spoken five point eight nine and does not change and cannot be increased by anybody. From that gate a covered channel comes down the terrace road on a foot in the hundred and delivers into a tank in this yard. It is not finding its way. It was built to rise, and it has been doing it since the first day of this month, and it stopped on the night of the second and came back on the morning of the twentieth at twenty minutes past three, by a contractor with a horse out of his own pocket, who asked nobody.
+"What there is, is a gate at the top of a mill road, shut and chained six years, with five point eight nine metres of head behind it, which is the number in Office notation and is spoken five point eight nine and does not change and cannot be increased by anybody. From that gate a covered channel comes down the terrace road on a foot in the hundred and delivers into a tank in this yard. It is not finding its way. It was built to rise, and it has been doing it since the first day of the month before, and it stopped on the night of the second and came back on the morning of the twentieth at twenty minutes past three, by a contractor with a horse out of his own pocket, who asked nobody.
 
-About thirty yards below this arch there is a branch off that run. It is a hand's width across. On the seventh day of the month before I cleared six yards of it out to bare stone with a bar and two men, and it is dug out to stone to this day, and there is a stop-gate in it with two oak cheeks and a lead-threaded screw.
+"About thirty yards below this arch there is a branch off that run. It is a hand's width across. On the seventh day of the month before I cleared six yards of it out to bare stone with a bar and two men, and it is dug out to stone to this day, and there is a stop-gate in it with two oak cheeks and a lead-threaded screw.
 
-In that stop-gate goes a length of oak sixteen inches long, planed in a kitchen in this lane by a man with a white scar down one forearm, with a groove cut down one face and a hole drilled at the head. That is a gauged log. It is not the only way of putting a door in a channel. It is the only way in this basin of putting a *known* door in a channel.
+"In that stop-gate goes a length of oak sixteen inches long, planed in a kitchen in this lane by the man who keeps the low pump, with a groove cut down one face and a hole drilled at the head. That is a gauged log. It is not the only way of putting a door in a channel. It is the only way in this basin of putting a *known* door in a channel.
 
 On the twenty-first day of the month before a man found the setting of the pin that puts six hundred and ten gallons an hour through this branch, and he found it in a yard with a warden writing at the time and a pail and a watch, and it is the only instrument in this basin that measures anything, and it is a piece of oak that a man made for nothing in his own kitchen in an evening, and the man who made it is standing about eleven feet from where I am and he is not on the list and he was not asked to be on it."
 
-The crowd made a small sound, and at the back of the arch, by the pump housing, a man of forty-four with a white scar down one forearm put his hands in his pockets and said nothing at all, and there were about four hundred people who saw him do it.
+The crowd made a small sound, and at the back of the arch, by the pump housing, Tam Roke put his hands in his pockets and said nothing at all, and there were about four hundred people who saw him do it.
 
 ---
 
 Then Tarin Rusk put the arithmetic on a board, a whitewashed board off the back of the low house that Ondra had given him, and Oriel Fenn's clerk copied the whole of it into the book in longhand as it went up, and it stood in the arch in the rain with a hundred and twenty people in front of it and nobody asked to be kept out, because Tarin Rusk had said on the seventh of the month before that anybody who thought a sum was wrong should say so before it started.
 
 > **VESSEL, this arch, in gallons of room**
-> Yard cistern, ten feet across, twelve feet to coping, eight feet of room — **4,700**
+> Yard cistern, ten feet across, twelve feet to coping, eight feet of room.
+> Seventy-eight and a half feet of floor. Six hundred and twenty-eight feet of water. A foot of water is seven and a half gallons in this basin. — **4,700**
 > Three tanks at the low house, cleaned — **1,400**
 > Every pail, pot and stone jar in this lane, door by door, counted on the twelfth — **600**
 > **TOTAL ROOM — 6,700**
@@ -59,7 +69,11 @@ Then Tarin Rusk put the arithmetic on a board, a whitewashed board off the back 
 > **THE SAME CHANNEL, UNGAUGED — about 3,200 an hour.**
 > **6,700 ÷ 3,200 = 2 hours and 5 minutes.**
 
-He stood back from it.
+He stood back from it, and then he came back to it and put his finger under the second line, because there is one man in that crowd who is going to divide those figures instead of believing them, and he is not going to let him do it blind.
+
+"Seventy-eight and a half feet of floor is a circle ten feet across and nothing wider than that. Eight feet of it is six hundred and twenty-eight feet of water. A foot of water is seven and a half gallons and I did not get that out of a book, I got it out of the low end of this lane in June with a can and a clock, and it has been seven and a half every time anybody has ever asked me. Six hundred and twenty-eight of them is four thousand seven hundred and ten. I am calling it four thousand seven hundred, because a cistern is not a true cylinder to the coping and the coping is a circle of mortar laid by a man in a hurry. Every other figure on that board is exact. That one is out by ten gallons and I have said so out loud in front of a chair and a whole street."
+
+He stood back from it again.
 
 "There is a man at the back of this arch who is eighty-one years old," he said, "and I am going to stand here and not say that number, and I would like somebody to say it who was not in the room in June."
 
@@ -85,17 +99,17 @@ Tarin Rusk said it again where the street could hear it.
 
 "Second," said the chair. "You have told me the same channel ungauged runs at three thousand two hundred, and that you can put the oak in and it will be six hundred and ten. I am a plain man and I have had a bad afternoon's arithmetic in my life before now. Why is the six hundred and ten going to be six hundred and ten?"
 
-Because a log is a door and not a tap," said Tarin Rusk. "It does not care how much is behind it. Everything coming down that run has to come through that gate, and the log is in the gate, and the pin is in the log, and the pin is in a hole it was drilled for, and there is a groove down the face of it and the setting has not been touched since the twenty-first of the month before. What the run itself carries has never been measured by anybody in the history of this city, for one reason, and the reason is that there has never been anywhere for it to go.
+"Because a log is a door and not a tap," said Tarin Rusk. "It does not care how much is behind it. Everything coming down that run has to come through that gate, and the log is in the gate, and the pin is in the log, and the pin is in a hole it was drilled for, and there is a groove down the face of it and the setting has not been touched since the twenty-first of the month before. What the run itself carries has never been measured by anybody in the history of this city, for one reason, and the reason is that there has never been anywhere for it to go.
 
-The head will not grow. If the head falls, the water falls, and the window is shorter, and shorter is not what I am afraid of. What I am afraid of is the vessel filling before eleven hours and nowhere for the rest of it to go but the plate, and for that there is a man in this arch who can draw that log in about a minute and a half with a bar, and I have not asked him and I am not going to, and I would like it minuted that he is not on the list and was not asked to be."
+"The head will not grow. If the head falls, the water falls, and the window is shorter, and shorter is not what I am afraid of. What I am afraid of is the vessel filling before eleven hours and nowhere for the rest of it to go but the plate, and for that there is a man in this arch who can draw that log in about a minute and a half with a bar, and I have not asked him and I am not going to, and I would like it minuted that he is not on the list and was not asked to be."
 
 "It is minuted," said Oriel Fenn.
 
-And I would like the street to hear the rest of it," said Tarin Rusk, "which is that I have no right to ask him and I have not got one. He shut his own pump on the sixth of this month in front of forty people for a reason that was entirely correct, and I have not gone near him since, and if I asked him now to stand at that gate for me I would be asking a man who has refused me twice to refuse me a third time in front of a chair of this Assembly, and the answer would be no and the answer would be right."
+"And I would like the street to hear the rest of it," said Tarin Rusk, "which is that I have no right to ask him and I have not got one. He shut his own pump on the sixth of the month before in front of forty people for a reason that was entirely correct, and I have not gone near him since, and if I asked him now to stand at that gate for me I would be asking a man who has refused me twice to refuse me a third time in front of a chair of this Assembly, and the answer would be no and the answer would be right."
 
 Tam Roke said it from the back of the arch, to nobody, in a voice that carried about thirty feet.
 
-"I will draw it if it needs drawing," he said. "I have not agreed to open it and I am not going to. If that yard is full at seven o'clock on Friday evening, somebody is going to have to take that log out, and it will be me, and I am not on your list and I have not signed anything, and I would like that written down as well, and then you can all go home."
+"I will draw it if it needs drawing," he said. "I have not agreed to open it and I am not going to. If that yard is full at six o'clock on Friday evening, somebody is going to have to take that log out, and it will be me, and I am not on your list and I have not signed anything, and I would like that written down as well, and then you can all go home."
 
 ---
 
@@ -107,11 +121,11 @@ Alderman Tarrant took the midsummer return for the period, a printed sheet with 
 
 "I am going to give you the figure," said Yara Sen, "and I am not going to let you put it in the column, and I would like the column and the figure and the reason entered separately, and I have said that three times in a yard and I would like to say it a fourth time to a chair of the Assembly.
 
-The derivation is four children in the third stage at four gallons a head, which is sixteen; four in the second at two gallons, which is eight; a hundred and eighteen at three pints, which is forty-four and a quarter. That is sixty-eight. It was seventy for three weeks and it came down when a mother told me in a yard that her daughter is not my case, and a figure that goes down when you check it is a figure you check twice. And a child in the fourth stage does not take four gallons and there is no figure for that in this basin, and I am not going to be the woman who puts a number in the space where the fourth stage goes.
+"The derivation is four children in the third stage at four gallons a head, which is sixteen; four in the second at two gallons, which is eight; a hundred and eighteen at three pints, which is forty-four and a quarter. That is sixty-eight. It was seventy for three weeks and it came down when a mother told me in a yard that her daughter is not my case, and a figure that goes down when you check it is a figure you check twice. And a child in the fourth stage does not take four gallons and there is no figure for that in this basin, and I am not going to be the woman who puts a number in the space where the fourth stage goes.
 
-And here is what the blank does, and I would like it minuted. A blank column in a return is read as a nil return. A nil return is read as a district that does not need water. And that reading will be in a book in four buildings for thirty years and there will be a hundred and twenty-six people under it.
+"And here is what the blank does, and I would like it minuted. A blank column in a return is read as a nil return. A nil return is read as a district that does not need water. And that reading will be in a book in four buildings for thirty years and there will be a hundred and twenty-six people under it.
 
-So I am trading. I am not being brave and I am not being difficult. I am asking that the figure be read into the record of this hearing, aloud, where a street can hear it, and that the column stand empty, and a transcript is not a return, and that is the only place in this city where sixty-eight is going to exist in a document that anybody has chosen to write down."
+"So I am trading. I am not being brave and I am not being difficult. I am asking that the figure be read into the record of this hearing, aloud, where a street can hear it, and that the column stand empty, and a transcript is not a return, and that is the only place in this city where sixty-eight is going to exist in a document that anybody has chosen to write down."
 
 Alderman Tarrant looked at the column for a while.
 
@@ -129,7 +143,7 @@ A man with a pail and a watch took the rate four times, and Marda Ollan wrote al
 
 Nobody could say what had been in the tank, and Tarin Rusk said so in the lane, out loud, to about thirty people, twice, and it was the second time in three days that somebody had been careful in front of him about it.
 
-"You cannot gauge a body of water that the ground is drinking," he said. "You can empty it and count what comes out, and what comes out is four thousand one hundred and eighty, and it is not the same figure as the four thousand seven hundred that was on the coping on the twentieth, and the two of them are both correct, and the difference between them is about four hundred and seventy gallons of a yard cistern in a district with no keeper. I have put both numbers on the same piece of paper and I am not going to be asked to choose between them."
+"You cannot gauge a body of water that the ground is drinking," he said. "You can empty it and count what comes out, and what comes out is four thousand one hundred and eighty, and it is not the same figure as the four thousand seven hundred that was on the coping on the twentieth, and the two of them are both correct, and the difference between them is about five hundred and twenty gallons of a yard cistern in a district with no keeper. I have put both numbers on the same piece of paper and I am not going to be asked to choose between them."
 
 By nine in the evening the cistern was empty to within a bucket and a half, the low room at the left of the arch had water in it again for the third time in a fortnight, and Ondra had carried his boy up four feet without being asked. About forty people had spent fourteen and a half hours carrying water out of that yard in pails and buckets, because a lane with four thousand seven hundred gallons of a contractor's discharge in the bottom of a shaft has nowhere to put four thousand seven hundred gallons of a contractor's discharge.
 
