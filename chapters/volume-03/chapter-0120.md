@@ -6,11 +6,11 @@ He had the stiff cover and a second clerk and the form of the twelfth, and a car
 
 The lane had been dry underfoot between the doors for eleven days. The pump drew. The well came up nearly clear and had to be boiled and everybody had boiled it. There were eleven people in six doors and the form said so and said where every one of them had come from, and there was a man in the lane that morning who had not been in it for a month.
 
-Harl Bray had come back on the Wednesday, three days short of a run, off the water to Verrin, with a sea-coat and a box of line and a face that had been in the sun. He was the man Corrie Lille had counted off his own door's hook on the Sunday the twenty-fifth of the month before last, and nobody in the lane had seen him since, and he was in the fifth door at eight in the morning helping his mother carry a bucket, because Jess Marr had put a boy on the flour boat on the Monday with a folded paper in his hand and no name on it except a door number, and a boatman had carried it up to Verrin and a boatman had brought back a man. Ada Bray looked at him for a while and then said:
+Harl Bray had come back on the Wednesday, three days short of a run, off the water to Verrin, with a sea-coat and a box of line and a face that had been in the sun. He was the man Corrie Lille had counted off his own door's hook on the Sunday the first of next month, and nobody in the lane had seen him since, and he was in the fifth door at eight in the morning helping his mother carry a bucket, because Jess Marr had put a boy on the flour boat on the Monday with a folded paper in his hand and no name on it except a door number, and a boatman had carried it up to Verrin and a boatman had brought back a man. Ada Bray looked at him for a while and then said:
 
 "Eight days. Corrie counted you off the hook on the Sunday before last, and there has been a flood and a magistrate and a rate in that lane since, and a boy came up on Monday with a piece of folded paper in his hand that had a number on it and not a name, and I have not once been able to work out who sent for me."
 
-"I sent for you," Jess Marr said from the step of the fourth door, with the boy on her hip. "And I wrote the number and not your name, because the number is on the form and your name is not, and I did not know that till Wednesday and I would not have cared."
+"I sent for you," Jess Marr said from the step of the second door, with the boy on her hip. "And I wrote the number and not your name, because the number is on the form and your name is not, and I did not know that till Wednesday and I would not have cared."
 
 "I say well," Harl said. "I have not had a vote and I should not have known what to do with one."
 
@@ -36,7 +36,7 @@ At the second door, Jess Marr's, Wyn Marr was in the lane with a barrow and did 
 
 Cobb thought about it a while, with the sun on the open form.
 
-"You can answer, and that is new. Three days ago there was nothing on any paper in this basin with your row on it and the man with the book would have had no occasion to come. Now there is, and he will have to come, and you can stand in front of him and say the ground is foreshore and the drainage is a discharge, and he will not have thought of it." He shut the cover on the pen. "And you will not be able to stop it. I have not found a way to give you one without the other, and I would rather say that now than let you find out at a door in a year."
+"You can answer, and that is new. On Monday there was nothing in the district book in this basin with your row on it, and the man with the book would have had no occasion to come. Now there is, and he will have to come, and you can stand in front of him and say the ground is foreshore and the drainage is a discharge, and he will not have thought of it." He shut the cover on the pen. "And you will not be able to stop it. I have not found a way to give you one without the other, and I would rather say that now than let you find out at a door in a year."
 
 He read it at the third door, which was Sella Marr's own and had a new lintel on it that the carpenter had done on the Sunday, and Sella came out with her hands wet from the trough.
 
@@ -68,7 +68,7 @@ Cobb read the line. *One name withheld by the person himself, recorded unwilling
 
 "Read it again," Corrie said, "and then tell me what my door is rated at."
 
-"Your door is rated at the same as the other five, in proportion, and it will be rated at the same as the other five whatever it is worth, because a rate is divided by value and not by opinion, and nobody in this lane gets to say their door is worth less because they said no to a form in a city four days ago."
+"Your door is rated at the same as the other five, in proportion, and it will be rated at the same as the other five whatever it is worth, because a rate is divided by value and not by opinion, and nobody in this lane gets to say their door is worth less because they said no to a form in this lane eight days ago."
 
 "Then the no did nothing," Corrie said.
 
@@ -78,11 +78,11 @@ Corrie sat on the coping for a while.
 
 "That," he said, "is the most honest thing anybody from that office has said in this lane, and I have been waiting nineteen years for one of them to say something and go away."
 
-He read it at the sixth door because a form is read at every door in the district or it is not read at the sixth.
+A form is read at every door in the district or it is not read at the sixth.
 
 ---
 
-The carpenter nailed the notice to a bar at the ford end at about two o'clock, and then stood back and looked at it and said, out loud, to nobody, that nobody had ever asked him about the hammer, and that he had told himself for eleven days that he dropped it, and that he had put it down and the bank went and the hammer went with the bank, and that there was a form in this lane now that would say what he did if anybody asked him.
+The carpenter nailed the notice to a bar at the ford end at about two o'clock, and then stood back and said, out loud, to nobody, that nobody had ever asked him about the hammer, and that he had told himself for eleven days that he dropped it, and that he had put it down and the hammer went with the bank, and that there was a form in this lane now that would say what he did if anybody asked him.
 
 "You have not been asked about the hammer," Wick Venn said.
 
@@ -100,7 +100,7 @@ Wick came down to the wall at dusk with the tank card in his coat and stood and 
 
 "Would it take a notice," he said.
 
-"It would," Tarin said. "And there is nothing in this valley anybody can be charged under, which is the true reason, and a boy of fifteen worked it out on his own a week before I did. A frame is a frame that somebody nails a notice to, and a notice is for making somebody do something. That card said CLOSED and NO WATER and NO ENTRY and UNDER PENALTY and named no office and named no person, and six hands cut it out of in daylight on the evening of the second of this month and put the frame back on the post, and the twine came off it and it has been wound twice round a pail handle ever since. The only notice this business has produced is four miles off on a bar, and it is on a bar and not in that frame because it names a district, and a district is a thing a man can be served. I would rather it were empty another ninety years."
+"It would," Tarin said. "And there is nothing in this valley anybody can be charged under, which is the true reason, and a boy of fifteen worked it out on his own a week before I did. A frame is a frame that somebody nails a notice to, and a notice is for making somebody do something. That card said CLOSED and NO WATER and NO ENTRY and UNDER PENALTY and named no office and named no person, and six hands cut it out of in daylight on the evening of the second of the month before last and put the frame back on the post, and the twine came off it and it has been wound twice round a pail handle ever since. The only notice this business has produced is four miles off on a bar, and it is on a bar and not in that frame because it names a district, and a district is a thing a man can be served. I would rather it were empty another ninety years."
 
 Wick put the tank card away. "Eighty-second day. Fourteen weeks run to the sixth of the month after next. The card is not read again until the last Saturday in the month. The mark is the same inch it has been since the twenty-ninth of the month before last and it has no rate in it and never has had one. The district book is written at Vellum and the valuation is a year off. The requisition to the writs went in on the fifth, and a polite letter is coming back in about six weeks, and it will name a place." He looked up the lane. "That is the whole of what is in front of you and every part of it is dated."
 

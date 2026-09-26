@@ -1,6 +1,6 @@
 # Volume 03 — Batch 0003: Chapters 121–130
 
-**Third batch of Volume 03, *The Flood Ledger*.** Read this prompt, **`state/batch-0012-summary.md`**, **`state/open-threads.md`** (especially *Seven more hard rules from Batch 0002*), **and the Chapter 111–120 entries in `state/chapter-summaries.md`** before anything else. Batch 0002 is the state this batch starts from.
+**Third batch of Volume 03, *The Flood Ledger*.** Read this prompt, **`state/batch-0012-summary.md`**, **`state/open-threads.md`** (especially *Ten more hard rules from Batch 0002*), **and the Chapter 111–120 entries in `state/chapter-summaries.md`** before anything else. Batch 0002 is the state this batch starts from.
 
 ## What this run is
 
@@ -8,7 +8,7 @@
 
 Three things are live and all three are dated on the page:
 
-1. **The hearing of witnesses is the nineteenth of next month at the counting-house in Vellum, sixty-one miles east, and Tarin Rusk is not going to it.** His written evidence is in. **Chapters 121 and 122 are the run-up to the nineteenth and what a valley does with a court it cannot attend.**
+1. **The hearing of witnesses is Thursday the nineteenth of next month at the counting-house in Vellum, sixty-one miles east, and Tarin Rusk is not going to it.** His written evidence is in. **The nineteenth is inside this batch and it is Day 174, so a chapter has to carry the fact that the hearing sat without him — and he may not be in the room, may not read what anybody said about him, and may not go.** **Chapters 121 and 122 are the run-up to the nineteenth and what a valley does with a court it cannot attend.** The batch does not end on it and nothing may be moved to make it.
 2. **A requisition for the writ register and writ 214 went into the clerk of the writs on the fifth of next month, and Oriel Fenn said a polite letter comes in about six weeks and will name a place.** **Six weeks from the fifth of next month is the sixteenth of the month after next, so the letter itself is not this batch and belongs to Batch 0004.** What this batch may have is the *first sign* of it — a docket number on a return, a clerk's remark, a form that arrives with somebody else's writing on the back of it — and **the place must not be named yet.** **And the book must not be produced and must not move.** One thing is available and the writer should know it: **Fenn said a writ book is a district record, and the district of Cinder Ford far-bank row was entered in the district book of the lower Sere on the twelfth of next month, so the row that has just been made countable and rateable is attached to the very book a writ would point at.** That collision is on the table and it is not required.
 3. **The row of six doors is now a district with a rate on it and a valuation in about a year, and the district's first return is a line a tallyman wrote because nobody had ever asked a woman how many she is.**
 
@@ -27,7 +27,16 @@ Three things are live and all three are dated on the page:
 | 129 | 176 | the twenty-first | Saturday |
 | 130 | 177 | the twenty-second | Sunday |
 
-Contiguous run; weekday on page in mouth or dated entry; ends **Sunday the twenty-second**, which is the hearing of witnesses. "This month" is the month that began Sunday (Day 156). "Next month" begins Day 187; "the month after next" is unchanged. **Tarin eighty-third → ninety-second day, one per chapter.** A day count is never an ordinal. No "ten days" as a count of his days.
+Contiguous run; weekday on page in mouth or dated entry; the batch **ends Sunday the twenty-second**. **The hearing of witnesses is Thursday the nineteenth**, sixty-one miles east, and he is not going to it — do not move it to the twenty-second.
+
+**How a month is named, and this governs every date you write. Get it from this box and not by arithmetic.**
+
+- **"Next month" is the month that began on the first, a Sunday — Days 156 to 186.** Every date from the thirteenth of next month to the end of that month is in it. The name does not change because the month has begun: it is the fixed way this valley and this narration name that month, and Chapters 111–120 use it about fifty times.
+- **"The month before last" is the flood month — Days 125 to 155**, which began on the first, a Thursday and whose thirty-first is Day 155, a Saturday. It was called "this month" back in Chapters 101–110, before the turn.
+- **"The month after next" begins Day 187**, and his fourteen weeks end on the sixth of it, Day 192.
+- **"This month" and "last month" are retired and must not appear in a chapter.** If you need the flood month, write *the month before last*; if you need the month that began on the first, write *next month*. Nothing is lost and the batch reads cleaner.
+
+**Tarin eighty-third → ninety-second day, one per chapter.** A day count is never an ordinal. No "ten days" as a count of his days.
 
 ## The five jobs
 
@@ -43,7 +52,7 @@ All thirteen prohibitions hold. In particular: no sluice/hand/keeper answer; **n
 
 ## Nine facts a careless chapter will contradict
 
-1. **The rate is nineteen shillings and twopence and the rate is not the number.** Materials 4s 8d (nine loads of ford stone, one cart of clay, one bushel of lime — **the leather washer is on the pump, not on the bill**); labour six persons, forty-six hours, at threepence the hour, 11s 6d; total 19s 2d. **At fourpence the total is exactly a pound, and that check is on the page in Corrie Lille's mouth, and the district rate for common work has been threepence the hour since a year before anybody in the lane was born.** The office recovers over ten years out of a rate struck as a fraction of a valuation **that has not been made.** A chapter that makes the money larger has broken the batch's argument.
+1. **The rate is nineteen shillings and twopence and the rate is not the number.** Materials 4s 8d (nine loads of ford stone, one cart of clay, one bushel of lime — **the leather washer is on the pump, not on the bill**); labour six persons, **forty-six hours between them**, at threepence the hour, 11s 6d; total 19s 2d. **Forty-six hours is the whole of the labour, not forty-six hours a man** — six persons times forty-six hours times threepence is three pounds nine and not eleven shillings and sixpence, and the form now says *between them*. **At fourpence the labour is 15s 4d and the total is exactly a pound, and that check is on the page in Corrie Lille's mouth, and the district rate for common work has been threepence the hour since a year before anybody in the lane was born.** Corrie's other sentence is also on the page and is true: **the hour is three-quarters of the hour he knew and the money is fourpence out of twenty shillings, and the price came off the work and stayed on the paper.** He does not say the *sum* is three-quarters of anything, because 19s 2d against a pound is fourpence out of twenty shillings. The office recovers over ten years out of a rate struck as a fraction of a valuation **that has not been made.** A chapter that makes the money larger has broken the batch's argument.
 2. **A rate is charged on a door and not on a person, and that is why Corrie Lille's refusal cost him nothing.** He gave the count and withheld his name on the fourth, it is recorded as unwilling and not argued with, it is on the district book, and it did nothing whatever to the sum. **Do not compensate him late and do not call the refusal futile in the register sense.** The refusal bought a record and no money, and both of those are the point. **The tally is nine names given, one withheld, one person absent and not named for him because his mother would not be asked — it is nine and not ten, and the three records agree.**
 3. **The pencil line stands at a desk, a fortnight and a writ.** Docket 411, Receipts desk, examination table, fourth desk, held by the examination office; the establishment list is a list of offices and its holder column reads *vacant* four times; court-supply pencil batch eighteen, exhausted inside the fortnight of issue, fourteen years ago. **No return was ever recorded because the volume went out on a writ and the writs are in the Low Ward, in an office the Memory Office has never held.** Aldwin said a writ book is a district record and would not read out of another office's book in his own room. **The place the letter will name is not named anywhere yet. No man at the desk is named and the taker is not named.**
 4. **The tank is 2 ft 6⅛ and has not moved since the Thursday the twenty-ninth of the month before last.** The whole inch came back in six days; no chapter may call the fall half an inch. **The tank has no rate, has never had one, and Wick said he would not put one on it.** The card is not read again until the last Saturday in the month.
@@ -67,7 +76,7 @@ Tank no rate. Flume 844/launder vs 850 agreed, 25 gallons unresolved. Window 3,4
 
 ## Length
 
-**Target 27,000–29,000 words; hard ceiling 29,500.** Per-chapter figures from `wc -w`. No chapter under 2,400; none over 3,600 without reason. **Batch 0001 came in at 29,299 and Batch 0002 at 29,420 — both over the top of the target and under the ceiling, and both got there by deletion and not by rewording. Trim before you inflate.**
+**Target 27,000–29,000 words; hard ceiling 29,500.** Per-chapter figures from `wc -w`. No chapter under 2,400; none over 3,600 without reason. **Batch 0001 came in at 29,299 and Batch 0002 at 29,483 — both over the top of the target and under the ceiling, and both got there by deletion and not by rewording. Trim before you inflate.**
 
 ## After the batch
 

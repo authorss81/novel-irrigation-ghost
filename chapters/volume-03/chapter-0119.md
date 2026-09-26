@@ -32,7 +32,7 @@ Then Armist Sarg put the question that everybody in the shop had been thinking a
 
 "Then it has done nothing," Armist said. "Mrs Ammid, I am sorry. You have written a thing down and read it out twice and it has gone in a bag."
 
-"It has done one thing," Perdie said, "and it is not the thing anybody in this shop wants, and I would rather have it and not want it than not have it and want it. In about four years a clerk in a counting-house is going to be copying forward a number out of a bundle about this flood, because that is what he is for, and he is going to have two of them in front of him and he is going to take one, and I cannot stop him and neither can you, and neither can Iven Marrow from Bexhill with a guild behind him. What I can do is make sure that the two numbers are in the same bag with the same word at the top of them, and that the woman who says so is the woman who read them out, and that a sheet with the word copy at the top of it is a thing that exists in four buildings and cannot be wished away by anybody in a hurry. That is all. It is a small thing. It is the only thing anybody in this valley has ever had for putting a true number next to a different true number, and I have been doing it since the sixteenth of last month and I am not going to stop."
+"It has done one thing," Perdie said, "and it is not the thing anybody in this shop wants, and I would rather have it and not want it than not have it and want it. In about four years a clerk in a counting-house is going to be copying forward a number out of a bundle about this flood, because that is what he is for, and he is going to have two of them in front of him and he is going to take one, and I cannot stop him and neither can you, and neither can Iven Marrow from Bexhill with a guild behind him. What I can do is make sure that the two numbers are in the same bag with the same word at the top of them, and that the woman who says so is the woman who read them out, and that a sheet with the word copy at the top of it is a thing that exists in four buildings and cannot be wished away by anybody in a hurry. That is all. It is a small thing. It is the only thing anybody in this valley has ever had for putting a true number next to a different true number, and I have been doing it since the sixteenth of the month before last and I am not going to stop."
 
 Wick Venn had been standing by the door with his coat on, because he had the noon plank and had come in on his way.
 
@@ -46,7 +46,7 @@ Wick Venn had been standing by the door with his coat on, because he had the noo
 
 Wick looked at the floor for a moment. "That is fair," he said. "I will not ask you again." And then, to nobody: "I would like it on the slate that I did not ask."
 
-The boy was in the shop. He had come in after the noon trial with the slate under his arm, and he had stood at the back through the whole reading, and when it finished he came up the room and put the slate on the counter and said:
+The boy was in the shop. He had come in on his way to the noon trial with the slate under his arm, and he had stood at the back through the whole reading, and when it finished he came up the room and put the slate on the counter and said:
 
 "Mr Rusk. You have to answer one thing and then I will go and fetch the pails."
 
@@ -60,7 +60,7 @@ And the shop, which had been listening, went entirely quiet in the way a room of
 
 The boy nodded once, and picked his slate up, and went to fetch the pails.
 
-And that was the end of it, and nobody said anything else about the number that day, and Tarin Rusk stood in a shop at Brant on the Wednesday morning, the eleventh of next month, and had said one word, out loud, in front of nine people, and had thereby taken the only thing he had done on Tuesday — a true answer in a fair hand to a question that did not ask it — and put it beyond himself, and there was no hand on a wall in this basin that could put it back.
+And that was the end of it, and nobody said anything else about the number that day, and Tarin Rusk stood in a shop at Brant on the Wednesday morning, the eleventh of next month, and had said one word, out loud, in front of eleven people, and had thereby taken the only thing he had done on Tuesday — a true answer in a fair hand to a question that did not ask it — and put it beyond himself, and there was no hand on a wall in this basin that could put it back.
 
 Nobody in the shop said *thank you*. Nobody said *you are a fool* either. Armist Sarg picked his hod up and went out. Mrs Halward put her shawl on and said, to nobody, "I have been in this valley forty-one years and the thing I have never once seen is a man say out loud that a number of his was the smaller number."
 
@@ -84,7 +84,7 @@ That evening her chest had a letter in it, and it had been three lines since the
 
 She put the lid down without the letter in it, and then put it in, and shut the lid, and sat with her hands flat on it.
 
-**The fourth line was not for him.** It was a sentence with a counting in it, and he would read it as a figure, and there is no figure in it, and the only true thing in it is that she will not be asked to say it softly — and that is hers, and she has said it in a shop in front of nine people, and there is not one reason on earth why she should say it to a man four days away in Bexhill when she has nine people in a shop. She will not send it. It is not finished and it is not going to be finished this week, and she told Bess Ilk on the second of next month that a woman who has written to a man four times in thirty-one years does not learn a new letter in sixteen days, and that she would give the same answer in a month in the same words, and that is what a fortnight is for.
+The fourth line was not for him, and she knew the whole of the reason without having to be clever about it. A sentence with a counting in it, sent to a man four days away in Bexhill, would be read by him as a figure, and there is no figure in it. The only true thing in it is that she will not be asked to say it softly, and that is hers, and she has said it in a shop in front of eleven people, and there is no reason on earth why she should say it to a man with a guild behind him. She will not send it. It is not finished and it is not going to be finished this week, and she told Bess Ilk on the second of next month that a woman who has written to a man four times in thirty-one years does not learn a new letter in sixteen days, and that she would give him the same answer in a month in the same words, and that is what a fortnight is for.
 
 The butt at Nether Sallow took an hour and seventeen minutes. Eighty-first day. The boy counted out loud to forty without being asked and Nesta marked the shutter *full, Wednesday the eleventh of next month, eighty-first day*, and the frame on the culvert post went past empty and would go past empty tomorrow, and would go past empty on Thursday, and the only notice this business has is nailed to a bar four miles off.
 

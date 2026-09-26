@@ -52,13 +52,13 @@ That was the thirty-first of the month before last. It was ten days ago.
 
 He wrote *one*.
 
-He wrote it in the same hand that wrote the staff readings on a boy's slate, and the bond sketch at a coping, and a refusal on a numbered sheet in front of three witnesses, and he wrote it as cleanly as he wrote anything, and he understood while the pen was moving that this was the part of it he would not be able to put anywhere: a man who writes a concealment badly at least leaves the hesitations in it for somebody to read. He wrote it in a fair hand with no stop in it, and the writing said *one* the way a writing says anything, which is without caring.
+He wrote it in the same hand that wrote the staff readings on a boy's slate, and the bond sketch at a coping, and a refusal on a numbered sheet in front of three witnesses, and he understood while the pen was moving that this was the part of it he would not be able to put anywhere: a man who writes a concealment badly at least leaves the hesitations in it for somebody to read. He wrote it in a fair hand with no stop in it, and the writing said *one* the way a writing says anything, which is without caring.
 
 "Paper thirty-two," he said. "That is what was read out to me. I heard it, I heard it read in full, and I put my hand on the book before it was closed, and that is the whole of what I have to say to that column."
 
 Harker read it back, and then said the thing that made the rest of the morning possible:
 
-"That is a true answer, and I am going to write *true* in the margin beside it, and the word *true* in my hand is worth more in that file than anything either of us could add to it. Do you understand what has just happened. You have written a smaller number than what happened, and the smaller number is the one the form asked for, and a man in a shed in a village has put his name to it. I have sworn nine men this month and two of them are not back from the county town, so I will tell you the trick of this trade, which is that a man who says *I know nothing of it* is believed and a man who says *I know all of it* is not, and there is no third thing and I have never once found one."
+"That is a true answer, and I am going to write *true* in the margin beside it, and the word *true* in my hand is worth more in that file than anything either of us could add to it. Do you understand what has just happened. You have written a smaller number than what happened, and the smaller number is the one the form asked for, and a man in a shed in a village has put his name to it. I have sworn nine men since the first of next month and two of them are not back from the county town, so I will tell you the trick of this trade, which is that a man who says *I know nothing of it* is believed and a man who says *I know all of it* is not, and there is no third thing and I have never once found one."
 
 "Then write *true*," Tarin said.
 
@@ -80,7 +80,7 @@ Tarin put the pen down and thought about it for the length of about nine seconds
 
 He signed it, and dated it, and put the place under the date, and beside his signature a line in his own hand: *written at the place of the holding, in the presence of the warden of the lower Sere and of P. Ammid, at the plank, Nether Sallow, on the tenth day of next month.*
 
-Perdie Ammid had come up the lane at about eleven without being asked, with the satchel, because a thing written at a wall in this valley is written in front of the valley's record. She had stood a yard and a half off and had heard every word of it, all of it, both numbers, or at any rate the one that was said out loud, and she had said nothing, and she said nothing now, and she took out sheet thirty-eight and wrote the number at the top with the word *copy* under it, and wrote out what he had said as nearly as she could, and read all of it back to the wall, including the column, including the *one*, including the word *true* in the margin, and she read it back in the flat voice she used for sheets.
+Perdie Ammid had come up the lane at about eleven without being asked, with the satchel, because a thing written at a wall in this valley is written in front of the valley's record. She had stood a yard and a half off and had heard every word of it, and the number that was said out loud, and she had said nothing, and she said nothing now, and she took out sheet thirty-eight and wrote the number at the top with the word *copy* under it, and wrote out what he had said as nearly as she could, and read all of it back to the wall, including the column, including the *one*, including the word *true* in the margin, and she read it back in the flat voice she used for sheets.
 
 "That is a fair copy," she said. "Thirty-eight."
 

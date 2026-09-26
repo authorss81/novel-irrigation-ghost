@@ -50,7 +50,7 @@ He put his hand flat on the stone of the face, the way a man puts a hand on a th
 
 He was an old man in waders with net twine in his pockets and he had been the record of that row on his own hook for eleven years.
 
-"You are charged for doing it for nothing," Dorrin said, "and so is the row charged for a man from across the ford, and I have not decided whether that is fair and I have written all four of your names on it, which is what the form requires and not more than the form requires." "And I want you to hear the second thing better than the first. The charge will be small. And I want you to hear the first thing anyway, and it is that nothing in this is against you. It is a district that has never paid anything, paying something, for the first time."
+"You are charged for doing it for nothing," Dorrin said, "and so is the row charged for a man from across the ford, and I have not decided whether that is fair and I have written all four of your names on it, which is what the form requires and not more than the form requires." He did not stop. "And I want you to hear the first thing, which is that nothing in this is against you, and I want you to hear it anyway. It is a district that has never paid anything, paying something, for the first time. And then the second thing, which I want you to hear better than the first, because the first is that you are charged. The charge will be small."
 
 "Then it is a punishment with a small number on it," Corrie said, and went and sat on the coping of the pump.
 
@@ -94,7 +94,7 @@ He could feel the whole of it from the wall. Four miles two chains of drain from
 
 It was all true and it was all checkable, and there was not one part of it he could have told anybody on Tuesday morning that he had not found out by standing in a lane in daylight with his boots on.
 
-That was the difference, and it was the whole of the difference, and it had been the whole of the difference since Monday the twenty-sixth, and a man could stand at a wall at six in the evening with his palm on cold stone and be exactly as useful as a man with a rule.
+That was the difference, and it had been the whole of it since Monday the twenty-sixth, and a man could stand at a wall at six in the evening with his palm on cold stone and be exactly as useful as a man with a rule.
 
 "Saturday," the boy said, with the slate under his arm. "Six in the morning. That is a working morning."
 

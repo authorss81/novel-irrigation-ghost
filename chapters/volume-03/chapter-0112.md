@@ -80,7 +80,7 @@ Corrie Lille did not say no straight away, and everybody in the lane noticed tha
 
 "It is not argued with," Harker said, to nobody, to the whole lane, and then to Nye, "write that on the form and let us have the next door."
 
-But there was no next door, because the sixth was the last, and the lane was standing in the sun with a form with five names on it and a sixth box empty and a hook in a man's house that nobody in a city was ever going to read.
+But there was no next door, because the sixth was the last, and the lane was standing in the sun with a form with nine names on it and one box empty and a hook in a man's house that nobody in a city was ever going to read.
 
 Corrie went in. He did not slam the door. He took his waders off on the step, which is a thing a man does when he has decided a thing and is not in a hurry about it.
 
@@ -108,7 +108,7 @@ Nobody thanked the warden, and he did not ask, and Nye packed his form into his 
 
 ---
 
-At the plank at Nether Sallow that evening, the butt took an hour and eighteen minutes because the water at the notch was cold and the boy counted slower in the cold and laughed about it. Seventy-fourth day. Nesta marked the shutter, and the drain figure went on the shutter beside the plank, and the frame on the culvert post went past empty, ninety years old, with nothing in it and nothing to be said in it.
+At the plank at Nether Sallow that evening, the butt took an hour and eighteen minutes because the water at the notch was cold and the boy counted slower and laughed about it. Seventy-fourth day. Nesta marked the shutter, and the drain figure went on the shutter beside the plank, and the frame on the culvert post went past empty, ninety years old, with nothing in it and nothing to be said in it.
 
 At about the twenty-second trip the boy said, "Eleven, door by door, off a hook, and one man would not say his name."
 

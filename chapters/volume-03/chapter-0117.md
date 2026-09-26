@@ -2,13 +2,13 @@
 
 On the Monday morning, the ninth of next month, Cobb came over Cinder Ford with a printed form in a stiff cover, and read it out in the lane, because a bill that is not read out is a bill that arrives on a door without anybody having told the door it was coming.
 
-It was the Fair Copy's form for a work of improvement charged to a district. It had a heading and nine boxes, and Cobb read the whole of it standing on the coping of the pump with the sun behind him and about nine people in the lane and one of them holding a windlass handle because she had just finished putting a bucket down.
+It was the Fair Copy's form for a work of improvement charged to a district. It had a heading and nine boxes, and Cobb read the whole of it standing on the coping of the pump with the sun behind him and about nine people in the lane, one of them holding a windlass handle because she had just finished putting a bucket down.
 
-"District: Cinder Ford far-bank row, so called by residents, reported. Row number as entered, and the number is good and I am not touching it. Work: bank at lane end, making-good to the line with a bond, a joint and a date in the coping, executed on the seventh of next month. Materials: stone from the ford bank, nine loads; clay, one cart; lime for the joint, one bushel. Four shillings and eightpence." He turned the sheet so the lane could see it. "Labour: six persons, forty-six hours, at threepence the hour, being eleven shillings and sixpence. Total, nineteen shillings and twopence."
+"District: Cinder Ford far-bank row, so called by residents, reported. Row number as entered, and the number is good and I am not touching it. Work: bank at lane end, making-good to the line with a bond, a joint and a date in the coping, executed on the seventh of next month. Materials: stone from the ford bank, nine loads; clay, one cart; lime for the joint, one bushel. Four shillings and eightpence." He turned the sheet so the lane could see it. "Labour: six persons, forty-six hours between them, at threepence the hour, being eleven shillings and sixpence. Total, nineteen shillings and twopence."
 
 Corrie Lille made a noise that was not quite a laugh.
 
-"Nineteen shillings and twopence," he said. "That is a hen and a half and a change for a bucket. And the going rate for a man with a barrow in the year I came was fourpence, and at fourpence your forty-six hours comes to fifteen shillings and fourpence and your total comes to a pound exactly, and it would not have been sixpence out. So the sum is three-quarters of what it was worth, and it is still the first money anybody has ever wanted off this lane, and I would like somebody to write down that I said both of those."
+"Nineteen shillings and twopence," he said. "That is a hen and a half and a change for a bucket. And the going rate for a man with a barrow in the year I came was fourpence, and at fourpence your forty-six hours comes to fifteen shillings and fourpence and your total comes to a pound exactly, and it would not be a penny out. So the hour is three-quarters of the hour I knew and the money is fourpence out of twenty shillings, and there is the whole of it: they have taken the price off the work and left it on the paper. It is still the first money anybody has ever wanted off this lane, and I would like somebody to write down that I said both of those."
 
 "That is the sum for the works," Cobb said. "I want the next three things read out with it, because a form read in halves is worse than a form not read at all. And I will say before I go on that the sum is at the district rate for common work, and the district rate is threepence the hour, and it has been threepence the hour since a year before any person in this lane was born. One. That sum is charged to the district. Two. The district enters the district book on Thursday the twelfth of next month, and the entry will be made in the district book and not in the return, and the return already has your six doors and your eleven persons in it from Wednesday. Three. The rate is struck at the next valuation, and the valuation has not been made, and I cannot give you a rate this morning and neither can anybody else in this lane."
 
@@ -56,7 +56,7 @@ Nobody answered her, and Tarin Rusk, who was on the coping with a bad shoulder a
 
 Cobb looked at the girl for a while and then he said the truest thing a man in his trade had said in that lane, which was that he had no word for it either and had been doing the work nineteen years.
 
-"A favour can be withdrawn," he said. "A rate cannot be argued out, because a rate is not a favour, it is an arithmetic, and the arithmetic goes on whether you like it or not, and there is a difference between a thing that is done for you and a thing you are counted in, and I have never had to explain that difference to a person having to pay for it, and I have not got it ready, and I am not going to invent it on a Monday morning in a lane." He put the cover back on the form. "You are right that it is a good trade. I have thought so twice this month. Do not tell your grandmother I said it and I will say it again in a worse place."
+"A favour can be withdrawn," he said. "A rate cannot be argued out, because a rate is not a favour, it is an arithmetic, and the arithmetic goes on whether you like it or not, and there is a difference between a thing that is done for you and a thing you are counted in, and I have never had to explain that difference to a person having to pay for it, and I have not got it ready, and I am not going to invent it on a Monday morning in a lane." He put the cover back on the form. "You are right that it is a good trade. I have thought so twice since the first. Do not tell your grandmother I said it and I will say it again in a worse place."
 
 ---
 
@@ -72,7 +72,7 @@ Perdie Ammid, who was fifty-four and had kept four books in a chest for twenty-s
 
 "Write that down as well," Sella said.
 
-"It is on the sheet," Perdie said. "I am not adding to it in a lane. It goes on a numbered sheet with the number at the top or it does not go at all, and there are thirty-seven of them now and no book, and the satchel goes down the road on Friday with the notice of the district book on top of it, and you may all read the lot at the shop on the Friday, and if I have said a foolish thing you may tell me and I will write it down and say so beside it."
+"It is on the sheet," Perdie said. "I am not adding to it in a lane. It goes on a numbered sheet with the number at the top or it does not go at all, and there are thirty-seven of them now and no book, and the satchel goes down the road on Friday with the notice of the district book on top of it, and you may all read the lot at the shop, and if I have said a foolish thing you may tell me and I will write it down and say so beside it."
 
 ---
 

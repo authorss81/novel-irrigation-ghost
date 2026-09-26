@@ -24,7 +24,7 @@ Sella saw him first.
 
 "Do not be sorry to me. Be useful to somebody." She turned back to the stone. "There is a hod by the third coping and it wants carrying to the line and Cobb has written that eleven o'clock is the hour the joint wants doing and it is nine. Take the hod."
 
-He took the hod. It went about four times in the next two hours, and his shoulder would not take a hod at all after the first, so he carried it hooked in the crook of his elbow against his chest, and Cobb wrote in his book that the coping at the lane end was carried by four persons of the row and one man of the valley whose name was not on the notice, and Tarin did not correct him, and nobody did.
+He took the hod. It went about four times in the next two hours, and his shoulder would not take a hod at all after the first, so he carried it hooked in the crook of his elbow against his chest, and Cobb wrote in his book that the coping at the lane end was carried by four persons of the row, and by the man of Nether Sallow, and by one man of the valley whose name was not on the notice, and Tarin did not correct him, and nobody did.
 
 They laid stone to the line from about ten until one, in courses, with a bond, and Wick Venn said nothing at all for two hours except *that one, that one, hold that one*, and the lime was mixed by Jess on a board with a bucket, and the boy was not there, because it was a working morning and a boy of fifteen with a slate has no business on a bank at six in the morning and Nesta Sarg had told him so on the Friday and he had obeyed her, which is a thing that ought to be worth something.
 
@@ -34,7 +34,7 @@ At about half past ten Cobb came down the line with his book shut under his arm 
 
 Wick went along the foot with a bar and a length of chalk and came back and said, "A yard and a half along and down, and not all at once. It wants the second course in first, and it wants to know that before we put a stone on it that will not come up again."
 
-"Then we do it that way," Cobb said, and wrote in the day-book line: *course set by the man of Nether Sallow and checked with a bar by Mr W. Venn, both of the row, the check being the authority and not the saying*, and Tarin read it over his shoulder and did not ask for a word changed, which was the first time in fourteen years he had said a thing about earth to a stranger and had a man with a bar agree with it in front of six people, and which was worth exactly what the bar was worth and not one trip more.
+"Then we do it that way," Cobb said, and wrote in the day-book line: *course set by T. Rusk, of no district, of no office, of Nether Sallow by residence, and checked with a bar by Mr W. Venn of Nether Sallow, the check being the authority and not the saying*, and Tarin read it over his shoulder and did not ask for a word changed, which was the first time in fourteen years he had said a thing about earth to a stranger and had a man with a bar agree with it in front of six people, and which was worth exactly what the bar was worth and not one trip more.
 
 At about twenty past one Cobb cut the coping stone. It took him a while, because he was doing it properly, with a cold chisel and one light blow at a time, and the stone is hard and the letters are small, and he did not have a mason and would not pretend to.
 
@@ -52,7 +52,7 @@ Sella looked at it for a while.
 
 "I will say the other thing, since six people are standing here and four of them are the ones who paid for it in a morning. I have cut a district into a stone. That is me. And a district can be charged, and this one will be, and the sum will be on a form on Monday and the form will name this row and the six doors in it, and I cut the words that let it be named. I have done it knowing. I would like it in the book that I knew."
 
-"Then you are the magistrate's clerk and you did the clerk's work," Sella said, "and I have been on the wrong end of a clerk's work twice this month and one of the times it was correct. I am not going to make it easier for you by pretending otherwise and I am not going to make it harder. Cut your stone."
+"Then you are the magistrate's clerk and you did the clerk's work," Sella said, "and I have been on the wrong end of a clerk's work twice this week and one of the times it was correct. I am not going to make it easier for you by pretending otherwise and I am not going to make it harder. Cut your stone."
 
 Cobb cut his stone. And that was the end of it.
 
@@ -62,7 +62,7 @@ The bank came up to the line with a bond in it and a joint in it and a date in t
 
 Tarin looked at the sketch for a while and then wrote under it, in the space at the bottom for a person who is not on the notice: *Bond as laid, three courses, broken joint at every third. Stone to the line. I have not laid a bond in nine years. — T. Rusk, of no district, of no office, of Nether Sallow by residence, at the plank.* And Cobb read it and did not cross anything out, and Tarin understood at the time that a man who can be wrong in writing is a man somebody can check, and had understood since the second of next month, and that this was the one thing his hand was for.
 
-They came off the bank at about three, and he carried the hod back to the third coping with his arm against his chest, and Sella let him and did not help, and Corrie Lille watched him do it and said nothing at all, which was the last thing Corrie Lille had to say on the subject of hands, and had said on the sixth of the month before last and on the first of next month and would not say again this season.
+They came off the bank at about three, and he carried the hod back to the third coping with his arm against his chest, and Sella let him and did not help, and Corrie Lille watched him do it and said nothing at all, which was the last thing Corrie Lille had to say on the subject of hands, and had said on the sixth of the month before last, and on the twenty-seventh, and on the first of next month, and would not say again this season.
 
 ---
 

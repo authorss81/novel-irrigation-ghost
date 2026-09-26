@@ -2,6 +2,8 @@
 
 **Second batch of Volume 03, *The Flood Ledger*.** Read this prompt, **`state/volume-02-close-review.md`**, **`state/batch-0011-summary.md`**, and the **Chapter 101–110 entries in `state/chapter-summaries.md`** before anything else. Batch 0001 is the state this batch starts from.
 
+> **ERRATUM, added by the review-fix pass after this batch was delivered. Do not re-run this brief as written.** Its calendar block contradicts itself: the table labels Day 158 *the third of next month* while the glossary says *next month* begins Day 187. **Next month is the month beginning Day 156 (a Sunday), Days 156 to 186, and the flood month, Days 125 to 155, is *the month before last*.** The glossary below is wrong and the correct rule is in `outline/volume-03.md`, in `state/continuity.md` under *The month-naming rule*, and in the Batch 0003 prompt, which has it right. The brief is kept unedited above this line as the record of what the writer was given.
+
 ## What this run is
 
 **Eleven persons are accounted for where nineteen years said nobody, and the seal is lifted pending a bank view, and the tally proceeds *if willing*, and a flood book with its last pages cut out is with the Memory Office for provenance.** This batch is where *countable* starts costing: the bank view, the willing tally, and the pencil line's hand. **It is also where the butt routine starts costing Tarin daylight** — forty trips every evening while the valley asks him to be elsewhere in the mornings.

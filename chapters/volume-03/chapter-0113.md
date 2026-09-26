@@ -2,7 +2,7 @@
 
 On the Thursday morning, the fifth of next month, the Municipal Memory Office at Vellum put a hundred-and-eighty-one-year-old book on a reading table under the tall window and did the only thing anybody can do with a book with a gathering cut out of the end of it, which is to look at what is left and write down what the looking establishes.
 
-Mara had asked for the session on the Monday. She had it in eleven years of service as a thing she was owed, and she asked for it in writing, in one paragraph, with the date on it, and the store keeper brought the book up from the low store under the reading room in two arms and set it on the table under a weight, and would not let anybody open it until she had the room to herself for four minutes, which she had.
+Mara had asked for the session on the Monday. She had it in eleven years of service as a thing she was owed, and she asked for it in writing, in one paragraph, with the date on it, and the store keeper brought the book up from the low store in two arms and set it on the table under a weight, and would not let anybody open it until she had the room to herself for four minutes, which she had.
 
 The book was in a plain wooden case with a lid tied on by cord, and the cord had been cut and retied twice since Saturday. The court had sent for it on the Monday and the district's cart had carried it down on the Wednesday, wrapped in sacking with a return docket against it, and it had been in the low store since the Wednesday evening because nobody in the building had been told what it was and the store keeper does not open what she has not been told about. Perdie Ammid had gone into the record house on the Tuesday with a lamp and made a tracing of the back board, the stubs, and the pencil line inside it, and had sent the tracing up with the cart, because a tracing is a thing a conservator makes and a tracing cannot carry a drop of ink. Both were on the table, and Perdie was in the room with a slate on her knee.
 
@@ -38,7 +38,7 @@ Perdie Ammid was looking at the list with both hands flat on the table, and she 
 
 The ink was the second answer and it was the answer Mara had expected and the answer that settled the date.
 
-The court-supply pencil came into the building in batches, and the store book said so, in a hand forty years older than anybody in the room: *batch eighteen, received in the second week of the month, issued to examination, exhausted, remainder four sticks returned.* One line. It was a thing that happened about twice a year, and it was in the store book, and the store book was the office's own record of its own consumables and had never once been in dispute in anybody's memory.
+The court-supply pencil came into the building in batches, and the store book said so, in a hand forty years older than anybody in the room: *batch eighteen, received in the second week of the month, issued to examination, exhausted, remainder four sticks returned.* One line. It was a thing that happened about twice a year, and the store book was the office's own record of its own consumables and had never once been in dispute in anybody's memory.
 
 "So the line on that back board is in a batch that was exhausted," Mara said. "Which means it was written in the fortnight the batch was current, and not in the year before it and not in the year after."
 
@@ -52,7 +52,7 @@ The fourth question was *whether any return was ever recorded*, and Aldwin put h
 
 "Tell me the answer," Mara said.
 
-"There is no return." He said it plainly, the way he said everything, and then he said the rest of it, because he had been keeper of a store for twenty-two years and had never in that time made a thing worse by saying a whole sentence. "And I want to be exact, because I am aware that *no return* is a sentence that a man in a bad position would give about himself. A return is a thing that comes back into this office. Four-one-one is the series for things that come in. This book was not docketed in four-one-one. It has a docket, and the docket is in a different series, and I have not looked up that series in front of you because it is not mine and it is not this office's, and a keeper of a store who reads out of another office's book in his own room should hand in his keys."
+"There is no return." He said it plainly, the way he said everything, and then he said the rest of it, because he had been keeper of a store for twenty-two years and had never in that time made a thing worse by saying a whole sentence. "And I want to be exact, because I am aware that *no return* is a sentence that a man in a bad position would give about himself. A return is a thing that comes back into this office. Four-one-one is the series for things that come in. This book was not received in that series. It has a docket, and the docket is in a different series, and the slip on this table is a specimen the store keeps of the four-one-one and is not this book's receipt, and I have not looked up that other series in front of you because it is not mine and it is not this office's, and a keeper of a store who reads out of another office's book in his own room should hand in his keys."
 
 Mara put her pen down. "Which series."
 
@@ -80,7 +80,7 @@ He entered it in his own hand, in the third person, and read it back, which is t
 
 The rest of the afternoon was the register, and it was ordinary, and it was the part of the day that cost something.
 
-The intake clerk indexed the valley satchel. Thirty-three numbered sheets came into the office on the Saturday night in one bundle with the return docket against it, and the clerk wrote them into the receipt register in order and counted them twice because counting is the only part anybody enjoys.
+The intake clerk indexed the valley satchel. Thirty-three numbered sheets came into the office on the Saturday night in one bundle with the return docket against it, and the clerk wrote them into the receipt register in order and counted them twice, which is the only part anybody enjoys.
 
 "Thirty-one, thirty-two, thirty-three," he said. "And the bundle to the flood court on the Sunday carried thirty-one and thirty-two."
 
@@ -120,7 +120,7 @@ Tarin tipped the pail in. "Thirty-eight."
 
 Perdie stood at the bottom of the bank with the satchel at her feet and looked at the pail going up and coming down empty.
 
-"They found out that a hand belongs to a desk," she said. "They found out which desk, and which fortnight, and that the book went out on a writ to an office in the Low Ward that this office has never heard of, and there is a letter going asking after it, and the letter has not been answered. They found out that no return was ever recorded and that nobody in that building thinks anybody was hiding anything, and they found out that the list they keep of who held a desk in that year is a list of offices and not of men, and the holder column says *vacant* four times." She picked the satchel up. "I did not learn anything that is worth a number, Tarin, and I have been on a cart for four days hoping to."
+"They found out that a hand belongs to a desk," she said. "They found out which desk, and which fortnight, and that the book went out on a writ to an office in the Low Ward that this office has never heard of, and there is a letter going asking after it, and the letter has not been answered. They found out that no return was ever recorded and that nobody in that building thinks anybody was hiding anything, and that the list they keep of who held a desk in that year is a list of offices and not of men, and the holder column says *vacant* four times." She picked the satchel up. "I did not learn anything that is worth a number, Tarin, and I have been on a cart for four days hoping to."
 
 He went up for the fortieth and the butt was full, and the shutter said *full, Thursday the fifth of next month, seventy-fifth day* in Nesta's hand, and the frame on the culvert post was empty, and the boy wrote nothing on his slate at all, which was the correct thing to have written.
 
@@ -130,7 +130,7 @@ At the Memory Office in Vellum, at about eight o'clock at night, Mara Quill sat 
 
 *One sheet withheld from publication. Officer: M. Quill. Reason: —*
 
-She had signed a certificate with her own name on it three days ago, and a row number she had entered herself for a district that had none, and she had published the valley's flood book into a court's bundle because that was what the office was for, and she had done all of it well. And in eleven years she had never put her own name in a register against a withheld thing, and she had sworn at twenty-one never to be a keeper of a thing nobody could check, and on the fifth of next month she had become one in a building with a printed column and a ruled line for the reason.
+She had signed a certificate with her own name on it eight days ago, and a row number three days ago that she had entered herself for a district that had none, and she had published the valley's flood book into a court's bundle because that was what the office was for, and she had done all of it well. And in eleven years she had never put her own name in a register against a withheld thing, and she had sworn at twenty-one never to be a keeper of a thing nobody could check, and on the fifth of next month she had become one in a building with a printed column and a ruled line for the reason.
 
 She could have written a reason. She had a true one, and it was that a man had told nine people in a valley on a Saturday what he had never told her, and that publishing it would put a man's unfinished sentence into a court's margin where somebody would be tempted to fill in the blank themselves. That was true, and it was publishable, and it was the kind of reason that a register column is for.
 

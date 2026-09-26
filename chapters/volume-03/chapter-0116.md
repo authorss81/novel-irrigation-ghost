@@ -1,6 +1,6 @@
 # Chapter 0116 — What Sella Asked For
 
-On the Sunday morning, the eighth of next month, the pump at Cinder Ford far bank was taken apart on the lane and the well at the end of it was bailed dry by hand, and neither job made anything anybody could put in a book, and both of them took the whole day.
+On the Sunday morning, the eighth of next month, the pump at Cinder Ford far bank was taken apart in the lane and the well at the end of it was bailed dry by hand, and neither job made anything anybody could put in a book, and both of them took the whole day.
 
 Sella Marr had asked for six things on the Tuesday the twenty-seventh of the month before last, in her own kitchen, with a cup of broth in front of a man she had met twice. She did not have them written down and she did not need to be prompted.
 
@@ -40,7 +40,7 @@ The head came off with two spanners and a cold wrench and a good deal of languag
 
 "It is clean," Sella said, "and clean is what I asked for on the twenty-seventh and clean is what I have got, and I know the difference between clean and drinking at sixty years of age."
 
-They bailed the well from noon. That is four hours of four people on a windlass with a rope and a bucket, and the water that came up the first hour was the colour of tea and had to go over the side onto the grass, and the second hour it was the colour of the Sere, and the third hour it came up nearly clear and they kept going anyway, because nobody in that lane had a reason to stop that anybody could explain, and the fourth hour the bucket was coming up with air in it and the rope was slack and there was nothing left in the well but a hole.
+They bailed the well from noon. That is three hours of four people on a windlass with a rope and a bucket, and the water that came up the first hour was the colour of tea and had to go over the side onto the grass, and the second hour it was the colour of the Sere, and the third hour it came up nearly clear and they kept going anyway, because nobody in that lane had a reason to stop that anybody could explain, and then the bucket was coming up with air in it and the rope was slack and there was nothing left in the well but a hole.
 
 Sella said the rest of it to nobody in particular.
 
@@ -48,7 +48,7 @@ Sella said the rest of it to nobody in particular.
 
 Corrie put the bucket on the coping and wiped his forehead with his wrist. "Put it on the form I do not have," he said, "and put it on the slate at the shop, and if a man wants to argue with it he can come and see the well."
 
-That was the whole of the Sunday. The Trews went home at three, Jess carried the boy up and down all afternoon with a hand on the windlass because the boy wanted the noise, and the water in the pump came up clean and the water in the well came up nearly clear, and both had to be boiled and both would have to be boiled tomorrow, and neither of them was anywhere near a rating.
+That was the whole of the Sunday. The Trews went home at three, Jess carried the boy up and down all afternoon with a hand on the windlass because the boy wanted the noise, and the water in the pump came up clean and the water in the well came up nearly clear, and both had to be boiled tomorrow, and neither of them was anywhere near a rating.
 
 Tarin was there all day and was no use to anybody in it.
 
@@ -94,6 +94,6 @@ The boy wrote *no*, and read it out, and then thought about it for about nine tr
 
 Nesta was at the top of the bank with the chalk, and she had not been asked, and she said the one sentence that was in her to say about it, and she said it to the boy and not to the man, because a woman of forty-one has spent thirty-two years finding out which of the two is worth talking to.
 
-"There has been nothing in that frame since the second of this month, when six of us took a card off it in daylight and turned it over and cut the tin out of it, and the frame went back up because a frame is ninety years old and a card is six. It said CLOSED. No water. No entry. Under penalty. And it named no office and named no person, and it was the reason this lane's water was a secret for six years." She wrote *full* on the shutter and the date under it and did not divide anything. "A frame is for a notice a person can be charged under. There is nothing in this lane anybody can be charged under yet, and I would not know how to word it if there were, and neither would you, and the day I can word it is the day somebody is going to want to be served out of it. So it stays empty. Ninety more years."
+"There has been nothing in that frame since the second of the month before last, when six of us took a card off it in daylight and turned it over and cut the tin out of it, and the frame went back up because a frame is ninety years old and a card is six. It said CLOSED. No water. No entry. Under penalty. And it named no office and named no person, and it was the reason this lane's water was a secret for six years." She wrote *full* on the shutter and the date under it and did not divide anything. "A frame is for a notice a person can be charged under. There is nothing in this lane anybody can be charged under yet, and I would not know how to word it if there were, and neither would you, and the day I can word it is the day somebody is going to want to be served out of it. So it stays empty. Ninety more years."
 
 The boy wrote that on his slate too, and it stood on the slate for eleven days and came off the slate in the ordinary way, and the frame stood on the culvert post above the lane with nothing in it, ninety years old, and would still be standing there empty on Thursday the twelfth of next month, when a form was nailed to a bar at the far bank instead.
