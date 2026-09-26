@@ -4,29 +4,27 @@ On the Sunday morning, the first of next month, Mara Quill published six doors, 
 
 She did it in the reading room at Vellum, in front of eleven people, the way publications are done: the certificate of Wednesday the twenty-eighth read out, the warden's report of Monday the twenty-sixth read beside it, the nineteen-year return noted as saying *no inhabitants* and not reconciled, and the tally to follow Monday the second. She read all of it herself, standing up, because a thing in a bundle that is not read out is a thing in a bundle. She said she was an officer of a city office and not a neutral person and had not been one since she was twenty-one. She said a row number makes a place countable and countable is not the same as served. Eleven people heard it. It went into the bundle for the flood court that sat Monday.
 
-Then she went back to her desk and found the week's valley satchel waiting, come up on the Saturday cart: numbered sheets with the word *copy* at the top, thirty-one, thirty-two, thirty-three, in Perdie Ammid's hand, read out to about nine people and sent on.
+Then she went back to her desk and found the week's valley satchel on her desk, come up on Saturday night with a carter who had ridden through and gone on again: numbered sheets with the word *copy* at the top, thirty-one, thirty-two, thirty-three, in Perdie Ammid's hand, each read out on the Saturday to about nine people before it was sealed.
 
 Sheet thirty-one: the shutter figures and the staff and the stick, Saturday the thirty-first. Sheet thirty-two: the flood book in the record house below the culvert, the last gathering cut out at the binding, stubs dated the last week of the flood year, a pencil line inside the back board saying taken to Vellum for the inquiry with the keeper's leave, dated fourteen years ago, no signature, no keeper named, no return recorded.
 
-Sheet thirty-three: a man's fourteen-year closure, signed at nineteen, on the Riverside cut, a hospital saved, a courtyard trapped, an inquiry calling it justified without authority, eleven names on the schedule, the names not given.
+Sheet thirty-three: a man's fourteen-year closure, signed at nineteen, on the Riverside cut, a hospital saved, a courtyard trapped, an inquiry calling it justified without authority, and a schedule of persons declined, and a number declined, and a line in another hand saying the witness had declined both.
 
 Mara read all three sitting down, twice each, the way she read everything: first for what was written, then for the pressure under it. Then she put sheet thirty-three down and stood up and walked to the window and looked out at the terrace road board, where the drop stood in two figures, and nobody could say by how much nine hundred and forty cisterns had lost.
 
-Fourteen years. He had told a chair once that one thing in a file was incomplete and he would not say what it was because he would have to say a name. He had never told her. They had an agreement, five conditions, made on a dispensary step, with distrust intact: neither uses the other's method without telling, nothing goes on paper with one name, neither takes a private memory without an answer that is not silence, neither produces the other's evidence without telling first, and they disagree in public with it recorded. Condition four. *I told you the first time, and I am telling you now.* He had told a room of nine in a valley on Saturday and not told her in eleven years.
+Fourteen years. There was one thing in that file he had never said out loud to anybody, and he had once told her, on a terrace road in the city, that it was there, and had not said what it was, because saying it would have meant saying a name. They had an agreement, five conditions, made on a dispensary step, with distrust intact: neither uses the other's method without telling, nothing goes on paper with one name, neither takes a private memory without an answer that is not silence, neither produces the other's evidence without telling first, and they disagree in public with it recorded. Condition four. *I told you the first time, and I am telling you now.* He had told a room of nine in a valley on Saturday, and had written it on a numbered sheet, and had not told her the whole of it in fourteen years.
 
-She sat down and wrote a publication slip for sheets thirty-one and thirty-two, to go into the bundle for the flood court Monday: shutter figures, staff, stick, and the flood book with its stubs and its pencil line and no name. Competent. Exactly what the office was for. The court needed the drain falling, the lane drying, and a book about conflicting gate orders with its last pages cut out fourteen years ago. That was evidence, and it was hers to publish, and she published it, and her hand did not shake, because eleven years in service had taught it not to.
+She sat down and wrote a publication slip for sheets thirty-one and thirty-two, to go into the bundle for the flood court Monday: shutter figures, staff, stick, and the flood book with its stubs and its pencil line and no name. Competent. Exactly what the office was for. The court needed the drain falling, the lane drying, and a record that said a book had been opened and a gathering had been cut out of it fourteen years ago. That was evidence, and it was hers to publish, and she published it, and her hand did not shake, because eleven years in service had taught it not to.
 
-For sheet thirty-three she wrote nothing. It was his act, on his sheet, in his words, read out to nine people, sent inside a bundle to her office. Publishing it would make his fourteen years into her bundle's business and put eleven unnamed names into a court's margin. Not publishing it left the bundle's newest flood paper without the one man who knew what a closure costs. She weighed both the way she weighed paper: which harms whom, which can be checked, which leaves a mark.
+For sheet thirty-three she wrote nothing. It was his act, on his sheet, in his words, read out to nine people, sent inside a bundle to her office. Publishing it would make his fourteen years into her bundle's business and would put a man's unfinished sentence about a number into a court's margin, where it would be read by somebody who would fill in the number themselves. Not publishing it left the bundle's newest flood paper without the one man who knew what a closure costs. She weighed both the way she weighed paper: which harms whom, which can be checked, which leaves a mark. It took her the length of one sheet of foolscap.
 
 She put the slip for thirty-one and thirty-two in the bundle tray. That was Monday's business. Sunday's business was the drawer.
-
-For sheet thirty-three she wrote nothing. It was his act, on his sheet, in his words, read out to nine people. Publishing it would make his fourteen years into her bundle's business. Not publishing it left the bundle's newest paper about a flood without the one man in the valley who knew what a closure costs.
 
 She put sheet thirty-three in her drawer, under the tray of brass weights, beside her own tracing of the nineteen-year line in seven hands. Not published. Not hidden. Kept, the way a conservator keeps a thing nobody can check, which was the thing she had sworn at twenty-one never to do.
 
 She sat a long time with her hands flat on the desk, forty-eight years old, an officer who had entered a row number with her own name and certified six households with her own name and published both, and who now held a man's fourteen years unpublished in a locked drawer. The agreement said neither produces the other's evidence without telling first. The sheet was his evidence, produced by him to nine people, sent to her office inside a bundle. Telling him she held it would mean a letter down a road four days long, arriving after the court sat. Not telling him meant the drawer held what the bundle did not.
 
-*Trust damaged by honesty*, she wrote, *and not repaired by confession alone*. Then, because she was exacting even with herself: *He told nine people what he never told me in eleven years. I publish his valley's flood book and hold his closure. Being competent is what I do to him.*
+*Trust damaged by honesty*, she wrote, *and not repaired by confession alone*. Then, because she was exacting even with herself: *He told nine people on Saturday what he never told me in fourteen years. I publish his valley's flood book and hold his closure. Being competent is what I do to him.*
 
 She locked the drawer and went down to the reading room to hear the bundle read, where eleven people would learn that six doors stood wet and a book had stubs, and none of them would learn what she carried under brass weights. The reading took an hour, with questions, and twice she was asked whether the nineteen-year return was a falsification, and twice she answered the same way: it is a habit, not a lie, copied forward unless reported otherwise, and the defect is that nobody went and looked. Both answers went into the minutes. Neither named a liar, because there was none to name. That was Sunday the first of next month, and the bundle went out Monday, and the drawer stayed locked.
 
@@ -34,13 +32,13 @@ She locked the drawer and went down to the reading room to hear the bundle read,
 
 ---
 
-On the same Sunday morning, the lane at Cinder Ford far bank stood empty of water in the middle and wet at the edges, dry underfoot between the doors for the first time in nine days, because Wick's stick had said falling Saturday and Tarin's hand had said dry underfoot — and Sunday it was.
+On the same Sunday morning, the lane at Cinder Ford far bank stood empty of water in the middle and wet at the edges, dry underfoot between the doors for the first time in ten days, because Wick's stick had said falling Saturday and Tarin's hand had said dry underfoot — and Sunday it was.
 
-Sella Marr stood in her doorway with the seal still barred across it — the order said Saturday evening out and Monday court, and no magistrate had come Sunday to lift anything — and looked at dry ground where water had stood to the boot nine days.
+Sella Marr stood in the doorway of the fourth door, with her own door still barred at the far end of the lane — the order said out by Saturday evening and Monday court, and no magistrate had come Sunday to lift anything — and looked at dry ground where water had stood to the boot ten days.
 
 "It is Sunday," she said to Wick, who had come over with bread. "The first of next month. The middle is dry."
 
-"It is," Wick said, measuring with the stick against the step. "Lower than yesterday by two thumbs. The drain is down. Your hand—" He stopped. "The stick says the lane follows. That is anybody's figure."
+"It is," Wick said, measuring with the stick against the step. "Lower than yesterday by two thumbs. The drain is down. Your hand—" He stopped. "The stick says the lane follows. Put it on the shutter and anybody may come and argue with it."
 
 Jess came out of the fourth door with the boy on her hip, crying for the first time in days, not from trouble but from tiredness. Eleven people had slept in three upper doors. The two lower doors stood barred with dry ground between them.
 
@@ -54,7 +52,7 @@ Wick went up the bank with his stick and looked, and came back fast.
 
 "What are you going to do," Sella said. She was sixty and she had lived nineteen years in a sealed door and she was not going to be moved by a tone.
 
-"I am going to hold a bank with coats and hands until a man who knows water comes," Wick said. "I sat at a launder in the dark in February knowing I could do nothing if a stone moved. This is that stone. Go."
+"I am going to hold a bank with coats and hands until a man who knows water comes," Wick said. "I held a ladder in the dark for a boy going down a hole and I could not let go of it, and the next thing I knew was the heel of my hand on the stone. This is that stone. Go."
 
 They went. Wick took off his coat and his boots and went into the gap up to the knees with his good hand on the hanging piece, feeling the weight of it, two yards of wet bank ready to slide. He could hold it with his shoulder and his one hand for a while. Not long. Not alone.
 
@@ -68,13 +66,13 @@ Jess ran. Over the ford, up the lane to Nether Sallow, to the plank where Tarin 
 
 Tarin put the pail down. It was Sunday the first of next month. The butt was half full and the evening filling was hours away. His hand knew the drain falling and the lane dry and the bank hanging before Jess spoke, the way it knew everything now with no way of giving it back.
 
-He looked at Nesta. She was forty-one, with a fifth rod promised and not cut, and she looked back at him the way she had looked Saturday when she said *I believe you and I cannot act on it*.
+He looked at Nesta. She was forty-one, with a fifth rod promised and not cut, and she looked back at him the way she had looked on Tuesday when she said *I believe you and I cannot act on it*.
 
 "Go," she said. "The plank is mine. The butt waits. That is the arrangement and it is not a schedule. Go, Mr Rusk. Somebody asked."
 
 That was the difference. Monday eleven people had refused to act on his hand because nobody asked him to know. Sunday a woman with a boy on her hip asked, and a man under a bank asked, and a row of six doors asked with rope in their hands.
 
-He went over the ford with Jess at a run, with nothing in his hands, no rule, no staff, no slate. At the bank Wick stood with his shoulder under two yards of hanging earth and Corrie held the rope and Sella held the willow with her bare hands, sixty years old, nineteen years in a sealed door, holding a bank.
+He went over the ford with Jess at a run, with nothing in his hands, no rule, no staff, no slate. At the bank Wick stood with his shoulder under two yards of hanging earth and Corrie held the rope and Sella held the willow with her bare hands, sixty years old, nineteen years out of a third door that is barred this week, holding a bank.
 
 "Tell me where it wants to go," Tarin said, putting his hands into the cold mud beside Wick's shoulder, "and tell me you want it there. All of you. Say it."
 
@@ -90,17 +88,17 @@ Tarin put both hands flat into the bank and felt it the way he felt the launder 
 
 They did it together, four people and a rope and a willow, and the foot of the bank slid into the drain with a rush and the drain took it brown and fast toward the Sere, and the top stayed on the willow roots, and the pump and the well head and the sixth door stood on ground that held.
 
-Wick got out from under with mud to the waist and sat down hard on dry ground in the middle of the lane, laughing and breathing. "Sunday the first," he gasped. "Dry underfoot. The stick said it. The hand said it. Four people said *we want it*. That is the whole of it and there is no other figure for it."
+Wick got out from under with mud to the waist and sat down hard on dry ground in the middle of the lane, laughing and breathing. "Sunday the first," he gasped. "Dry underfoot. The stick said it first and the hand said it first and then four of you said you wanted it. Two of those came before the other two and I could not have done a thing without all four."
 
-Corrie sat down beside the willow with the rope burns on his hands, eleven years mending nets in the sixth door, and looked at the bank that held and the drain that ran low below it. "Sunday the first of next month," he said. "The bank foot in the drain and the top on the willow. The pump standing. The well head standing. My door standing." He held up his rope-burned palms. "These are my standing. A day a man gives on purpose is a day he still owns. Somebody in a valley wrote that about me without knowing me, refusing to write me into a column. Tell him I heard it."
+Corrie sat down beside the willow with the rope burns on his hands, eleven years mending nets in the sixth door, and looked at the bank that held and the drain that ran low below it. "Sunday the first of next month," he said. "The bank foot in the drain and the top on the willow. The pump standing. The well head standing. My door standing." He held up his rope-burned palms. "These are my standing. A day a man gives on purpose is a day he still owns. A man in a valley said that about himself and would not write it into a column, and refused it out loud when a room asked him to. Tell him I heard it."
 
 "I will," Wick said. "Refused in a room and not argued with. That is how refusals work here. They stand."
 
 Jess stood at the step of the fourth door with the boy awake now and reaching for the sun, twenty years old, born in a sealed door, and called down the lane: "Is it holding."
 
-"It is holding," three men said at once, and Sella laughed for the first time in nine days, a short surprised sound like Corrie's laugh Sunday before, and the boy reached for it.
+"It is holding," said Wick, and Corrie, and Jess, in three voices and at once, and Sella laughed for the first time in ten days, a short surprised sound like Corrie's laugh Sunday before, and the boy reached for it.
 
-Tarin sat beside him with mud to the elbows, his hands shaking. He had redirected water and earth with his sense live in him, and it had worked only because three residents and a rope had shared the risk, and Monday's room had been right and Sunday's bank had been right and the difference was not in his hand. It was in whether anybody said *we want it*.
+Tarin sat beside him with mud to the elbows, his hands shaking. He had redirected water and earth with his sense live in him, and it had worked only because three residents of that row and a man from across the ford had shared the risk, and a rope had held the top, and Monday's room had been right and Sunday's bank had been right and the difference was not in his hand. It was in whether anybody said *we want it*.
 
 Sella stood over them with her skirts muddy and her door barred behind her. "Bread comes in the dark," she said. "Paper comes in daylight. Banks hold on Sundays. That is what I know, and I have lived here nineteen years, and my name is on a sealing order."
 

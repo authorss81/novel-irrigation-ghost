@@ -6,9 +6,9 @@ He could not leave, and on the Saturday, the twenty-fourth of this month, he sai
 
 The boy wrote nothing. He had a slate under his arm and he did not take it out, because the slate was his own and the butt was not a rod on any card, and what a man did at six o'clock in a field of turned earth was not a thing anybody had asked him to copy.
 
-The butt stood behind the low wall where it had stood since the spring, with its foot in the hole the notch had been dug into and the crack in its side cemented over. The pail was Nesta Sarg's pail, with the mark inside it and the split in the handle mended with wire and pitch, and it was not lent. The roll of tarred twine was on the handle, wound twice and tucked under, where it had been since the Saturday morning it came off a stake at a culvert.
+The butt stood behind the low wall where it had stood since the spring, with its foot in the hole the notch had been dug into and the crack in its side cemented over. The pail was Nesta Sarg's pail, with the mark inside it and the split in the handle mended with wire and pitch, and it was not lent. The roll of tarred twine was on the handle, wound twice and tucked under, and it had come off a stake at a culvert on the Tuesday evening of the second of this month by six hands in daylight, and it had been on the handle since the Saturday morning after that, and it had been on it through a count, a window, a chain, a card and a declaration.
 
-Tarin put the pail under the notch and let it fill and carried it up the bank to the butt and tipped it in, and then he went back down for another. Six gallons at a time. Forty trips. About an hour and sixteen minutes if the plank ran the way it had run on Friday, at a hundred and ninety gallons an hour, and it ran that way because Nesta Sarg had done the plank at eight that morning and written a hundred and ninety on her own shutter and had not divided it by anything.
+Tarin put the pail under the notch and let it fill and carried it up the bank to the butt and tipped it in, and then he went back down for another. Six gallons at a time. Forty trips. About an hour and sixteen minutes if the plank ran the way it had run all week, at a hundred and ninety gallons an hour, and it ran that way because Nesta Sarg had done the plank at four that afternoon and written a hundred and ninety on her own shutter and had not divided it by anything.
 
 "How many is that," the boy said after a while, counting under his breath.
 
@@ -24,7 +24,7 @@ At the sixteenth trip Tarin stopped at the notch with the pail half full and loo
 
 "I am counting trips," Tarin said. "Forty trips is a butt. A butt is an evening. An evening is a day I do not go anywhere. That is not a measurement. That is a job."
 
-He set the pail under the notch and straightened with a hand on his back, and the boy said, "She did the plank at eight this morning. I was there. A hundred and ninety, two trials, one minute fifty-two and one minute fifty-three. She wrote both on the shutter and did not divide them by anything."
+He set the pail under the notch and straightened with a hand on his back, and the boy said, "She did the plank at four this afternoon. I was there. A hundred and ninety, two trials, one minute fifty-two and one minute fifty-three. She wrote both on the shutter and did not divide them by anything."
 
 "That is her plank," Tarin said. "Thirty-two years of it. The fifth rod is promised in her own words and not cut, and she will cut it in her own hand when there is a sheet in front of her instead of a shutter. Until then the shutter is the record, and a shutter anybody can come and read."
 
@@ -39,6 +39,16 @@ Tarin tipped the pail into the butt. Seventeen. The butt swallowed six gallons w
 "There is," Tarin said. "Tonight nobody has to. Tonight there is a pail and twine and forty trips. Count them and do not put them in a book for about a year."
 
 They went on, eighteen, nineteen, twenty, twenty-one, the water steady, the light thinning, his shoulder aching the way it ached every evening now, his hand remembering the tank wall with every lift.
+
+"You are on the roster," the boy said, after a while. "Sef Ordry wrote me on it in a day-book in a shed, and you are on it too, and it says *at the tank, on the coping, with a level staff*, and nobody has ever sent for it."
+
+"I know what it says."
+
+"And five shillings a day, six days, a cottage at no rent, and fourteen weeks that end on the sixth of the month after next. I have written that twice and got it the same both times, and it is the only date anybody in this valley has given me to be certain about."
+
+The boy wrote the day count on the slate and read it out, because a slate that is not read out is a slate, and then he put the slate away and took it out again and looked at what he had written. "Sixty-three," he said. "And nowhere on any of it says a man may stop."
+
+"That is the first true thing anybody has written on that slate," Tarin said, and went down for the twenty-second.
 
 ---
 
@@ -56,7 +66,7 @@ Tarin put the pail down on the wall. "Where."
 
 The boy looked up. "Which doors."
 
-"The far-bank row," Mrs Halward said. "Past Cinder Ford, where the long drain meets the Sere. You go over the ford and there is a lane and a pump and six doors. She said the water is standing in the lane to the top of a boot."
+"The far-bank row," Mrs Halward said. "Past Cinder Ford, where the long drain meets the Sere. You go over the ford and there is a lane and a pump and six doors. She said the water is standing in the lane to the ankle."
 
 Tarin picked the pail up again. "The outfall is two miles below the plank," he said. "The flume ran Thursday night for four hours and six minutes and ran on for three hours after the gate came down. That was Friday morning. This is Saturday evening."
 
@@ -72,13 +82,13 @@ Tarin carried the pail up the bank and tipped it into the butt. Twenty-three.
 
 "I told her," Mrs Halward said, and went on up the lane.
 
-The boy waited until she was out of hearing. "The nineteen houses are four miles two chains from the head of the drain," he said quietly. "And the flume's outfall is two miles below the plank. And the flume's water never comes back to the plank. That has been on the page since the fifteenth of the month before this one."
+The boy waited until she was out of hearing. "The nineteen houses are four miles two chains from the head of the drain," he said quietly. "And the flume's outfall is two miles below the plank. And the flume's water never comes back to the plank. You said the whole of that on the coping on Thursday night, in front of nine men, and Wick Venn wrote it on the back of his hand."
 
 "It has," Tarin said.
 
 "Then where is Cinder Ford."
 
-"Two miles below the plank, where the flume meets the drain." Tarin went back down for the next pail. "On the far bank."
+"Two miles below the plank, where the flume's outfall is on the drain." Tarin went back down for the next pail. "The ford is over the Sere from us and the row is past it. I have never walked it."
 
 "And who lives there."
 
@@ -128,7 +138,7 @@ She picked up the pail and went down for the thirty-first trip. The boy watched 
 
 He said it harder than he meant to. Nesta came up the bank with the full pail and tipped it in without comment and went back down.
 
-At the thirty-sixth trip the light was nearly gone off the hill. At the fortieth Tarin tipped the last pail in and stood with his hands on the rim of the butt, breathing through his mouth. The butt was full. Two hundred and forty gallons. A day and a half of drinking for three people.
+At the thirty-sixth trip the light was nearly gone off the hill. At the fortieth Tarin tipped the last pail in and stood with his hands on the rim of the butt, breathing through his mouth. The butt was full. Two hundred and forty gallons of room, forty trips, and a man's whole evening, and by the light off the hill tomorrow there would be six gallons of it in a pail and the rest of it in nineteen kitchens that had asked for none of it.
 
 "Monday I will do the morning," Nesta said. "You do the evening. That is the arrangement and it is not a schedule and there is no figure for it anywhere in this basin."
 
@@ -150,4 +160,4 @@ She went up the lane with the boy, and Tarin stayed at the wall with the full bu
 
 He put his hand flat on the low wall. The stone was warm from the day. Somewhere under his palm, two miles and four chains of empty channel ran down to a drain, and he could feel where every foot of it was the way a man finds his own front door in the dark, and there was nothing in it, and there was no way of giving it back.
 
-He took his hand off the wall and picked up the pail and went down to the cottage at Brant where he slept at no rent, on his sixty-third day, and he did not go over the ford. The cottage stood dark with his coat on the hook and the folding rule in it and the watch in the pocket, and he set the pail by the door with the twine on the handle, wound twice and tucked under. Saturday the twenty-fourth. Forty trips. A butt full. Water standing where a paper said nobody. That was the whole of the first day of the volume, and it was enough, and it was not finished.
+He took his hand off the wall and picked up the pail and went down to the cottage at Brant where he slept at no rent, on his sixty-third day, and he did not go over the ford. The cottage stood dark with his coat on the hook and the folding rule in it and the watch in the pocket, and he set the pail by the door with the twine on the handle, wound twice and tucked under. Saturday the twenty-fourth. Forty trips. A butt full. Water standing where a paper said nobody, in a lane he had not walked down, on a bank he could feel from his own wall. That was the whole of the day, and it was enough, and it was not finished.

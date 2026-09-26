@@ -1,6 +1,6 @@
 # Chapter 0102 — The Far Bank
 
-On the Sunday morning, the twenty-fifth of this month, Wick Venn went over Cinder Ford to look at a pump, because he was thirty-eight and had one hand and was no use to anybody at a plank, and because a pump washer fits both pumps and he had the spare in his coat.
+On the Sunday morning, the twenty-fifth of this month, Wick Venn went over Cinder Ford to look at a pump, because he was thirty-eight and had one hand and was no use to anybody at a plank, and because a pump washer fits both pumps and he had the spare in his coat, and because Sef Ordry had written in the shed day-book that a sluicewright leaves a gate shut and chained and had put the chain on with his own money on the Friday morning, and there was nothing on the mountain for any man that week.
 
 He went after church, the way the boy had wanted to, and he went alone, because Nesta Sarg had said somebody who was not fifteen, and because Sef Ordry had written in the shed day-book that a sluicewright leaves a gate shut and chained and there was nothing on the mountain for any man that Sunday. The ford was low. The Sere ran clear over the stones, no more than ankle deep, and on the far side the bank rose into willows and then into a lane of beaten earth with a pump halfway down it and six doors facing the water.
 
@@ -18,7 +18,7 @@ Wick took his boots off and rolled his trousers and stepped into the lane. The w
 
 "In the night, Thursday into Friday," Sella said. "We woke Friday and it was over the bank of the drain and into the lane, and it has stood ever since. Yesterday it was to the ankle. This morning it is to the top of the boot." She set the hens down on the doorstep, where they shook themselves and settled. "The drain is full to the bank behind the row. Go and look, if you are a water man. You can see it from the end of the lane."
 
-Wick went. The lane ran not quite a hundred yards between the doors and the drain bank, and at the end of it the long drain lay full and brown, moving slowly west toward the Sere, with the bank soft underfoot and water seeping through the grass at the top. Across the drain, on the near bank, the stone mouth of the flume stood empty, its launder dry and chained four hundred yards up the hill, and below it the ground fell away four feet to the field where the water had been standing for six years.
+Wick went. The lane ran not quite a hundred yards between the doors and the drain bank, and at the end of it the long drain lay full and brown, moving slowly west toward the Sere, with the bank soft underfoot and water seeping through the grass at the top. Across the drain, on the near bank, the stone mouth of the flume stood empty, its launder dry, and the sluice at the head of the launder shut and chained on a new chain two miles and four chains up the hill, and below the mouth the ground fell away four feet to the field where the water had been standing for six years.
 
 He stood there a long time with his one good hand in his coat pocket and the spare washer knocking against his leg. A shut gate on a two-mile stone launder does not stop the water already in it. It had run on for about an hour at the top and about three hours at the bottom on Friday morning, and every gallon of three thousand four hundred and eighty-five had gone down that drain and along it, and the drain was the sole discharge of the Reach by item one of the schedule printed in 1902, and the nineteen households were four miles two chains from the head of it, and the flume's water never came back to the plank. All of that was on the page since the fifteenth of the month before this one. None of it said anything about six doors on the far bank with water in the lane to the top of a boot.
 
@@ -40,7 +40,7 @@ They went with him, all three, the girl carrying the baby and Sella with her ski
 
 "We have two butts for six doors," Sella said. "They were half full Thursday. They are full now, with what fell in them. That is tonight and tomorrow morning." She looked at him levelly. "What is this water, mister. Where has it come from."
 
-Wick stood up and wrung out his trouser legs. He had priced eleven people in a field from ten at night until six in the morning on the seventh sheet, at a day each that nobody had offered to pay for, and he had refused to write the fifth line of a column about a day a man gives on purpose, and he knew what a figure cost when it was said out loud in a yard.
+Wick stood up and wrung out his trouser legs. He had priced two lines of a column himself on the seventh sheet on the Friday afternoon, five and a half days for the window and a day and a half for the day after, and he had refused to write a fifth line about a day a man gives on purpose, and he knew what a figure cost when it was said out loud in a yard.
 
 "It came down the flume Thursday night," he said. "Four hours and six minutes, at eight hundred and fifty gallons an hour, being three thousand four hundred and eighty-five gallons. That is the figure this Reach agreed and agreed to print. It went into the long drain at the outfall two miles above here and came along the drain, and the drain is full, and your lane is below the bank."
 
@@ -48,9 +48,9 @@ Wick stood up and wrung out his trouser legs. He had priced eleven people in a f
 
 "Nine villages, on the Tuesday." Wick picked up his boots. "On the twentieth of this month. Eight men signed and one refused and was not argued with. It was for one night and it does not survive the night. The gate is shut and chained again."
 
-"And nobody thought of six doors on the far bank," Sella said. It was not a question.
+"And nobody thought of six doors on the far bank," Sella said. It was not a question, and she did not raise her voice doing it.
 
-"Nobody thought of them because nobody knew them," Wick said. "I am telling you plain because you asked plain. I have been in this valley two months and I never heard of this row until yesterday evening. Mrs Halward's niece carried the word."
+"Nobody thought of them because nobody knew them," Wick said. "I am telling you plain because you asked plain. I have been in this valley two months and I never heard of this row until yesterday evening. A woman with a basket of greens carried the word over the hill."
 
 The girl shifted the baby. "My mother has lived here nineteen years," she said. "I was born in the third door. There is a return somewhere that says no inhabitants. My husband saw it once, in an office in Cresset, when he went for work. He can read. He said, there is our row, and beside it, no inhabitants, nineteen years."
 
@@ -66,15 +66,27 @@ He sat on the doorstep of the third door and put his boots back on over wet feet
 
 Corrie took him to the end of the lane, wading, to a low brick head with an iron cover lifted off and laid aside. The water stood inside it to the brim, brown as the lane, with straw turning slow on the surface. Wick knelt and put his good hand in. Cold. Still. The rope of the bucket hung slack and wet.
 
-"How deep is it, standing."
+"How deep was it in a dry week," Wick said.
 
-"Twelve feet to the foot, in a dry week," Corrie said. "My nets dry on that post beside it eleven years. I know every course of the brick." He looked at the brown surface. "Thursday the water came up out of the drain and over the head in the night. First time in eleven years. The Sere takes the drain at the bottom, and the drain takes everything else. That is the whole of my hydrology, mister. I mend nets."
+"Twelve feet to the foot of the head," Corrie said. "It has never been lower than eleven in the eleven years I have been here, and I know that because my nets dry on that post every summer, and the post stands in the water to the third staple." He looked at the brown surface. "Thursday the water came up out of the drain and over the head in the night. First time in eleven years. The Sere takes the drain at the bottom, and the drain takes everything else. That is the whole of my hydrology, mister. I mend nets."
+
+"Mr Venn," Sella said, before he got to it. "You have been in this lane an hour. You have asked me the depth of my well and the height of my water and you have not once asked me how many of us there are."
+
+"How many are there," Wick said.
+
+"That is the first time in nineteen years anybody has asked me that," Sella said, "and I am not going to guess at it in front of my daughter. Corrie."
+
+"Eleven," Corrie said. "One in the first, a widow. Three in the second, counting the boy and her husband. One in the third. Three in the fourth, the old pair and a granddaughter. Two in the fifth, the man on the water to Verrin until the month turns and his mother, and I count him off his own door's hook and not because I have seen him since Tuesday. And one in the sixth, where I sit."
+
+"And is that in writing anywhere?"
+
+"It is on a door frame and on a hook and in my head," Corrie said, "and that is the whole of this district's record, and I have been its record for eleven years."
 
 "And the boats," Wick said. "Sella says the boats bring flour. Do they come still, with the lane wet."
 
 "Boats come to the ford landing, not the lane. The landing is sound. Flour comes. What does not come is anybody with a form." Corrie put the cover back on, crooked, to keep the straw out. "Eleven years I have mended nets in the sixth door and nobody has asked me for a name for anything. Now a man from across the ford kneels at my well on Sunday the twenty-fifth and asks its depth. That is new. I am deciding whether it is good new."
 
-"It is bread new," Wick said. "I brought a sack. That is all it is today. Tomorrow somebody with a form may come, and then it is different new, and none of us decides that part."
+"It is bread new," Wick said. "I brought a sack. That is all it is today, and tomorrow somebody with a form may come, and then it is different new, and none of us decides that part."
 
 Corrie studied him, an old man in waders with net twine in his pockets. "You have one hand," he said. "What took it."
 
@@ -82,9 +94,7 @@ Corrie studied him, an old man in waders with net twine in his pockets. "You hav
 
 "And you came over the ford with bread."
 
-"I came to look at a pump, because a washer fits both pumps and I had the spare." Wick stood up, dripping. "The bread is because two butts for six doors is tonight and tomorrow morning. That is anybody's arithmetic."
-
-Corrie nodded slowly. "Then come and sit down, bread man. Sella has the kettle on. You have waded twice and you may as well hear nineteen years before you go back and write it."
+"I came to look at a pump. The bread is because two butts for six doors is tonight and tomorrow morning, and nobody has to agree with me about that one." Wick stood up, dripping. "Now come and sit down, bread man. Sella has the kettle on, and you may as well hear nineteen years before you go back and write it."
 
 They went back up the lane through water to the top of a boot, past the second door where the girl watched, and Wick thought that a lane nobody had looked at nineteen years had looked at him the whole morning, six doors and a pump, waiting to see what a man with bread in a sack does next.
 
@@ -94,7 +104,7 @@ They went back up the lane through water to the top of a boot, past the second d
 
 "And then," Sella said.
 
-"And then I go back across the ford and tell a woman who does a plank at eight and at noon and at four, and she tells a woman who keeps four books in a village, and somebody writes it on a numbered sheet with the word copy at the top." Wick picked up his coat. "That is what happens in this valley. Everything from the sixteenth is a numbered sheet. There is no book any more. Thirty sheets now, thirty-one by Saturday, every one read out to nine people, because a thing on a sheet that is not read out is a thing on a sheet."
+"And then I go back across the ford and tell a woman who does a plank at eight and at noon and at four, and she tells a woman who keeps four books in a village, and somebody writes it on a numbered sheet with the word copy at the top. That is what happens in this valley. There is no book any more. Twenty-seven sheets now, and thirty by Wednesday, every one read out to nine people." Wick picked up his coat. "A thing on a sheet that is not read out is a thing on a sheet."
 
 "Then write it," Sella said. "Six doors and a pump and a lane, and a woman nineteen years in the third door, and water to the top of a boot on Sunday the twenty-fifth. Write it and read it out, because a thing in a book that is not read out is a thing in a book."
 
@@ -116,6 +126,6 @@ At the plank at Nether Sallow, Nesta Sarg was doing the noon trial with the boy,
 
 "And the sheet," Wick said.
 
-"The sheet is Perdie Ammid's, and she has no book, and everything is a numbered sheet, and I am not the woman to write it." Nesta lifted the pail and tipped it. "But a shutter is a shutter, and a figure on it is a figure anybody can come and read. A hundred and ninety, Sunday the twenty-fifth, two trials, never divided. Go home and get dry, Mr Venn. You have done a morning's work and nobody is going to thank you for it, and you are not going to be thanked for saying so. That is Sunday. Tuesday you go again, because the room said Tuesday morning and Wick looks."
+"The sheet is Perdie Ammid's, and she has no book, and everything is a numbered sheet, and I am not the woman to write it." Nesta lifted the pail and tipped it. "But a shutter is a shutter, and a figure on it is a figure anybody can come and read. A hundred and ninety, Sunday the twenty-fifth, two trials, never divided. Go home and get dry, Mr Venn. You have done a morning's work and nobody is going to thank you for it, and you are not going to be thanked for saying so. That is Sunday. And you go back over on Tuesday with bread and a stick and a step, because I will not have a thing said at me twice, and you bring me a number off that lane or you do not come."
 
 Wick went home to Brant with wet feet, on a Sunday, and the water stood on the far bank where it had never been, with a person standing in it who had been there nineteen years. He stopped at the shop to tell Bess the washer held and the pump drew drain water, and Bess wrote *washer holds, Sunday the twenty-fifth* on the shop slate under nothing else, so no later hand could move what a Sunday did. Then he went home to dry boots and a cold supper, thirty-eight years old, with a column in a book and a refusal in it about a day a man gives on purpose, and a lane across a ford waiting for whatever Monday decided.

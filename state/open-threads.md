@@ -351,14 +351,44 @@ These are living-world uncertainties, not missing central-mystery answers.
 
 1. **Six doors are countable and the bundle will never say *no inhabitants* again without leaving a mark.** Certificate (Wed 28th, M. Quill, six households reported, name so-called-by-residents reported, return noted not reconciled), sealing order (Thu 29th, S. Marr nineteen years), flood-court record (Mon 2nd, eleven persons accounted for). **Countable is not served; a name in a box will be copied.**
 2. **The seal made a wave.** Two doors barred Fri 30th; yard-wide gap; half-inch rise; two coats; hammer down the drain; seal lifted Mon pending bank view. Dorrin right about water, wrong about valley.
-3. **The flood book has stubs.** Last gathering cut out, stubs dated last week of flood year, pencil fourteen years, no signature/keeper/return, now with Memory Office for provenance. Conflicting gate hands seen, cause not delivered.
-4. **Tarin's closure is on a sheet and Mara holds it.** Sheet 33 (act, eleven-name count, no names) in her drawer under brass weights, unpublished; sheets 31–32 published. Trust damaged by honesty, not repaired.
+3. **The flood book has stubs.** Ledger tooled FLOOD ORDERS, 181 years old, orders for the gates of the flood year in three hands with a date and an hour against each; last gathering cut out clean at the binding, about a dozen pages, stubs dated the last week of that year; pencil inside the back board, fourteen years, no signature, no keeper named, no return recorded; now with the Memory Office for provenance. **The three hands are on the page and mean nothing on the page: Wick asked whether the gates were fought over and Perdie refused to answer it off a wet page in a hut. The midpoint is set up and NOT delivered, and must not be delivered before about Chapter 125.**
+4. **Tarin's closure is on a sheet and Mara holds it.** Sheet 33 carries the act — signed at nineteen, Riverside cut, hospital saved, courtyard trapped, inquiry justified without authority — and **his refusal of both the schedule of persons and the number on it, written down as a refusal in Perdie's own hand.** It is in Mara's drawer under the brass weights, unpublished; sheets 31–32 published. Trust damaged by honesty, not repaired. **NO ONE KNOWS HOW MANY NAMES ARE ON THE SCHEDULE, INCLUDING THE READER, and Mara is not told the count either.**
 5. **Bend is socially conditioned.** Fails alone in a room (Mon 26th, rightly refused); works Sunday with four saying *we want it*. Difference not resolved.
 6. **Butt every evening; he cannot leave.** Seventy-second day; fourteen weeks to the sixth of the month after next.
 
 ## Still open, and it must stay open
 
-- All thirteen prohibitions hold (see batch summary). **Mara still not told the eleven names.** 1843 book untouched. Plate/keeper/printer's figure untouched. Sluice/hand/keeper-column untouched. Dyke≠pipe. Iven untouched (one hand-appearance, price unchanged). Margit Saye not called. Crew of four not back as crew.
+- All thirteen prohibitions hold (see batch summary). **Mara still not told the eleven names, and not told the count of them.** 1843 book untouched — named once in Chapter 0108 only to separate it from the flood book. Plate/keeper/printer's figure untouched. Sluice/hand/keeper-column untouched. Dyke≠pipe. Iven untouched (one hand-appearance of five lines, price unchanged, letter still unsent in the chest beside his reply). Margit Saye not called. Crew of four not back as crew. **The volume's midpoint — that the Ninefold Flood began with conflicting gate orders — is set up and NOT delivered.**
 - **Tally of persons by name, if willing** — due from warden; willing is doing the work.
 - **Bank view pending; flood-book provenance pending; column foot (34½, seven lines) due in about a year.**
 - **Perdie's three-line letter still unsent in chest with Iven's five-line reply.**
+
+---
+
+# The repair pass on Batch 0011, and six new hard rules for the rest of Volume 03
+
+**Batch 0001 was delivered once, then repaired. These six are the things that were wrong and are now right, and every one of them is a way a later chapter could quietly undo the repair. The chapter-level record is at the foot of the Volume 03 block in `state/chapter-summaries.md`.**
+
+1. **The volume's midpoint is set up and NOT delivered, and it is the single hardest rule in the volume now.** The flood book is a ledger of gate orders for the flood year in three hands with a date and an hour against each order, and the boy reads out *upper villages, lower bank, middle parishes*, and that is ALL the page says. Wick asked whether the gates were fought over and Perdie refused. **A later batch may ask the question again in a different mouth and may get closer to an answer. It may not answer it, and it may not state that the Ninefold Flood began with gates and not weather, before about Chapter 125.**
+2. **The count of the closure schedule is unknown to every character and to the reader.** Tarin gave the act and refused both the schedule and the number. **The refusal may not soften into a disclosure, and it may not be resolved in this volume's first half.**
+3. **No chapter of Volume 03 may contain the words *the volume*, *this batch*, *an opening movement*, or any other reference to the book from outside the story.** Chapter 0108 of the first delivery contained two such sentences and Chapters 0105 and 0110 contained three more.
+4. **Tarin's day count runs one per chapter from sixty-third on the twenty-fourth of the month that began on the first, a Thursday.** Sixty-fifth on the twenty-sixth, seventieth on the thirty-first, seventy-second on the second of next month, **seventy-third on the third, and eighty-second on the twelfth of next month.**
+5. **The far-bank water arrived on the night of Thursday the twenty-second into Friday the twenty-third**, the night the window ran, and it has stood in that lane ever since. **Seven nights by the twenty-ninth, eight days by the thirtieth, nine days by the first of next month, dry underfoot between the doors on the first of next month.** The ankle was on the twenty-fourth and the top of a boot on the twenty-fifth.
+6. **Mara Quill works at Vellum and the terrace road board is at Cresset.** She hears about the board at second hand from the clerk who types it.
+
+**Two new objects, both available to later batches:** the **ninety-year-old tin frame on the culvert post, empty since the second of this month**, which Dorrin wanted a notice in; and **Mara's pencil mark on the spine of the nineteen-year Cinder Ford file**, saying she opened it on the twenty-eighth of this month and that it had not been opened before, which is the first mark that file has carried in nineteen years.
+
+**And one thread that Batch 0001 raised and did not touch, and that a later batch should notice exists:** a district on the far bank has been on somebody's hook or a door frame or a tallyman's memory for nineteen years, and a return has said *no inhabitants* the whole while. **Corrie Lille said it plainly on the Sunday: *it is on a door frame and on a hook and in my head, and that is the whole of this district's record, and I have been its record for eleven years.*** That is the unlisting in its smallest possible form, and Volume 03 has now put it on the page in a woman's mouth without naming it.
+
+---
+
+# Six more hard rules from the second repair pass (external review), for the rest of Volume 03
+
+**These are on top of the six above and they are all facts that a later chapter could quietly contradict.**
+
+1. **The tank fell one inch and came back three quarters of it. It is standing a quarter inch low, not half.** Three places in Volume 03 already got this wrong once.
+2. **Iven Marrow's letter of the second of next month mentions a Fair Copy certificate, not the valley's sheets**, and he is four days away. **If he writes again in this volume, the same rule holds: he cannot have read anything dated after the twenty-ninth.**
+3. **Nineteen returns in seven hands, and the tally woman is the one who says a name in a box will be copied.** Any later chapter that puts a twentieth year on that file has to add a hand or stop.
+4. **Nesta Sarg's word has been given to Tarin once, in public, about being half a day out, and she did not repeat herself.** She will not do it twice. If a later chapter wants her to be right about him again, it has to be about something else.
+5. **The flume launder is two miles and four chains long and the flume sluice is what is chained; four hundred yards is the tank to the sluice.** No later chapter may use four hundred yards for the length of a launder.
+6. **The frame on the culvert post is still empty, and the batch ends with it empty on purpose.** Dorrin wanted a notice in it and got two notices on two bars at the far bank instead. **If a later chapter puts something in that frame, it is the moment the empty frame stops being the point.**

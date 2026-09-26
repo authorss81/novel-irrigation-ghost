@@ -38,13 +38,13 @@ Wick wrung out his sleeve with his one hand. He was thirty-eight, with a column 
 
 Dorrin stood in the water a moment longer, soaked to the thigh, a magistrate of the Fair Copy with two clerks holding a plane table on ground that was no longer there. Then he took out his notebook, wet at the edges, and wrote in it standing in the drain: *Friday the thirtieth, noon. Bank gave way one yard at lane end under seal. Lane rose half inch in a minute. Coats of W. Venn and self holding. Wave down drain. No persons harmed. To be laid before court Monday with persons.*
 
-"That is recognised," he said, closing the book. "A seal, a gap, two coats, a hammer gone. Monday the court gets that with the persons." He looked at the barred doors. "And the seal stands, because water does not wait for a signature, and Saturday evening the lower doors are empty whether the lane likes it or not. That is procedure. The rest — bread, coats, holding — that is people, and people are not procedure, and I am learning the difference at fifty with wet feet."
+"That is recognised," he said, closing the book. "A seal, a gap, two coats, a hammer gone. Monday the court gets that with the persons." He looked at the barred doors, and then at the frame on the post at the end of the lane, ninety years old and empty, and something moved in his face that neither clerk saw.
 
-Wick wrung out his sleeve with his one hand. "The hand is not mine. Ask him. He fills a butt every evening at six and he is there now, doing forty trips. That is where he is."
+"And the seal stands, because water does not wait for a signature, and Saturday evening the lower doors are empty whether the lane likes it or not. That is procedure. The rest — bread, coats, holding — that is people, and people are not procedure, and I am learning the difference at fifty with wet feet." He turned to Wick. "The hand is not yours. Ask him. He fills a butt every evening at six and he will be at that wall inside the hour. That is where he is."
 
 ---
 
-Tarin was at the butt when Wick came back over the ford at four o'clock, twenty trips in, with the pail and the twine and the watch in his coat. Wick told him about the bars and the notices and the gap and the coats and the wave, standing at the wall, and Tarin listened without stopping, tipping each pail in as it came.
+Wick came back over the ford at four o'clock and waited on the bank above the plank, and at six Tarin put the pail under the notch with the twine on the handle and the watch in his coat, and Wick told him about the bars and the notices and the gap and the coats and the wave, standing at the wall, and Tarin listened without stopping, tipping each pail in as it came.
 
 "Saturday evening they are to be out," Wick finished. "Monday the court sits. The bank is soft the whole length. The lane rose half an inch in a minute."
 
@@ -52,13 +52,13 @@ Tarin put the pail down. "It is Friday the thirtieth. The lane rose because the 
 
 "And tonight," Wick said. "The boy is in the fourth door with eleven people and two butts and one of them empty. The lane is up half an inch."
 
-"Tonight I finish this butt," Tarin said. "Forty trips. Then I carry what I can over the ford in the dark. Not as a man who knows. As a man with a pail." He picked the pail up. "A pail is not a procedure. A magistrate cannot seal a pail. Water in a pail is not water in a lane, and eight pails in the dark is eight pails, and that is anybody's arithmetic."
+"Tonight I finish this butt," Tarin said. "Forty trips. Then I carry what I can over the ford in the dark. Not as a man who knows. As a man with a pail." He picked the pail up. "A pail is not a procedure. A magistrate cannot seal a pail. Water in a pail is not water in a lane, and eight pails in the dark is eight pails, and nobody has to take anybody's word for that either."
 
 Wick looked at him. "Monday the room said no man here can carry water without putting a hand in it. That has not changed."
 
 "Then I put my hand in it," Tarin said. "A day a man gives on purpose is a day he still owns. You said that about yourself and refused to write it. I am saying it about an evening. Forty trips for this lane and forty for that one. That is two evenings in one and nobody's sheet."
 
-He finished the butt at half past seven, forty trips, with the boy counting to forty and Nesta marking the shutter *full, Friday the thirtieth*. Then he took a second pail from the shed, and the twine off his own pail's handle, and wound it round the second pail's handle twice, the way a man does with a length of twine he has carried through a count and a window and a chain and a card and a declaration, and went down the lane to the ford in the dark with Wick, carrying two empty pails and a full can between them.
+He finished the butt at about seven, forty trips, with the boy counting to forty and Nesta marking the shutter *full, Friday the thirtieth*. Then he took a second pail from the shed, and the twine off his own pail's handle, and wound it round the second pail's handle twice, in the manner a man does with a length of twine he has carried through a count and a window and a chain and a card and a declaration, and went down the lane to the ford in the dark with Wick, carrying two empty pails and a full can between them.
 
 The ford was low and the night was clear. On the far bank the lane water lay still and brown between the doors, with the two barred doors standing in it like a mouth with teeth out, and lamplight in the fourth where eleven people were crowded with a boy nine months old.
 
@@ -78,10 +78,10 @@ Sella held the lamp higher so it showed both their faces, his muddy to the elbow
 
 "I cannot measure what it costs nine hundred and forty properties," Tarin said. "I said so on the board. That is the whole of what I know about cities."
 
-"Then hear what I know about lanes," Sella said. "Six doors stood dry nineteen years and nobody came. Six doors stand wet nine days and bread comes in the dark with the man from the coping carrying it himself. Monday eleven people in a room would not act on your hand. Friday night you carried eight pails in the dark and nobody sealed any of it." She shifted the lamp. "A hand on a wall is nothing anybody can check. Eight pails in the dark is eight pails. Remember that order of things, whatever any room says. Paper sends magistrates. Pails send nothing and carry water."
+"Then hear what I know about lanes," Sella said. "Six doors stood dry nineteen years and nobody came. Six doors stand wet eight days and bread comes in the dark with the man from the coping carrying it himself. Monday eleven people in a room would not act on your hand. Friday night you carried eight pails in the dark and nobody sealed any of it." She shifted the lamp. "A hand on a wall is nothing anybody can check. Eight pails in the dark is eight pails. Remember that order of things, whatever any room says. Paper sends magistrates. Pails send nothing and carry water."
 
 "I will remember," Tarin said. "Friday the thirtieth. Eight pails. No sheet."
 
-"Good." She turned with the lamp. "Saturday evening we are to be out of two doors. Come Sunday and see dry ground, if the stick says so. That is anybody's figure, and mine says the edges are falling already."
+"Good." She turned with the lamp. "Saturday evening we are to be out of two doors. Come Sunday and see dry ground, if the stick says so. Mine says the edges have been falling since Thursday."
 
 He went back over the ford in the dark with Wick, with the twine on the pail handle, on Friday the thirtieth, and the seal stood on two doors behind him, and the wave he had not made went down the drain ahead of him, carrying straw to a river that had never heard of any of it. Behind him Sella barred nothing, unbarred nothing, and carried the lamp into the fourth door where eleven people slept, and the night settled over six doors with water between them going down a thumb at a time.

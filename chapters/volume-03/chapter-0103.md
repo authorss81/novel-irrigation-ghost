@@ -1,14 +1,14 @@
 # Chapter 0103 — What the Hand Knows
 
-On the Monday morning, the twenty-sixth of this month, Tarin Rusk went up to the Sallow Head tank with a boy of fifteen and a level staff, because it was Monday and the tank card went to Vellum once a year in a cart and the mark had fallen an inch on Thursday night and come back nothing yet, and somebody had to read it and write it down.
+On the Monday morning, the twenty-sixth of this month, Tarin Rusk went up to the Sallow Head tank with a boy of fifteen and a level staff, because the mark had fallen an inch on Thursday night and had come back three quarters of that and stopped a quarter inch below where it stood, and the tank card is read on the last Saturday in the month, which was coming, and the card goes to Vellum once a year in October in a cart, and a figure that is not written down before the card is filled in is a figure nobody will be able to check afterwards.
 
-The tank stood full and still in the morning light, twenty feet by fifteen, two feet eight inches to the coping, with the mark cut in the wall at two feet six and a quarter inches and the water standing at two feet five and seven-eighths, half an inch below where it had stood for six years. The boy set the staff on its board with the foot on the stone and not on the silt, because a staff on silt reads whatever the silt feels like doing, and read it and wrote it on his slate with the date and the time and the word *third*, and read it out, because a slate that is not read out is a slate.
+The tank stood full and still in the morning light, twenty feet by fifteen, two feet eight inches to the coping, with the mark cut in the wall at two feet six and a quarter inches and the water standing at two feet five and seven-eighths, a quarter of an inch below where it had stood for six years. The boy set the staff on its board with the foot on the stone and not on the silt, because a staff on silt reads whatever the silt feels like doing, and read it and wrote it on his slate with the date and the time and the word *third*, and read it out, because a slate that is not read out is a slate.
 
 "Two feet five and seven-eighths," the boy said. "Monday the twenty-sixth, eight o'clock. Third reading since Thursday night. Thursday eleven o'clock two feet six and an eighth, Friday morning two feet five and an eighth, an inch down, back to five and seven-eighths now. The whole of six years' variation was an eighth of an inch. One night was an inch. The boy wrote all of it on his slate with the times, because every reading is on a slate in his own hand with the time on it."
 
 Tarin read it after him with the folding rule and it was the same. "Write it," he said.
 
-The boy wrote it. Then he looked at the wall, at the coursed stone with the lime joint and the chisel mark cut in it by somebody in about 1843, wet to about the height of the water.
+The boy wrote it. Then he looked at the wall, at the coursed stone with the lime joint gone soft along the water line, and at the mark cut in it at two feet six and a quarter inches that has not moved in six years, wet to about the height of the water and lime white a finger's width above it.
 
 "Put your hand on it," the boy said.
 
@@ -46,7 +46,7 @@ Then Tarin stood up, because he had been asked, and said the thing he should not
 
 "Then how do you know the bank is soft behind the row. Wick did not say the bank is soft. He said the drain is full to the bank."
 
-Tarin put his hand on the table. He was on his sixty-fourth day in the valley, on five shillings a day for six days with a cottage at no rent, and his fourteen weeks ran to the sixth of the month after next, and every man in the room knew it.
+Tarin put his hand on the table. He was on his sixty-fifth day in the valley, on five shillings a day for six days with a cottage at no rent, and his fourteen weeks ran to the sixth of the month after next, and every man in the room knew it.
 
 "I know where the water is," he said. "I put my hand on the tank wall this morning and I could feel the drain full and the lane standing. The way I felt the launder Thursday night. Two miles and four chains of it. There is no name for that and I am not going to give it one."
 
@@ -58,7 +58,7 @@ Nobody said anything for about nine seconds. Bess Ilk stopped wiping the counter
 
 "Then do not stand in this shop on Monday and tell us what is in a lane you have not been to, with your hand on a wall four miles away." The man said it without heat, the way a man says a thing he has decided. "Wick was there. Wick says a day or two. You say Wednesday. Wick has a washer in his pocket and wet boots. What have you got."
 
-"I have nothing anybody can check," Tarin said. "That is the whole of it. About nine people in this valley have spent a month telling me that a name is a thing that gets negotiated and not a thing that is given, and they are right. I am not asking anybody to act on what my hand says. I am asking—"
+"I have nothing anybody can check," Tarin said, "and there is no more of it than that. About nine people in this valley have spent a month telling me that a name is a thing that gets negotiated and not a thing that is given, and they are right. I am not asking anybody to act on what my hand says. I am asking—"
 
 "What," Armist said.
 
@@ -68,25 +68,23 @@ Nobody said anything for about nine seconds. Bess Ilk stopped wiping the counter
 
 "I want to carry it," Tarin said. "On my back if there is no cart. Forty trips is a butt and I do forty every evening. I can do forty more."
 
-Wick shook his head slowly. "No," he said. "A day a man gives on purpose is a day he still owns, and an evening a man gives on purpose is his own evening. But you are on sixty-four days and you fill a butt every evening and you are the man on the coping, and if you walk into that lane with water on your back, that lane belongs to you in every paper that ever gets written about it. And that woman has lived there nineteen years and was never in a return, and the first thing this valley does for her must not be to make her somebody's party."
+Wick shook his head slowly. "No," he said. "A day a man gives on purpose is a day he still owns, and an evening a man gives on purpose is his own evening. But you are on sixty-five days and you fill a butt every evening and you are the man on the coping, and if you walk into that lane with water on your back, that lane belongs to you in every paper that ever gets written about it. And that woman has lived there nineteen years and was never in a return, and the first thing this valley does for her must not be to make her somebody's party."
 
 "Then somebody else carry it," Tarin said.
 
 "Who," Armist said. "Name a man in this room who is not on a sheet, or in a column, or in a day-book in a shed. You are in two books. I am in a declaration. Wick is in a column. There is no man here who can carry water across a ford without putting a hand in it." He stood up, stiffly, a man of fifty-eight who had dug a trench with his own back in March. "Wick says a day or two and the drain will fall. The tank says nothing about a lane. Your hand says Wednesday. I am for waiting until Tuesday morning and sending Wick back over to look, because Wick was there and Wick has boots that have been in it."
 
-Nine of the eleven nodded. One abstained. One, the boy's mother, said nothing at all.
+Nine of the eleven nodded. One abstained. One said nothing at all, and the boy was not asked either, because he was fifteen.
 
 "It is Monday the twenty-sixth," Armist said, looking at each face in turn. "Wick goes back over tomorrow morning with bread and looks with a stick. Bess puts the decision on the shop slate so no later hand moves it. Mr Rusk fills the butt at six." He paused. "And Mr Rusk, hear this part too, because it is said once and not again: nobody in this room thinks your hand lies. On Thursday night you stood on a coping and told a price nobody else would tell, about a fifth of a share and a hundred and twenty gallons an acre not being a crop, and a physician sixty-one miles east nobody has written to since the fourth of the month before this one. A man who tells a price like that does not lie about water. But a man who knows without showing cannot be acted on, and a room that acts on what it cannot check is a room that will act on anything. That is why we wait for the stick. Not because you are wrong. Because the stick can be checked."
 
-Tarin stood with his hands flat on the table, feeling the wood under his palms the way he felt the tank wall, and the room's refusal settled on him like a coat he had worn all his life and never noticed: he hoarded the final decision, believed carrying enough could prevent another flood, feared becoming useful enough that others let him choose who disappeared. The room had just refused to be carried. It was right. It cost him like a door shutting.
+Tarin stood with his hands flat on the table, feeling the wood under his palms the way he felt the tank wall, and the room's refusal settled on him like a coat he had worn all his life and never noticed: he hoarded the final decision, believed carrying enough could prevent another flood, feared becoming useful enough that others let him choose who got nothing. The room had just refused to be carried. It was right. It cost him like a door shutting.
 
 "I heard it," he said. "Tuesday morning. Wick looks. I fill the butt at six."
 
 "Tuesday morning," Armist said. "That is the decision of this room, and this room is not an assembly and it decides nothing but this: we wait, and Wick looks, and the butt is filled at six whatever any hand says."
 
-Tarin nodded. He had hoarded the final decision all his life, and believed carrying enough responsibility could prevent another flood, and the room had just refused to let him carry it, and the refusal was right and it cost him like a door shutting.
-
-"Tuesday morning," he said. "And I fill the butt at six."
+Bess Ilk took the chalk and wrote it on the shop slate under nothing else, so that no later hand could move what a Monday had done, and read it back out, and wiped her hand down her apron. Tarin read it over her shoulder from the stairs on his way past and did not say anything, because there was nothing to say to a slate.
 
 He went down the stairs and out into the lane with Wick, and neither of them spoke until they reached the culvert where the card stood on its post with the third rod empty and the padlock printed under it and the new line with a heading and nothing under it. The card had been cut on the third, gone up the road on the Friday the ninth, come back printed on Wednesday the twenty-first with a hole in it and a printer's sentence at the foot, and it stood in the afternoon light with about two hundred and forty people able to walk up to it, and nobody had taken a figure off it, and nobody would.
 
@@ -98,4 +96,4 @@ He went down the stairs and out into the lane with Wick, and neither of them spo
 
 "Then do not show it," Wick said. "Fill the butt at six. That is a thing anybody can see."
 
-They parted at the lane end. Tarin went to the plank and did forty trips with Nesta's pail while the light went off the hill, and the butt filled, and his hand knew where every gallon in the drain was, and nobody in the valley would act on it, and that was the first day Bend cost somebody else water instead of saving it. The boy counted to forty without being asked, and Nesta marked the shutter *full, Monday the twenty-sixth*, and Tarin put the pail by the wall with the twine on the handle, and went down to the cottage at Brant on his sixty-fourth day, and did not go over the ford, and did not sleep well.
+They parted at the lane end. Nesta had done the plank at eight, as the arrangement was, and Tarin went to it at six and did forty trips with her pail while the light went off the hill, and the butt filled, and his hand knew where every gallon in the drain was, and nobody in the valley would act on it, and that was the first day Bend cost somebody else water instead of saving it. The boy counted to forty without being asked, and Nesta marked the shutter *full, Monday the twenty-sixth*, and Tarin put the pail by the wall with the twine on the handle, and went down to the cottage at Brant on his sixty-fifth day, and did not go over the ford, and did not sleep well.
