@@ -1,12 +1,12 @@
 # Current State
 
-Current phase: **Volume 02 is CLOSED and has been through its close and review pass.** Chapters 51–100 are written, Batch 0010 (Chapters 91–100) is complete, and the **full-volume pass over Chapters 51–100 is complete**: fifty-nine lines in thirty-four chapters were repaired, the whole of the volume was read in order, and the single page a Volume 03 writer reads first is **`state/volume-02-close-review.md`**. The next phase is **Volume 03 Batch 0001, Chapters 101–110**, whose prompt is at `workspace/volume-03/batch-0001/PROMPT.md`. **It is not another Volume 02 batch. There is no Volume 02 Batch 0006.**
+Current phase: **Volume 03 Batch 0001 (global batch 0011), Chapters 101–110, is COMPLETE at 27,001 words.** The next phase is **Volume 03 Batch 0002, Chapters 111–120**, whose prompt is at `workspace/volume-03/batch-0002/PROMPT.md`.
 
-Current volume: 2 — **The Dry Names**, **closed at Chapter 100**. Target range Chapters 51–100, complete.
+Current volume: 3 — **The Flood Ledger**, open at Chapter 110.
 
-Last batch: **Volume 02 Batch 0005, which is batch 0010 in the global sequence.** The two numbers are the same ten chapters and this file uses both, so here is the mapping once: **Volume 01 took batches 0001–0005 (Chapters 1–50) and Volume 02's five are 0006–0010 (Chapters 51–100).** This batch is **Volume 02's fifth batch, Chapters 91–100**. Its phase directory is `workspace/volume-02/batch-0005/` and its summary is **`state/batch-0010-summary.md`**. **The per-volume number is not unique across volumes — `workspace/volume-01/batch-0005` is Chapters 41–50 and `workspace/volume-02/batch-0005` is Chapters 91–100 — so open the summary file, never a glob.** **The volume is finished.**
+Last batch: **Volume 03 Batch 0001, global batch 0011, Chapters 101–110 (Day 148–157: Saturday the twenty-fourth through Monday the second of next month).** Summary: `state/batch-0011-summary.md`. **Volume 01 took batches 0001–0005, Volume 02 took 0006–0010, so this file is 0011.**
 
-Last completed chapter: **0100**
+Last completed chapter: **0110**
 
 Last batch summary: `state/batch-0010-summary.md`
 

@@ -342,3 +342,23 @@ These are living-world uncertainties, not missing central-mystery answers.
 - **The Sallow Dyke's trials are in minutes and not in seconds**, and the figure is 735 gallons an hour. Chapter 78's derivation read twenty feet in twelve seconds and then called the result seven hundred and fifty gallons an hour, which was out by a factor of sixty; the times and the two velocities are now minutes, and every other figure in that passage was already right.
 
 **And one thread that is NOT closed and is flagged harder than it was:** the Sallow Head tank is a tank and not a channel, and **no chapter in Volume 02 gives it a rate.** The refusal is said out loud in a yard of four hundred people in Chapter 68. Volume 03 must not produce one.
+
+---
+
+# Open threads after Batch 0011 (Chapters 101–110) — Volume 03, Batch 0001
+
+## Advanced, not closed
+
+1. **Six doors are countable and the bundle will never say *no inhabitants* again without leaving a mark.** Certificate (Wed 28th, M. Quill, six households reported, name so-called-by-residents reported, return noted not reconciled), sealing order (Thu 29th, S. Marr nineteen years), flood-court record (Mon 2nd, eleven persons accounted for). **Countable is not served; a name in a box will be copied.**
+2. **The seal made a wave.** Two doors barred Fri 30th; yard-wide gap; half-inch rise; two coats; hammer down the drain; seal lifted Mon pending bank view. Dorrin right about water, wrong about valley.
+3. **The flood book has stubs.** Last gathering cut out, stubs dated last week of flood year, pencil fourteen years, no signature/keeper/return, now with Memory Office for provenance. Conflicting gate hands seen, cause not delivered.
+4. **Tarin's closure is on a sheet and Mara holds it.** Sheet 33 (act, eleven-name count, no names) in her drawer under brass weights, unpublished; sheets 31–32 published. Trust damaged by honesty, not repaired.
+5. **Bend is socially conditioned.** Fails alone in a room (Mon 26th, rightly refused); works Sunday with four saying *we want it*. Difference not resolved.
+6. **Butt every evening; he cannot leave.** Seventy-second day; fourteen weeks to the sixth of the month after next.
+
+## Still open, and it must stay open
+
+- All thirteen prohibitions hold (see batch summary). **Mara still not told the eleven names.** 1843 book untouched. Plate/keeper/printer's figure untouched. Sluice/hand/keeper-column untouched. Dyke≠pipe. Iven untouched (one hand-appearance, price unchanged). Margit Saye not called. Crew of four not back as crew.
+- **Tally of persons by name, if willing** — due from warden; willing is doing the work.
+- **Bank view pending; flood-book provenance pending; column foot (34½, seven lines) due in about a year.**
+- **Perdie's three-line letter still unsent in chest with Iven's five-line reply.**

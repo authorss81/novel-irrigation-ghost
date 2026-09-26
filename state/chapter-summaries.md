@@ -694,3 +694,47 @@ Perdie Ammid writes the whole of it on a sheet, and at the top in her own hand s
 - **Chapter 96's *a copy of it came down the lane on the Wednesday afternoon* against Chapter 97's *from a copy that the boy of nineteen had carried down the lane* on the Monday evening** is a wobble about when a copy of Oriel Fenn's requisition reached Brant, and every state file and the volume's own end state agree that the requisition is **on the road**, so no fix is made and neither reading is asserted anywhere else.
 - **Chapter 80's *the next one is the last Saturday of next month, and that is a fortnight off*** is spoken and then corrected by the same speaker four lines later, and the correction is the canon.
 - **Chapter 89's *a thousand two hundred times a year* and Chapter 80's *a lane four hundred miles from here*** are Volume 01 inheritances and were not checked here.
+
+## Volume 03 — The Flood Ledger, Batch 0001 (Chapters 101–110)
+
+Calendar: **101 Sat 24th / 102 Sun 25th / 103 Mon 26th / 104 Tue 27th / 105 Wed 28th / 106 Thu 29th / 107 Fri 30th / 108 Sat 31st / 109 Sun 1st of next month / 110 Mon 2nd of next month.** Tarin sixty-third day rising to seventy-second. Batch figure 27,001 words.
+
+### Chapter 0101 — The Butt at Six (Nether Sallow lane, Saturday the twenty-fourth)
+
+**"He could not leave" in a mouth inside 300 words.** Butt at six, forty trips, pail and twine, boy counting. News via Mrs Halward: water at Cinder Ford far bank, yard between doors, pump standing in it, ground four feet under at the flume mouth, a mother nineteen years in the third door never in a return. Nesta: plank at four, 190 on shutter. Tarin does not go over the ford.
+
+### Chapter 0102 — The Far Bank (Cinder Ford far bank, Sunday the twenty-fifth)
+
+**Met cold, in daylight, as persons.** Sella Marr (~60, third door, nineteen years, hens); Jess Marr (20, boy nine months, born in third door); Corrie Lille (nets, sixth door, eleven years); well twelve feet, head under water. Wick fits pump washer, brings bread. Question raised is who fills the form in (copy-forward habit), not who lied. Stick: lane to top of boot. Shutter: plank 190.
+
+### Chapter 0103 — What the Hand Knows (tank; room over shop at Brant, Monday the twenty-sixth)
+
+Tank staff 2 ft 5⅞, third reading. Tarin's hand on wall knows the lane will not fall in a day (Wednesday); room of eleven refuses to act on uncheckable knowledge and is right — **Bend's first social failure**. Decision: wait, Wick looks Tuesday with stick. Butt filled at six.
+
+### Chapter 0104 — Nineteen Years in the Third Door (far bank; Nether Sallow, Tuesday the twenty-seventh)
+
+Lane half inch higher, lower butt empty, lane water drunk boiled. Sella's kitchen (dry, six inches above lane); husband saw *no inhabitants* return in Cresset office. Her terms: six doors stood wet and stayed. Nesta: *I believe you and I cannot act on it.* Bread Thursday promised.
+
+### Chapter 0105 — The Box That Wants a Name (Memory Office and tally office, Vellum, Wednesday the twenty-eighth)
+
+**Mara, 48, competent in a flood.** Certificate: district/parish from reports, row number with her own name (count not supply), six households reported, eleven persons estimated, pump/well/butts, name *Cinder Ford far-bank row, so called by residents, reported*, nineteen-year *no inhabitants* noted not reconciled. Tally office: *copy forward unless reported otherwise*; a name in a box will be copied. Letter to warden: tally of persons if willing, daily pump/well notes, due Monday 2nd. Private tracings under brass weights.
+
+### Chapter 0106 — The Magistrate's Line (Nether Sallow plank; far bank, Thursday the twenty-ninth)
+
+**Cael Dorrin enters.** ~50, Fair Copy magistrate, plan case, two clerks. Sentence: *what is recognised is real, and what is real must be recognised, or the law cannot protect it.* Deadline not his: flood court Monday 2nd. Right about record (window lawful, item one stands, drain sole discharge); seals second and third doors, occupants to upper doors, bread/cartage paid, out by Sat evening 31st. Sella's name first time on paper — on sealing order. Tarin warned: *a man who knows without showing is the most dangerous sentence in this basin.*
+
+### Chapter 0107 — The Seal and the Wave (far bank; Nether Sallow, Friday the thirtieth)
+
+**Sealing creates the wave.** Bars and notices read out; bank gives way a yard at lane end, lane rises half inch in a minute, Wick's and Dorrin's coats hold it, wave with carpenter's hammer down the drain. Dorrin notebooks it for Monday. Butt filled; eight pails carried over ford in dark by Tarin and Wick; *a pail is not a procedure.*
+
+### Chapter 0108 — The Record House (record house below culvert; plank, Saturday the thirty-first)
+
+**Perdie returns (second half).** Sheets 31 (figures), then flood-orders ledger (181 years): front orders show conflicting gate hands (upper villages / lower bank / middle parishes) — seen, not delivered. **Last gathering cut out, stubs dated last week of flood year; pencil line inside back board *taken to Vellum for the inquiry, with the keeper's leave*, fourteen years, no signature, no keeper, no return.** Sheet 32 read to three witnesses. Hand is a desk, not a man. 1843 book named once only to separate it. **Tarin admits Riverside closure at nineteen (hospital saved, courtyard trapped, inquiry justified without authority, eleven names on schedule, names not given)** on sheet 33. Iven's three-line letter still unsent in chest.
+
+### Chapter 0109 — What Competence Does (Vellum; far bank, Sunday the first of next month)
+
+**Mara publishes sheets 31–32 to flood-court bundle, holds sheet 33 in drawer under brass weights.** Day-book: *trust damaged by honesty and not repaired by confession alone.* Lane dry underfoot between doors. Bank foot hanging; **Wick under it, four persons (Wick, Corrie, Sella, Tarin) say *we want it*, bank foot eased into drain — Bend works only with shared risk.** Sella unbars hens; nobody stops her.
+
+### Chapter 0110 — Persons Accounted For (flood court, Vellum; shop at Brant; Nether Sallow, Monday the second of next month)
+
+**Court sits.** Dorrin lays persons accounted for (eleven including infant); seal lifted pending bank view; bread/cartage paid; tally if willing; stubs/pencil to Memory Office for provenance. **Iven Marrow appears once in own hand: five lines, flood book not his, fourteen years not his bench, price unchanged, bench Tuesday — not thanked, explains nothing.** Perdie: thirty-three sheets, column 34½ foot empty. Butt filled at six, seventy-second day; cottage at Brant; he cannot leave; eleven accounted for where nineteen years said nobody.

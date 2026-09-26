@@ -936,3 +936,17 @@ This section supersedes nothing above it. Where it disagrees with an earlier sec
 ## Volume 02's cast, and where it stands at Chapter 100
 
 - **Tarin Rusk** — cannot leave, on a tank wall and a pail handle. **Perdie Ammid** — no book, a letter unfinished, a column in a cart. **Sef Ordry** — a new chain bought with his own money and a standing gone. **Jory Vant** — never asked, and standing at the first pier. **Wick Venn** — thirty-four and a half days and a refusal. **Nesta Sarg** — a fifth rod not cut and a pail not lent. **The boy of fifteen** — five readings on a slate and a strip of tarred twine. **Armist Sarg and Nesta Sarg** — one signature, four years of silence, not reconciled. **Aldis Kerr** — seventy-one, not asked, not thanked. **The man of sixty-one** — the tank is not the Reach's. **Mara Quill** — refused to falsify, entered a row number, not thanked. **Iven Marrow** — a requisition and an unfinished letter. **Oriel Fenn** — nineteen years and the first thing anybody has entered against a company. **Margit Saye** — four miles down a lane, ask me again in April, not called back. **Bess Ilk** — stood at a kerb, which is not a thing she does. **The boy of nineteen** — a depth read twice and a reason signed in his own hand. **The man of about fifty who refused in the room** — the only honest thing said at that table, not thanked. **Yara Sen** — sixty-one miles east, referred to once, not written to, not thanked. **The nine men of the assembly** — eight signed, one refused, one had been the man who named the day in a paragraph of a refusal.
+
+---
+
+## Volume 03 Batch 0001 (Chapters 101–110) — character deltas
+
+- **Tarin Rusk** — 63rd to 72nd day; butt every evening six, forty trips; Bend live, socially conditioned (refused Mon, shared-risk success Sun); closure admitted on sheet 33 without names; cannot leave; believed by fewer (room of eleven) and by four (bank Sunday).
+- **Mara Quill, 48** — certificate Wed 28th with own name; publishes 31–32, holds 33 in drawer; competent in flood, dangerous thereby; trust damaged, unrepaired; condition four holds.
+- **Cael Dorrin (~50)** — NEW, Fair Copy magistrate, rung three. Sentence believed; procedure + others' deadline; right about record, wrong about valley; seals, notebooks wave, lays persons accounted for; not villain/rescued.
+- **Sella Marr (~60)** — NEW, third door nineteen years, hens; name first on sealing order. **Jess Marr (20)** — NEW, boy nine months, born third door. **Corrie Lille** — NEW, nets, sixth door eleven years.
+- **Perdie Ammid, 54** — no book; satchel thirty-three sheets; flood-book sheet read to three; three-line letter unsent, Iven's five-line reply filed with it.
+- **Nesta Sarg, 41** — plank 190 all week; *I believe you and I cannot act on it*; fifth rod still promised not cut; bread Thursday.
+- **Wick Venn, 38** — washer, bread, stick (thumb measures), shoulder under bank; column untouched.
+- **Iven Marrow, 54** — one appearance in own hand, five lines, price unchanged, bench Tuesday, not thanked, explains nothing.
+- **The boy of fifteen** — counts to forty nightly; slate readings; asks which it is (room vs bank).
