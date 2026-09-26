@@ -4,7 +4,7 @@ There were a hundred and forty people in the front room of the shop at Brant on 
 
 They came because the count was taken on the Saturday and the fourth rod was on a card at the culvert and the ground went like a bench on the twenty-fourth of this month and a hundred and forty people had nothing to do on a Tuesday afternoon in the second week of a month they had lost.
 
-The thing they wanted was a name. Perdie Ammid had said in a room on the eighth of this month that the amendment could be traced to a desk and not to a man, and had written it down, and a fitter of forty-six had said the same thing two days later and put three specimen slips on a table and turned them face down. And a hundred and forty people had gone on thinking about it for twenty-nine days.
+The thing they wanted was a name. Perdie Ammid had said in a room on the eighth of this month that the amendment could be traced to a desk and not to a man, and had written it down, and a fitter of forty-six had said the same thing twelve days later and put three specimen slips on a table and turned them face down. And a hundred and forty people had gone on thinking about it for twenty-nine days.
 
 ---
 
@@ -92,7 +92,7 @@ They got about forty questions into that room in a quarter of an hour and nine o
 
 A boy of fifteen asked her about the slot in a stone kerb, two inches wide and an inch and a half deep, and she said three square inches, and she said a plate does not go in that and a plate has not ever gone in that and anybody who writes *plate* in a requisition for that slot is writing the wrong word and has been since about 1900, and she said it three times, and the third time she said *and you have written the right word and I do not know why and I have not got round to it.*
 
-A man of thirty-one asked her the plate question — a bigger bore, a smaller number, and what a half-inch plate in a ring does at seven point three one metres — and she said that the answer was in a book four days away in Ostre that belongs to a man of eighty-one, and that she had written to him herself on the Friday the month before last, and that she was not going to answer it in a room and that if he asked her in a yard she would.
+A man of thirty-one asked her the plate question — a bigger bore, a smaller number, and what a half-inch plate in a ring does at seven point three one metres — and she said that the answer was in a book four days away in Ostre that belongs to a man of eighty-one, and that she had written to him herself on the Friday the fifth of this month, and that she was not going to answer it in a room and that if he asked her in a yard she would.
 
 ---
 

@@ -14,7 +14,7 @@ On the Tuesday morning of the sixteenth day of this month Perdie Ammid read out 
 
 "Five. The card at the culvert is not a toll notice, and there are two numbers on it and a hole where a third one should be, and the reason for the hole is printed under the hole and it is a padlock.
 
-"Six. On the fifteenth day of this month, at four minutes past eight in the morning, the seal on the inspection cover of the flume sluice was broken lawfully with the fitter and the master of the Guild standing at it and the wax whole until the copy of the six-year-old sheet behind it was signed. The gate was opened and the flume ran, and at about half past eight the water came off the end of the last stone into the long drain two miles below the plank, and a woman standing in that drain read out a clause of the Reach's own schedule of 1902 which forbids any other discharge into the long drain, whether from a flume, a waste pipe, a culvert, a spill, a torn joint, or a wet stone. The gate was chained at about ten past ten, and what was in the drain was one hour and forty minutes and one thousand four hundred and seventeen gallons, and the water went into a drain with a village at the bottom of it.
+"Six. On the fifteenth day of this month, at four minutes past eight in the morning, the seal on the inspection cover of the flume sluice was broken lawfully with the fitter and a sluicewright of thirty-one standing at it and the wax whole until the copy of the six-year-old sheet behind it was signed. The gate was opened and the flume ran, and at about half past eight the water came off the end of the last stone into the long drain two miles below the plank, and a woman standing in that drain read out a clause of the Reach's own schedule of 1902 which forbids any other discharge into the long drain, whether from a flume, a waste pipe, a culvert, a spill, a torn joint, or a wet stone. The gate was chained at about ten past ten, and what was in the drain was one hour and forty minutes and one thousand four hundred and seventeen gallons, and the water went into a drain with a village at the bottom of it.
 
 "Seven. The sheet of the sixth year said, in two men's hands, *the chain is to be renewed and a keeper named*, and the chain has not been renewed and no keeper has been named, and the plate that sheet was behind is in three pieces in a barrow at the foot of an embankment and the Guild keeps no second.
 
@@ -95,7 +95,7 @@ And at the bottom, because the card had been full for two days and the date had 
 
 > *The seventeenth day of this month.*
 
-The third rod was still empty. It was going to be empty on the fourteenth of the month after this one, and on the fourteenth of the month after that, and the reason for it was printed under it.
+The third rod was still empty. It was going to be empty on the third of the month after this one, and on the third of the month after that, and the reason for it was printed under it.
 
 The reason was a padlock a day and a night off in a village at the bottom of a hill, on a shut gate with a broken seal and a plate in three pieces in a barrow. And there was still no keeper, and there was still nothing in the witness box, and the flume was shut and chained, and the weep on the west shoulder of the road at the fourth mile was under a rind of lime that a boy of fifteen and a woman of forty-six had stood in front of in thirty-six degrees, and the bank on the west side of that road was still soft in a drought.
 

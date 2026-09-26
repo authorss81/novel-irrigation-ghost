@@ -88,7 +88,7 @@ And at about two o'clock on the same Monday, in a room off the terrace road, a m
 >
 > *Entered at the eleventh day of the morning of this day and read back to me in the same words and I have signed it. — O. Fenn, minute, nineteen years.*
 
-Perdie Ammid wrote the whole of it out on the Monday evening on a sheet of paper — sheet two, and she numbered it out loud before she numbered it in ink — from a copy that the boy of nineteen had carried down the lane in a cart that was going up the mountain road anyway, and she read it twice to about nine people in the shop at eight o'clock, and then she wrote one line under it, and read that out twice as well.
+Perdie Ammid wrote the whole of it out on the Monday evening on a sheet of paper — sheet three, and she numbered it out loud before she numbered it in ink — from a copy that the boy of nineteen had carried down the lane in a cart that was going up the mountain road anyway, and she read it twice to about nine people in the shop at eight o'clock, and then she wrote one line under it, and read that out twice as well.
 
 "**They have taken a sentence out of a book in a village and put it in a requisition, and the sentence was not written for a requisition, and nobody asked the man who wrote it, and he is four days away and cannot be sent for, and there is nothing in this he can stop and nothing in it he is thanked for.** Write that on this sheet, under my number, and put the date on it, and do not put his name under it, because he is not the one who paid it and I have been wrong about that twice this month and I am not going to be wrong about it a third time."
 

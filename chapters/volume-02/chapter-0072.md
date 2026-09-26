@@ -38,7 +38,7 @@ She sealed it herself and put the wafer on it and did not show it to anybody, an
 
 What a fitter takes with her, when she goes, in this basin, is in a case, and it is worth writing down because the case is not hers and the contents are not hers and she has never had a moment in twenty-four years when either of those facts was in doubt.
 
-The specification book goes back. It went out in an oilcloth case on the Monday of the second day of this month and it goes home on the Friday in the same case, and it has been in a shed, and a stranger stood beside it, and nothing came out of it.
+The specification book goes back. It came up in an oilcloth case on the twenty-second day of the month before and it goes home on the Friday in the same case, and it has been in a shed, and a stranger stood beside it, and nothing came out of it.
 
 The forms go back. There were about forty of the bundle left on Saturday and by the Monday there would be none, because the shed is a shed and a shed gets forms.
 

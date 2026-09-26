@@ -2,7 +2,7 @@
 
 The count is read on the last Saturday in the month, and the twenty-seventh day of this month is the last Saturday, and the four of them went to the shop at Brant at about eight in the morning instead of to the three rods.
 
-That is the whole of the outside of it and it is not nothing. The roster said eight. Perdie Ammid had ruled the Saturday off in the second book on the Friday morning without asking anybody, in the way she rules things, and the tank card and the plank card and the empty third rod and the reason under the empty third rod were to have been gone over at the tank at eight, and the tank and the plank are three hundred and forty yards apart and the flume sluice is four hundred yards from the tank, and a barrow and two pails and a lath and a watch will do it in four and a half hours as it was done on the fourteenth.
+That is the whole of the outside of it and it is not nothing. The roster said eight. Perdie Ammid had ruled the Saturday off in the second book on the Friday morning without asking anybody, in the way she rules things, and the tank card and the plank card and the empty third rod and the reason under the empty third rod were to have been gone over at the tank at eight, and the throat and the plank are three hundred and forty yards apart and the flume sluice is four hundred yards from the tank, and a barrow and two pails and a lath and a watch will do it in four and a half hours as it was done on the fourteenth.
 
 Nobody in the front room of the shop at Brant said the word *count* for about three and a half hours.
 
@@ -60,7 +60,7 @@ Sef Ordry put both hands on the bench. He is thirty-one and he has a bad way of 
 
 "You had Margit Saye in this room on the Thursday," said Sef Ordry.
 
-"I had Margit Saye in this room on the Thursday and the Friday and the Saturday and the Sunday and the Monday and the Tuesday and she went home on a cart at ten o'clock this morning, and she read the fifth line out of a bundle of forty forms in front of nine people on the Thursday, and she told me to ask you about it before anybody signed anything, and I did not ask you, and she told me to and I did not, and that is a thing I have to hold and not a thing you have."
+"I had Margit Saye in this room on the Thursday and the Friday and the Saturday and the Sunday and the Monday and the Tuesday and she went home on a cart at ten o'clock on Friday morning, and she read the fifth line out of a bundle of forty forms in front of nine people on the Thursday, and she told me to ask you about it before anybody signed anything, and I did not ask you, and she told me to and I did not, and that is a thing I have to hold and not a thing you have."
 
 "She did tell you to," said Sef Ordry.
 

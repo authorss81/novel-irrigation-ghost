@@ -116,7 +116,7 @@ Nobody asked him.
 
 "Then say the rest of it," said Tarin Rusk, "because I can see you have got it and it is worse than that."
 
-"The rest of it is a date," said Sef Ordry. "There is one date in this basin in which the flume sluice is going to be opened with the seal broken properly and two people standing at it, and you have all written it on a card, and it is the fifteenth of this month, and it is twelve days away.
+"The rest of it is a date," said Sef Ordry. "There is one date in this basin in which the flume sluice is going to be opened with the seal broken properly and two people standing at it, and you have all written it on a card, and it is the fifteenth of this month, and it is eleven days away.
 
 "And that is a planting date. That is not a date anybody in this valley chose because of a hillside. That date is in a book in a village because a woman of fifty-four had a field and a window and a calendar, and she was right about the field, and she has never once in her life been asked about the hillside.
 

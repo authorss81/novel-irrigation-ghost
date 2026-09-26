@@ -109,7 +109,7 @@ And Wick Venn wrote a line underneath the whole of it, in his own hand, and show
 
 ---
 
-They cut the notice off the post on the Tuesday evening of the second of next month and turned it over and cut the tin out of the frame, and the frame went back on the post because a frame is ninety years old and a card is six.
+They cut the notice off the post on the Tuesday evening of the second of next month and turned it over and cut the tin out of the frame, and the twine came off with the card and went into somebody's coat, and the frame went back on the post because a frame is ninety years old and a card is six.
 
 The back of the card had six years of a village's water in pencil in five hands, and the front had *CLOSED. No water. No entry. Under penalty.* on it, and no office and no name and no gate.
 

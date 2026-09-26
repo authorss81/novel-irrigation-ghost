@@ -4,7 +4,7 @@ On the Saturday morning of the tenth day of next month the room over the shop at
 
 He said the bill first, and it took him about four minutes, and about eleven people in that room had heard a version of it in a shed or a lane or a room in the last three weeks and had not heard all of it in one place in front of other people.
 
-"On the fifteenth day of the month before I stood in that shed at a quarter to eight in the morning with a disc of red wax in my open hand and I did not touch anything for about two hours and a half and a quarter, so that in about four years there would be one man in this basin who could stand in front of a bench and say he did not break a Guild seal. I bought that. It cost me two hours of holding my hand out and the skin off both forearms.
+"On the fifteenth day of this month I stood in that shed at a quarter to eight in the morning with a disc of red wax in my open hand and I did not touch anything for about two hours and a half and a quarter, so that in about four years there would be one man in this basin who could stand in front of a bench and say he did not break a Guild seal. I bought that. It cost me two hours of holding my hand out and the skin off both forearms.
 
 "And on the Saturday of the twenty-seventh day of this month, at a quarter past eleven in the morning, a man of thirty-three put *Sef Ordry, sluicewright, of Bexhill, of no district* into a printed line on a form, without asking me, as a man who has the water, so that a thirsty man can come to my door.
 
@@ -40,7 +40,7 @@ He put the bar down on the table, which he does.
 
 Then the man of thirty-three was asked three questions and he answered all three and he did not say one word in his own favour, and about nine people in that room noticed that he did not, and one of them has said since that she counted it.
 
-The first question was from Sef Ordry and it was whether he had known on the Wednesday morning of the twenty-seventh that the fourth line could not be completed.
+The first question was from Sef Ordry and it was whether he had known on the morning of the twenty-seventh that the fourth line could not be completed.
 
 "And the copies," said the boy of nineteen from the wall. "Has anybody got a copy of the books in a village that is not this village."
 

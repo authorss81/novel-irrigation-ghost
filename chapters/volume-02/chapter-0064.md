@@ -64,7 +64,7 @@ She put her hand on the bound book.
 
 "The Reach's own copy of the schedule of the works of the Reach. The same schedule the printed slip off the pin in this room was cut out of, and it was made at the bookshop in this village in 1902, and this village has held a copy of it for about a hundred and thirty years, and a schedule is a thing a person keeps in a house and not in a shed, and I have had it in that chest for twenty-six years because I did not understand what I was keeping.
 
-"And the fourth is a card the size of a man's hand on a nail in a shed door at the foot of an embankment, with six entries and no seventh, and a second line under the seventh written twelve days ago by a sluicewright because I asked him to. I have never seen it and have not asked to, and I know what it says, because every village in this Reach has had one of them in a shed door since before anybody living.
+"And the fourth is a card the size of a man's hand on a nail in a shed door at the foot of an embankment, with six entries and no seventh, and a second line under the seventh written ten days ago by a sluicewright because I asked him to. I have never seen it and have not asked to, and I know what it says, because every village in this Reach has had one of them in a shed door since before anybody living.
 
 "Four documents. Three of them in this village. One of them in a town forty miles off. And the fourth of them in a shed."
 

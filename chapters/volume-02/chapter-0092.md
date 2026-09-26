@@ -22,7 +22,7 @@ Perdie Ammid read it out in the shop on the Thursday afternoon with about eleven
 
 "Witnessed by eleven," she said, when she had done it. "Entered at four o'clock on the fifteenth. And I want the room to hear the arithmetic, because it is the whole of what that sheet has come back with.
 
-"**Three signatures out of nine, in a day and a half.** That is a rate of about two a day off a lane of four miles. It took the sheet in the middle of the month before this one thirteen days to come back, and eight of nine refused and one signed, and the eight refusals are the sheet that made the nine of us today. And now three have signed inside a day and a half, and the three are Wyle, which signed on the second because it named the second, and Cold Ashton, which signed on the Wednesday morning in one sentence in a hand of about seventy, and Marl, which signed in a clerk's hand and **asked for a copy of the sheet for its own file.**
+"**Three signatures out of nine, in a day and a half.** That is a rate of about two a day off a lane of four miles. It took the sheet on the tenth of the month before this one two days to come back, and eight of nine refused and one signed, and the eight refusals are the sheet that made the nine of us today. And now three have signed inside a day and a half, and the three are Wyle, which signed on the Thursday morning and which had signed the paper on the day it named, and Cold Ashton, which signed on the Wednesday morning in one sentence in a hand of about seventy, and Marl, which signed in a clerk's hand and **asked for a copy of the sheet for its own file.**
 
 "And a clerk who wants a copy of a thing is a man who wants to be able to say what he agreed to in four years. **Marl is the only one of the nine that has ever asked for anything in writing in the history of this Reach**, and it asked for it in the same breath as it signed, and I have read that sentence about four times today and it has not stopped being the most professional thing anybody in this valley has done in a month."
 
@@ -82,7 +82,7 @@ On the Thursday evening, at about eight, the man who had come down the mountain 
 
 "You have not asked the four."
 
-"I have asked nobody," said Tarin Rusk, "because it is Thursday night and the four of them are at four different ends of four different things and I will ask them tomorrow morning, one at a time, on a Saturday, in daylight, and if one of them says no then I will do a different thing, and there is one other Saturday in this month before the twenty-second, and the twenty-second is a Thursday. **And I have just heard myself say that. I have run out of Saturdays and I am going to ask four men tomorrow.**"
+"I have asked nobody," said Tarin Rusk, "because it is Thursday night and the four of them are at four different ends of four different things and I will ask them on Saturday morning, one at a time, in daylight, and if one of them says no then I will do a different thing, and there is one other Saturday in this month before the twenty-second, and the twenty-second is a Thursday. **And I have just heard myself say that. I have run out of Saturdays and I am going to ask four men on Saturday.**"
 
 Perdie Ammid entered both of those sentences in the second book, the first one and the second one, and the second one is on a page of its own, and it is the third entry this month in the column headed *what it cost*, and the first two of them are not about water at all.
 

@@ -78,7 +78,7 @@ Yara Sen listened to the whole of it and then asked for a slate and took it off 
 
 Nobody thanked her. Domen Prouse wrote the two figures on the back of his hand, which he did with a nail, and did not say thank you, and said something else instead.
 
-"You have been here four days," he said. "Is that all you came for."
+"You have been here two days," he said. "Is that all you came for."
 
 "No," said Yara Sen.
 

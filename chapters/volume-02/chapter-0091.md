@@ -43,7 +43,7 @@ She had all of them and she had them before he was half way, and she had been in
 
 "Write them on the board," she said. "All five. Not one. A board with four figures on it is a man who has picked the four that suit him, and this city has had a man who picked the four that suited him and it has been in four buildings since the middle of the month before this one."
 
-Nobody thanked her and she said so before anybody asked, and said it had been said twelve times in a month now, which was one more than it had been on Saturday.
+Nobody thanked her and she said so before anybody asked, and said it had been said twelve times in a month now, which was one more than it had been on Tuesday.
 
 ---
 

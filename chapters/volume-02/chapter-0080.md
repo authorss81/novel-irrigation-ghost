@@ -48,7 +48,7 @@ Sef Ordry read the six of them and then wrote on the seventh, and then read it o
 
 ---
 
-And then the thing that is on the card in the end, which is not a date and is not a figure and is the last thing anybody in the Sallow Reach put down in the thirtieth month, was put down by a man of thirty-eight with one hand who has been doing it since June in a lane four hundred miles from here and has never once been thanked for it in either county.
+And then the thing that is on the card in the end, which is not a date and is not a figure and is the last thing anybody in the Sallow Reach put down on the thirtieth day of this month, was put down by a man of thirty-eight with one hand who has been doing it since June in a lane four hundred miles from here and has never once been thanked for it in either county.
 
 Wick Venn did it at about four in the afternoon in the yard at Brant, with a pencil, on the back of a broadsheet, and he said it out loud so that a woman of fifty-four could write it down, and it took him about four minutes, and it is in the second book in her hand on a page of its own.
 

@@ -32,9 +32,9 @@ And the tank, and the flume sluice, and Wick Venn on the barrow, and there was o
 
 "There is your problem," said Bess Ilk. "You are the sixth and there are three rods. You cannot be at two of them at eight o'clock and you have known that since the Monday you wrote the roster, and every one of us has known it, and it has been sitting on that page for nine days."
 
-"I can do the tank and the sluice," said Tarin Rusk. "The tank is a level and the sluice has nothing in it. They are a mile and a half apart and there is a road between them and I can walk it in twenty minutes."
+"I can do the tank and the sluice," said Tarin Rusk. "The tank is a level and the sluice has nothing in it. They are four hundred yards apart with a shed in between and I can walk it in ten minutes."
 
-"You can walk it in twenty minutes," said Bess Ilk, "and you cannot read a staff and write a figure at the same time, and by the time you have walked it back the tank figure is two hours old and the sluice figure is three, and we are not printing a card on the Sunday with two hours on one end of it and three on the other, and the first person who comes along that road at ten o'clock is going to ask you what you have been doing and you are going to have to say that you are an engineer on a roster, and that is the sentence I would like to keep out of this village if it can be kept out of it."
+"You can walk it in ten minutes," said Bess Ilk, "and you cannot read a staff and write a figure at the same time, and by the time you have walked it back the tank figure is two hours old and the sluice figure is three, and we are not printing a card on the Sunday with two hours on one end of it and three on the other, and the first person who comes along that road at ten o'clock is going to ask you what you have been doing and you are going to have to say that you are an engineer on a roster, and that is the sentence I would like to keep out of this village if it can be kept out of it."
 
 Tarin Rusk said, "Then I am not on the Sunday."
 

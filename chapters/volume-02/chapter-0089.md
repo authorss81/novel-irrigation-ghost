@@ -46,11 +46,11 @@ It was a direction to the index desk, three lines long, in a hand that Perdie Am
 
 Jory Vant read it out twice and then said, in the voice he uses for figures he has had to sit with:
 
-"That is a master of the Guild's hand, and it is not signed, and a man of thirty-four in this room knows that a one-letter initial on a direction to an index desk is not a signature and does not commit a company to anything, and that the whole of that sentence is a man talking and not a company deciding, and **that the index hand is not able to sign for him and has not been asked to.**"
+"That is a master of the Guild's hand, and it is not signed, and a man of thirty-three in this room knows that a one-letter initial on a direction to an index desk is not a signature and does not commit a company to anything, and that the whole of that sentence is a man talking and not a company deciding, and **that the index hand is not able to sign for him and has not been asked to.**"
 
-"So he wrote it and could not put it in the answer," said Tarin Rusk. "He got it into the same sheet, underneath, in a different hand, with one letter at the bottom, and the index desk did the rest and dated it the twelfth, and the twelfth is the day after the cart."
+"So he wrote it and could not put it in the answer," said Tarin Rusk. "He got it into the same sheet, underneath, in a different hand, with one letter at the bottom, and the index desk did the rest and dated it the seventh, and the seventh is four days before the cart."
 
-"The twelfth is the day it was done," said Perdie Ammid. "It was received on the Sunday and it is dated the Monday, and the company did a morning's work on it, and a morning's work in a counting-house is worth a great deal and is worth nothing whatever, because a date on a paper out of that office is the day a man looked at it and not the day a man thought about it.
+"The seventh is the day it was done," said Perdie Ammid. "It was received on the Sunday and it is dated the Wednesday before it, and the company did a morning's work on it, and a morning's work in a counting-house is worth a great deal and is worth nothing whatever, because a date on a paper out of that office is the day a man looked at it and not the day a man thought about it.
 
 "And there is one more thing on that sheet and I am going to say it and then I am going to bed, because it is the only part of that answer that will be worth anything in four years and it is not worth a shilling this morning.
 

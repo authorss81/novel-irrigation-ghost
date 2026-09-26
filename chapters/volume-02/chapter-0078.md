@@ -34,7 +34,7 @@ He put the lath in.
 
 "Twenty feet. Go."
 
-"Twelve seconds," said Jory Vant.
+"Twelve minutes," said Jory Vant.
 
 "Again."
 
@@ -44,11 +44,11 @@ He put the lath in.
 
 ---
 
-They did them again at a quarter past eleven and the second pair was twelve seconds and twelve and a half seconds, exactly the same, which is the one thing about a count that matters and which nobody has to be told.
+They did them again at a quarter past eleven and the second pair was twelve minutes and twelve and a half minutes, exactly the same, which is the one thing about a count that matters and which nobody has to be told.
 
-"Square foot of cut," said Jory Vant, on the bank, with the figures on the back of his own hand in pencil. "Twelve seconds for twenty feet is a foot and two-thirds a second. A foot and two-thirds a second into a square foot is a foot and two-thirds of a cubic foot a second. That is twelve and a half gallons a minute. That is seven hundred and fifty gallons an hour."
+"Square foot of cut," said Jory Vant, on the bank, with the figures on the back of his own hand in pencil. "Twelve minutes for twenty feet is a foot and two-thirds a minute. A foot and two-thirds a minute into a square foot is a foot and two-thirds of a cubic foot a minute. That is twelve and a half gallons a minute. That is seven hundred and fifty gallons an hour."
 
-"And twelve and a half seconds is one and three-fifths of a foot a second," said Tarin Rusk, "which is one and three-fifths of a cubic foot a second, which is twelve gallons a minute, which is seven hundred and twenty gallons an hour."
+"And twelve and a half minutes is one and three-fifths of a foot a minute," said Tarin Rusk, "which is one and three-fifths of a cubic foot a minute, which is twelve gallons a minute, which is seven hundred and twenty gallons an hour."
 
 "Seven hundred and fifty and seven hundred and twenty," said Jory Vant. "About four per cent apart. Write down seven hundred and thirty-five and be dull about it."
 
@@ -130,7 +130,7 @@ Then Nesta Sarg said the sentence, and it took her about twenty words, and she s
 
 Nobody thanked her and she did not want to be thanked, and Perdie Ammid wrote the whole of it in the second book, in her own hand, with the date, and under it she wrote four lines, because a statement can be improved on in an afternoon and a list has to be got right.
 
-> *1. The Sallow Dyke, main cut, second bridge, in the lowest field: one square foot of section. Twenty feet in twelve seconds, and twenty feet in twelve and a half seconds, both taken twice, both pairs the same. Seven hundred and fifty gallons an hour and seven hundred and twenty gallons an hour, both printed. The figure is seven hundred and thirty-five and the reason is given on the page and is a fitter's absence and not a fitter's rule.*
+> *1. The Sallow Dyke, main cut, second bridge, in the lowest field: one square foot of section. Twenty feet in twelve minutes, and twenty feet in twelve and a half minutes, both taken twice, both pairs the same. Seven hundred and fifty gallons an hour and seven hundred and twenty gallons an hour, both printed. The figure is seven hundred and thirty-five and the reason is given on the page and is a fitter's absence and not a fitter's rule.*
 > *2. Seventeen thousand six hundred and forty gallons a day, which is fifteen times the whole of the drinking of this Reach in the fourth book's figure of one thousand one hundred and sixty a day, and which is the Reach's own season of five million four hundred and eighty-one thousand gallons in three hundred and ten days.*
 > *3. It is not available. It is below the flume's own outfall and cannot be lifted, and it is the lower field's own drainage, and the lower field is not drained in a wet winter without it, and the assize is a hundred and thirty years old and is a plan for ever and not for this year.*
 > *4. The water was not lost. It was made blind, by one name, written down twice, in two places, in two centuries, in two hands, for two good reasons.*

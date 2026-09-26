@@ -94,7 +94,7 @@ He put his hand flat on the open volume.
 
 Perdie Ammid opened the fourth book on the Monday afternoon at about four o'clock and put her finger on a line in pencil near the back, in a small hand that was not any hand in the room.
 
-"Seventeen lines," she said. "In pencil. About the Sallow Dyke, and the bend at the second bridge, and where the weed is. And it is dated nothing and signed nothing and it is in a hand about eleven years old, and I have had that book for thirty-one years and I have read it every year of those thirty-one, and I put it there myself when I was about nine, off a woman of seventy-one who showed me the page."
+"Seventeen lines," she said. "In pencil. About the Sallow Dyke, and the bend at the second bridge, and where the weed is. And it is dated nothing and signed nothing and it is in a hand about eleven years old, and I have had that book for thirty-one years and I have read it every year of those thirty-one, and I put it there myself nine years ago, off a woman of seventy-one who showed me the page."
 
 Aldis Kerr was in the room, and had been since about eleven, at the back, and she is seventy-one and she had said she would not be asked.
 

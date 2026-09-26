@@ -68,7 +68,7 @@ And then Tarin Rusk said the rest of it, and Perdie Ammid said the rest of it, a
 
 Nobody in that room knew what she meant and about four of them had been on a bank at the third mile and one of those four was in this room.
 
-"It is on two crossing stones at the third mile below the intake, and it is two hundred and fifty years old, and it has four lines on it, and I have known about it for eleven days, and so has the man who read it out on that bank with five people in front of him, and I have refused to have it read out in an assembly and I stand by that and I am going to say the rest of it in a room of thirty people on a Friday because I have run out of year.
+"It is on two crossing stones at the third mile below the intake, and it is two hundred and fifty years old, and it has four lines on it, and I have known about it for twelve days, and so has the man who read it out on that bank with five people in front of him, and I have refused to have it read out in an assembly and I stand by that and I am going to say the rest of it in a room of thirty people on a Friday because I have run out of year.
 
 "The third line is the only reason that stone matters. It says a man who takes water of the Sere is to be *named among the takers, so that a man who is thirsty can come to the door of the man who has the water*.
 

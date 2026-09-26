@@ -55,11 +55,11 @@ And then the man who had not slept more than about three hours in three nights, 
 
 "And the window is three thousand four hundred and eighty-five gallons. That is about one part in fifteen hundred of it. That is about three quarters of one household's day. **The window prevents one field failing and it does not prevent this Reach's season, and any man in this valley who tells you otherwise is selling something.**
 
-"And the other number, which is worse, and which is on this coping and has not been said out loud at night. **Eight hundred and fifty gallons an hour for ten days over seventeen hundred acres is a hundred and twenty gallons an acre, and a physician stood in a yard in this valley in the middle of the month before this one and said out loud, in front of about nine people, that a hundred and twenty gallons an acre is not a crop.** She is right, and she is sixty-one miles east, and nobody in this valley has written to her since the fourth of this month, and she is not thanked.
+"And the other number, which is worse, and which is on this coping and has not been said out loud at night. **Eight hundred and fifty gallons an hour for ten days over seventeen hundred acres is a hundred and twenty gallons an acre, and a physician stood in a yard in this valley in the middle of the month before this one and said out loud, in front of about nine people, that a hundred and twenty gallons an acre is not a crop.** She is right, and she is sixty-one miles east, and nobody in this valley has written to her since the fourth of the month before this one, and she is not thanked.
 
 "And the last number, and it is the one that is going to be in a board in a city in four days. **The Sallow Dyke takes seventeen thousand six hundred and forty gallons a day out of the lowest field of this Reach, west, into the lower Sere, and so into Cresset, and that is about three hundred and ten days of the Reach's own season a year, and it has been doing it for six years.** That is a fifth of a day's worth going into a trench tonight. The dyke is below the flume's own outfall and water cannot be lifted. It is the lowest field's own drainage and the field is not drained without it. And it cannot be stopped, and it cannot be used, and it is not going to stop on the sixth of next month, and there is nothing anybody in this valley can do about it tonight or this month or this year.
 
-"So that is the price. **I cannot measure what the other side of it costs nine hundred and forty households sixty-one miles east, and I have been asked to say so in public and I have, and I am saying it again at midnight on a tank because there is nobody else up here.**"
+"So that is the price. **I cannot measure what the other side of it costs nine hundred and forty properties sixty-one miles east, and I have been asked to say so in public and I have, and I am saying it again at midnight on a tank because there is nobody else up here.**"
 
 ---
 
@@ -107,7 +107,7 @@ And nobody thanked him either.
 
 ---
 
-At about half past four in the morning it was light enough to see the tank by, and the boy of fifteen took his slate to the coping and read the staff a fifth time, and it was two feet five and an eighth, and he wrote it down with the time on it, and then he took the level staff off its board and stood it against the wall and looked at it for a while, because it was his and it had done the only thing anybody in this valley has wanted a thing to do for six years.
+At about half past four in the morning it was light enough to see the tank by, and the boy of fifteen took his slate to the coping and read the staff once more, and it was two feet five and an eighth, and he wrote it down with the time on it, and then he took the level staff off its board and stood it against the wall and looked at it for a while, because it was his and it had done the only thing anybody in this valley has wanted a thing to do for six years.
 
 Tarin Rusk put his hand back on the inside of the wall.
 

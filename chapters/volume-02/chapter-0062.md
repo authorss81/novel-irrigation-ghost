@@ -4,7 +4,7 @@ The toll bar was half a mile below the shed at the foot of the embankment, and T
 
 Margit Saye gave him one instruction at the shed door, and it was the whole of what she wanted.
 
-"Ask him questions," she said. "Do not ask him for the book. He has told a wagon full of strangers on the second day of this month that he will not read it out and he will answer if he is asked, and both of those were said in front of me and one of them is a promise and the other is a condition, and a man who says a thing like that in front of a fitter is not going to be badgered about it.
+"Ask him questions," she said. "Do not ask him for the book. He has told a wagon full of strangers on the twenty-third day of the month before that he will not read it out and he will answer if he is asked, and both of those were said in front of me and one of them is a promise and the other is a condition, and a man who says a thing like that in front of a fitter is not going to be badgered about it.
 
 "And one more thing. The head at that gate is seven point three one metres and there has never been a rod on it in my working life, and there is not going to be one on the fourteenth, and I am telling you now so that neither of you spends the next nine days looking for a way to put a lath on a shut gate, because you will both try it, and it cannot be done, and it must not be done on the morning the count is taken."
 
@@ -82,7 +82,7 @@ The man looked at him.
 
 The road man took his hand off the sill.
 
-"Ten minutes past two in the afternoon," he said. "And it was raining a little, the sort that gets into a collar and stops. And he walked. And the padlock was new, because new is the word for a padlock and an old one has rust on it and I have been looking at them for forty years, and I could see it on his arm at ten paces, and I have not told that to anybody in six years, and I am telling it to a man with a bad hand and no office because he asked me the right question and I have been waiting since the second day of this month for somebody to ask me the right question."
+"Ten minutes past two in the afternoon," he said. "And it was raining a little, the sort that gets into a collar and stops. And he walked. And the padlock was new, because new is the word for a padlock and an old one has rust on it and I have been looking at them for forty years, and I could see it on his arm at ten paces, and I have not told that to anybody in six years, and I am telling it to a man with a bad hand and no office because he asked me the right question and I have been waiting since the twenty-third day of the month before for somebody to ask me the right question."
 
 ---
 

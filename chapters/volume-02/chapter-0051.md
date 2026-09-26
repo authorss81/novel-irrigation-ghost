@@ -14,7 +14,7 @@ And then he unhooked it, and gave it to Niko, and said, "Take it up to him befor
 
 The lane at the left of the arch was wet to about four feet from the arch stones and dry everywhere else, and the wet part was not water that anybody had put there. It was the ground remembering the fifteenth, three days ago, and giving it back, which it had been doing every morning since at about a quarter of five.
 
-The yard cistern stood at its coping and had stood there since the afternoon of the twentieth of the month before last, and it had not gone down by anything a boy with a stick could see in three days, which was not the same as not going down. Niko's chalk on the coping read *4,700* with a second line under it, and under the second line he had written, in the small careful hand he used for things other than numbers: *not a reading of a stable tank.*
+The yard cistern stood at its coping and had stood there since the afternoon of the twentieth of the month before, and it had not gone down by anything a boy with a stick could see in three days, which was not the same as not going down. Niko's chalk on the coping read *4,700* with a second line under it, and under the second line he had written, in the small careful hand he used for things other than numbers: *not a reading of a stable tank.*
 
 Tarin Rusk took the notice off Niko, folded it once, and read it standing up.
 

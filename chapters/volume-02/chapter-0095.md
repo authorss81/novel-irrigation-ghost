@@ -72,7 +72,7 @@ Nesta Sarg did the plank four times on the Sunday, and the fifth time at about s
 
 "**Fifth rod. The West Flume, third pier. Six inches wide. Not a drain. A channel. Depth read and not measured.** That is what it is going to say, because that is the one thing on that card that has never been in a book anywhere, and the third rod has been empty for six years because of a padlock, and the fourth rod is a drain that has been running since before the assize, and the fifth rod is the one we opened, and about half the men in this valley will say a flume is a drain if you let them, and then somebody in about four years will read that card and not be able to tell which of the two things came out of the mountain and which came out of the ground.
 
-"And I will put the date on it, because the card is a count and a count has a date on it, and a channel that ran for four hours and six minutes on the twenty-second of this month and has been dry and chained and padlocked ever since is the first thing anybody in this basin has been able to measure about the flume in six years, and it is three-quarters of an inch, and it is not a figure anybody should lean on, and the ink on the card says so about the other one."
+"And I will put the date on it, because the card is a count and a count has a date on it, and a channel that will run for four hours and six minutes on the twenty-second of this month and will be dry and chained and padlocked ever after is the first thing anybody in this basin has been able to measure about the flume in six years, and it is three-quarters of an inch, and it is not a figure anybody should lean on, and the ink on the card says so about the other one."
 
 "Nesta."
 

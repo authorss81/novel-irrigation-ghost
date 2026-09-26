@@ -308,7 +308,7 @@ These are living-world uncertainties, not missing central-mystery answers.
 - **Boryn Vey, Cael Dorrin and Liora Tarn do not appear in Volume 02 and did not appear in the last ten chapters.** Yara Sen is referred to once, in a report of a sentence she said in a yard, and she is sixty-one miles east and nobody in the valley has written to her since the fourth of this month. Glassstep is not named anywhere in Volume 02. **The blue steps is named twice on a city form and is unattached to Glassstep and unconnected to the split, and it is the first appearance of that street in this volume.**
 - **Tarin's two charges, live, never joined, and the third that is a conversation with no sheet.** He broke no seal in this batch. He says in a room that he has been the second one since he was thirty-one and that this morning he was not even the second one.
 
-## What Volume 03 must not do
+## What Volume 03 must not do — **THIRTEEN, and this is the list the close pass settled on 2026**
 
 - **It must not answer who shut the sluice, or whose hand is in the schedule, or who was struck out of the keeper column.** Aldis Kerr raised the first of these on the eighteenth of this month and did not answer it, and a man of sixty-one put the second of them on a sheet on the twentieth.
 - **It must not turn the name into a command.** The strongest evidence is now a man of sixty-one saying that a flume is a thing a man put between the tank and the fields in order to divide ours, and that a thing which divides ours is not ours, and a fitter of forty-six saying a name in a book in a village is the only thing in this basin that cannot be got out again. **No chapter may show a route behaving better because it has been given a name.**
@@ -321,3 +321,24 @@ These are living-world uncertainties, not missing central-mystery answers.
 - **It must not open a fifth thing.** Volume 02's one opening was the flume, for four hours and six minutes, on the twenty-second. **The Sallow Head gate stays shut and chained. The flume sluice stays chained, on a new chain. The weep stays under its rind. The plate stays in three pieces, unfitted, and the third rod stays empty with a padlock printed under it.**
 - **It must not un-tie Tarin from the route and it must not let him leave.** He cannot leave. That is the last sentence of Volume 02 and Volume 03 opens with a man who cannot get out of a valley.
 - **It must not resolve the 1843 book, and it must not find anybody who was in the room in 1902.**
+- **It must not fit the plate, and it must not name a keeper, and it must not produce the figure the printer of Culm would not print.** The figure he would not swear to is the date the plate can be fitted, and that date is a plate and a keeper and an assembly of a district sixty-one miles east with no acting commissioner in it, and it does not exist. The third rod's new line, the one with a heading and nothing under the heading, stays empty.
+- **It must not merge the two unnamed men of sixty-eight, and it must not name either of them.** The printer of Culm opened a locked press on the strength of nothing and printed a card with a hole in it. The man at a toll bar sixty-one miles east keeps a book that is not a toll book. Two different men of the same age in two different places, and naming either was left to a later batch on purpose. **For the same reason it must not merge the unnamed fourth master of Chapter 75 — a man of fifty-four whom Sef Ordry says he has worked for two years — with Iven Marrow, who is fifty-four by his own hand in Chapter 90 and has been the master for eleven years. They are not the same man and the fourth master is not to be named.**
+
+---
+
+# Volume 02 is closed — what the close pass added to this file
+
+**The volume is closed at Chapter 100. The list above is now thirteen items and the close pass added the last two of them, because the eleventh was the eleventh and the prompt for the close pass said thirteen and the two that were missing are both prohibitions the ending depends on: the plate, and the two unnamed men of sixty-eight plus the fourth master of Chapter 75. Nothing in the eleven existing items was altered.**
+
+**Two things in this file were found wrong by the close pass and are corrected here:**
+
+- **The notice came off that stake in Chapter 60 and not in Chapter 100.** It was cut off, turned over, and the tin cut out of the frame on the **Tuesday evening of the second of this month**, by six hands in daylight, with the frame going back on the post, **and the twine came off with the card.** Chapter 100 said it was fetched and turned over for the first time on the twenty-seventh of the month before this one by a man who could not read, which was impossible, because Chapter 54 has the party turn that notice over properly in daylight on the twenty-fourth of the month before. **The twine, the frame, the notice, the fifteenth on the notice and the butt are all still on the page and there is now one removal instead of two.**
+- **The two one-day entries of the seventeenth are on a sheet and are NOT a line of the column and are NOT going to become one.** The column is five lines in the cart at twenty-seven and a half days and the seventh sheet carries the sixth and seventh lines at thirty-four and a half. The closing document of Chapter 100 now says the column and the numbered sheet that goes with them in the same satchel say the day, which is true of both and keeps the ending image intact.
+
+**Three threads that were open are now closed by a decision and must be carried as decisions, not as questions:**
+
+- **The days on which the two one-day entries of the seventeenth were written are settled, and they are not a column.** See above.
+- **Margit Saye's departure is settled on the Friday the twenty-sixth**, which is what Chapter 72 has her naming in advance, what Chapter 75 narrates, and what canon item 98 says. Chapter 76's *this morning* and Chapter 77's *Saturday morning* are gone. Canon item 102, which recorded this as observed and deliberately unresolved, is retired.
+- **The Sallow Dyke's trials are in minutes and not in seconds**, and the figure is 735 gallons an hour. Chapter 78's derivation read twenty feet in twelve seconds and then called the result seven hundred and fifty gallons an hour, which was out by a factor of sixty; the times and the two velocities are now minutes, and every other figure in that passage was already right.
+
+**And one thread that is NOT closed and is flagged harder than it was:** the Sallow Head tank is a tank and not a channel, and **no chapter in Volume 02 gives it a rate.** The refusal is said out loud in a yard of four hundred people in Chapter 68. Volume 03 must not produce one.

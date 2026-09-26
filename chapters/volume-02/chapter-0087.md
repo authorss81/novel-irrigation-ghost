@@ -70,7 +70,7 @@ The card went up the mountain service road on the Friday morning of the ninth, i
 
 Sixty-one miles east, on the same Friday morning, the arithmetic came back down the mountain and out along a clerk's road, and it did not come as a document and that is the whole of what happened there.
 
-It came because a plate had been requisitioned for a works, and the requisition went into the counting-house at Vellum on the first of next month with the particulars on it, and the particulars name the works, and the works is named in the returns of a district in another city, and a clerk of thirty-four in the post four years went looking on the Thursday for a figure to put against that works in a column of the return headed *demand upon the works named*, which is a real column and has been empty on every one of that district's returns for six years.
+It came because a plate had been requisitioned for a works, and the requisition went into the counting-house at Vellum on the third day of next month with the particulars on it, and the particulars name the works, and the works is named in the returns of a district in another city, and a clerk of thirty-four in the post four years went looking on the Thursday for a figure to put against that works in a column of the return headed *demand upon the works named*, which is a real column and has been empty on every one of that district's returns for six years.
 
 He could not measure anything. He multiplied.
 

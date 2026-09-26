@@ -4,7 +4,7 @@ Sef Ordry came down the bank on the Sunday morning of the twenty-eighth day of t
 
 Tarin Rusk was in the shed door. The card was on the nail. There was a hundred and eighty-one years of a shed, a stove, two benches and a smell of oil.
 
-"I have not come to cut anything," said Sef Ordry. "I have come because I have got a thing to say that I would rather say on a Sunday than on a Monday, and I have thought about it since about four o'clock yesterday afternoon and I could not get it into a shape that fitted a Monday, and the reason it will not fit a Monday is that on Monday I am going to be a man working, and this is a man talking."
+"I have not come to cut anything," said Sef Ordry. "I have come because I have got a thing to say that I would rather say on a Sunday than on a Monday, and I have thought about it since about four o'clock on Friday afternoon and I could not get it into a shape that fitted a Monday, and the reason it will not fit a Monday is that on Monday I am going to be a man working, and this is a man talking."
 
 "Say it."
 
@@ -34,7 +34,7 @@ Tarin Rusk put his coat down on the bench and Sef Ordry took out the bar and tur
 
 "There is a second cost and it is mine and it is not in the book because I would rather say it than enter it.
 
-"**You have had my reason since four o'clock yesterday afternoon and you did not use it.** You used my name. Those are two different things and I have spent a night turning them over and I have got to this and I would like you to have it in one paragraph and then I will be at a gate bed on Tuesday and you will hold the other end of it.
+"**You have had my reason since four o'clock on Friday afternoon and you did not use it.** You used my name. Those are two different things and I have spent a night turning them over and I have got to this and I would like you to have it in one paragraph and then I will be at a gate bed on Tuesday and you will hold the other end of it.
 
 "The reason I gave you in that yard was a habit and not a rule, and I said so, and I said I would not say it twice because the second time it is a rule, and you asked me to say it again this morning and I said no, and you did not press me and I want it entered that you did not press me and that not pressing me was the correct thing and that it cost you the whole of Saturday, and I do not think you know that it cost you the whole of Saturday.
 
@@ -54,7 +54,7 @@ Tarin Rusk put his coat down on the bench and Sef Ordry took out the bar and tur
 
 "I know exactly what you are going to do with it and it is the right thing and it is the reason I am not going to let you.
 
-"You are going to put it on the record in place of my name. I have watched you do arithmetic like that all month. You have got four true lines in a book and no fifth line and a man of thirty-four in a black coat in a counting-house who is not going to look at four true lines and no fifth line, and you have worked out in about a day and a night that there is a sentence in a man of thirty-one's mouth that would do the work a name does, and you are right, and it will not go in.
+"You are going to put it on the record in place of my name. I have watched you do arithmetic like that all month. You have got four true lines in a book and no fifth line and a man of thirty-three in a black coat in a counting-house who is not going to look at four true lines and no fifth line, and you have worked out in about a day and a night that there is a sentence in a man of thirty-one's mouth that would do the work a name does, and you are right, and it will not go in.
 
 "A name goes in a book. A reason does not go in a book. That is not a complaint about the book, it is what a book is. A name is a mark, and a mark can be looked at, and a name can be said out loud in a room in eleven years and be checked against a man. A reason is a sentence, and a sentence in a book about a route is an argument, and an argument can be carried from room to room for a hundred and thirty years and a route cannot, and I have never in nine years seen a man carry a route in a sentence.
 
@@ -88,7 +88,7 @@ There is a thing that happened in this month and nobody in the Sallow Reach has 
 
 Margit Saye is on a mountain road four miles from a village with a case, and she is the only person alive who can read the hand in the third book, and she has said in two rooms that she will not name a man in it, and she has said in a third that the hand is a desk and not a man and that the Guild keeps no sample of its clerks' hands and that the Guild's own good rule is the reason the question in this Reach cannot be answered.
 
-She refused to carry the specimen slips out of the counting-house, which was correct. She wrote the hand out from memory in her own hand on her own paper and gave it away, which was generous. And on Saturday morning she got on a cart at ten o'clock with a specification book in an oilcloth case and a rule and a lamp and a bottle and a tin and a roll of string and an eleven-inch canvas book of her own, and she took a way of reading a page with her, and there is now no person in this Reach who could be shown a document in a counting-house and say whether the hand on it is the hand on a flyleaf in a chest in a village.
+She refused to carry the specimen slips out of the counting-house, which was correct. She wrote the hand out from memory in her own hand on her own paper and gave it away, which was generous. And on Friday morning she got on a cart at ten o'clock with a specification book in an oilcloth case and a rule and a lamp and a bottle and a tin and a roll of string and an eleven-inch canvas book of her own, and she took a way of reading a page with her, and there is now no person in this Reach who could be shown a document in a counting-house and say whether the hand on it is the hand on a flyleaf in a chest in a village.
 
 In about a year somebody will take a page out of a drawer in a counting-house at Vellum and put it beside that flyleaf, and it will be a very ordinary afternoon, and there will be one person in this country who could settle it, and she will be in a shed at Bexhill, and she will be right, and nobody will have asked her.
 
