@@ -50,7 +50,7 @@ One of the clerks coughed. "Sir. The plan case."
 
 Wick Venn took him over after noon, because Wick had wet boots already and a washer story, and because a man of thirty-eight with one hand is the man a magistrate can ask without putting anybody's hand in anything. Tarin did not go. Tarin filled the butt at six o'clock the evening before and would fill it again that evening, forty trips, about an hour and sixteen minutes, and his name was in two books and there was no form for going anywhere. He stood at the wall and watched them go down the lane to the ford, Dorrin with his coat skirts tied up and the clerks with the case held high, and his hand flat on the low wall knew where the water was before any of them reached it, and he said nothing, because Monday had taught him what saying it cost.
 
-The far-bank lane was still standing Thursday afternoon, lower by an inch at the edges and the same in the middle, with the drain full behind the row and the bank soft. Sella Marr came out of the third door in bare feet with her skirts tied, and Jess stood in the second doorway with the boy, and Corrie came down in his waders. Six doors. Eleven people by Wick's count, counting the infant. Dorrin stood at the end of the lane a long time with his notebook, looking at the doors and the pump and the water and the drain bank, while the clerks set up the plane table on the driest ground they could find.
+The far-bank lane was still standing Thursday afternoon, the middle of it holding better than the soft ground at the edges, with the drain full behind the row and the bank soft. Sella Marr came out of the third door in bare feet with her skirts tied, and Jess stood in the second doorway with the boy, and Corrie came down in his waders. Six doors. Eleven people, by Corrie's count, door by door, and Corrie was standing in the lane to say so if anybody asked him how he knew. Dorrin stood at the end of the lane a long time with his notebook, looking at the doors and the pump and the water and the drain bank, while the clerks set up the plane table on the driest ground they could find.
 
 "It is Thursday," he said at last. "The twenty-ninth. Six doors occupied, pump under water, well under water, lane standing to the top of a boot in the middle and falling at the edges. Madam, how long have you lived in the third door."
 
@@ -88,7 +88,7 @@ Sella listened without moving. Then she said, "Write my name right. Sella Marr, 
 
 Dorrin wrote it. *S. Marr, third door, resident nineteen years.* The first time her name had been on any paper in nineteen years, and it was on a sealing order.
 
-Wick walked back over the ford with them in silence, carrying his boots, having measured the middle of the lane against the third doorstep at the far end of it on the way, with his stick, in front of Sella and Jess. He gave Nesta the figure when he got back. It was a third of an inch lower in the middle than his mark of that morning and an inch lower at the edges. Nesta wrote it on the shutter beside the plank, which is a hundred and ninety, and did not divide it by anything. At the plank Tarin was starting the evening butt, first trip, six gallons, forty to go. Dorrin stopped at the wall and watched him tip it in.
+Wick walked back over the ford with them in silence, carrying his boots, having measured the middle of the lane against the third doorstep at the far end of it on the way, with his stick, in front of Sella and Jess. He gave Nesta the figure when he got back. It was a third of an inch lower in the middle than his mark of Tuesday morning, taken against the same third doorstep with the same stick, and an inch lower at the edges. Nesta wrote it on the shutter beside the plank, which is a hundred and ninety, and did not divide it by anything. At the plank Tarin was starting the evening butt, first trip, six gallons, forty to go. Dorrin stopped at the wall and watched him tip it in.
 
 "Mr Rusk," Dorrin said. "You are the man on the coping Thursday night."
 
@@ -104,9 +104,9 @@ Dorrin looked at him a long moment. "A man who knows without showing is the most
 
 He went up the lane with his clerks and his case, and about the fourth trip Nesta said the thing she had said on Tuesday she would say.
 
-"Your hand said Wednesday, Mr Rusk, and the lane is not dry underfoot. It is Wednesday and the lane is falling and you were half a day out, and the number is on a shutter that anybody may come and read, and that is all I am going to say about it."
+"Your hand said Wednesday, Mr Rusk, and it is Thursday evening and the lane is not dry underfoot. You said Thursday as well, and you are out by a day and a half, and the number is on a shutter that anybody may come and read, and that is all I am going to say about it."
 
-Tarin set the pail down on the wall. "I said Wednesday before the lane was dry. I did not say Wednesday dry."
+Tarin did not pick the pail up. "I said Wednesday and I said Thursday. Thursday is not finished."
 
 "That is a careful way of putting it," Nesta said, "and I have kept a plank for thirty-two years and careful is what I have got instead of a rope. I am not complaining. I am putting the number up."
 

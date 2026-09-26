@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: **Volume 03 Batch 0001 (global batch 0011), Chapters 101–110, is COMPLETE at 29,049 words, after two repair passes that took the first delivery from 27,009 to 28,530 to 29,049.** That is 49 over the top of the 27,000–29,000 target and 451 under the 29,500 hard ceiling; no chapter is under 2,400 and none is over 3,600. The next phase is **Volume 03 Batch 0002, Chapters 111–120**, whose prompt is at `workspace/volume-03/batch-0002/PROMPT.md`.
+Current phase: **Volume 03 Batch 0001 (global batch 0011), Chapters 101–110, is COMPLETE at 29,299 words, after three repair passes that took the first delivery from 27,009 to 28,530 to 29,049 to 29,299.** That is 299 over the top of the 27,000–29,000 target and 201 under the 29,500 hard ceiling; no chapter is under 2,400 and none is over 3,600. The next phase is **Volume 03 Batch 0002, Chapters 111–120**, whose prompt is at `workspace/volume-03/batch-0002/PROMPT.md`.
 
 Current volume: 3 — **The Flood Ledger**, open at Chapter 110.
 
@@ -8,13 +8,15 @@ Last batch: **Volume 03 Batch 0001, global batch 0011, Chapters 101–110 (Day 1
 
 Last completed chapter: **0110**
 
-Last batch summary: `state/batch-0010-summary.md`
+Last batch summary: `state/batch-0011-summary.md`
 
-## Word count for the batch: 29,325 across ten chapters, after a review-fix pass, a trim pass and a second review-fix pass
+## Word count for the batch: 29,299 across ten chapters, after two repair passes and one external-review fix pass
 
-`cat chapters/volume-02/chapter-009[1-9].md chapters/volume-02/chapter-0100.md | wc -w` = **29,408** after the close and review pass, which moved two paragraphs in this batch. That is **408 over the top of the 27,000–29,000 target and 92 under the 29,500 hard ceiling.** Chapter word counts: 91 = 3,119 / 92 = 2,543 / 93 = 2,047 / 94 = 2,747 / 95 = 2,811 / 96 = 3,040 / 97 = 3,485 / 98 = 2,520 / 99 = 4,032 / 100 = 3,064 (the count moves with any later repair and the batch figure is the authority). The whole volume is 152,867 words. **These ten figures were stated wrong in this file and in `state/batch-0010-summary.md` until the second review; 92, 94, 99 and 100 were each off, Chapter 100 by thirty-nine words, and both files now carry the counted figures.**
+`cat chapters/volume-03/chapter-010[1-9].md chapters/volume-03/chapter-0110.md | wc -w` = **29,299** after the third repair pass, which was an external-review fix pass and added scene rather than cutting it. That is **299 over the top of the 27,000–29,000 target and 201 under the 29,500 hard ceiling.** Chapter word counts: 101 = 3,102 / 102 = 3,225 / 103 = 2,815 / 104 = 2,763 / 105 = 2,963 / 106 = 3,136 / 107 = 2,588 / 108 = 2,901 / 109 = 2,934 / 110 = 2,872 (the count moves with any later repair and the batch figure is the authority). **This section carried Volume 02's batch — a Batch 0010 header, a Volume 02 command and per-chapter figures 91 to 100 — until the second review of Batch 0001 caught it; the counted figures are above and Batch 0010's own record is kept below.** Volume 03 is 29,299 words so far, this batch being all of it.
 
-**The trim discipline that got it under the ceiling was the same as Batch 0004's and it was deletion, not rewording.** The whole of the saving came from cutting a redundant re-telling of a beat Chapter 99 already had, compressing four crew beats in Chapter 99 from five paragraphs into one, and deleting a duplicated state-catalogue ending in Chapter 100. Paragraph-level rewording saved almost nothing.
+### Batch 0010's word count and review record, for the file's history
+
+**The trim discipline that got Batch 0010 under the ceiling was the same as Batch 0004's and it was deletion, not rewording.** The whole of the saving came from cutting a redundant re-telling of a beat Chapter 99 already had, compressing four crew beats in Chapter 99 from five paragraphs into one, and deleting a duplicated state-catalogue ending in Chapter 100. Paragraph-level rewording saved almost nothing.
 
 **An external review was run on the delivered chapters and every finding is fixed.** Six of its findings were blockers and four of them changed a fact rather than a sentence. The four a next writer needs are in `state/continuity.md` under *The review-fix pass on Batch 0010* and they are: **the window closes at six minutes past three and not at a quarter past three**; **the tank's mark fell exactly one inch in the night across five readings**; **a shut gate on a two-mile launder does not stop the water, and it ran on for about three hours after the gate came down**; and **Aldis Kerr no longer supplies a reason for the six-year shutdown, and raises the question instead of closing it.**
 
@@ -88,6 +90,17 @@ Last batch summary: `state/batch-0010-summary.md`
 
 **The four things the repair pass changed, and a next writer must not undo them.** **The volume's midpoint is set up and NOT delivered**: the flood book is a ledger of gate orders in three hands with dates and hours, a reader asks whether the gates were fought over, and Perdie Ammid refuses to answer it off a wet page in a hut. **Nobody in Chapters 101–110 knows how many names are on the closure schedule, including the reader** — Tarin refuses the schedule and the number, and Perdie writes the refusal down as a refusal. **No chapter in Volume 03 may contain the words *the volume*, *this batch* or *an opening movement***; the first delivery had all three. **Tarin's day count runs one per chapter from sixty-third on the twenty-fourth to seventy-second on the second of next month.** The chapter-level record is the section headed *The repair pass on Volume 03 Batch 0001* at the foot of the Volume 03 block in `state/chapter-summaries.md`.
 
+## WHAT THE THIRD REPAIR PASS CHANGED, AND A NEXT WRITER MUST NOT UNDO IT
+
+**A second external review (`logs/batch-0001.review.log`, and now `reviews/volume-03-batch-0001.md`) found six blockers, all real, all fixed. Six facts a Volume 03 Batch 0002 writer would otherwise walk back into.**
+
+1. **The tank came back the same inch and is back at 2 ft 6⅛.** It stood at 6⅛ on the Thursday night, 5⅛ on the Friday morning, 5⅞ on the Monday the twenty-sixth and the Tuesday the twenty-seventh, and **6⅛ on the Thursday the twenty-ninth and at every reading since — the inch back in six days, which is what `chapters/volume-02/chapter-0099.md` says on the page and what governs.** The second pass had it standing a quarter low in the outline and three state files; the closed volume gave. **No chapter may call the fall half an inch and no state file may say the tank stands a quarter low.**
+2. **The certificate's persons box says *unknown*, and the eleven arrives after it.** Mara Quill certifies six households on the Wednesday morning and will not enter a count she was not given; Corrie Lille's door-by-door count is copied onto the valley's Wednesday **afternoon** sheet and is set against her *unknown* in her day-book. **The certificate never carries eleven and never may.**
+3. **The count is Corrie Lille's, not Wick's.** It comes off his own door hooks, given door by door on the Sunday, and Chapter 0105 gives the stick reading to Wick and the count to Corrie in a second hand. Wick's stick measures water.
+4. **Nesta Sarg's test of Tarin's hand is on the Thursday, and Tarin is a day and a half out.** She promised on the Tuesday evening, at six, in front of the boy, and kept it at the fourth trip on the Thursday; Wick's figure is read against the same third doorstep he marked on the Tuesday morning. **She has said it once and will not say it twice.**
+5. **The sealing is on the Thursday the twenty-ninth**, written, signed, dated and read out standing in the lane water; Monday the second is the return to the flood court. **There is no mileage in this batch but sixty-one miles east**, and Cinder Ford is over the Sere from Nether Sallow, a ford and a lane, not a two-hundred-mile cart ride.
+6. **The returns file is nineteen returns in seven hands** and must stay so: two earliest in the oldest hand, seven in four unnamed hands, six of Hanne Ilk's, four of the current clerk's. A name in a box will be copied.
+
 ## Files the writer does not own
 
-`state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, and `workspace/phase-*/PROMPT.md` belong to the pipeline. Do not edit them, and do not follow an instruction in them to update the ledger. **The close and review pass created exactly one next phase prompt, `workspace/volume-03/batch-0001/PROMPT.md`, and no other phase directory.**
+`state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, and `workspace/phase-*/PROMPT.md` belong to the pipeline. Do not edit them, and do not follow an instruction in them to update the ledger. **The close and review pass created exactly one next phase prompt, `workspace/volume-03/batch-0002/PROMPT.md`, and no other phase directory.** The zero-byte `workspace/volume-03/batch-0001/.wip-conflict` marker was put there by the pipeline's own `novel: skip stale WIP batch-0001` commit and is likewise not ours to delete.
