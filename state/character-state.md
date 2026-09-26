@@ -596,7 +596,7 @@ Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge 
 
 ## Not yet on the page, and not to be
 
-Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge (absent, downstream at the Meltwater Verge, which is Volume 03's country), Cael Dorrin, Liora Tarn, Boryn Vey, Oriel Fenn (in Vellum, not in the Reach), **Mara Quill (in Vellum, not written to since the letter of four lines in Chapter 59)**, the eleven people on a schedule in a fourteen-year-old file, the row at Ashgate, and a man of eighty-one in a counting-house at Ostre who has had three letters this year and has answered none of them. **No new final threat is permitted and none was introduced.**
+Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge (absent, downstream at the Meltwater Verge, which is Volume 03's country), Cael Dorrin, Liora Tarn, Boryn Vey, Oriel Fenn (in Vellum, not in the Reach), **Mara Quill (in Vellum, not written to since the letter of four lines in Chapter 59)**, the eleven people on a schedule in a fourteen-year-old file, the row at Ashgate, and a man of eighty-one in a counting-house at Ostre who has had three letters this year **and has had three answers back, the three answers the same, and the answer silence**. **No new final threat is permitted and none was introduced.**
 
 ---
 
@@ -696,9 +696,9 @@ Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge 
 ## Niko Venn, 22, and the fourth copy of the card
 
 - **The fourth copy of the count card went up the road on the Friday cart of the nineteenth, to a place sixty-one miles east, and the driver asked what the hole in it was for, and Jory Vant said a padlock, and the driver put the card under a board so it would stay dry and said that a card with a hole in it was the only honest thing he had carried this year.**
-- **Nobody in the Sallow Reach has written to him, in writing, since the second day of this month, in a room over the shop in front of two people, and nobody is going to, and the omission is still the point.** He is on his twenty-ninth morning of a count he began on the first of this month, with four pebbles in a tin, no wages, and no line in any budget in four buildings.
+- **Nobody in the Sallow Reach has written to him, in writing, since the second day of this month, in a room over the shop in front of two people, and nobody is going to, and the omission is still the point.** He is on his **nineteenth** morning of a count he began on the first of this month, with four pebbles in a tin, no wages, and no line in any budget in four buildings.
 - **He is not in this batch's scenes and is not in any of its rooms, and that is correct.**
 
 ## Not yet on the page, and not to be
 
-Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge (absent, downstream at the Meltwater Verge, which is Volume 03's country), Cael Dorrin, Liora Tarn, Boryn Vey, Hallam, the eleven people on a schedule in a fourteen-year-old file, **Mara Quill (in Vellum, not written to since the letter of four lines, and not told about the eleven names)**, a man of eighty-one in a counting-house at Ostre who has had three letters this year and has answered none of them, and **Iven Marrow, who has not appeared in this batch and whose price is unchanged and whose letter of the seventeenth is the last thing he has said.**
+Lira Rusk (absent, and four indistinguishable voices in a chamber), Orrin Sedge (absent, downstream at the Meltwater Verge, which is Volume 03's country), Cael Dorrin, Liora Tarn, Boryn Vey, Hallam, the eleven people on a schedule in a fourteen-year-old file, **Mara Quill (in Vellum, not written to since the letter of four lines, and not told about the eleven names)**, a man of eighty-one in a counting-house at Ostre who has had three letters this year **and has had three answers back, the three answers the same, and the answer silence**, and **Iven Marrow, who has not appeared in this batch and whose price is unchanged and whose letter of the seventeenth is the last thing he has said.**

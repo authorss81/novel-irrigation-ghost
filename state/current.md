@@ -10,11 +10,13 @@ Last completed chapter: **0080**
 
 Last batch summary: `state/batch-0008-summary.md`
 
-## Word count for the batch: 29,825 across ten chapters
+## Word count for the batch: 29,824 across ten chapters, after the review-fix pass
 
-`cat chapters/volume-02/chapter-007[1-9].md chapters/volume-02/chapter-0080.md | wc -w`. **The brief named 29,000 as the real target and not 31,000, and this is 29,825: inside the target, and 2,562 under Batch 0002's post-repair 32,387.** The discipline that got it there is the one the last three batches used: **every figure is derived on the page once and never restated, and no scene runs past the thing it is about.** Two things did the work: the return's four lines are written out **once**, in Chapter 71, and are only referred to afterwards; and the measurement in Chapter 78 is four trials in about a page and a half and is never done again.
+`cat chapters/volume-02/chapter-007[1-9].md chapters/volume-02/chapter-0080.md | wc -w`. **The brief named 29,000 as the real target and not 31,000, and this is 29,824: inside the target, and 2,563 under Batch 0002's post-repair 32,387.** The discipline that got it there is the one the last three batches used: **every figure is derived on the page once and never restated, and no scene runs past the thing it is about.** Two things did the work: the return's four lines are written out **once**, in Chapter 71, and are only referred to afterwards; and the measurement in Chapter 78 is four trials in about a page and a half and is never done again.
 
-Chapter word counts: 71 = 3,822 / 72 = 2,881 / 73 = 3,301 / 74 = 2,490 / 75 = 2,717 / 76 = 2,969 / 77 = 2,526 / 78 = 3,939 / 79 = 2,457 / 80 = 2,723. **Chapters 71 and 78 are the two long ones and they are the two that carry a document read out in full and a measurement taken four times.**
+**The review-fix pass moved this by one word net, and the one word is worth naming: it corrected two facts and not one sentence of prose.** Chapter 76's deposition credited *Mrs Sarg* with reading the fifth line out and saying *ask you before anybody signs anything*, which was Margit Saye, and it had that reading and Tarin's own reading of the sheet on *the Friday morning of the nineteenth*, when Chapter 71, Chapter 72 and Chapter 76's own earlier answer all put both on **Thursday the eighteenth**; and Chapter 79's Guild requisition printed **728 and 865** for the throat's two trials, where 728 is not a figure this basin has ever had and 865 belongs to the thirteen-second trial alone. The requisition now prints **865 and 833**, derived as twenty feet in 13 s and in 13½ s over a forty-eighth of a square foot. **The count went 29,825 to 29,824 and the batch is the same batch.**
+
+Chapter word counts: 71 = 3,822 / 72 = 2,881 / 73 = 3,301 / 74 = 2,490 / 75 = 2,717 / 76 = 2,970 / 77 = 2,526 / 78 = 3,939 / 79 = 2,455 / 80 = 2,723. **Chapters 71 and 78 are the two long ones and they are the two that carry a document read out in full and a measurement taken four times.**
 
 ---
 

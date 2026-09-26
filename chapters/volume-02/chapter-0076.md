@@ -60,7 +60,7 @@ Sef Ordry put both hands on the bench. He is thirty-one and he has a bad way of 
 
 "You had Margit Saye in this room on the Thursday," said Sef Ordry.
 
-"I had Margit Saye in this room on the Thursday and the Friday and the Saturday and the Sunday and the Monday and the Tuesday and she went home on a cart at ten o'clock this morning, and she read the fifth line out of a bundle of forty forms in front of nine people last Saturday, and she told me to ask you about it before anybody signed anything, and I did not ask you, and she told me to and I did not, and that is a thing I have to hold and not a thing you have."
+"I had Margit Saye in this room on the Thursday and the Friday and the Saturday and the Sunday and the Monday and the Tuesday and she went home on a cart at ten o'clock this morning, and she read the fifth line out of a bundle of forty forms in front of nine people on the Thursday, and she told me to ask you about it before anybody signed anything, and I did not ask you, and she told me to and I did not, and that is a thing I have to hold and not a thing you have."
 
 "She did tell you to," said Sef Ordry.
 
@@ -72,7 +72,7 @@ Sef Ordry put both hands on the bench. He is thirty-one and he has a bad way of 
 
 And Tarin Rusk answered, and it took him about four minutes, and it was the right answer, and it was not a good enough one, and he said the second half of that himself before anybody else could.
 
-"Because on the Friday morning of the nineteenth I sat in this room and read out four lines and read the whole of the sheet out twice, and Mrs Sarg read out in this room on the Saturday the one line on that form that was not about the water, and she told me to ask you before anybody signed anything, and I did not ask you. And I did not ask you because I had known the answer since about half past nine on the Thursday morning, and the answer was no.
+"Because on the Thursday morning of the eighteenth I sat in this room and read out four lines and read the whole of the sheet out twice, and Mrs Saye read out in this room on the Thursday the one line on that form that was not about the water, and she told me to ask you before anybody signed anything, and I did not ask you. And I did not ask you because I had known the answer since about half past nine on the Thursday morning, and the answer was no.
 
 "You would have said no. You said no to a witness box in a room of thirty-four people on the twelfth day of this month with a woman of forty-six standing behind you explaining why, and you were right, and the reason she gave was a debt for the rest of a life, and a name on a printed form about a door at a flume is the same debt with a rule attached to it instead of a box attached to it, and I have heard that argument in this room from a better person than me and I could not have answered it and I could not have gone round it.
 
