@@ -2,7 +2,7 @@
 
 The card came back from Culm on the Saturday morning of the thirteenth day of this month with everything on it except the three figures.
 
-It was printed in two colours, which cost the villages four shillings, and it was the size of a sheet of writing paper, and it went on the post at the culvert in a frame, and it went on a nail in the bookshop door at Brant, and the third copy went into the second book on the page with the roster on it, and there was a fourth copy for the man in the blue steps sixty-one miles east because somebody in that lane had been holding a count by herself for eleven days and was not going to be left out of a card.
+It was printed in two colours, which cost the villages four shillings, and it was the size of a sheet of writing paper, and it went on the post at the culvert in a frame, and it went on a nail in the bookshop door at Brant, and the third copy went into the second book on the page with the roster on it, and there was a fourth copy for the man in the blue steps sixty-one miles east because somebody in that lane had been holding a count by himself for thirteen days and was not going to be left out of a card.
 
 The order of reading was the only thing left to settle, and it was settled on the Saturday morning in about twenty minutes and it was the hardest thing on the card.
 
@@ -83,6 +83,6 @@ Perdie Ammid paid him on the Saturday evening, in the room over the shop, in fro
 
 > *A fifteen-year-old of Brant. Two days. Five shillings the day, and a tenth of a shilling the day for the Monday, and his name is not to be written down and it is not to be asked for.*
 
-And Bess Ilk, behind the counter, where the tea is, said that the boy had worked seven hours on a Saturday up five miles in thirty-six degrees with a bucket, and that five shillings was what the notice said and the notice was not wrong, and that he was to have the cup too and was not to be argued with about the cup.
+And Bess Ilk, behind the counter, where the tea is, said that the boy had worked nine hours and a quarter on a Saturday up two miles and four chains in thirty-six degrees with a bucket, and that five shillings was what the notice said and the notice was not wrong, and that he was to have the cup too and was not to be argued with about the cup.
 
-And Tarin Rusk, who had been in this Reach ten days, said nothing at all about any of it, and wrote in the blue book under the heading **Kerrow lane**, which had had one line under it since the twenty-second day of the month before and had by the Saturday got a great many, the one thing he had learned in ten days, which was that the man who finds the number is never the man who can use it, and that the boy of fifteen had gone two miles and four chains in a heat and nine hours to find out where the flume's own floor was, and had not been asked, and had not wanted to be named, and had been paid in a book.
+And Tarin Rusk, who had been in this Reach twenty-one days, said nothing at all about any of it, and wrote in the blue book under the heading **Kerrow lane**, which had had one line under it since the twenty-second day of the month before and had by the Saturday got a great many, the one thing he had learned in twenty-one days, which was that the man who finds the number is never the man who can use it, and that the boy of fifteen had gone two miles and four chains in a heat and nine hours to find out where the flume's own floor was, and had not been asked, and had not wanted to be named, and had been paid in a book.

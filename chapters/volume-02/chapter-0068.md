@@ -26,11 +26,11 @@ Tarin Rusk stood in front of it with a lath in his hand for about two minutes an
 
 Margit Saye said, "Say the whole of it in the yard this afternoon, and say it now, because I am going to write a card and I am not going to put a figure on it and I am not going to put a word on it either unless you tell me which of those two you want."
 
-"The whole of it is this," he said. "I am not writing zero. Zero means a man measured it and it was not running. It was not running because the gate is shut, and the gate is shut because it has been shut for six years, and it is shut lawfully, and it is chained, and there is a padlock on it and a paper seal on the cover, and the seal is broken at eight o'clock on Monday morning with two men standing at it and the sheet behind it read out first.
+"The whole of it is this," he said. "I am not writing zero. Zero means a man measured it and it was not running. It was not running because the gate is shut, and the gate is shut because it has been shut for six years, and it is shut lawfully, and it is chained, and there is a padlock on it and a paper seal on the cover, and the seal is broken at eight o'clock on Monday morning with two people standing at it and the sheet behind it read out first.
 
 "So the number that would be on this card is not zero, and it is not a dash, and it is not nothing, and if I write nothing on a card then in a year a man in a counting-house reads nothing on a card and thinks nobody came.
 
-"Write: *Nothing measured. The gate is shut, chained and sealed, and is not to be opened before the fifteenth day of this month, and is opened on the fifteenth with the seal broken and two men present and the sheet of the sixth year read out first.* And then under it, in a line of its own: *The figure that would stand here is not zero, and it is not the same as zero, and it is on a padlock.*"
+"Write: *Nothing measured. The gate is shut, chained and sealed, and is not to be opened before the fifteenth day of this month, and is opened on the fifteenth with the seal broken and two people present and the sheet of the sixth year read out first.* And then under it, in a line of its own: *The figure that would stand here is not zero, and it is not the same as zero, and it is on a padlock.*"
 
 Margit Saye wrote it out in full on a slate, and read it back twice, and said, "Then that is what goes on the card, and it is the longest sentence anybody has put on that post in six years, and I have no objection at all to the length of it."
 
@@ -54,7 +54,7 @@ And then she stopped, and she did not go on, and she stood in a yard with four h
 
 "The count is short. There are three rods on this card and two of them have a figure on them and the third one has nothing, and nobody has been asked to say that and I am saying it because I asked for the count.
 
-"There is nothing to measure at the flume sluice. There has been nothing to measure at the flume sluice for six years. It is shut and it is chained and it is sealed, and the seal is broken on Monday morning at eight o'clock with two men standing at it, and the sheet behind that seal, which is a record of the last time anybody in this basin ever looked at that gate, is read out loud before the wax is touched.
+"There is nothing to measure at the flume sluice. There has been nothing to measure at the flume sluice for six years. It is shut and it is chained and it is sealed, and the seal is broken on Monday morning at eight o'clock with two people standing at it, and the sheet behind that seal, which is a record of the last time anybody in this basin ever looked at that gate, is read out loud before the wax is touched.
 
 "So the reason that there is a hole in this card is a padlock. That is the whole of the reason. It is not the drought and it is not the field and it is not a man in a counting-house. It is a lock, and a piece of paper over a slot, and both of them put there by men who were paid to put them there.
 
@@ -62,7 +62,7 @@ And then she stopped, and she did not go on, and she stood in a yard with four h
 
 She turned the card round and put her finger under the last line.
 
-"Anybody may come and look at the tank and the plank and the gate this week. The card is on the post at the culvert, on a nail in this doorway, and in the second book in this village, and the fourth copy goes up on the cart on Friday for a place sixty-one miles east where a boy of twenty-two has been keeping a count by himself for eleven days, and he is not on this card, and he is not in this yard, and he is owed a count, and I have put it in a cart and I have not written to him, because he asked me not to write to him in writing, in front of two people, on the second day of this month."
+"Anybody may come and look at the tank and the plank and the gate this week. The card is on the post at the culvert, on a nail in this doorway, and in the second book in this village, and the fourth copy goes up on the cart on Friday for a place sixty-one miles east where a boy of twenty-two has been keeping a count by himself for fourteen days, and he is not on this card, and he is not in this yard, and he is owed a count, and I have put it in a cart and I have not written to him, because he asked me not to write to him in writing, in front of two people, on the second day of this month."
 
 Nobody in that yard had known that he existed. About nine of the four hundred knew, later, from four hundred other yards.
 
@@ -74,11 +74,11 @@ There was a question from a man near the wall about the tank, and it was the que
 
 "Nothing," said Tarin Rusk, and he said it loudly enough that two people at the back heard it, and about four hundred people heard the whole of it.
 
-"I am not going to give you a rate for that tank and I am not going to put one on that card, and I want the reason said in this yard because in eleven years somebody is going to ask it again.
+"There is no rate for that tank and none of them is going on that card, and I want the reason said in this yard because in eleven years somebody is going to ask it again.
 
 "That tank does not flow. It is being passed through. There is a mountain line into it that has never failed and there is one outlet out of it and that outlet is a six-inch pipe with a joint in the crown of it that is open, and the joint is not a gate and there is no gate in it, and the water goes over the side of the pipe and falls nine feet into a throat. So a level in that tank is not a rate, and a rate is not a level, and if I give you a rate this afternoon then in three weeks you will have a number about a tank in a book in a village and a man in a counting-house will compare it with a plate in a shut gate four days away and one of the two of us will be a fool, and I would rather it was neither.
 
-"And there is a second reason, which is that a rate in that tank would be the most useful number in this Reach and there is nobody in this basin who could check it, including me, and I have spent ten days finding that out at a cost of about a day and a half-mile of road a day, and I would like to say so in a yard once, in daylight, and then not say it again."
+"And there is a second reason, which is that a rate in that tank would be the most useful number in this Reach and there is nobody in this basin who could check it, including me, and I have spent twenty-two days finding that out at a cost of about a day and a half-mile of road a day, and I would like to say so in a yard once, in daylight, and then not say it again."
 
 Then the man at the back, who had a barrow and one hand and who had not spoken all afternoon, said the thing that the rest of the yard had been thinking about for about ten minutes and that nobody had wanted to put first.
 
@@ -106,4 +106,4 @@ And across the top of it, on a strip of paper an inch and a half wide, because t
 
 > *The fifteenth day of this month. The gate is opened at eight o'clock. Any person may stand at the plank and bring a pail.*
 
-Nobody took it down. It was still on that post on the eighteenth day of the month, with the third rod empty and the reason under it, in a lane of nineteen houses, and the water in the long drain at the bottom of it was a hundred and ninety gallons an hour and had been since before anybody now living, and the count was short, and the reason was printed under the hole, and the padlock was thirty-two miles away on a mountain with a paper seal on it that was going to be broken lawfully on Monday morning by two people, one of whom was a woman of forty-six and one of whom was a boy of nineteen, in front of a copy of a sheet of paper that six years earlier had said *the chain is to be renewed and a keeper named*, and there was still no keeper, and the third rod was still empty, and the count had been printed anyway.
+Nobody took it down. It was still on that post on the eighteenth day of the month, with the third rod empty and the reason under it, in a lane of nineteen houses, and the water in the long drain at the bottom of it was a hundred and ninety gallons an hour and had been since before anybody now living, and the count was short, and the reason was printed under the hole, and the padlock was thirty-two miles away on a mountain with a paper seal on it that was going to be broken lawfully on Monday morning by a fitter of forty-six with the master of the Guild standing at her shoulder and not touching it, and the copy of the sheet behind it to be signed by her and by the boy of nineteen who could read the hand, in front of a sheet of paper that six years earlier had said *the chain is to be renewed and a keeper named*, and there was still no keeper, and the third rod was still empty, and the count had been printed anyway.

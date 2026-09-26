@@ -102,7 +102,7 @@ The man did not answer for about four seconds.
 
 He stopped, and then he said the last thing, and he said it without any weight at all, which was the only way it could have been said.
 
-"You have all been up there for eleven days, and you have had a shed door and a card and a book with two hundred and thirty-nine lines in it and a chest of books in a village, and I have had a hut and a book and a mile and a half of road, and mine is the only one of the five of them that has got an entry for every single thing that has gone past this bar in six years in it, and nobody has ever sent me a question about anything, and I would like it noted that I would have answered."
+"You have all been up there for thirteen days, and you have had a shed door and a card and a book with two hundred and thirty-nine lines in it and a chest of books in a village, and I have had a hut and a book and a mile and a half of road, and mine is the only one of the five of them that has got an entry for every single thing that has gone past this bar in six years in it, and nobody has ever sent me a question about anything, and I would like it noted that I would have answered."
 
 ---
 

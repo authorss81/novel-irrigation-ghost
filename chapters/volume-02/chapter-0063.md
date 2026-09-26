@@ -1,6 +1,6 @@
 # Chapter 0063 — Three Jars And A Ring
 
-She came up the Kerrow lane on the Friday evening of the fifth day of this month in a hired chaise with a boot on the near side, with a woman of twenty-six beside her who had been paid four pounds to come and would have to go back for the other four, and she walked the last eleven miles before the chaise had finished it.
+She came up the Kerrow lane on the Thursday evening of the fourth day of this month in a hired chaise with a boot on the near side, with a woman of twenty-six beside her who had been paid four pounds to come and would have to go back for the other four, and she walked the last eleven miles before the chaise had finished it, and she had left her own coast on the Tuesday morning on a road that takes two days each way, which is why she came in on the Thursday and not on the Friday.
 
 Perdie Ammid had a room made up and a butt of water in the yard and did not once say that this was a long way to come.
 
@@ -38,7 +38,7 @@ Nobody in that room had asked.
 
 And the third was rain.
 
-It had rained about a quarter of an inch on the top of the Kerrow valley on the Thursday night of the fourth of this month, for about forty minutes, and Bess Ilk had put a clean bowl out on the bakery step at half past two in the morning because there had been nothing else to do at two in the morning in a drought, and Yara Sen asked for it and Bess Ilk said, "Then that is yours, and I have not had it since Thursday and it is your jug now."
+It had rained about a quarter of an inch on the top of the Kerrow valley in the early hours of Thursday the fourth of this month, for about forty minutes, and Bess Ilk had put a clean bowl out on the shop step at half past two in the morning because there had been nothing else to do at two in the morning in a drought, and on the Friday morning Yara Sen asked for it and Bess Ilk said, "Then that is yours, and it has stood on that step since Thursday morning and nobody has had it out of it and it is your jug now."
 
 She boiled for an hour each, with the jars standing in the water on the ring, in the same pan at the same heat, and she wrote the times on Bess Ilk's slate and would not let anybody else touch the slate. Then she put the three jars on the sill in the sun in the order she had boiled them for an hour, and then she picked them up one at a time and turned them.
 
@@ -104,11 +104,11 @@ On the Sunday evening she got it wrong out loud, in the front room, with the las
 
 "I came west expecting to be no use. I have had a practice for nineteen years in a city on a coast road, and a hundred and twenty-six people of it are on a ration cut by a fifth, and I have got very good at being the one who can be made no use of, because being the one who can be made no use of is the only position I can hold that nobody can be turned out of, and I came here for two days' work with a jar.
 
-"And I have been here two days and I have been useful, and it has taken me about a day and a half to notice that being useful in a place with no patients is the most dangerous state a physician can be in, and it is dangerous because there is nothing in this village to get worse and so every hour I spend in it is an hour I am not spending on a girl of seven."
+"And I have been here three days and I have been useful, and it has taken me about a day and a half to notice that being useful in a place with no patients is the most dangerous state a physician can be in, and it is dangerous because there is nothing in this village to get worse and so every hour I spend in it is an hour I am not spending on a girl of seven."
 
 Then she said the thing, and she said it standing up, in about twenty-five words, and she did not soften it and she did not make it smaller by being quiet.
 
-"I am going back on Monday morning with the chaise, and I have not seen a child since Friday, and on Tuesday I go back to a girl called Sab Doulton who is seven and is at the fourth point and is not improving, and the count of my cases has not moved since before I came west, and it stands at four children at four points and four at two, and the requirement I set out for that district was sixty-eight gallons a day and the derivation of it has stopped, because a child in the fourth stage does not take four gallons and there is no figure for a child in the fourth stage anywhere in this basin, including in me.
+"I am going back on Monday morning with the chaise, and I have not seen a child since the day before I came, and on Wednesday I am back with a girl called Sab Doulton who is seven and is at the fourth point and is not improving, and the count of my cases has not moved since before I came west, and it stands at four children at four points and four at two, and the requirement I set out for that district was sixty-eight gallons a day and the derivation of it has stopped, because a child in the fourth stage does not take four gallons and there is no figure for a child in the fourth stage anywhere in this basin, including in me.
 
 "I have said that out loud in a room because a physician who keeps it back has already lost the ground, and I said it here rather than in the lane because you are all going to hear about the jars for a year and you are going to hear about the count on the fourteenth for a year, and both of those are true and this is also true, and it is thirty of the words in the last five minutes and it has taken me nineteen years to be able to say thirty words in five minutes in front of a room that does not need me."
 

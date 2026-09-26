@@ -116,7 +116,7 @@ Nobody asked him.
 
 "Then say the rest of it," said Tarin Rusk, "because I can see you have got it and it is worse than that."
 
-"The rest of it is a date," said Sef Ordry. "There is one date in this basin in which the flume sluice is going to be opened with the seal broken properly and two men standing at it, and you have all written it on a card, and it is the fifteenth of this month, and it is eleven days away.
+"The rest of it is a date," said Sef Ordry. "There is one date in this basin in which the flume sluice is going to be opened with the seal broken properly and two people standing at it, and you have all written it on a card, and it is the fifteenth of this month, and it is twelve days away.
 
 "And that is a planting date. That is not a date anybody in this valley chose because of a hillside. That date is in a book in a village because a woman of fifty-four had a field and a window and a calendar, and she was right about the field, and she has never once in her life been asked about the hillside.
 
@@ -148,7 +148,7 @@ And they put in the ground, on the fence line, a stake and a length of lath with
 
 And beneath it, because he wrote it himself and because he had written a line under an empty seventh in a shed a week ago and had not enjoyed it either:
 
-> *This is not an overflow and there is nobody to catch. The joint is a hundred and eighty-one years old and it has opened. It is going to open the rest of the way and the only thing that can take this water is the flume sluice, and the flume sluice is sealed until the fifteenth, and on the fifteenth the seal is broken with two men at it and a sheet of paper read out first, and if the rind goes before the fifteenth then the fifteenth is too late, and I am putting that on a slate on a fence in a field because a man who says a thing out loud in a field on a Wednesday is a man who has not put it in a book.*
+> *This is not an overflow and there is nobody to catch. The joint is a hundred and eighty-one years old and it has opened. It is going to open the rest of the way and the only thing that can take this water is the flume sluice, and the flume sluice is sealed until the fifteenth, and on the fifteenth the seal is broken with two people at it and a sheet of paper read out first, and if the rind goes before the fifteenth then the fifteenth is too late, and I am putting that on a slate on a fence in a field because a man who says a thing out loud in a field on a Wednesday is a man who has not put it in a book.*
 
 ---
 

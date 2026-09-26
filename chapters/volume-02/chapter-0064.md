@@ -6,9 +6,9 @@ She said one thing at the door, to Perdie Ammid, and it was about the notice in 
 
 "That is a nail with a test on it and it is going to be read four hundred times and it is going to be argued with four hundred times and one person in a hundred is going to do it properly and boil something in a jar. That is the right number. Do not let anybody improve on it."
 
-And then she said one thing to Tarin Rusk, at the gate, in the cold, and it was about four hundred and seventeen gallons an hour, which was the difference between eight hundred and fifty and the figure at the plank, and which was on a card at a culvert.
+And then she said one thing to Tarin Rusk, at the gate, in the cold, and it was about six hundred and sixty gallons an hour, which was the difference between eight hundred and fifty and the figure at the plank, and which was on a card at a culvert.
 
-"Take it out of the tank card when the tank card goes to Vellum in October," she said. "Put a line under the level that says that the figure below the level has not been traced and is not known to be leaving the works by the long drain, and that the difference is about four hundred and seventeen gallons an hour, and put a number on that line. Do not put the sentence. Put the number. A number in a card at a counting-house for thirty years is worth more than a sentence in anybody's head, and the sentence will be gone the day after somebody dies."
+"Take it out of the tank card when the tank card goes to Vellum in October," she said. "Put a line under the level that says that the figure below the level has not been traced and is not known to be leaving the works by the long drain, and that the difference is about six hundred and sixty gallons an hour, and put a number on that line. Do not put the sentence. Put the number. A number in a card at a counting-house for thirty years is worth more than a sentence in anybody's head, and the sentence will be gone the day after somebody dies."
 
 And then she got in the chaise and it went down the lane and out of the Reach, and the last thing anybody in that yard saw of it was the off wheel.
 
@@ -18,7 +18,7 @@ Perdie Ammid was asked about it three times on the Monday, in three different ro
 
 She had found it on the Monday morning at about seven, before the chaise came, alone, in nine minutes, and had put the ribbon back and the lid down and had gone out to the yard and had done the ordinary Monday, and had not mentioned it to anybody, and the reason was not fear.
 
-"Write down the day you found it," said Tarin Rusk, "because when we come to put it in front of anybody, and we will have to, the first question anybody asks is when did she know, and the answer has to be the ninth and not the seventh, and the ninth is the day you said it out loud."
+"Write down the day you found it," said Tarin Rusk, "because when we come to put it in front of anybody, and we will have to, the first question anybody asks is when did she know, and the answer has to be the ninth and not the eighth, and the eighth is the day she found it and the ninth is the day she said it out loud."
 
 "I know that," said Perdie Ammid, "and that is not why."
 
@@ -46,7 +46,7 @@ She said the whole of it on the Tuesday morning in the room over the shop, with 
 
 The chest was on the table.
 
-It is a chest of oak about three feet long with a hasp and a lock that has not been locked since about 1811, and the lock has been kept oiled, and the chest is in the front room of a house in Brant and it is twenty feet from where a man of thirty-three has slept for ten nights.
+It is a chest of oak about three feet long with a hasp and a lock that has not been locked since about 1811, and the lock has been kept oiled, and the chest is in the front room of a house in Brant and it is twenty feet from where a man of thirty-three has slept for sixteen nights.
 
 Perdie Ammid took out the four books and put them in a row, and then she took out a fifth thing and put it on the end of the row, and the fifth thing was a bound book about the size of a quarto Bible with a ribbon and a printed spine that had come apart.
 
@@ -64,7 +64,7 @@ She put her hand on the bound book.
 
 "The Reach's own copy of the schedule of the works of the Reach. The same schedule the printed slip off the pin in this room was cut out of, and it was made at the bookshop in this village in 1902, and this village has held a copy of it for about a hundred and thirty years, and a schedule is a thing a person keeps in a house and not in a shed, and I have had it in that chest for twenty-six years because I did not understand what I was keeping.
 
-"And the fourth is a card the size of a man's hand on a nail in a shed door at the foot of an embankment, with six entries and no seventh, and a second line under the seventh written nine days ago by a sluicewright because I asked him to. I have never seen it and have not asked to, and I know what it says, because every village in this Reach has had one of them in a shed door since before anybody living.
+"And the fourth is a card the size of a man's hand on a nail in a shed door at the foot of an embankment, with six entries and no seventh, and a second line under the seventh written twelve days ago by a sluicewright because I asked him to. I have never seen it and have not asked to, and I know what it says, because every village in this Reach has had one of them in a shed door since before anybody living.
 
 "Four documents. Three of them in this village. One of them in a town forty miles off. And the fourth of them in a shed."
 

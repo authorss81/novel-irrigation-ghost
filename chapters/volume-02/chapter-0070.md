@@ -8,15 +8,15 @@ On the Tuesday morning of the sixteenth day of this month Perdie Ammid read out 
 
 "Two. The water that used to go down a flume has been going over the side of a six-inch pipe in the wall of a chamber, out of a joint on the crown of it, and down a throat, into a drain, at about eight hundred and fifty gallons an hour, and the joint has been open for about six years and the pipe was laid to empty a chamber and has been silted in a hard gravel mortar for a hundred and eighty-one.
 
-"Three. Four miles up the same main, on the west shoulder of the service road, there is a break in a conduit that is four and a half inches across with a second weep eighteen inches above it and two courses open above that, and there is ninety gallons an hour coming out of it into a field, and a lime rind on the lip of it is the only thing in this basin standing between that joint and a face of stone the size of a doorway, and when the rind goes the face will go.
+"Three. Four miles up the same main, on the west shoulder of the service road, there is a break in a conduit that is four and a half inches across with a second weep eighteen inches above it and two courses open above that, and ninety gallons an hour coming out of it into a field, and a lime rind on the lip of it is the only thing in this basin standing between that joint and a face of stone the size of a doorway, and when the rind goes the face will go.
 
 "Four. The flume sluice was shut and chained six years ago, and nobody in this Reach knows who shut it or why, and the second mile of the flume has not been walked since the sixth year of the standard, and a chain is not renewed and there is no keeper and has not been one for six years.
 
-"Five. The card at the culvert has been cut and rehung and it is not a toll notice, and there are two numbers on it and a hole where a third one should be, and the reason for the hole is printed under the hole and it is a padlock.
+"Five. The card at the culvert is not a toll notice, and there are two numbers on it and a hole where a third one should be, and the reason for the hole is printed under the hole and it is a padlock.
 
-"Six. On the fifteenth day of this month, at four minutes past eight in the morning, the seal on the inspection cover of the flume sluice was broken lawfully with two men at it and the six-year-old sheet behind it read out first, and the gate was opened, and the flume ran, and the water came off the end of the last stone into the long drain two miles below the plank, and at about twenty past nine in the morning a woman read out a clause of the Reach's own schedule of 1902 which forbids any other discharge into the long drain, whether from a flume, a waste pipe, a culvert, a spill, a torn joint, or a wet stone, and the gate was chained at about ten past ten, and the window was one hour and forty minutes and one thousand four hundred and seventeen gallons, and the water went into a drain with a village at the bottom of it.
+"Six. On the fifteenth day of this month, at four minutes past eight in the morning, the seal on the inspection cover of the flume sluice was broken lawfully with the fitter and the master of the Guild standing at it and the wax whole until the copy of the six-year-old sheet behind it was signed. The gate was opened and the flume ran, and at about half past eight the water came off the end of the last stone into the long drain two miles below the plank, and a woman standing in that drain read out a clause of the Reach's own schedule of 1902 which forbids any other discharge into the long drain, whether from a flume, a waste pipe, a culvert, a spill, a torn joint, or a wet stone. The gate was chained at about ten past ten, and what was in the drain was one hour and forty minutes and one thousand four hundred and seventeen gallons, and the water went into a drain with a village at the bottom of it.
 
-"Seven. The sheet of the sixth year said, in two men's hands, *the chain is to be renewed and a keeper named*, and the chain has not been renewed and no keeper has been named, and the cover that sheet was behind is in three pieces in a barrow at the foot of an embankment and the Guild keeps no second.
+"Seven. The sheet of the sixth year said, in two men's hands, *the chain is to be renewed and a keeper named*, and the chain has not been renewed and no keeper has been named, and the plate that sheet was behind is in three pieces in a barrow at the foot of an embankment and the Guild keeps no second.
 
 "Eight. The Reach's own copy of its own schedule, in a chest in this village, has had a keeper's name struck out in the sixth year and *supply district 14, North Sallow* written in its place in a hand that nobody in this Reach can read, and the writing is six years old and lawful, and the office is in a city sixty-one miles east of nine hundred and forty properties and is not a person and cannot be asked anything.
 
@@ -24,7 +24,7 @@ On the Tuesday morning of the sixteenth day of this month Perdie Ammid read out 
 
 "Ten. Eight villages have refused in writing to be a party and one village has signed, and the one is this one, and I signed it, and after Monday I am a document.
 
-"Eleven. There is a boy of fifteen in this Reach who has been paid five shillings a day out of the villages and entered in a wages column in a book that is a hundred and thirty years old, and there is a boy of fifteen who ran four miles and three quarters of a service road in eighteen minutes on Monday morning with a lamp and a book, and his name is not written down, and he did not want it written down, and I have put that in the book too."
+"Eleven. There is a boy of fifteen in this Reach who has been paid five shillings a day out of the villages and entered in a wages column in a book that is a hundred and thirty years old, and who ran two miles and four chains on the road beside the flume in eighteen minutes on Monday morning with a lamp and a book, and his name is not written down, and he did not want it written down, and I have put that in the book too."
 
 She put her hand flat on the table.
 
@@ -38,15 +38,15 @@ She put her hand flat on the table.
 
 The bills came in on the Tuesday and they were in hours and shillings and were not in anybody's ledger.
 
-The boy of fifteen had both knees skinned to the knee on the Saturday and had told nobody on the Saturday and had told everybody on the Monday, twice, at length, and had not once put it on a slate.
+The boy of fifteen had both knees skinned raw on the Saturday and had told nobody on the Saturday and had told everybody on the Monday, twice, at length, and had not once put it on a slate.
 
 Jory Vant had a blister on the heel of his right hand about the size of a farthing and would not say where it had come from and Margit Saye found it on the Tuesday morning and put a plaster on it and said, "That is on the copy," which the boy did not understand and which nobody explained to him.
 
 Sef Ordry had two days of chain on a shed floor and the skin off the inside of both forearms and said that it was the trade and had always been the trade, and would not have it written down anywhere, and had it written down anyway in a ledger in the shed because Margit Saye wrote it in a ledger in the shed whether anybody said so or not.
 
-Wick Venn had lost eight days in a field in a planting window and had told nobody until four hundred people were standing in a yard, and on the Tuesday morning he was in the field at seven o'clock, and the field was behind nine hundred acres of apple that was being set by about a dozen people of whom she was one, and Bess Ilk had put a loaf and a cheese on the wall of the flume field at eight o'clock in the morning and had told nobody, and Wick Venn found it and ate about half of it.
+Wick Venn had lost eight days in a field in a planting window and had told nobody until four hundred people were standing in a yard, and on the Tuesday morning he was in the field at seven o'clock, and the field was behind nine hundred acres of apple that was being set by about a dozen people of whom he was one, and Bess Ilk had put a loaf and a cheese on the wall of the flume field at eight o'clock in the morning and had told nobody, and Wick Venn found it and ate about half of it.
 
-And Tarin Rusk went to the toll bar at half past ten on the Tuesday morning, on foot, with no cart, half a mile down a road he had walked twice in ten days.
+And Tarin Rusk went to the toll bar at half past ten on the Tuesday morning, on foot, with no cart, half a mile down a road he had walked twice in eleven days.
 
 "You said I would be at your bar on the fifteenth," he said.
 
@@ -85,7 +85,7 @@ The card at the culvert was cut on the Tuesday evening and rehung on the Wednesd
 
 It carried the count of the fourteenth in three rods, the third one empty, the reason under the empty one.
 
-It carried the window of the fifteenth, and the hour and the figure, and the words *the flume discharged into the long drain at about twenty past nine, and at about an hour and forty minutes from the opening of the gate, the discharge was stopped under item 1 of the schedule of the works of the Reach, printed 1902, which forbids any other water whatsoever to the long drain, whether from a flume, a waste pipe, a culvert, a spill, a torn joint, or a wet stone; and the gate was chained at about ten past ten.*
+It carried the window of the fifteenth, and the hour and the figure, and the words *the flume discharged into the long drain at about half past eight, and at about an hour and forty minutes from the arrival of the water at the outfall, the discharge was stopped under item 1 of the schedule of the works of the Reach, printed 1902, which forbids any other water whatsoever to the long drain, whether from a flume, a waste pipe, a culvert, a spill, a torn joint, or a wet stone; and the gate was chained at about ten past ten.*
 
 And it carried a line underneath that, in a hand that was not any of the six, on a strip of paper an inch and a half wide, because the card was already full:
 
@@ -95,6 +95,10 @@ And at the bottom, because the card had been full for two days and the date had 
 
 > *The seventeenth day of this month.*
 
-The third rod was still empty. It was going to be empty on the fourteenth of the month after this one, and on the fourteenth of the month after that, and the reason for it was printed under it, and the reason was a padlock a day and a night off in a village at the bottom of a hill, on a shut gate with a broken seal and a cover in three pieces in a barrow, and there was still no keeper, and there was still nothing in the witness box, and the flume was shut and chained, and the weep on the west shoulder of the road at the fourth mile was under a rind of lime that a boy of fifteen and a woman of forty-six had stood in front of in thirty-six degrees, and the bank on the west side of that road was still soft in a drought, and the window had seven days left in it and the ground after the twenty-fourth of this month would be like a bench, and the sowing in nine hundred acres of apple in this Reach had begun on the Monday morning at seven o'clock with about a dozen people, of whom one was a man of thirty-eight who had been somewhere else that morning and had not been able to be in two places, and had said so in a yard on the Sunday, and had not been thanked.
+The third rod was still empty. It was going to be empty on the fourteenth of the month after this one, and on the fourteenth of the month after that, and the reason for it was printed under it.
+
+The reason was a padlock a day and a night off in a village at the bottom of a hill, on a shut gate with a broken seal and a plate in three pieces in a barrow. And there was still no keeper, and there was still nothing in the witness box, and the flume was shut and chained, and the weep on the west shoulder of the road at the fourth mile was under a rind of lime that a boy of fifteen and a woman of forty-six had stood in front of in thirty-six degrees, and the bank on the west side of that road was still soft in a drought.
+
+The window had seven days left in it and the ground after the twenty-fourth of this month would be like a bench, and the sowing in nine hundred acres of apple in this Reach had begun on the Monday morning at seven o'clock with about a dozen people, of whom one was a man of thirty-eight who had been somewhere else that morning and had not been able to be in two places, and had said so in a yard on the Sunday, and had not been thanked.
 
 It was a Wednesday. Nobody took the card down.
