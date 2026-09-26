@@ -137,7 +137,17 @@ And across the whole of that line, in ink of a later date and a different colour
 
 > *2. The Sallow Dyke, from the tank, 2 miles 4 chains, with the flume sluice.*
 
-"Four miles two chains became two miles four chains," said Jory Vant, "and a drain became a dyke, and a sluice became a flume sluice, and the wet common at Nether Sallow became the tank, and somebody moved a number about four hundred yards and changed every word on the line."
+And there was a third line under the second, in the same type and not touched by the later ink, and it was the only one of the three that nobody in that shop had ever asked about.
+
+> *3. The Sallow Head intake, with a plate, at a head of 7·31 metres.*
+
+"Seven point three one," said Jory Vant, and stopped, and said it again, because he could not say it the way it was written. "It is one number. It is not two numbers with a mark between them."
+
+"A head of water on a mountain," said Bess Ilk, who had not been asked. "Printed in this village since before I was born, and I have never once been asked where it comes from."
+
+"And the plate at that intake is eleven feet above the floor of a chamber nineteen feet deep, and it reads dry," said Tarin Rusk. "So it is on the other side of a chain, it has been since 1902, and the nearest thing to an answer is four days away in Ostre and belongs to a man of eighty-one who has not answered me."
+
+"Four miles two chains became two miles four chains," said Jory Vant, and he put his finger on the first line, "and a drain became a dyke, and a sluice became a flume sluice, and the wet common at Nether Sallow became the tank, and somebody moved a number about four hundred yards and changed every word on the line."
 
 "Two miles four chains is a different length and not a correction," said Bess Ilk, without being asked. "Four miles two chains is the long drain. I know where the long drain ends because it goes round my brother-in-law's goat shed. Two miles four chains is the flume, and the flume has a sluice, and the sluice has a Guild plate in it, and the plate is a quarter of an inch, and I have seen it because I have walked past it four times a week for thirty-four years."
 

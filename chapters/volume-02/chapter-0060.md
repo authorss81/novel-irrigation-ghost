@@ -14,7 +14,7 @@ Margit Saye would not take eight hundred and sixty gallons an hour into a shed o
 
 Jory Vant wrote it on the card at the culvert, in his own hand, over the printing, and it said:
 
-> *This drain is fed from a stone throat at the west side of the road embankment and the water comes out of the pipe at the top of it and goes over the side of it and falls. Measured with a lath and a watch. Eight hundred and forty gallons an hour on the first day of next month. Eight hundred and sixty on the twenty-ninth day of the month before. The figure is about eight hundred and fifty and it is not a figure anybody should lean on.*
+> *This drain is fed from a stone throat at the west side of the road embankment and the water comes out of the pipe at the top of it and goes over the side of it and falls. Measured with a lath and a watch. Eight hundred and thirty-three gallons an hour on the first day of next month. Eight hundred and sixty on the twenty-ninth day of the month before. The figure is about eight hundred and fifty and it is not a figure anybody should lean on.*
 
 Underneath, in Jory Vant's hand again, because nobody else would write on a notice:
 
@@ -26,13 +26,13 @@ The second number was the one everybody already had.
 
 Six gallons in one minute and fifty-two seconds, and six gallons in one minute and fifty-three, and a hundred and ninety-three and a hundred and ninety-one gallons an hour, and Nesta Sarg would not let anybody write either figure without the two trials printed underneath it.
 
-So the two numbers sat on the same card, three hundred and forty yards apart in the world and one sheet of tin apart on the card, and eight hundred and fifty against a hundred and ninety is four and a half times.
+So the two numbers sat on the same card, three hundred and forty yards apart in the world and one sheet of tin apart on the card, and eight hundred and fifty against a hundred and ninety is four and a half times, and the hundred and ninety is the figure and the hundred and ninety-three and the hundred and ninety-one are printed underneath it, because Nesta Sarg would not have it any other way and he did not argue with her about it.
 
 That is the whole of the mystery of the water in the Sallow Reach and it is not a mystery at all, and the man who explained it did it with a folding rule and a length of string on the flags outside the shop at Brant on the Monday afternoon, in about four minutes, in front of about thirty people.
 
 "The drain is two feet two inches wide at the top," he said, "and there is an inch and a half of water in the middle of it at the plank and the plank is a foot above the trough, and the bed under this lane is gravel and has been gravel for four hundred years, and the water table in a dry summer is about a foot below the invert at Nether Sallow.
 
-"So between the throat and the plank there are three hundred and forty yards of a drain that is not lined and is laid on gravel, and the difference between eight hundred and fifty and a hundred and ninety is six hundred and sixty gallons an hour, and it has gone into the ground.
+"So between the throat and the plank there are three hundred and forty yards of a drain that is not lined and is laid on gravel, and the difference between eight hundred and fifty and a hundred and ninety is six hundred and sixty gallons an hour, and it has gone into the ground. And on Friday, with one trial at each end instead of two, the same subtraction came out at six hundred and sixty-seven, and the seven gallons an hour between the two is Friday against the card, and I am giving you both because a man who keeps the one that flatters him is a man with a reason, and I have two live charges and I am not going to be a man with a reason over a subtraction.
 
 "It has not been lost. I want that said again because it is the whole of the fourth day. It is in the ground under a lane and it is in a gravel bed and the water table is a foot below that and it is going down, and it has been going down for however long that crown joint has been open, and nobody knows where it comes out, and I am not going to pretend to know.
 
@@ -62,7 +62,7 @@ The card was Jory Vant's card. It was the one at the culvert, re-cut, and the pr
 
 "Three."
 
-"Eight hundred and forty. Eight hundred and sixty. Eight hundred and fifty. And then there is this." She put a finger on the bottom of the sheet. "Thirty-eight gallons an hour, the quantity taken, per household, per day. And it is the best one on the card and it is the only one anybody in this village is going to read first, and it is in a hand that a woman has put her name to as a figure she can be held to, and it is not a measurement."
+"Eight hundred and thirty-three. Eight hundred and sixty. Eight hundred and fifty. And then there is this." She put a finger on the bottom of the sheet. "Thirty-eight gallons an hour, the quantity taken, per household, per day. And it is the best one on the card and it is the only one anybody in this village is going to read first, and it is in a hand that a woman has put her name to as a figure she can be held to, and it is not a measurement."
 
 "It is what they take," said Nesta Sarg.
 
@@ -82,7 +82,7 @@ That was the whole of it and she said it in nine words and she was agreeing with
 
 The printer looked at the card, and then at the whole room, and then at the two women.
 
-"Right," he said. "And I will print what I can swear to, and I have printed things in this village that were wrong once, in the year the assize came up, and a woman of eighty lost eleven acres over a sheet of mine, and I have not printed a figure in this village since and I am not starting on the fourteenth of next month."
+"Right," he said. "And I will print what I can swear to, and I have printed things in this village that were wrong once, in the year the assize came up, and an old woman of mine lost four acres of orchard over a sheet of mine, and I have not printed a figure in this village since and I am not starting on the fourteenth of next month."
 
 ---
 
@@ -100,7 +100,7 @@ Sef Ordry is not on the roster either, for the same reason, and for one more, an
 
 Underneath the roster, in Tarin Rusk's hand and then in Mara Quill's, the fifth condition of an agreement made on a dispensary step in the spring, in a village sixty-one miles east, in a book that a refusal has made into a record:
 
-> *We were shown the same sheet of paper at the same time on the second day of next month. He wanted a figure on it and she would not have it on it, and the reason she gave was correct, and the woman who wrote the figure agreed with her against her own village. He says nothing here about the reason. It is in the fourth book at the page before the notice, in his hand, at the top, where anybody may read it.*
+> *We were shown the same sheet of paper at the same time on the second day of next month. He wanted a figure on it and she would not have it on it, and the reason she gave was correct, and the woman who set that figure down agreed with her against her own village. He says nothing here about the reason. It is in the fourth book at the page before the notice, in his hand, at the top, where anybody may read it.*
 > *Neither of us has withdrawn anything.*
 
 And Wick Venn wrote a line underneath the whole of it, in his own hand, and showed it to nobody and did not read it out and did not put it in the book, and it said:

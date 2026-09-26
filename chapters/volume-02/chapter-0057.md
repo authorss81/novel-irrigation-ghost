@@ -100,9 +100,9 @@ The slot is **two inches wide and an inch and a half deep** at the lip, and the 
 
 "Two inches by an inch and a half is three square inches. Three square inches is a forty-eighth of a square foot, and I am going to leave it as a forty-eighth, because a man of nineteen cannot divide by three and come out with a foot, and I have watched him try.
 
-"Twenty feet in thirteen seconds is one and a half four hundred and sixty-five thousandths of a foot a second. Divide that by a forty-eighth and you get a shade under a thirty-first of a cubic foot a second.
+"Twenty feet in thirteen seconds is one and a half five hundred and thirty-eight thousandths of a foot a second. Divide that by a forty-eighth and you get a shade under a thirty-first of a cubic foot a second, and a shade under is what we are, and I have said under twice because a man who says over once is not doing the sum.
 
-"A thirty-first of a cubic foot a second, and a cubic foot is seven and a half gallons in this basin, is about fourteen and a third gallons a minute. Fourteen and a third gallons a minute is eight hundred and sixty gallons an hour, and that is the figure, and I have not got to announce it. That is a cubic foot a second, roughly, for every thirty-one seconds, and I have known men who would have said nine hundred on that with a straight face and been four per cent out and never found out."
+"A thirty-first of a cubic foot a second, and a cubic foot is seven and a half gallons in this basin, is about fourteen and a half gallons a minute and about eight hundred and seventy gallons an hour. A shade under a thirty-first is eight hundred and sixty-five gallons an hour. That is a hundred and sixty-five, and a card that has to be true in a shed for ten years is written in tens, and that is the figure, and I have not got to announce it. That is a cubic foot a second, roughly, for every thirty-one seconds, and I have known men who would have said nine hundred on that with a straight face and been four per cent out and never found out."
 
 "Wrong," said Jory Vant.
 
@@ -118,7 +118,7 @@ The number went round the lane that evening the way numbers do. Somebody said it
 
 "The channel is two feet two inches at the top and the water in it is an inch and a half, and the bed under this lane is gravel and has been gravel for four hundred years, and the Reach's water table in a dry summer is about a foot below the invert at Nether Sallow.
 
-"So eight hundred and sixty comes out of a stone throat three hundred and forty yards above that plank, and a hundred and ninety and three goes past the plank, and the difference is six hundred and sixty-seven gallons an hour, and the difference has gone into the ground under a lane.
+"So eight hundred and sixty comes out of a stone throat three hundred and forty yards above that plank, and a hundred and ninety and three goes past the plank, and the difference is six hundred and sixty-seven gallons an hour, on one trial at each end, and the difference has gone into the ground under a lane.
 
 "It has not been lost. I want that said, and I want it said carefully, because it is not lost and that is not the same as it is safe, and it is not lost and it is not found, and the ground under that lane has been quietly swallowing a rising main for six years and nobody has ever once been asked where it comes out.
 

@@ -51,7 +51,7 @@ He turned it over and looked at the three empty boxes the way a man looks at a f
 
 Wick Venn came down the lane at about half past eleven with a barrow he was not pushing, which is how Tarin knew before he turned round that something had happened.
 
-"Got the cart coming Friday," Wick said. "Tomas Ammid's boy with a pair of greys and a wagon that has a tire on it that ought to be three tires. Two days up. I said you would want to know."
+"Got the carriage coming Friday," Wick said. "Tomas Ammid's boy with a pair of greys and a wagon that has a tire on it that ought to be three tires. Two days up. I said you would want to know."
 
 "Yes. Thank you."
 
@@ -89,7 +89,7 @@ Perdie Ammid was in the yard.
 
 That is the whole of it and it is not a small thing, because a notice pinned to a warden's return is read by whoever opens the return, and a woman who has learned that will do what she did, which is to stand in the yard herself and read it out loud before anybody can read it wrong.
 
-She had come down on the Tuesday morning on the coach from the west with a cloth bundle under her arm and two cheeses in a basket, and she had walked out of the coach at the second gatehouse and up the mill road on purpose, because a man can be met at a coach stand and cannot be met at a gate, and she had a great deal to say and was not going to say it in a coach.
+She had come down on the Sunday night on the coach from the west with a cloth bundle under her arm and two cheeses in a basket, and she had walked out of the coach at the second gatehouse and up the mill road on purpose, because a man can be met at a coach stand and cannot be met at a gate, and she had a great deal to say and was not going to say it in a coach.
 
 She put the four books on Bel Crale's bench under her cloth and did not open them, and nobody touched them, because she had not put her hand on them either.
 
@@ -183,7 +183,7 @@ There were four buildings in this city with a district in them and a keeper in t
 
 He had written the same two words in a box of his own.
 
-He signed it, and dated it the nineteenth, and countersigned in the warden's presence because the form says so, and walked it to the second gatehouse, where the notice post is, and it was the nineteenth day of the month and the office at the far end of it has had no acting commissioner since the fifteenth of this month, two days before this one, at half past eleven on a night of rain, and the last thing in the registry book is a determination that a vacancy exists.
+He signed it, and dated it the nineteenth, and countersigned in the warden's presence because the form says so, and walked it to the second gatehouse, where the notice post is, and it was the nineteenth day of the month and the office at the far end of it has had no acting commissioner since the fifteenth of this month, four days before this one, at half past eleven on a night of rain, and the last thing in the registry book is a determination that a vacancy exists.
 
 The clerk at the counter was a young man of about twenty-five who had been in the job nine weeks and who had a list on the desk of the things that were waiting for a signature, and there were thirty-one of them.
 
@@ -199,8 +199,8 @@ The clerk at the counter was a young man of about twenty-five who had been in th
 
 Tarin Rusk thanked him, which was correct, and walked back down the gatehouse road with nothing in his hands.
 
-It was a mile and a quarter back to the arch. On the way he worked out what he had, which was eleven pence, a bar, a folding rule, a chalk stub, a knuckle of string, a tin pot, a blue book with four and not one in it, and a bench book out of a shed at Bexhill that a man of fifty-four had pushed four inches across a table at eight in the evening for nothing, and which had in it, on the Tuesday mornings of nine years, the notation of about eleven thousand gate settings made by about four hundred different hands.
+It was a mile and a quarter back to the arch. On the way he worked out what he had, which was eleven pence, a bar, a folding rule, a chalk stub, a knuckle of string, a tin pot, a blue book with four and not one in it, and a bench book out of a shed at Bexhill that Iven Marrow had pushed four inches across a table at eight in the evening for nothing, and which had in it, on the Tuesday mornings of nine years, the notation of about eleven thousand gate settings made by about four hundred different hands.
 
-And the notice was going to the Sallow Reach on Saturday on a wagon with a tire that ought to be three tires, and Wick Venn was going with it, and there was no form in the district, or in the Office, or in the Assembly, that said a man with two live charges might go and read a number for a wage of five shillings.
+And the notice was going to the Sallow Reach on Friday on a wagon with a tire that ought to be three tires, and Wick Venn was going with it, and there was no form in the district, or in the Office, or in the Assembly, that said a man with two live charges might go and read a number for a wage of five shillings.
 
 There were sixty-one miles of that between here and a plank in a drain, and five boxes on a printed sheet, and three of them empty, and a woman who has just told him to leave them empty and has taken twenty-six years telling people why.

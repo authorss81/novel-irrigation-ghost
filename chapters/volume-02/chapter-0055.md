@@ -62,7 +62,7 @@ Margit Saye took her hand off the case.
 
 "Which means that chamber has less than eleven feet of water in it. And the sluice is shut, and has been shut for six years, and it is chained, and I have seen the chain and I have put my own hand on it. And the gate is upstream of that chamber.
 
-"So the head at the Sallow Head is not in the chamber," said Tarin Rusk. "The head is behind the gate. And I cannot get a rod to a shut gate in that position without going into a chamber that I have been told has nine feet of silt in it, and there is no other way in and there is no instrument in this basin that can be put on the other side of that chain."
+"So the head at the Sallow Head is not in the chamber," said Tarin Rusk. "The head is behind the gate. The Office has it at seven point three one metres and has had it at seven point three one metres since before I was at a bench, and I have never once seen anybody put a rod on it. And I cannot get a rod to a shut gate in that position without going into a chamber that I have been told has nine feet of silt in it, and there is no other way in and there is no instrument in this basin that can be put on the other side of that chain."
 
 "None," said Sef Ordry. "There is none in this basin and I have looked, and there is one in the city of Ostre, four days from here, and it is a hundred and forty years old and it is in a private counting-house and it belongs to a man of eighty-one, and I have written to him about it once."
 

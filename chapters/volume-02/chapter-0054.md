@@ -32,7 +32,7 @@ Nineteen households. Forty-three persons. A lane of two hundred yards and a lane
 
 "Then what is in your book," said Tarin Rusk.
 
-"Churns," said Nesta Sarg. "Forty-two churns since the first of the month, thirty gallons each, one a morning, and twenty-one mornings is what we have had this month with three Sundays in it, and I have got the day of every one of them because a churn is a thing you cannot lose without somebody noticing, and it is a better record than yours because it cannot be lost and yours can."
+"Churns," said Nesta Sarg. "Forty-two churns since the first of the month, thirty gallons each, two a morning, and twenty-one mornings is what we have had this month with three Sundays in it, and I have got the day of every one of them because a churn is a thing you cannot lose without somebody noticing, and it is a better record than yours because it cannot be lost and yours can."
 
 ---
 

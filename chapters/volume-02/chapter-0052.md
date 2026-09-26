@@ -42,15 +42,15 @@ Five shillings a day, six days, is thirty shillings a week, which is a pound and
 
 A boy of nineteen in the coat of the second gatehouse came up the hill on the Wednesday morning with Tarin Rusk's leave application in his hand, and gave it back.
 
-"It is not refused," the boy said, and then corrected himself, because he had been in the job a fortnight. "It is not refused, because there is nobody to refuse it. It went onto the list at a quarter past eleven on Saturday and this morning a man in a good coat took it off the list and read it and put it back and wrote on it in the corner, and he would not sign his name, and I am not to say what it says, so I am going to read it to you because you are the person it is about and you have the right to hear your own document."
+"It is not refused," the boy said, and then corrected himself, because he had been in the job a fortnight. "It is not refused, because there is nobody to refuse it. It went onto the list at a quarter past eleven on Tuesday, which was yesterday, and this morning a man in a good coat took it off the list and read it and put it back and made a mark in the corner, and he would not sign his name, and I am not to say what it says, so I am going to read it to you because you are the person it is about and you have the right to hear your own document."
 
-> *Entered on the list, twentieth day of this month, and there being no officer of this office holding a seal, the same is not to be transmitted. It is to be held.*
+> *Entered on the list, nineteenth day of this month, and there being no officer of this office holding a seal, the same is not to be transmitted. It is to be held.*
 
 "That is a very good note," said Tarin Rusk.
 
 "I do not know if it is a good note. I have carried it up a hill."
 
-"Then it is a good note, and so is the twenty-five-year-old who wrote it, and both of those things are a waste of a good clerk."
+"Then it is a good note, and so is the twenty-five-year-old who put it in his own words, and both of those things are a waste of a good clerk."
 
 ---
 

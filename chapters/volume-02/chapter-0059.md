@@ -10,7 +10,7 @@ The reach is seventeen hundred acres of which nine hundred are apple, and about 
 
 "Who counts in what," said Domen Prouse, who had come in with his coat on.
 
-"Four gallons a household a day. That is the number in the fourth book and it is not the number in the assize, and I had the two of them run together in my head for two days, and the assize is the one for the land and the four gallons is the one for the house, and they differ by about seventy-nine times and I would not have believed that in a city.
+"Four gallons a household a day. That is the number in the fourth book and it is not the number in the assize, and I had the two of them run together in my head for two days, and the assize is the one for the land and the four gallons is the one for the house, and they differ by about a thousand two hundred times and I would not have believed that in a city.
 
 "The four is in every one of the four books in a different hand, and it is a fifth of what a house of four people in this valley drinks in a dry summer, and that is the arithmetic of it and it is right and it has been right since before anybody's grandmother, and I have checked it three ways and I cannot improve on it."
 
@@ -40,7 +40,7 @@ The assize of the settling of the Reach sets out what a house is worth in water,
 
 "For two hundred and ninety households, one fifth, for the season: five million four hundred and eighty-one thousand gallons. And four thousand seven hundred and twenty-five gallons a household a day, for four days, and I have had that wrong in my head for two days and I want to say so in a room rather than have somebody else find it.
 
-"That is the water of the land a house holds," said Tarin Rusk, "and it is not the water a house drinks, and the difference between the two numbers is about seventy-nine times. The woman two days up this lane puts sixty gallons a day into a cart and calls that a good day, and her grandmother's generation called that a wet week, and neither of them has anything to do with four thousand seven hundred and twenty-five."
+"That is the water of the land a house holds," said Tarin Rusk, "and it is not the water a house drinks, and the difference between that and a good day's cart is about seventy-nine times. The woman two days up this lane puts sixty gallons a day into a cart and calls that a good day, and her grandmother's generation called that a wet week, and neither of them has anything to do with four thousand seven hundred and twenty-five."
 
 "Then what is it," said Domen Prouse.
 
@@ -48,7 +48,7 @@ The assize of the settling of the Reach sets out what a house is worth in water,
 
 Nobody in that room said anything for about eleven seconds, which is a long time.
 
-"Now," said Tarin Rusk, "on the other side of that. A stone throat at the embankment, measured on Friday evening by a plate fitter with a length of lath and a watch, at eight hundred and sixty gallons an hour. That is twenty thousand six hundred and forty gallons a day. It is seven million five hundred and thirty-three thousand six hundred gallons in a year.
+"Now," said Tarin Rusk, "on the other side of that. A stone throat at the embankment, measured on Friday evening by Margit Saye, who is a plate fitter, with a length of lath and a watch, at eight hundred and sixty gallons an hour. That is twenty thousand six hundred and forty gallons a day. It is seven million five hundred and thirty-three thousand six hundred gallons in a year.
 
 "And the tank it comes out of has not moved a quarter of an inch in six years, and there is a card with two men's signatures on every line of it, and the card goes to the counting-house at Vellum once a year in a cart, and nobody has ever read one.
 
@@ -58,7 +58,7 @@ Domen Prouse put his hand flat on the table.
 
 "Then what has been taken," he said.
 
-"Nothing has been taken. That is the point and it took me four days and a lath to say it. Nothing has been taken from anybody. There is a tank on a hill that is full to a mark it has not moved off in six years, and a sluice that was shut six years ago, and a pipe that was put in to empty a chamber and has been weeping out of its own crown joint for six years, and the water that was going down a flume is going over a waste pipe instead, and it is coming out of a stone throat on the west side of a road two feet eight inches below the top of the road, and it is falling into a drain.
+"Nothing has been taken. That is the point and it took me four days and a lath to say it. Nothing has been taken from anybody. There is a tank on a hill that is full to a mark it has not moved off in six years, and a sluice that was shut six years ago, and a pipe that was put in to empty a chamber and has been weeping out of its own crown joint for six years, and the water that was going down a flume is going over a waste pipe instead, and it is coming out of a stone throat on the west side of a road nine feet below the crown of it, and it is falling into a drain.
 
 "And the drain is the long drain, and the long drain has a village at the bottom of it."
 
@@ -82,7 +82,7 @@ The old crossing stones are at the third mile below the intake on the lower Sere
 > *3. I will be named among the takers, so that a man who is thirsty can come to the door of the man who has the water.*
 > *4. I will not take it in a year when the taking is easier and the giving is not.*
 
-He read it twice and sat down on the bank for about ten minutes and then told the three of them standing there the whole of it, word for word, in the exact words, and there were five people on that bank and four of them could not read and had never seen it.
+He read it twice and sat down on the bank for about ten minutes and then told the three of them standing there the whole of it, word for word, in the exact words, and there were five people on that bank and not one of the five had ever been shown it.
 
 Niko's not here. Wick Venn is. Nesta Sarg is. Domen Prouse is. And Perdie Ammid.
 
@@ -96,13 +96,13 @@ Nobody said anything for a while.
 
 "Since I was nine."
 
-"Then it has been on that bank for a hundred and forty years in the lifetime of the oldest woman in this Reach and it has not once done a day's work, and I want you to understand that I am not being sentimental when I tell you that I am not going to have it read out in an assembly on Wednesday."
+"Then it has been on that bank for seventy-one years, which is the whole lifetime of the oldest woman in this Reach, and it has not once done a day's work, and I want you to understand that I am not being sentimental when I tell you that I am not going to have it read out in an assembly on Wednesday."
 
 "Why not," said Tarin Rusk.
 
 "Because it will do what you have just done to me," said Perdie Ammid. "It will make a thing of this that everybody has to have an opinion about, and an opinion is a thing you have to be able to give in a room, and there are about eleven people in this Reach who can give one and none of them are the people the oath is written for.
 
-"And there is the other thing, and I am going to say it because we are on a bank and nobody is taking minutes. A stone with four lines on it is not a right. It is a piece of evidence. And the moment this Reach has a piece of evidence about the Sere, somebody will start a case with it, and the case will be fought over the Sere and not over the tank, and the tank will be shut for the duration by a man who has a schedule and a chain and a card, and in four years' time there will be a room in this basin with lawyers in it, and I have been to that room. I sat in it for two days in the year the assize book came up from Vellum and I watched a woman of eighty lose eleven acres over a foot of a bank.
+"And there is the other thing, and I am going to say it because we are on a bank and nobody is taking minutes. A stone with four lines on it is not a right. It is a piece of evidence. And the moment this Reach has a piece of evidence about the Sere, somebody will start a case with it, and the case will be fought over the Sere and not over the tank, and the tank will be shut for the duration by a man who has a schedule and a chain and a card, and in four years' time there will be a room in this basin with lawyers in it, and I have been to that room. I sat in it for two days in the year the assize book came up from Vellum and I watched a woman of eighty lose eleven acres of orchard over a foot of a bank that a man had moved in a night to save his own.
 
 "I am not giving this Reach a stone. I am giving it a rod and a pail and a day."
 
