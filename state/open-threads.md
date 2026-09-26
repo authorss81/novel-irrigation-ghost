@@ -100,3 +100,40 @@ These are living-world uncertainties, not missing central-mystery answers.
 - It must not put Glassstep on a schedule, and it must not open a window that the numbers in `state/continuity.md` do not support.
 - It must not make Iven Marrow a villain. He is the second rung of an existing ladder, he gains nothing in Volume 1, and he is the Volume 2 problem.
 - It must not tell Mara Quill about the eleven names.
+
+---
+
+# Open threads after Batch 0006 (Chapters 51–60) — Volume 02, Movement I
+
+## Advanced, not closed
+
+1. **The village's half of Volume 1's closing question is now on the page and is not a mystery.** Water moves uphill under a channel the Guild's own engineers called solid, because the channel is a rising main and the water comes out of the **top** of a silted pipe and goes over the side of it, and a rod at the low end cannot find that. **The Guild's half and the village's half are now the same fact and they are in agreement, which was not obvious and which the volume has had to earn.** The Guild's half is still unanswered as to *why*: the sluice has been shut six years and nobody has said who shut it.
+2. **The window is a date.** The planting window opens on the fifteenth of next month, a Monday, and the count is on the fourteenth, and both are on the card at the culvert, and a village's water is a matter of a Sunday in eight days. **Nothing has been opened. No name has been agreed. The fifth box is empty and the number that would go in it is four years.**
+3. **A name is refused and the refusal is a record.** Domen Prouse's refusal is on the page before the notice in the fourth of Perdie Ammid's books, in his own hand, dated the twenty-seventh, and it has turned twenty-six years of keeping a book in a chest into a record nobody can put back. **A name is for saying who decides, and this volume has now got two of the five boxes filled and a refusal where the fourth one would have gone.**
+4. **The specification book has been read to its back for the first time in nine years and nobody has copied anything out of it.** Margit Saye has to write to her own master about it, and has said so on flags, and refused his money, and the refusal is a thing in the volume that nobody has thanked her for.
+5. **The tank has been read.** Six thousand gallons of room, a mark cut in the wall, two feet six and an eighth on the thirtieth, six years of Sundays and a variation under a quarter of an inch, a card that goes to Vellum once a year in a cart, and a town that has never read one. **The Reach's problem is not scarcity and has not been scarcity for six years, and nobody in the Reach has known that until Chapter 59.**
+6. **The reach has two records and has had since 1902, and the split is a heading copied forward instead of carried back.** Two miles four chains where four miles two chains was, and the number is not a correction. **The same method unlisted Glassstep twenty-six years ago and the volume has not said so and must not.**
+7. **The weep hole four miles up the Kerrow valley, on the same main, with a year on it.** This is the volume's clock and it is the first job of Movement II, and it is a physical job for a crew that has four men of whom one is nineteen and one is needed at the works.
+
+## Still open, and it must stay open
+
+- **Who shut the West Flume sluice six years ago, and why.** Not asked in this batch. Not answered in this volume.
+- **Whose amendment of six years ago took the Cold Shoulder line toward the North Sallow district**, and what the branch to nine hundred and forty properties draws from the same tank. **Movement II reads the amendment in a room. Volume 03 and later explain it.**
+- **Where the six hundred and sixty gallons an hour goes.** Into the ground, under a lane, in a gravel bed, and the chapter that shows the gap refuses to write *no loss* anywhere and says it cannot put a place on a gallon.
+- **The five boxes.** *Reach* and *works* are filled. *Source*, *keeper* and *witness* are empty on purpose and the notice says so, and the warden's entry in the blue steps says so too, and **keeper, none held** is in a book in four buildings in a city sixty-one miles east.
+- **The oath of the Sere.** Read aloud on a bank to five people. The Reach does not know it exists and he has decided to keep it that way and has been told to his face that it is a very expensive habit.
+- **Armist Sarg of the Kerrow lane and Nesta Sarg of Nether Sallow**, brother and sister, fifty-eight and forty-one, four years not speaking over a paper with a different name on it, both in Perdie Ammid's second book on facing pages. **Raised in Chapter 53 in one exchange and not resolved and not to be resolved in this volume.**
+- **Volume 01's threads, untouched and unmentioned in Chapters 51–60 and not to be opened in this volume:** who diverted Ashgate; who put thirty-four people on a chamber and why; the collective ghost, established once, unexplained, spent; the flood closure of fourteen years ago with **eleven names on it, which Mara Quill has still not been told and must not be told in Volume 02**; Wend Quill's marginal note; the cistern at the bottom end of the row at Ashgate, still shut; the well at Ashgate, 68 gallons an hour, grit in the pail, thirty-four people; the third charge, still a conversation with no sheet; the two marker stones and two blank faces.
+- **Yara Sen has not appeared and has written nothing.** The blue steps is sixty-one miles east, on a ration cut by a fifth, with no municipal supply, a girl of seven at the fourth point, and a requirement of 68 gallons a day whose derivation has stopped. **She may appear in Movement II for four days and may not become the volume's conscience.**
+- **Boryn Vey, Cael Dorrin and Liora Tarn do not appear in Volume 02.**
+- **Iven Marrow is the volume's problem and not its villain**, and his six years are on the page in his own hand and are answered for in Movement IV, and he is not the villain of anything.
+
+## What Volume 02 must not do
+
+- **It must not answer who shut the sluice, or whose amendment it was.** Those are the same answer and it belongs to a later volume.
+- **It must not turn the name into a command.** The title of the volume is the thesis: a name is a negotiated address. **No chapter from 51 to 100 may show a route behaving better because it has been given a name.**
+- **It must not resolve the split name's method.** The volume shows the mechanism in the open on ordinary paper and does not name the system and does not connect it to Glassstep.
+- **It must not make Iven Marrow a villain, and it must not have him rescued, thanked, or exposed.** His price is unchanged and it is still the price.
+- **It must not cure the drought.** The volume ends a planting window.
+- **It must not tell Mara Quill about the eleven names.**
+- **It must not let a name debt be paid twice.** The Chapter 7 debt does not heal and is not used again; the Volume 2 debt is a professional association and it costs him the crew of four, in the climax, and does not come back.

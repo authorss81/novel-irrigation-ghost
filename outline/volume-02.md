@@ -1,0 +1,157 @@
+# Volume 02: The Dry Names
+
+Chapter range: 51–100
+
+## Central pressure
+
+The **Sallow Reach** has been out of its canal water for six years and the field it is named for is sown in a window that opens on a fixed date, and the Open Channel Guild has never been asked a question about it. Iven Marrow's high gate at the Sallow Head has read dry for six years against a schedule saying its catchment has never failed, and he has held the reading card for the whole of the basin's maintenance record for six years and cannot put a number on that gate. **Two days west, the village of Nether Sallow has been taking water out of a covered line the Guild's own return calls solid, and has been doing it for six years, and nobody in the basin knows.**
+
+This volume answers its own question. The water is real, it is in the Reach, it is carrying, and it can be put into a field on a date that everybody names in advance. What the volume cannot answer is who shut the sluice, whose schedule moved the shoulder line, and why a road post has told a village for six years not to look.
+
+## The volume's title, and what it means on the page
+
+A **route name is a negotiated address, not a magical command.** Tarin arrives believing the second thing and leaves paying for the first. The name he wants to put on the Sallow is refused — out loud, in a room, in daylight, and entered in a notebook in a hand that is not his own — because the word already means two incompatible things to the people who would have to say it. Nothing in this volume is stopped by magic. It is stopped by **custom, a form, a wage, a posted notice with nobody's name on it, and a woman who will not certify a number that would help her own village.**
+
+## Calendar: the window is a date and not a wish
+
+- **The planting window opens on the fifteenth day of next month, which is a Monday** (Day 108), and the first ten days of it are the sowing. **The count is on the Sunday before it, the fourteenth.** After the tenth the ground is too hard and the season's crop is a loss, and a loss in a seventh year is a different kind of loss from a loss in a sixth.
+- **The movement-level spine:** Ch 51–60 cover **Days 80–95** (the eighteenth and nineteenth of this month, through the second of next month). Ch 61–70 cover **Days 96–110** (the third to the seventeenth of next month, which is the count on the fourteenth and the window on the fifteenth). Ch 71–80 cover **Days 111–122**. Ch 81–90 cover **Days 123–132**. Ch 91–100 cover **Days 133–140**.
+- **The weekdays, once:** Day 79 is Sunday the seventeenth of this month and that month has thirty-one days and the first of it was a Friday. So the 18th is a Monday, the 31st is a Sunday, **the first of next month is a Monday, the 14th is a Sunday, and the 15th is a Monday.** A day count is never written as an ordinal. Bare ordinals and *this month* mean the current month and nothing else; the month before is *the month before*.
+- **The ration review is a standing body and it moves.** The lower terrace is on a ration cut by a fifth with a ruled line under it saying the city does not know where a bounded supply came from. That line is the reason the Reach's amendment can be found in the same building: both are in the Assembly's papers, and the blue steps is in them in a ruled margin, and nobody in either place has read the other.
+
+## Starting state
+
+- **Cresset:** temporary water for eleven hours, once, on the fifteenth of last month. Six thousand seven hundred gallons of the same crosscurrent water at the coping of a cistern in a lane that is on no map, and no municipal supply of any kind, and a ration cut by a fifth. A girl of seven at the fourth point and not going down. Yara Sen's requirement is 68 gallons a day and the derivation has stopped. The office has no acting commissioner.
+- **Tarin:** under a stand-down since the tenth of the month before, two live charges never joined and never resolved, a third that is a conversation and has no sheet, no office, no district reference, no money, no crew, a bad shoulder, a hand that will not seat, tea with no taste in it, and a bench book in his coat that a man gave him for nothing. His name is in four buildings. He has no method for finding a witness and every one he has got came to him by accident.
+- **Mara:** a provenance conservator with a district examiner's paper in her file, a marginal note dated a Tuesday in the second month of next year, two certificates against a hand in the commissioner's registry, and an unlogged drawing in her own drawer. **She is not in love with him and this volume does not soften it.**
+- **The gap between them:** they still distrust each other's methods, they are on terms, and neither of them has told the other anything they wanted to hear.
+
+## The physical spine, and every figure is derivable
+
+- **The Kerrow Water** is a tributary off the Thorn Crown foot. **The Sallow Head** works stand on the mountain service road above it: an intake chamber with a **shut sluice** and a gauge plate, a **gate chamber**, a **tank of 6,000 gallons of room** (twenty feet by fifteen feet, two feet eight inches to the coping, and a foot of water is seven and a half gallons in this basin), a **covered embankment line** under the road, the **West Flume** sluice on the west side, and the **North Sallow branch** which carries to a pumping district of nine hundred and forty properties in Cresset.
+- **The Sallow Head tank is full and has been for six years.** Twenty feet by fifteen feet, two feet eight inches to the coping: **three hundred feet of floor, eight hundred feet of water, six thousand gallons of room, and a foot of water is seven and a half gallons in this basin.** A mark cut in the inside of the wall is at two feet six and a quarter inches. **On the evening of the thirtieth the water stood at two feet six and an eighth, and the tank card says that in six years of Sundays, in two men's hands, it has not varied by a quarter of an inch.** A tank that is fed by the Cold Shoulder line, the long mountain line and the only thing in this volume that has never failed, is standing at the same mark with its flume sluice shut. It is not a tank that is being emptied. It is a tank that is being **passed through**, and the surplus leaves through a six-inch waste pipe in the embankment chamber, laid to empty a chamber, silted solid, open on the crown joint, and discharging **850 gallons an hour into the Long Drain.** That is Volume 2's whole machinery, and it is a shut chain, a pipe joint and a lock of gravel.
+- **The head at the Sallow Head is `7·31` metres** in Office notation, spoken *seven point three one*. It is a mountain head and it is nearly a metre and a half greater than Ashgate's, and nobody in the basin has ever put a person in front of it. **Tarin does not measure it in this volume.** Nobody can get a rod in it.
+- **The plate at the Sallow Head is specified three-eighths bore and a half-inch plate is in the ring, and a half-inch plate cannot read dry at any head.** So the plate is above the water. The sediment line came up. **The chamber is silted and nobody has cleaned it since before the flood, and the sluice has been shut for six years and the reason is not in this volume.**
+- **The two records.** The Guild's **Sallow Reach maintenance volume** (Vellum, shelf C, volume 44) and **Perdie Ammid's four field books** (Brant). They are one reach in two documents, they are not copies, neither is a copy of the other, and there is a **split.** In 1902 a clerk copied a heading forward instead of carrying it back and wrote a new name in the column where the old one had been; in 1903 two men each carried half a page and neither saw the other's work. The printed slip is still on a pin in the meeting room at Brant with the old line struck through in ink, and the new line is *2. The Sallow Dyke, from the tank, 2 miles 4 chains, with the flume sluice*, and **two miles four chains is not a correction of four miles two chains: it is a different length and it goes to a different place.** The split's method — a name, an address, a record — is the same method that unlisted Glassstep twenty-six years ago, and **this volume does not name it, does not connect it, and must not.**
+- **The word does the damage, and it is in three languages.** *The Sallow* is a gate with a schedule to the Guild, a wet common that has never been supplied by a gate to the people of Nether Sallow, and a schedulable flume to the men who work in the shed. **Aldis Kerr's version is a third thing again: a drain that ran the other way.**
+- **THE WEEP IS A BREAK AND NOT AN OVERFLOW, and this is the volume's crisis and it is ordinary engineering.** Movement II walks four miles up the Kerrow valley and finds the crown joint **four and a half inches** across, a **second** weep above it, the stone above the first open, and **the bank on the west side of the road soft in a drought.** Eleven years of an unvisited chamber, six years of a shut flume sluice, and a joint that opened. The stone throat is choking the break. **When the throat goes, the rest arrives in one night**, and the only way to stop it then is the flume sluice, which is sealed. **There is no villain in this and there is no conspiracy and no person to catch: the sin is structural, and it is that a route is a chain of people who open, close, inspect and question it, and this one had nobody for eleven years.**
+- **Every water figure in this volume is measured with a pail and a watch or a lath and a watch, twice, and no figure is printed that has not been done twice.** **The stone throat at the embankment: 860 gallons an hour on the twenty-ninth and 833 on the first of next month, and the figure the Reach agrees to print is 850, and the card says in ink that it is not a figure anybody should lean on.** **The Long Drain at the plank: 193 gallons an hour and 191, off six gallons in one minute fifty-two seconds and in one minute fifty-three.** **850 against 190 is four and a half times, and the difference, 660 an hour, has gone into a gravel bed under a lane for six years, and the chapter that shows the gap does not close it and does not pretend to.**
+ The sluice at the flume was shut and chained and never reopened. The crown joint on the six-inch waste pipe began to weep, because the flume was shut and the tank had to put the surplus somewhere. And a road man with a card in a ninety-year-old tin frame nailed a notice to a stake at the culvert: *CLOSED. No water. No entry. Under penalty.* **The notice refers to a gate that was shut a year before the notice was written, names no office and no person, and has been the reason a village's water has been a secret for six years.** Nobody has ever turned it over until Chapter 57.
+
+## Starting relationships
+
+- **Tarin / Mara:** a conditional agreement with five conditions, made on a dispensary step, with distrust intact and unrepaired. They are in the same week in the same region and are not in the same room. **Condition four — neither produces the other's evidence without telling them first — is the condition the volume loads.**
+- **Tarin / Iven Marrow:** the offer is on the table and does not expire. Marrow fills in a Guild recommendation form himself, seals it, and does not present it as a favour, because he does not sell favours. His price is restated word for word and it has not moved. **He is not the villain and he does not become one; he is a master inside a machine who has been unable to raise a question for six years, and the cost of that is on him by Chapter 90.**
+- **Tarin / Wick Venn:** mentor's apprentice, and then two men on the same wage in the same village, and Wick's left hand is now a professional fact in a district of professionals and not a wound in a lane.
+- **Tarin / Niko Venn:** Niko is a man of twenty-three with a tin of pebbles and no trade. He is not a keeper, not a reader, and not thanked. **He is given the one thing nobody in Volume 1 could give him: a job that is a job.**
+- **Mara Quill / the Sallow Reach:** the volume's institutional war is about **custody, not existence.** If the Reach's four field books are entered as a record they go to the counting-house at Vellum, and the Reach loses the only thing it has, and the region's water right dies on a shelf. She is professionally the person who can say that four notebooks are not a record, and she is the only person in the basin who can say it and be believed.
+
+## Starting power level
+
+**Stage 2, Name.** Tarin has opened one narrow branch three times and cannot re-run it. The Chapter 7 name debt is the two-finger press and the taste of his tea and **neither heals in this volume and neither is used a second time.** Volume 2's debt is a different thing: **a lasting professional association** — a crew of four men he had begun to trust, at the climax, and it does not come back. **Bend belongs to the climax of this volume and to no chapter before it.**
+
+## Major locations
+
+- **The Sallow Reach** — orchard country west of Cresset: forty-one small villages, nine hundred acres of apples, wind pumps, and a canal system with more custom in it than schedule.
+- **Nether Sallow** — nineteen households, forty-three persons, two days west of the works, on a lane above the Long Drain.
+- **Brant** — a working village with a shop, a smithy, an assembly room over the shop, and the only bookshop in the Reach.
+- **The mountain service road** and its toll bar; the works; the Guild shed at the foot of the embankment.
+- **The West Flume** and the Reach's canal fields.
+- **The lower Sere channel** and the assembly's papers in Cresset.
+
+## Major factions
+
+- **The Open Channel Guild:** real expertise, held as a private asset. It reads the reach through a volume at Vellum and the Reach reads it through four books at Brant, and the Guild has never once been asked to reconcile them because nobody who is not the Guild has ever been in the room.
+- **Route Assemblies of the Reach:** forty-one of them, small, uneven, competent at the work and unaccustomed to being the authority in a room. **The Brant assembly is the volume's Route Assembly and it is a room over a shop with a publican who insists on being paid.**
+- **The Cresset Water Office:** no acting commissioner, one determination in a book, a registry that cannot answer a letter, and a district of one hundred and twenty-six people in a ruled margin on the same shelf as the amendment that took their water.
+- **The Sallow Reach bookshop at Brant** and the **fifty-year-old printed glossary** in it: a fact, not a faction, and the most useful thing in the volume.
+- **The Basin Assembly:** the paper, the papers, and the four buildings. It can decide a route right and cannot find a route.
+
+## Movement structure
+
+| Movement | Chapters | Days | Pressure type | Core work |
+| --- | --- | --- | --- | --- |
+| I — The Reach Keeps Its Own Book | 51–60 | 80–95 | Rural politics, guild economics, training | The notice, the road, the water, the refusal of a name, the first number |
+| II — The Name Is Not A Command | 61–70 | 96–110 | Institutional, political | The weep hole; six years of a road with no inspection on it; the third book; the seal; the count; and a window that is stopped by a woman standing in a drain with a book she did not show him |
+| III — One Name In Two Records | 71–80 | 111–122 | **Midpoint reversal**, pressure | The water was not lost; it was made blind. The crew. The cost of being believed |
+| IV — The Cost In Two Places | 81–90 | 123–132 | Character, consequence | Cresset and the Reach find each other in one document. What a schedule really costs. Marrow's six years |
+| V — A Measured Service Window | 91–100 | 133–140 | Action, political, climax | Bend for four hours and six minutes; the name tied; the visible reserve lost |
+
+## Midpoint reversal
+
+**A supposedly dry canal contains a substantial, physically present flow, and the water was not lost — it was made blind by splitting one name across two records.**
+
+It is not a conspiracy and it is not a theft. The Reach has never been a party to the allocation, and a party that is not a party is not a party, and the Guild has not diverted anything. **What splits a name is a plate, a schedule entry, a shelf mark and a man who copied a heading forward instead of carrying it back.** The volume shows the mechanism in the open on ordinary paper and does not name the system, does not connect it to Glassstep, and does not say who built it.
+
+## Escalation sequence
+
+### Movement I — The Reach Keeps Its Own Book (Ch 51–60)
+
+Tarin is fetched west by a notice with two boxes filled. He finds the water, is refused a name out loud in a room, measures the same water twice from two ends, and reads a returned notice at a culvert that is six years old and refers to a gate that was shut a year before it was written. **Nothing is opened. Nothing is named. No window is won. The gauge speaks once.**
+
+### Movement II — The Name Is Not A Command (Ch 61–70)
+
+He goes after the works instead of the water and finds that the water is a **break**, and then he goes after the record and finds the amendment **in the Reach's own copy of its own schedule, in a chest at Brant, in a hand nobody in the Reach can read, with a keeper's name struck out six years ago and *supply district 14, North Sallow* written in its place.**
+
+**The count is on the fourteenth and one of its three rods has nothing to measure, because the flume sluice is sealed, and the count is published incomplete and Perdie Ammid says so herself in a yard with four hundred people in it without being asked.** The window opens lawfully on the fifteenth and **is stopped at about an hour and forty minutes by a woman standing in a drain with the third book in her hand**, invoking a clause of the Reach's own schedule of 1902 that forbids any other discharge into the long drain, **and she is right, and he had been in the Reach ten days and had not asked for that book.** That is the volume's argument in one scene: the route needed a witness, he went looking for one, he did not find one, and the witness found him.
+
+Yara Sen comes west for four days because of the fourth line of a letter that was not about evidence, and refuses to certify a figure that would help the Reach, and leaves a girl of seven at the fourth point sixty-one miles east. **The man at the toll bar keeps a book that is not a toll book and has had six years of a road with no inspection on it in it, and will not read it out, and will answer if he is asked.**
+
+### Movement III — One Name In Two Records (Ch 71–80)
+
+**The reversal.** The split name is the mechanism and it is a hundred and fifty years old in method and six years old in this instance. The crew of four begins to trust him for one reason, and says so once. **The crew finds out that he named the route without telling them**, because naming it puts their hands in it, and that is the flaw and it is the volume's turning point, and it is the same mistake he made in Volume 1 with a warrant and a clerk and he knows it.
+
+### Movement IV — The Cost In Two Places (Ch 81–90)
+
+Cresset is found in the Reach's documents and the Reach is found in Cresset's, and the schedule amendment of six years ago is read in a room with a hundred and forty people in it, and **the cost of a service window is priced in gallons a household a day and nobody can be made to accept it.** Marrow answers for six years at the end of Movement IV, in writing, in his own hand, and it is the best thing he says and it costs him.
+
+### Movement V — A Measured Service Window (Ch 91–100)
+
+Tarin reaches **Bend** for one operation of four hours and six minutes, with a crew holding the gates, because 850 gallons an hour is not a thing one man does. **The flume is a six-inch stone launder and it runs about three-quarters of an inch deep at that rate** — 6 in by 3/4 in is four and a half square inches, or a thirty-second of a square foot, and a thirty-second of a square foot at about a foot a second is a thirty-second of a cubic foot a second, and a cubic foot is seven and a half gallons, and that is 861 gallons an hour; **four hours and six minutes is 3,540 gallons.** Nine hundred acres of apple are set in the first ten days of the window and the window prevents one crop failure and does not prevent the Reach's season, because the Reach's own assize puts one fifth of its season at 5,481,000 gallons and the window is three thousand five hundred of it. **His name becomes tied to the route and he cannot walk away from it.** The service window costs Cresset a visible reserve on a public board, the assembly gains a recognised route right, the Guild faces a public inspection, **and the mountain gate stays shut**, and the volume closes on a name in two books and a date and a man who cannot leave.
+
+## Set-piece differentiation
+
+This volume contains two attempts to put a name on water and one refusal, and they must not read as one scene performed three times.
+
+| Chapters | Room | Who is asked to witness | What the room is doing | What the water is asked to do | Who pays, and how | What it does *not* touch |
+| --- | --- | --- | --- | --- | --- | --- |
+| 56 | a room over a shop at Brant, doors open, daylight | nobody — the name is **refused** | a village assembly deciding what it will be called in its own book | nothing; no route is touched | a refusal in Domen Prouse's own hand in Perdie Ammid's notebook, and a date instead of a name | the water, the works, the Guild, Cresset |
+| 60 | two villages, two books, four days | nobody asked; two women who were asked nothing measure the same thing twice | nothing; a number is agreed between strangers who do not trust each other | nothing | four hours of four men's time and a pail and a watch | everything; no window, no name, no gate |
+| 96–99 | the Sallow Head gate chamber, then a sluice on the West Flume at a date named eleven days in advance, with the tank's board read aloud in two cities | four named crew, each asked, and one who is not asked and finds out afterwards | the whole arrangement, priced in gallons a household a day | four hours and six minutes of eight hundred and fifty gallons an hour down a six-inch launder and about three-quarters of an inch of it, into a field | Tarin's name, tied to the route, and the standing of four men who had begun to trust him, which does not come back | the mountain gate, which stays shut |
+
+Two rules keep them apart. **Only Chapters 96–99 open anything at all.** And **only Chapter 56 is a refusal that stops the volume**, and it stops it in a room where nothing is at stake physically, which is the whole of the volume's argument about power.
+
+## Volume climax
+
+Chapters 96–99. On a date named eleven days in advance, with four named men at the flume sluice and a level staff on the tank and a board in Cresset that a hundred people can read, Tarin takes the water that has been going over a waste pipe for six years and puts it down a flume for four hours and six minutes. **The flume is a six-inch stone launder. Six inches by three-quarters of an inch is four and a half square inches, which is a thirty-second of a square foot, and a thirty-second of a square foot at about a foot a second is a thirty-second of a cubic foot a second, and a cubic foot is seven and a half gallons, and that is eight hundred and sixty-one gallons an hour; four hours and six minutes is 3,540 gallons.** A field that has been dry for six years is sown at eleven o'clock at night by people who are not asleep, and 3,540 gallons is one part in fifteen hundred of what the Reach's own assize says it wants, and the chapter says that out loud. The North Sallow branch's cisterns fill more slowly for a day and a half and **the drop is on a public board in two cities, and Tarin cannot measure what it costs nine hundred and forty households and does not pretend to.** The standing of the crew of four goes on the page and does not come back. The name stays in two books, in two hands, in two places, and neither of them is a record of a route, and both of them are his.
+
+## Concrete resolution
+
+- **The Brant route assembly gains a recognised route right**, entered on a schedule that says, in the Guild's own form, *two named records, and the right of the assembly to hold a copy of each, and neither to be amended by any other office without the assembly present.* **It is the first document in the basin that names two records for one route and it is not the counter-map and it is not a solution.**
+- **The Open Channel Guild faces a public inspection** of the counting-house at Vellum, ordered on a requisition that Oriel Fenn enters and reads back, on the grounds that a reach has been read for six years out of one shelf and no other office in the basin has been inside the building.
+- **The immediate water crisis is solved and the mountain gate remains politically closed.** The Sallow Head sluice is still shut. The plate is still in the ring and is still a half-inch plate and nobody has cleaned the chamber.
+- **The card at the culvert is recut and printed at Culm and carries the two trials and the middle figure and the words *not a figure anybody should lean on*, and the village's own taken-figure of thirty-eight gallons an hour is struck off it by the woman who wrote it, in front of nine people, on a record-office woman's advice that is correct.** The printer of Culm prints it and does not print a figure he cannot swear to. That is the volume's smallest and truest ending beat and it must not be cut.
+- **The weep hole four miles up the Kerrow valley, above the lime kiln, on the same main, with a year on it, is not visited in this volume.** Margit Saye states on the page that it is the clock and that she is not going, and that she is saying it in a yard so that it cannot later sound like a thing she decided not to do.
+- **Tarin reaches Bend for one operation and is tied to the route.** He cannot abandon the route while it remains open. **The crew of four is gone by Chapter 100 and the reason is on the page and it is not treachery.**
+- **The Chapter 7 name debt does not heal. The two-finger press and the taste of his tea stay gone for the whole volume. The Volume 2 debt is a lasting professional association, not a second lost hand technique.**
+
+## Rules this volume must not break
+
+- **Tarin never creates water.** Every gallon in this volume is already in the tank, the drain, the channel or the river, and every figure is checkable on the page.
+- **Nothing is opened, named, moved or shut in Chapters 51–70.** Chapters 96–99 open one thing. The Mid-Movement II attempt opens nothing and fails on a document.
+- **At most one Gauge panel in Movement I, in Chapter 57, and none anywhere else in Movement I.** The series has spent three: a room and a rope in Chapter 5, a weight and a rope in Chapter 10, a wall with a street going on behind it in Chapter 24. **Volume 2's fourth statement is about two names and one channel and it is a condition and not an answer.**
+- **The collective ghost is not used as a sound, a pressure or an image anywhere in this volume.** It is spent. If it appears it appears as something a person remembers and it does no work.
+- **Iven Marrow is the second rung of an existing ladder and not a villain.** He gains nothing, he is not caught out, he does not use magic, he does not know the name of anything, and he is not in the room when anything is decided against him.
+- **No character is compelled to forget. The Volume 2 name debt is a professional association and it is not a memory.** The two-finger press and the taste of the tea are not paid again and do not come back.
+- **The drought is not cured.** The volume ends a planting window, not the drought. Cresset is wetter by four days in a hundred and forty and drier by one board.
+- **The split name's method is the same as Glassstep's and the volume does not name it, connect it, or explain it.** Who shut the sluice, whose amendment took the shoulder line, and why a post has said *no water* for six years about a line that has been carrying for six years are Volume 3 and later business.
+- **Boryn Vey, Cael Dorrin and Liora Tarn do not appear in this volume.** Yara Sen and Oriel Fenn may.
+- **Mara Quill is not told about the eleven names.** That is a Volume 3 thread and Volume 2 is not the place.
+
+## New question for the next volume
+
+**The water that came out of the Sallow Head tank went down the West Flume and the Flume is on the lower Sere, and there is a district on the far bank whose return has said *no inhabitants* for nineteen years and whose ground is four feet under at the mouth of the Flume.** The freed water is flooding a place that official records say has nobody in it, and the reading of the Flume in a channel that everybody can see is not a document problem. It is a person problem, and Volume 3 is a Fair Copy problem.
+
+## Final chapter image
+
+At dusk on the day after the window, a man of thirty-four is standing in a field of turned earth at Nether Sallow with a six-gallon pail and a watch and a roll of tarred twine, filling a butt at the plank, because a man is going to do that every evening now and there is a day when somebody has to say his name, and the twine is on the pail's handle and the twine is where the notice was, and the notice's date is the fifteenth, and it is the fifteenth.

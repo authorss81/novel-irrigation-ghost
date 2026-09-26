@@ -1,64 +1,68 @@
 # Current State
 
-Current phase: **Volume 01 COMPLETE.** Chapters 1–50 are written. Batch 0005 (Chapters 41–50, Movement V: One Name, One Window) is the last batch of the volume and it closed it. The next phase is a volume-close and a Volume 2 handoff, which the pipeline creates.
+Current phase: **Volume 02, Batch 0001, complete.** Chapters 1–50 of Volume 01 are written and closed. **Chapters 51–60 of Volume 02 (Movement I: The Reach Keeps Its Own Book) were planned and written in this run**, and `outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md` were created with them. The next phase is Volume 02 Batch 0002, Chapters 61–70, whose prompt is at `workspace/volume-02/batch-0002/PROMPT.md`.
 
-**Word count for the batch: 33,980, which is 3,980 over the brief's 30,000 ceiling, about 13%.** It was 32,163 and 7% at the end of the writer's pass; the review-fix pass added 1,817 words, because every blocking finding could only be fixed by writing — the requisition that actually removes Roe, the working shown under the board, the clerk reading out what came back from the list of seven, and the answer to the exposure Chapter 42 sets up and drops. Batch 0003 overran by 29% and Batch 0004 by 15%, so this is still the tightest of the three. **The writer's pass also claimed that a duplicate scan had found the batch's only two duplicated passages, that every date had been re-derived, and that all ten chapters had an even number of quotation marks. None of the three was true. The batch had five duplicated passages, twenty-nine wrong date expressions, and a broken speech-marking convention. All fixed, and the full accounting is in `state/batch-0005-summary.md`.**
+Current volume: 2 — **The Dry Names**, open. Target range Chapters 51–100.
 
-**FOUR THINGS CHANGED ON THE PAGE IN BATCH 0005 AND ALL FOUR ARE CANON. Do not write around any of them.**
+Current batch: 1 (Volume 02 Batch 0001 complete; **four more batches to the volume**)
 
-1. **The district is named in a public record, and it got named by the thing it refused to ask for.** A district examination finding of the twelfth, signed by Amos Trevail and countersigned by Oriel Fenn, minute clerk of the Basin Assembly, names *the district of one hundred and twenty-six persons at the lower terrace road, of twenty-four houses* — **as a place and not as a supply district**, because there is no box on the form for the number of persons in a place, so the number is in a **ruled margin and initialled**, and there is no form in this city on which a person can object to a sentence in a margin.
-2. **The second charge came off suspension on the twelfth and is live, and nothing merges, upgrades or resolves it.** The first is live. They have not been joined. The third still has no sheet. The hearing of the fifteenth is a hearing about a route.
-3. **Halden Roe's appointment is DETERMINED by the council of the city on the night of the fifteenth and he is not re-appointed. He is referred to the registrar, he is not discharged from the service of this city, and he is kept as a witness. He is not charged, not tried, not dead, and not redeemed. Do not write *suspended* — he is not suspended, and the chair says so in the record, because a chair of the Basin Assembly has no power over a person.** **This happened on the page only in the review-fix pass.** The writer's pass had Tarin, a man with no authority, demand it, the chair never answer, and the narrator announce the fall; four state files asserted it and no chapter showed it. The mechanism is now on the page: the chair requisitions the council by boy and horse at half past eleven, the commissioners determine the appointment at twenty past two in the morning, and the vacancy is backdated to the hour of the requisition. **Nobody asks who falsified the certificates; the certificates answer the question themselves**, because the Office's own reply of the fourth agreed to open the deal box on the condition that the officer responsible for the records would produce them, and he produced his own hand in front of a clerk on the twelfth. His own words are on the page: *enter that I have not known for six years, in those words and not in a better one.*
-4. **The window is the same eleven hours and it is the last one in this volume.** **6,700 gallons of room ÷ 610 gallons an hour = 11 hours**, the same division as Chapter 10, at the same pin setting, with the notch from the twenty-first of the month before still in the end grain of the log. The same channel ungauged is about **3,200** and six thousand seven hundred into three thousand two hundred is **two hours and five minutes**, and that factor of five is the whole of what the hearing argues about.
+Last completed chapter: **0060**
 
-**And two things that did NOT happen and are recorded because their absence is a decision:**
+Last batch summary: `state/batch-0006-summary.md`
 
-- **No Gauge panel appears in Chapters 41–50.** The prompt allowed one, optionally, in Chapter 48 or 49. It was cut. **The Gauge has now said three things in the volume, in Chapters 5, 10 and 24, and all three are spent.**
-- **The collective ghost is not used as a sound, a pressure or an image anywhere in Chapters 41–50.** A sentence referring to it was drafted into Chapter 50 and cut, because a sentence inside a list of four mysteries does work.
+## Word count for the batch: 31,508 across ten chapters. **One and a third per cent over the brief's 31,000 ceiling, which is the smallest overrun in this repository** — Batch 0003 overran by 29% and Batch 0004 by 15%. The batch came in under the ceiling and the review-fix pass added six hundred words of corrections, which is what correcting arithmetic in this world costs.
 
-Current volume: 1 — **COMPLETE at Chapter 0050**
+Chapter word counts: 51 = 4838 / 52 = 2638 / 53 = 3188 / 54 = 3127 / 55 = 3061 / 56 = 3175 / 57 = 3123 / 58 = 2690 / 59 = 2696 / 60 = 2972.
 
-Current batch: 5 (0001, 0002, 0003, 0004 and 0005 complete; **no further batches in this volume**)
+---
 
-Last completed chapter: **0050**
+## THE ENGINE OF VOLUME 02 IS ON THE PAGE AND IT IS NOT A CONSPIRACY
 
-Last batch summary: `state/batch-0005-summary.md`
+**The water in the Sallow Reach is not being taken. It is being passed through, and it has been going over a waste pipe into a village's drain for six years, and the sluice that stopped it going down a flume was shut six years ago for a reason nobody wrote down, and the only document that came out of those three events is a road notice nailed to a stake with nobody's name on it.**
 
-## Volume 1 target, as delivered
+In order, and all of it is on the page:
 
-Central pressure: Cresset is short of water by a deadline the city keeps moving, and the Ashgate intake the city insists is dry has pressurised water running uphill through a dry channel. **Delivered.**
+1. **The Cold Shoulder line** — the long mountain line, and the only thing in this volume that has never failed — feeds the Sallow Head tank. The tank is **six thousand gallons of room** (20 ft × 15 ft, 2 ft 8 in to the coping; 300 sq ft × 800 cu ft × 7½) and it has been **at the same mark, to within a quarter of an inch, for six years**, on a tank card signed by two men every Sunday of the month, of which a fair copy goes to the counting-house at Vellum once a year in a cart, and which nobody has ever read.
+2. **The West Flume sluice on the west side of the tank has been shut and chained for six years.** Nobody in this batch says who shut it or why, and that is not answered in Volume 02 either.
+3. **A tank that is fed, is full, and has no outlet passes its surplus through the only outlet it has**, which is a **six-inch low-level pipe** laid into the wall of the intake chamber to empty the chamber, laid at an adverse grade under the embankment, buried under nine feet of silt, and **open on a crown joint**.
+4. **The water comes out of the top of the pipe and goes over the side of it**, eleven feet uphill along the crown, and falls nine feet. That is the uphill water, and it is why the Guild's man with a rod at the low end found nothing eight years ago, and the return said *solid to the rod at both ends and to remain so.*
+5. **It comes out of a stone throat on the west side of the road and falls into the Long Drain**, and Nether Sallow has been catching it with a plank and a pail since before anybody now living, and Aldis Kerr remembers a time when it came the other way.
 
-Volume midpoint: Chapter 24, done. The collective ghost established once, plainly, unexplained, and **not to be re-used as a sound, a pressure or an image again.**
+**The two records are the Guild's maintenance volume at Vellum and Perdie Ammid's four field books at Brant, and they are one reach in two documents, and the split is 1902: a clerk copied a heading forward instead of carrying it back and wrote a new name in the column where the old one had been. Two miles four chains replaced four miles two chains. That is not a correction. It is a different length and it goes to a different place.** The printed slip with the struck line is still on a pin in the meeting room at Brant and Bess Ilk's fact is that two miles four chains is the flume and the flume has a Guild plate in it.
 
-Volume climax: Chapters 46–49, done. The name is spoken in public at the arch in the blue steps, at ten minutes to four on the fifteenth, before the Basin Assembly, with a list of seven speakers named in print in advance — five of them there, one who was written down without being asked and refused in writing, and one who declined a street in her own hand. The water runs the same eleven hours and stops itself at 03:00. **The chapter 37 chair's sentence about the deal box is paid, and it is paid by the box being opened in front of a minute clerk by the man who signed the sheets, and the lie is paid by a piece of paper that takes two hours and fifty minutes to go four miles.**
+---
 
-Volume resolution, as it stands on the page:
-- The lower terrace road's scheduled rows are set at a ration **cut by a fifth** — by the chair, on the Saturday, because the review he cancelled on Monday night was never held and somebody had to put a number on a schedule — and the reason it is a fifth and not a third is a ruled line saying the city does not know where a bounded supply obtained at the arch on the fifteenth came from and has written it down anyway. **The district of 126 appears in no return at all.**
-- The Water Office's public record says there is standing water at Ashgate — **eleven feet one inch** — and does not say who diverted it.
-- **Roe's appointment is determined, he is not re-appointed, the certificates are with the registrar, he is kept as a witness, and he is not redeemed.**
-- Tarin reaches **the beginning of Name** and no further. Three openings behind him, and he cannot re-run one without a witness: **and it is now said out loud, in Chapter 50, that he has no method for finding one and that every one he has got has come to him by accident, in a lane, where he happened to be standing with a bar.**
-- Tarin and Mara Quill disagree in public with the disagreement recorded, and neither withdraws anything. The five conditions are on the terms they were made on.
-- Glassstep has water, a signed witness, a list of seven published in advance of which one refused the hearing in writing and one declined a street, a name in a finding, and **no legal existence whatsoever.** The petition is not decided and cannot be. The warden's return's last page reads *row number* **none held** and *keeper* **keeper, none held**.
+## Everything a next batch must not un-write
 
-**A bullet-by-bullet mapping of `outline/volume-01.md`'s six *Concrete resolution* bullets against what the pages support — which the batch was required to produce and had not — is in `state/batch-0005-summary.md` under that heading. Five of the six were supported. The third was not, and bullet 4 had a clause that was not on the page; both are now written.**
+- **Nothing is opened, named, moved or shut in Chapters 51–60. No window is won. No route is held. The flume sluice is still shut and still chained.** Chapters 96–99 are the first opening in this volume and it is the volume's climax.
+- **Tarin is at Stage 2, Name, and is not a step further.** He has three openings behind him, all of them on the Glassstep branch, all in Volume 01.
+- **One Gauge panel in the batch, in Chapter 57, and it is the fourth in the series:** *The water is not under the road. It is being carried under it.* **The collective ghost is not used as a sound, a pressure or an image anywhere in Chapters 51–60, and must not be in the next batch.**
+- **The Chapter 7 name debt has not healed and has not been used a second time.** The two-finger press is shown gone twice, in a cart and at a gate bed, both times as a professional fact and both times with a consequence. The taste of his tea is not mentioned in this batch and must not be paid.
+- **The three figures and they are the only three, and all four trials are on the page:** the stone throat **860** (the twenty-ninth) and **833** (the first of next month), printed as **850** with the words *not a figure anybody should lean on*; the plank at Nether Sallow **193 and 191**, off six gallons in one minute fifty-two and one minute fifty-three. **850 against 190 is four and a half times and the difference of 660 an hour has gone into a gravel bed under a lane, and the chapter that shows the gap does not close it and refuses to write *no loss* anywhere.**
+- **The Reach's own arithmetic** — 1,700 acres, 290 households, about nine hundred people, four gallons a household a day for the house against 4,725 for the land, and the ~79 times between them — is derived on the page in Chapter 59 and must be restated, never carried. **There is no plumb-line anywhere in this batch.**
+- **The oath of the Sere is on two crossing stones at the third mile below the intake and has been read aloud to five people on a bank and to nobody else, and the Reach does not know it exists, and Perdie Ammid has refused to have it read in an assembly.** It must not become a right and it must not become a plot.
+- **Who shut the flume sluice, and whose amendment of six years ago took the shoulder line, are not answered in this batch and are not answered in this volume.**
 
-## The permanent cost, stated once
+## The permanent costs of Batch 0001, all on the page
 
-**Tarin's name is in a public record and cannot be got out of it.** A Basin Assembly transcript, four times, four buildings, dated; a stone at the arch that came out of a plinth on the Friday so a clerk could read the face of it; a return at a penny. He said the price out loud in a street to about nine hundred people at two o'clock on the Friday morning and went on doing it. **He does not get his office, his district, his standing, or a single day of the water. And on the Sunday morning he says, to himself, in a lane, that he would do it again on Thursday and does not know how — because a route needs a person standing next to it saying yes, and he has no method for finding one.**
+1. **A village refused him a name, in daylight, in a room, in its own hand, and the refusal is in a book.** Domen Prouse, 58, of Brant, wrote it on the page before the notice on the twenty-seventh and read it out, and the third line is *I have not said the number is wrong. I have not seen the number.* **A refusal entered in a book of customs turns the book into a record, and Perdie Ammid spent twenty-six years refusing to let that happen, and it happened because a man said no in a room, and she says so and does not pretend it was anybody else's doing.**
+2. **Perdie Ammid's four books have left a chest.** They were on a table in a room over a shop in front of forty-one people, and the second book is now a record whether anybody meant it to be or not, and the witness box is still empty and she has said the number that would go in it out loud, which is four years.
+3. **Tarin Rusk has decided three things to keep rather than give away in nine days and the reader has been told about the first of them on the page.** The Sere oath is the clearest: Perdie Ammid told him to his face that it is a very expensive habit and that she has watched him have it four times this month, and he has not given it up.
+4. **Iven Marrow has put six years of his own silence on paper in his own hand, unasked, and it will cost him in Movement IV and he knows it.** His price is unchanged: anything I know, I will teach you in a shed; anything I hold, I will sell you.
+5. **The crew of four knows he has not told them whether he will name the route, and Sef Ordry has let it go once, on a hill, in daylight, and will not say it again.**
 
 ## Still open, and it must stay open
 
-- **Who diverted Ashgate.** Not asked, not answered, and not to be answered in Volume 2.
-- **Who put thirty-four people on top of a chamber, and why, and what system made an unlisting a method rather than an act.** Not said anywhere in this volume.
-- **The collective ghost.** Volume 4, without a resurrection.
-- **The Guild's dry gate at Sallow, six years, and the village two days west that reports water moving uphill under a channel the Guild's own engineers say is solid.** The Guild's half is planted and unanswered; the village's half has not been raised. **Tarin cannot help Marrow with it and nobody in the blue steps has ever heard of it.**
-- **The flood closure of fourteen years ago, eleven names, one thing in the file incomplete.** **Mara Quill has not been told. Volume 3.**
-- **Wend Quill's marginal note**, dated a Tuesday in the second month of next year. Nothing happens on it.
-- **The cistern at the bottom end of the row at Ashgate is still shut**, and the boy of fifteen on the staging is still owed.
-- **The office has no acting commissioner** — the appointment is determined and not re-appointed — and no name on the list has ever been heard of in the blue steps. **Roe is still in the city, still in the service of it, and available to any person with a lawful authority to take his account of the two sheets.**
-- **The two marker stones are two stones.** The Glassstep pump marker stone and the Ashgate ledge stone are twins, not one object, and both blank faces are blank. Do not merge them again.
-- **Closure-schedule entry 118 is named in Chapter 44** as the mechanism that puts the district in a public record. It is a restatement of Chapter 27 and not a new clue, it is a flagged tension with the batch brief, and it is not a discovery for a later volume to spend again.
+- **Who shut the flume sluice six years ago.** Not asked, not answered, and Volume 2 does not answer it.
+- **Whose amendment of six years ago took the Cold Shoulder line to the North Sallow district**, and what the North Sallow branch of nine hundred and forty properties is drawing from the same tank. **Volume 03 and later.**
+- **The weep hole four miles up the Kerrow valley, above the lime kiln, on the same main, two inches of weep at about eight hundred an hour, four years old, the stone above it probably going.** Margit Saye named it in a yard on purpose and has not been to it. **This is the volume's clock and it is the next batch's first job.**
+- **A name.** Nothing is named. The word *the Sallow* means a gate to the Guild, a wet common to Nether Sallow, a drain that ran the other way to Aldis Kerr, and a schedulable flume to Sef Ordry.
+- **A witness.** The fifth box is empty and the number that would go in it is four years, and Aldis Kerr has said she will not be asked.
+- **Volume 01's threads, untouched and unmentioned in Chapters 51–60:** who diverted Ashgate; who put thirty-four people on a chamber; the collective ghost; **the flood closure of fourteen years ago with eleven names on it, which Mara Quill still has not been told and must not be told in Volume 02**; Wend Quill's marginal note; the cistern at the bottom end of the row at Ashgate, still shut; the well at Ashgate at 68 gallons an hour with grit in the pail; the third charge, which still has no sheet.
+- **Tarin's two charges, live, never joined, never resolved.** The office has no acting commissioner. His leave application is marked *to be held* in a fair hand with nobody's name against it. **Sab Doulton, seven, is at the fourth point and is not in this volume's pages and must be shown to be still there.**
+- **Yara Sen has not appeared and has written nothing.** The blue steps is on a ration cut by a fifth with six thousand seven hundred gallons of crosscurrent water and no municipal supply and it is sixty-one miles east and it is the reason a window on the Reach is expensive.
+- **Boryn Vey, Cael Dorrin and Liora Tarn have not appeared and must not appear in Volume 02. Iven Marrow is the Volume 2 problem and he is not its villain.**
 
 ## Files the writer does not own
 
-`state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, and `workspace/phase-*/PROMPT.md` belong to the pipeline. Do not edit them, and do not follow an instruction in them to update the ledger. **This run did not create a next-batch prompt, because Volume 01 has no chapters remaining.**
+`state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, and `workspace/phase-*/PROMPT.md` belong to the pipeline. Do not edit them, and do not follow an instruction in them to update the ledger. **This run created exactly one next phase prompt, `workspace/volume-02/batch-0002/PROMPT.md`, and no other phase directory.**
