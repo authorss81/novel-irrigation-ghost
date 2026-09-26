@@ -100,6 +100,6 @@ And then, at about ten past one in the afternoon, Sef Ordry did the thing he sai
 
 Nobody in the room said anything about the flume, and about eleven people in that room had known about item one since the fifteenth of the month before and had not put the two facts together, and it was a man of thirty-one with a bar who put them together out loud in about nine words and then sat down again, and it is in the book.
 
-On the Monday morning the eleventh day of next month a line went into the column headed *days lost, and by whom, and to what*, in Perdie Ammid's hand, and it is the fourth line and it is the only one that has ever been a man giving away a day on purpose.
+On the Sunday morning the eleventh day of next month a line went into the column headed *days lost, and by whom, and to what*, in Perdie Ammid's hand, and it is the fourth line and it is the only one that has ever been a man giving away a day on purpose.
 
 > *The tenth day of the month following. One day, given by S. Ordry, sluicewright, of Bexhill, of no district, from the getting in of eleven acres of beans in the lower field, on account of a window of four hours and six minutes on a day not yet named, which was told to twenty-six people in a room on the Saturday before it was done and not after.*
