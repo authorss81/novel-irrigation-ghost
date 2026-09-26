@@ -44,7 +44,7 @@ Wick Venn priced the last two lines in a yard at about four o'clock on the Frida
 
 "The sixth line is the window and it is five and a half days of four men, and the seventh is the day after and it is a day and a half, and I have priced the barrow and the two-mile walk twice and I have priced a man of nineteen sitting on a stone in the dark from midnight until half past two, and I have priced eleven people in a field from about ten at night until about six this morning, which is a day each and nobody has offered to pay for it and nobody is going to.
 
-"**Four and a half, five and a half, four and a half, one, twelve, five and a half, a day and a half. That is thirty-six and a half days.** And I have written it on a sheet, because the column is in a cart, and there is a number due at the foot of that column in about a year, and that number is in a cart too, and in about a year somebody in a counting-house at Vellum is going to look at a column with seven lines in it and nothing at the foot of it, and I have been thinking about that since about half past four this morning on a bank in the dark and I would like somebody else to have to think about it as well."
+"**Four and a half, five and a half, four and a half, one, twelve, five and a half, a day and a half. That is thirty-four and a half days.** And I have written it on a sheet, because the column is in a cart, and there is a number due at the foot of that column in about a year, and that number is in a cart too, and in about a year somebody in a counting-house at Vellum is going to look at a column with seven lines in it and nothing at the foot of it, and I have been thinking about that since about half past four this morning on a bank in the dark and I would like somebody else to have to think about it as well."
 
 ---
 
@@ -84,8 +84,8 @@ A man is going to do that every evening now. That is what the butt is for, and i
 
 There is a day when somebody has to say his name.
 
-Tonight nobody had to. Tonight there was a butt and a six-gallon pail and a roll of tarred twine and a man standing in turned earth at the top of a lane above a drain, and the light going off the top of the hill behind the lane the way it had gone off it on an evening in the middle of this month when nineteen households came down to look at something they had not been told about, and the twine is where the notice was, and the notice's date is the fifteenth.
+Tonight nobody had to. Tonight there was a butt and a six-gallon pail and a roll of tarred twine and a man standing in turned earth at the top of a lane above a drain, and the light going off the top of the hill behind the lane the way it had gone off it on an evening in the middle of this month when nineteen households came down to look at something they had not been told about, and the twine is where the notice was, and the notice is dated the fifteenth, and it was nailed over a plank with a pail under the notch of it for six years, and the pail was not full and not empty, and the water came up out of the notch the whole while.
 
-**And it is the fifteenth.**
+**And it is the twenty-third, and the fifteenth was a day like this one, and there is no rod on the card at the culvert for a butt in a field, and there is going to be a fifth rod on that card and it is not this.**
 
 He could not leave. There is a butt to fill every evening at about six o'clock until the ground gives a crop or the winter does, and a roll of tarred twine on the handle of a pail that is not lent, and his name in two books in two hands in two places four hundred yards apart, and neither of them is a record of a route, and there is no form in this basin in which a man may say that he is going somewhere he is not going.
